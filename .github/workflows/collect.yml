@@ -1,9 +1,11 @@
-name: Collect approved public sources
+name: Collect and process approved public sources
 on:
   workflow_dispatch:
   push:
     paths:
       - 'scripts/collect.py'
+      - 'scripts/process.py'
+      - 'scripts/adapters.py'
       - 'sources.json'
       - '.github/workflows/collect.yml'
 permissions:
@@ -14,7 +16,7 @@ concurrency:
 jobs:
   collect:
     runs-on: ubuntu-latest
-    timeout-minutes: 25
+    timeout-minutes: 35
     steps:
       - uses: actions/checkout@v4
         with:
@@ -22,17 +24,37 @@ jobs:
       - uses: actions/setup-python@v5
         with:
           python-version: '3.12'
-      - name: Validate collector syntax
-        run: python -m py_compile scripts/collect.py
+      - name: Validate scripts
+        run: python -m py_compile scripts/collect.py scripts/adapters.py scripts/process.py
+      - name: Install free local PDF and OCR executables
+        run: |
+          sudo apt-get update -qq
+          sudo apt-get install -y --no-install-recommends poppler-utils tesseract-ocr tesseract-ocr-eng
       - name: Resume bounded collection
+        id: collection
+        continue-on-error: true
         run: python scripts/collect.py
-      - name: Publish source objects and measured coverage
+      - name: Extract bounded PDF pages and propose partitions
+        id: processing
+        continue-on-error: true
+        run: python scripts/process.py
+      - name: Preserve completed outputs and checkpoints
+        if: always() && !cancelled()
         run: |
           git config user.name 'github-actions[bot]'
           git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
-          git add objects/ state.json ledger.jsonl status.json
-          if [ -d text ]; then git add text/; fi
+          for p in objects text derived proposals state.json ledger.jsonl status.json derived-status.json; do
+            if [ -e "$p" ]; then git add -- "$p"; fi
+          done
           if ! git diff --cached --quiet; then
-            git commit -m "archive: preserve public sources and collection checkpoint"
+            git commit -m "archive: preserve sources, page text and measured coverage"
             git push origin HEAD:main
           fi
+      - name: Report unsuccessful stages
+        if: always() && !cancelled()
+        env:
+          COLLECTION_OUTCOME: ${{ steps.collection.outcome }}
+          PROCESSING_OUTCOME: ${{ steps.processing.outcome }}
+        run: |
+          test "$COLLECTION_OUTCOME" = success
+          test "$PROCESSING_OUTCOME" = success
