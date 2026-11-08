@@ -1,0 +1,13 @@
+{
+  "schema": "cheyenne-laramie-sources-v1",
+  "inventory_complete": false,
+  "allowed_hosts": ["www.cheyennecity.org", "www.laramiecountywy.gov"],
+  "seeds": [
+    "https://www.cheyennecity.org/Your-Government/City-Council/Minutes-and-Agendas",
+    "https://www.cheyennecity.org/Your-Government/Departments/City-Treasurer/City-Treasurer-Resources-Documents-Forms",
+    "https://www.laramiecountywy.gov/County-Government/Elected-Officials/County-Clerk/Clerk-to-the-Board-of-County-Commissioners",
+    "https://www.laramiecountywy.gov/County-Government/Elected-Officials/County-Clerk/Finance",
+    "https://www.laramiecountywy.gov/Resident-Services/GISMaps"
+  ],
+  "pending_adapters": ["workbook reconciliation", "ArcaSearch", "Legistar", "GIS feature exports", "procurement portals", "planning portals", "media", "OCR", "cross-repository partition publication"]
+}
