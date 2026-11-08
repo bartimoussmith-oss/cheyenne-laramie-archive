@@ -1,0 +1,58 @@
+name: Collect scoped county vendor records
+on:
+  workflow_dispatch:
+  push:
+    paths:
+      - 'scripts/external.py'
+      - 'external-sources.json'
+      - '.github/workflows/external.yml'
+permissions:
+  contents: write
+concurrency:
+  group: public-archive-collector
+  cancel-in-progress: false
+jobs:
+  external:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Validate scripts
+        run: python -m py_compile scripts/external.py scripts/adapters.py scripts/process.py
+      - name: Install free PDF and OCR tools
+        run: |
+          sudo apt-get update -qq
+          sudo apt-get install -y --no-install-recommends poppler-utils tesseract-ocr tesseract-ocr-eng
+      - name: Resume scoped vendor collection
+        id: external
+        continue-on-error: true
+        run: python scripts/external.py
+      - name: Process preserved PDFs and propose partitions
+        id: processing
+        continue-on-error: true
+        run: python scripts/process.py
+      - name: Preserve completed outputs
+        if: always() && !cancelled()
+        run: |
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          for p in objects text derived proposals ledger.jsonl external-state.json external-status.json derived-status.json; do
+            if [ -e "$p" ]; then git add -- "$p"; fi
+          done
+          if ! git diff --cached --quiet; then
+            git commit -m "archive: preserve scoped county sources and processing checkpoint"
+            git push origin HEAD:main
+          fi
+      - name: Report unsuccessful stages
+        if: always() && !cancelled()
+        env:
+          EXTERNAL_OUTCOME: ${{ steps.external.outcome }}
+          PROCESSING_OUTCOME: ${{ steps.processing.outcome }}
+        run: |
+          test "$EXTERNAL_OUTCOME" = success
+          test "$PROCESSING_OUTCOME" = success

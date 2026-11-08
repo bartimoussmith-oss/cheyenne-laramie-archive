@@ -1,0 +1,18 @@
+{
+  "schema": "scoped-external-sources-v1",
+  "approved_for_copy": true,
+  "rights_basis": "User-directed preservation of intentionally public county meeting records and service metadata; not a claim of blanket vendor or GIS-data licensing. No authenticated records, access-control bypass or unrelated collections.",
+  "allowed_hosts": ["laramiecounty.legistar.com", "gov.arcasearch.com", "www.laramiecountywy.gov", "maps.laramiecounty.com"],
+  "scopes": [
+    {"host": "laramiecounty.legistar.com", "path_prefix": "/"},
+    {"host": "gov.arcasearch.com", "path_prefix": "/uswylrc/"},
+    {"host": "www.laramiecountywy.gov", "exact_urls": ["https://www.laramiecountywy.gov/files/assets/public/v/1/commissioners/documents/arcasearch-guide.pdf"]},
+    {"host": "maps.laramiecounty.com", "exact_urls": ["https://maps.laramiecounty.com/arcgis/rest/services/CountyBaseMap/MapServer?f=pjson"]}
+  ],
+  "seeds": [
+    "https://laramiecounty.legistar.com/Calendar.aspx",
+    "https://gov.arcasearch.com/uswylrc/",
+    "https://www.laramiecountywy.gov/files/assets/public/v/1/commissioners/documents/arcasearch-guide.pdf",
+    "https://maps.laramiecounty.com/arcgis/rest/services/CountyBaseMap/MapServer?f=pjson"
+  ]
+}
