@@ -1,0 +1,8 @@
+{
+  "source_sha256": "2f4963bd7945805c8abc49b463d3aa1d515515658d04e2226bbf5c0a34fc7f60",
+  "source_url": "https://www.cheyennecity.org/files/sharedassets/public/v/1/your-government/city-council/wscow-2024/committee-of-the-whole-presentation.pdf",
+  "page": 23,
+  "method": "tesseract",
+  "quality_verified": false,
+  "text": "City-Wide Hard Surface Area by Parcel\n\n* Utilized high-\nresolution imagery.\n\n* Al based algorithm\napplied to identify\nhard surfaces.\n\n* Classification\naccuracy was\nanalyzed using 1500\nrandom parcels.\n\n* 97% accuracy for\nhard surface area.\n\n"
+}

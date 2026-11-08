@@ -1,0 +1,872 @@
+<!DOCTYPE html>
+<!--[if lt IE 7]>      <html class="no-js lt-ie9 lt-ie8 lt-ie7" lang="en"> <![endif]-->
+<!--[if IE 7]>         <html class="no-js lt-ie9 lt-ie8" lang="en"> <![endif]-->
+<!--[if IE 8]>         <html class="no-js lt-ie9" lang="en"> <![endif]-->
+<!--[if gt IE 8]><!-->
+<html class="no-js" lang="en-US">
+<!--<![endif]-->
+<head>
+	<!-- Published by OpenCities, 1.38.0.1 -->
+
+    
+        
+    
+    
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+    <meta name="theme-color" content="#1B75BC"/>
+    <title>Non-Discrimination and Title VI Program – City of Cheyenne</title>
+	<meta name="generator" content="OpenCities - https://granicus.com/product/opencities" />
+
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <!-- Using mobile-web-app-capable for now to enable full-screen experience on supported platforms -->
+    <!-- Note: This tag works mainly on Android Chrome. It does NOT enable full-screen mode on iOS Safari. -->
+    <!-- For iOS, the correct tag is: <meta name="apple-mobile-web-app-capable" content="yes"> -->
+    <!-- TODO: Monitor for updated meta tag standards from Apple or other browser vendors -->
+    <meta name="mobile-web-app-capable" content="yes" />
+        <meta name="description" content=" The U.S. Congress signed the Civil Rights Act in 1964 and the Civil Rights Restoration Act in 1987. Title VI of the Civil Rights Acts prohibits discrimination based on race, color, gender or national origin in all benefits and services provided by government agencies..." />
+    <meta property="og:type" content="article" />
+    <meta property="og:url" content="https://www.cheyennecity.org/Site-Footer/Sub-Footer-Links/Non-Discrimination-and-Title-VI-Program" />
+    <meta property="og:title" content="Non-Discrimination and Title VI Program" />
+    <meta property="og:description" content=" The U.S. Congress signed the Civil Rights Act in 1964 and the Civil Rights Restoration Act in 1987. Title VI of the Civil Rights Acts prohibits discrimination based on race, color, gender or national origin in all benefits and services provided by government agencies..." />
+    <meta property="og:image" content="https://www.cheyennecity.org/files/ocwebsite/Public/HeroImage/citylbb.jpg?w=1200" />
+    <meta property="twitter:card" content="summary" />
+    <meta property="twitter:title" content="Non-Discrimination and Title VI Program" />
+    <meta property="twitter:description" content=" The U.S. Congress signed the Civil Rights Act in 1964 and the Civil Rights Restoration Act in 1987. Title VI of the Civil Rights Acts prohibits discrimination based on race, color, gender or national origin in all benefits and services provided by government agencies..." />
+    <meta property="twitter:image" content="https://www.cheyennecity.org/files/ocwebsite/Public/HeroImage/citylbb.jpg?w=1080" />
+    <meta property="fb:app_id" content="4049459422007991" />
+    <link rel="canonical" href="https://www.cheyennecity.org/Site-Footer/Sub-Footer-Links/Non-Discrimination-and-Title-VI-Program" />
+
+    
+    <link rel="icon" type="image/png" href="/files/ocfavicon/Public/favicon-96x96.png" sizes="96x96" />
+<link rel="icon" type="image/svg+xml" href="/files/ocfavicon/Public/favicon.svg" />
+<link rel="shortcut icon" href="/files/ocfavicon/Public/favicon.ico" />
+<link rel="apple-touch-icon" sizes="180x180" href="/files/ocfavicon/Public/apple-touch-icon.png" />
+<link rel="manifest" href="/files/ocfavicon/Public/site.webmanifest" />
+    <script>
+        (function () {
+            if (window.__UNLOAD_LAZY_PATCH__) return;
+            window.__UNLOAD_LAZY_PATCH__ = true;
+
+            var supportsPageHide = ("onpagehide" in window);
+            var mappedType = supportsPageHide ? "pagehide" : "beforeunload";
+            var nativeAdd = window.addEventListener;
+            var nativeRemove = window.removeEventListener;
+            var unloadMap = null;
+            var patched = false;
+
+            function ensurePatched() {
+                if (patched) return;
+                unloadMap = new WeakMap();
+
+                window.addEventListener = function (type, listener, options) {
+                    if (type === "unload") {
+                        var wrapped = function (evt) {
+                            if (supportsPageHide && evt.persisted) return;
+                            listener.call(this, evt);
+                        };
+                        unloadMap.set(listener, wrapped);
+                        return nativeAdd.call(this, mappedType, wrapped, options);
+                    }
+                    return nativeAdd.call(this, type, listener, options);
+                };
+
+                window.removeEventListener = function (type, listener, options) {
+                    if (type === "unload") {
+                        var wrapped = unloadMap.get(listener);
+                        if (wrapped) {
+                            nativeRemove.call(this, mappedType, wrapped, options);
+                            unloadMap.delete(listener);
+                        }
+                        return;
+                    }
+                    return nativeRemove.call(this, type, listener, options);
+                };
+
+                var orig = null;
+                Object.defineProperty(window, "onunload", {
+                    configurable: true, enumerable: true,
+                    get: function () { return orig; },
+                    set: function (h) {
+                        orig = h;
+                        if (typeof h === "function") window.addEventListener("unload", h);
+                    }
+                });
+                patched = true;
+            }
+
+            window.addEventListener = function (type, listener, options) {
+                if (type === "unload") {
+                    ensurePatched();
+                    return window.addEventListener(type, listener, options);
+                }
+                return nativeAdd.call(this, type, listener, options);
+            };
+
+            window.removeEventListener = function (type, listener, options) {
+                if (type === "unload" && !patched) {
+                    return;
+                }
+                return nativeRemove.call(this, type, listener, options);
+            };
+
+            function patchTelerik() {
+                ensurePatched();
+                var ns = window.RadAjaxNamespace;
+                if (!ns || !ns.EventManager || !ns.EventManager.Add || ns.EventManager.__UnloadPatched) return;
+                var origAdd = ns.EventManager.Add;
+                ns.EventManager.Add = function (el, evtName, handler, clientId) {
+                    if (el === window && evtName === "unload") {
+                        return window.addEventListener("unload", handler);
+                    }
+                    return origAdd.call(this, el, evtName, handler, clientId);
+                };
+                ns.EventManager.__UnloadPatched = true;
+            }
+
+            if (window.RadAjaxNamespace)
+                patchTelerik();
+            else (window.requestIdleCallback || function (cb)
+            {
+                setTimeout(cb, 120);
+            })(patchTelerik);
+        })();
+    </script>
+    <!-- Preconnecting to Google Fonts servers -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+
+    <!-- Defer Roboto font loading to avoid render-blocking -->
+    <script>
+        window.addEventListener('DOMContentLoaded', () => {
+            const robotoLink = document.createElement('link');
+            robotoLink.rel = 'stylesheet';
+            robotoLink.href = 'https://fonts.googleapis.com/css2?family=Roboto:wght@400;500&display=swap';
+            document.head.appendChild(robotoLink);
+        });
+    </script>
+
+    <style>
+        .gm-style, .gm-style * {
+            font-family: 'Roboto', system-ui, -apple-system, "Segoe UI", Arial, sans-serif !important;
+        }
+    </style>
+
+    <script>
+        document.documentElement.className = document.documentElement.className.replace(/\bno-js\b/g, "js");
+    </script>
+    <link href="https://fonts.googleapis.com/css?family=Montserrat:400,600,700|Roboto:400,400i,700&display=swap" rel="stylesheet">
+    
+        
+            <script type="text/javascript">
+                window.__oc_flags_ImprovedBreakpointEventHandling = true;
+            </script>
+            
+        
+    
+    
+    
+        <script type="text/javascript">
+            var __metaQueryBreakpoints = {
+                'sc-size-4': '(max-width: 480px)',
+                'sc-size-3': '(min-width: 480px) and (max-width: 768px)',
+                'sc-size-2': '(min-width: 768px) and (max-width: 992px)',
+                'sc-size-1': '(min-width: 992px)'
+            }
+
+            var __ocSizePoints = [
+                { min: 0, name: 'sc-size-4' },
+                { min: 480, name: 'sc-size-3' },
+                { min: 768, name: 'sc-size-2' },
+                { min: 992, name: 'sc-size-1' }
+            ];
+
+        </script>
+    
+
+    <!-- Framework Section -->
+    
+    <script src="//ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+    <script>window.jQuery || document.write('<script src="/files/templates/00000000-0000-0000-0000-000000000000/b32c9b6c-7400-488a-8246-4bc7b2004122/v/340/jquery-1.12.4.min.js?seamlessts=639263244874657785" ><\/script>')</script>
+
+    <!--Google Maps API Loader – Improved Version to avoid Warning
+    This script loads the Google Maps JavaScript API using a dynamic and async method.
+    It replaces the old static <script> tag to avoid performance warnings from Google.
+
+    Dynamically creates the <script> tag with loading = async for better performance
+    Builds the API URL with required libraries(places, geometry, marker, geocoding)
+    Uses a Promise and callback(google.maps.__ib__) to confirm when the script is ready
+
+    It Avoids Google’s warning about direct script loading
+    Improves page load speed by loading the API asynchronously-->
+
+    
+        <script>
+            (function (root) {
+                root.OpenCities = root.OpenCities || {};
+                if (!root.OpenCities.GoogleMapsLoader) {
+                    root.OpenCities.GoogleMapsLoader = {
+                        _cbs: [],
+                        _ready: false,
+                        onReady: function (cb) {
+                            if (this._ready) { try { cb(); } catch (e) { console.error(e); } }
+                            else if (typeof cb === 'function') this._cbs.push(cb);
+                        },
+                        _fire: function () {
+                            if (this._ready) return;
+                            this._ready = true;
+                            var q = this._cbs.splice(0);
+                            for (var i = 0; i < q.length; i++) {
+                                try { q[i](); } catch (e) { console.error(e); }
+                            }
+                        }
+                    };
+                }
+            })(window);
+
+            (g => {
+                var h, a, k, p = "The Google Maps JavaScript API", c = "google", l = "importLibrary", q = "__ib__",
+                    m = document, b = window;
+                b = b[c] || (b[c] = {});
+                var d = b.maps || (b.maps = {}), r = new Set, e = new URLSearchParams,
+                    u = () => h || (h = new Promise(async (resolve, reject) => {
+                        a = m.createElement("script");
+                        e.set("libraries", [...r] + "");
+                        for (k in g) e.set(k.replace(/[A-Z]/g, t => "_" + t[0].toLowerCase()), g[k]);
+                        e.set("callback", c + ".maps." + q);
+                        a.src = "https://maps." + c + "apis.com/maps/api/js?" + e.toString();
+                        a.loading = "async";
+                        a.async = true;
+                        a.defer = true;
+                        d[q] = resolve;
+                        a.onerror = () => reject(Error(p + " could not load."));
+                        a.nonce = m.querySelector("script[nonce]")?.nonce || "";
+                        m.head.append(a);
+                    }));
+                if (d[l]) {
+                    console.warn(p + " only loads once. Ignoring duplicate load.");
+                } else {
+                    d[l] = (f, ...n) => (r.add(f), u().then(() => d[l](f, ...n)));
+                }
+            })({
+                key: "AIzaSyA2aBqwi49zIS2W3SPecxPWi5QxL2Q53dI",
+                v: "3.65"
+            });
+
+            (async () => {
+                try {
+                    if (!google?.maps?.importLibrary) return;
+
+                    if (!window.OpenCities.__mapsLibsPromise) {
+                        window.OpenCities.__mapsLibsPromise = Promise.all([
+                            google.maps.importLibrary('maps'),
+                            google.maps.importLibrary('places'),
+                            google.maps.importLibrary('geocoding'),
+                            google.maps.importLibrary('marker'),
+                            google.maps.importLibrary('geometry')
+                        ]);
+                    }
+                    await window.OpenCities.__mapsLibsPromise;
+
+                    if (window.OpenCities?.GoogleMapsLoader) {
+                        window.OpenCities.GoogleMapsLoader._fire();
+                    }
+                } catch (err) {
+                    console.error('Google Maps failed to initialise', err);
+                }
+            })();
+        </script>
+    
+    <script src="/files/templates/00000000-0000-0000-0000-000000000000/b32c9b6c-7400-488a-8246-4bc7b2004122/v/340/modernizr.custom.710f3bf.js?seamlessts=639263244874657785" defer></script>
+    <script src="//f1-oc.readspeaker.com/script/11555/webReader/webReader.js?pids=wr" type="text/javascript"></script><script type="text/javascript">window.rsConf = {general: {usePost: true}};</script>
+    <!--// End Framework Section -->
+    <!-- OpenCities Section -->
+    <script>
+        var OpenCities = OpenCities || {};
+        OpenCities.Paths = {
+            SiteTemplate: '/files/templates/00000000-0000-0000-0000-000000000000/b32c9b6c-7400-488a-8246-4bc7b2004122/v/340/',
+            ThemePath: '/files/templates/00000000-0000-0000-0000-000000000000/b32c9b6c-7400-488a-8246-4bc7b2004122/v/340/'
+        };
+    </script>
+    <script src='/ocapi/60679b86-b5f6-4bfc-8be3-6cab213dbf80/en-US/websitesettings.js'></script>
+    <script src="/files/templates/00000000-0000-0000-0000-000000000000/b32c9b6c-7400-488a-8246-4bc7b2004122/v/340/oc_head.js?applied=20251008054708"></script>
+    <!-- Script Combine. To enter debug mode for this browser session, enter OcScriptCombineDebug=true as a querystring -->
+<link href="/files/oc-templates/00000000-0000-0000-0000-000000000000/b32c9b6c-7400-488a-8246-4bc7b2004122/v/340/oc_grid.css~oc_style.css~oc_wizard_style.css~oc_main.css~oc_forms.css~oc_wizard.css~oc_wizard_menu.css~oc_main_s1.css~oc_wizard_s1.css~oc_wizard_menu_s1.css~oc_grid_s1.css~OcScriptCombine_Minify0?uniqueid=20251008054708" rel="stylesheet" type="text/css">
+    <!-- Script Combine. To enter debug mode for this browser session, enter OcScriptCombineDebug=true as a querystring -->
+<link href="/files/oc-templates/00000000-0000-0000-0000-000000000000/b32c9b6c-7400-488a-8246-4bc7b2004122/v/340/client_style.css~client.css~client_menu.css~client_s1.css~client_menu_s1.css~client_forms.css~OcScriptCombine_Minify0?uniqueid=20251008054708" rel="stylesheet" type="text/css">
+    <script>
+(function (BackgroundSettings, $, undefined) {
+    BackgroundSettings.initialise = function () {
+        this.Application = {"CSSSelector":".background-container","EnableFade":true,"MediaType":"image"};
+    };
+} (OpenCities.BackgroundSettings = OpenCities.BackgroundSettings || {}, jQuery));
+OpenCities.BackgroundSettings.initialise();
+</script>
+    
+    <!-- Script Combine. To enter debug mode for this browser session, enter OcScriptCombineDebug=true as a querystring -->
+<link href="/files/oc-templates/00000000-0000-0000-0000-000000000000/b32c9b6c-7400-488a-8246-4bc7b2004122/v/340/oc_print.css~client_print.css~OcScriptCombine_Minify0?uniqueid=20251008054708" rel="stylesheet" type="text/css" media="print">
+    <!-- Script Combine. To enter debug mode for this browser session, enter OcScriptCombineDebug=true as a querystring -->
+<script src="/files/oc-templates/00000000-0000-0000-0000-000000000000/b32c9b6c-7400-488a-8246-4bc7b2004122/v/340/external_plugins.js~oc_form_helper.js~oc_main.js~plugins.js~oc_main_init.js~OcScriptCombine_Minify0?uniqueid=20251008054708" defer="true"></script>
+    
+    
+
+                                <script>!function(e){var n="https://s.go-mpulse.net/boomerang/";if("False"=="True")e.BOOMR_config=e.BOOMR_config||{},e.BOOMR_config.PageParams=e.BOOMR_config.PageParams||{},e.BOOMR_config.PageParams.pci=!0,n="https://s2.go-mpulse.net/boomerang/";if(window.BOOMR_API_key="DYTCK-JM9C8-ED4EP-C3GGK-Z575H",function(){function e(){if(!r){var e=document.createElement("script");e.id="boomr-scr-as",e.src=window.BOOMR.url,e.async=!0,o.appendChild(e),r=!0}}function t(e){r=!0;var n,t,a,i,d=document,O=window;if(window.BOOMR.snippetMethod=e?"if":"i",t=function(e,n){var t=d.createElement("script");t.id=n||"boomr-if-as",t.src=window.BOOMR.url,BOOMR_lstart=(new Date).getTime(),e=e||d.body,e.appendChild(t)},!window.addEventListener&&window.attachEvent&&navigator.userAgent.match(/MSIE [67]\./))return window.BOOMR.snippetMethod="s",void t(o,"boomr-async");a=document.createElement("IFRAME"),a.src="about:blank",a.title="",a.role="presentation",a.loading="eager",i=(a.frameElement||a).style,i.width=0,i.height=0,i.border=0,i.display="none",o.appendChild(a);try{O=a.contentWindow,d=O.document.open()}catch(_){n=document.domain,a.src="javascript:var d=document.open();d.domain='"+n+"';void 0;",O=a.contentWindow,d=O.document.open()}if(n)d._boomrl=function(){this.domain=n,t()},d.write("<bo"+"dy onload='document._boomrl();'>");else if(O._boomrl=function(){t()},O.addEventListener)O.addEventListener("load",O._boomrl,!1);else if(O.attachEvent)O.attachEvent("onload",O._boomrl);d.close()}function a(e){window.BOOMR_onload=e&&e.timeStamp||(new Date).getTime()}if(!window.BOOMR||!window.BOOMR.version&&!window.BOOMR.snippetExecuted){window.BOOMR=window.BOOMR||{},window.BOOMR.snippetStart=(new Date).getTime(),window.BOOMR.snippetExecuted=!0,window.BOOMR.snippetVersion=14,window.BOOMR.url=n+"DYTCK-JM9C8-ED4EP-C3GGK-Z575H";var i=document.currentScript||document.getElementsByTagName("script")[0],o=i.parentNode,r=!1,d=document.createElement("link");if(d.relList&&"function"==typeof d.relList.supports&&d.relList.supports("preload")&&"as"in d)window.BOOMR.snippetMethod="p",d.href=window.BOOMR.url,d.rel="preload",d.as="script",d.addEventListener("load",e),d.addEventListener("error",function(){t(!0)}),setTimeout(function(){if(!r)t(!0)},3e3),BOOMR_lstart=(new Date).getTime(),o.appendChild(d);else t(!1);if(window.addEventListener)window.addEventListener("load",a,!1);else if(window.attachEvent)window.attachEvent("onload",a)}}(),"".length>0)if(e&&"performance"in e&&e.performance&&"function"==typeof e.performance.setResourceTimingBufferSize)e.performance.setResourceTimingBufferSize();!function(){if(BOOMR=e.BOOMR||{},BOOMR.plugins=BOOMR.plugins||{},!BOOMR.plugins.AK){var n=""=="true"?1:0,t="",a="gt5neqcfycfuy2xqwbeq-f-525a90ff1-clientnsv4-s.akamaihd.net",i="false"=="true"?2:1,o={"ak.v":"41","ak.cp":"1700496","ak.ai":parseInt("1075935",10),"ak.ol":"0","ak.cr":1,"ak.ipv":4,"ak.proto":"http/1.1","ak.rid":"70bcd7ea","ak.r":47594,"ak.a2":n,"ak.m":"dscb","ak.n":"essl","ak.cport":41984,"ak.gh":"23.203.167.12","ak.quicv":"","ak.tlsv":"tls1.3","ak.0rtt":"","ak.0rtt.ed":"","ak.csrc":"-","ak.acc":"bbr","ak.t":"1794158665","ak.ak":"hOBiQwZUYzCg5VSAfCLimQ==NqRDNqO1xC3tiO2otAHvx+pVn1Sh+TO2ewREByk9OLMu6XupMjXyzu96NPP9LbnlSvRmZzoxm3L9XWMAZ0xuu7C/fg90iV72GaQE5x+TJDI2i3WWQ3ewxlUuxX914EIQJPy3a1qxSv4y2IPksm3wGc2LEfczAxQAY0DlaH7GWJpU5QwbGRZv78tCOeR8VrAG1x6gQbHwt7WZW0HQ70jaJmmq/su0At0udaoQP15pPMgmO4cIjehV5PWORdG7zBDpHMidB8TZzT7weVGy6qlsaMwPZ77b0wJmGfNd08b1MvnVgwwmOLwoAmUSa5sHnFMLPvK06drfcOvjG/zqIWCnEUxeO87DTXNBHrfwPdxJdXS2j5Bp9qEEqXoLILJjXeJgon0JQdFu6hXH14TmVvsCtMRF6DLZHpG/XK36riL43xc=","ak.pv":"362","ak.dpoabenc":"","ak.tf":i};if(""!==t)o["ak.ruds"]=t;var r={i:!1,av:function(n){var t="http.initiator";if(n&&(!n[t]||"spa_hard"===n[t]))o["ak.feo"]=void 0!==e.aFeoApplied?1:0,BOOMR.addVar(o)},rv:function(){var e=["ak.cport","ak.cr","ak.csrc","ak.gh","ak.ipv","ak.m","ak.n","ak.ol","ak.proto","ak.quicv","ak.tlsv","ak.0rtt","ak.0rtt.ed","ak.r","ak.acc","ak.t","ak.tf"];BOOMR.removeVar(e)}};BOOMR.plugins.AK={akVars:o,akDNSPreFetchDomain:a,init:function(){if(!r.i){var e=BOOMR.subscribe;e("before_beacon",r.av,null,null),e("onbeacon",r.rv,null,null),r.i=!0}return this},is_complete:function(){return!0}}}}()}(window);</script></head>
+<body class="body layout-modern  site-search-always-visble  content-type-oc-general content-template-oc-full-width group-template-oc-full-width-with-default-header page-name-non-discrimination-and-title-vi-program page-sequence-8 page-depth-3 page-section-12 website-type-primary device-desktop " id="body-top">
+    <div id="skip-to-content-container">
+        <a href="#main-content" class="visuallyhidden focusable" id="skip-to-content-link">Skip to main content</a>
+    </div>
+    <script>
+        // OCNOW-11988 (Cursor): Proactively focus skip link when returning from browser chrome.
+        // Must run inline (not deferred oc_main.js) so focus is intercepted before NVDA speaks footer.
+        (function () {
+            var awaitingReentry = false;
+            var inertSupported = 'inert' in HTMLElement.prototype;
+
+            function isExplicitlyOutsideDocument(node) {
+                return node != null && !document.documentElement.contains(node);
+            }
+
+            function getSkipContainer() {
+                return document.getElementById('skip-to-content-container');
+            }
+
+            function getSkipLink() {
+                return document.getElementById('skip-to-content-link');
+            }
+
+            function applyGuard() {
+                awaitingReentry = true;
+                if (!inertSupported) {
+                    return;
+                }
+                var skipContainer = getSkipContainer();
+                var children = document.body.children;
+                for (var i = 0; i < children.length; i++) {
+                    if (children[i] !== skipContainer) {
+                        children[i].setAttribute('inert', '');
+                    }
+                }
+            }
+
+            function clearGuard() {
+                awaitingReentry = false;
+                if (!inertSupported) {
+                    return;
+                }
+                var children = document.body.children;
+                for (var i = 0; i < children.length; i++) {
+                    children[i].removeAttribute('inert');
+                }
+            }
+
+            function isSkipLinkElement(target) {
+                if (!target) {
+                    return false;
+                }
+                var skipContainer = getSkipContainer();
+                return target.id === 'skip-to-content-link' ||
+                    (skipContainer && skipContainer.contains(target));
+            }
+
+            function focusSkipLink() {
+                var skipLink = getSkipLink();
+                if (!skipLink) {
+                    return;
+                }
+                if (window.scrollY > 0) {
+                    window.scrollTo(0, 0);
+                }
+                skipLink.focus({ preventScroll: true });
+            }
+
+            function scheduleGuardIfDocumentLostFocus() {
+                window.setTimeout(function () {
+                    if (!document.hasFocus()) {
+                        applyGuard();
+                    }
+                }, 0);
+            }
+
+            document.addEventListener('focusout', function (e) {
+                if (isExplicitlyOutsideDocument(e.relatedTarget)) {
+                    applyGuard();
+                }
+            }, true);
+
+            document.addEventListener('keydown', function (e) {
+                if (e.key === 'Tab') {
+                    scheduleGuardIfDocumentLostFocus();
+                } else if (e.key === 'F6' || (e.key === 'l' && e.ctrlKey)) {
+                    scheduleGuardIfDocumentLostFocus();
+                }
+            }, true);
+
+            window.addEventListener('focus', function () {
+                if (!awaitingReentry) {
+                    return;
+                }
+                applyGuard();
+                focusSkipLink();
+            }, true);
+
+            document.addEventListener('focusin', function (e) {
+                var reentryFromChrome = awaitingReentry || isExplicitlyOutsideDocument(e.relatedTarget);
+                if (!reentryFromChrome) {
+                    return;
+                }
+                if (isSkipLinkElement(e.target)) {
+                    clearGuard();
+                    return;
+                }
+                applyGuard();
+                focusSkipLink();
+                clearGuard();
+            }, true);
+        })();
+    </script>
+    <form name="mainForm" method="post" action="/Site-Footer/Sub-Footer-Links/Non-Discrimination-and-Title-VI-Program" id="mainForm">
+<input type="hidden" name="ctl04_seamless_script_manager_TSM" id="ctl04_seamless_script_manager_TSM" value="" />
+<input type="hidden" name="__SEAMLESSVIEWSTATE" id="__SEAMLESSVIEWSTATE" value="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" />
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="" />
+
+
+<script src="/Telerik.Web.UI.WebResource.axd?_TSM_HiddenField_=ctl04_seamless_script_manager_TSM&amp;compress=1&amp;_TSM_CombinedScripts_=%3b%3bSystem.Web.Extensions%2c+Version%3d4.0.0.0%2c+Culture%3dneutral%2c+PublicKeyToken%3d31bf3856ad364e35%3aen-GB%3add3ac3d5-1e29-4112-8fed-529caffa8f24%3aea597d4b%3bOpenCities.CustomControls%3aen-GB%3a7197b077-b068-4a69-9481-a6cf2e7718f9%3a8e1d32bf" type="text/javascript"></script>
+<script src="/ScriptResource.axd?d=EYVjNsQ7oYmzBqCI0dkEyYe0LYmPcVFL4WPcQCXhKfQwUqkAT7lLra0za-OLMuUUcCyPINdTVMHIWti96-8R_oN-trjXUUZnJRzckxTjid4ecctwwEJyNI-05jZYvXHBRiEKL0MUQMEyEJ2FXanyE1uBk88RxZ1wVK6AUn9D4v8rW-LNx2OOtB8vE3hC8P0jk4XZt7GAPiCeYQolxUlwFZA8cuOfgd4u08OASxFdh8mChz3A0YHhuwRrXGVlulfs9SJVkAvulhjdHYIIp1SRohDxt9acTwxUQrOlxuxC847b00zOOWg9SlpwD_iBuQQ1rOK9WH9O_wN9c2TXm4GeXaQHHT4yQ9IlzZXw6th8ch3f-k_n1yYeeurDMbwChXW1Vh_7rpu00kgmegsg9w2J3ququXIPfy2Gq8IscVTmtwouupfmUzAOicU_yESgQ-dG0" type="text/javascript"></script>
+    
+<script type="text/javascript">
+    try{
+        function SeamlessEndRequestHandler(sender, args) {
+            try {
+                var dataItems = args.get_dataItems();
+                if(dataItems.ctl04_seamless_script_manager)
+                    document.getElementById('__SEAMLESSVIEWSTATE').value = dataItems.ctl04_seamless_script_manager;
+            }
+            catch (e) { }
+        }
+
+        Sys.WebForms.PageRequestManager.getInstance().add_endRequest(SeamlessEndRequestHandler);
+    }
+    catch (e) { }
+</script>
+
+    <div class="unsupported-browser-warning js-element"></div>
+    
+    <div hidden>
+        <span id="new-window-0">opens in new tab or window </span>
+    </div>
+    <div class="overlay-container"></div>
+    
+    <div class="background-container">
+        <div class="page-container">
+            <!-- OC Layout Element GROUP TEMPLATE -->
+            <!--groupTemplateStart--><header><div class="print-header-outer-container print-element">
+<img src="/files/templates/00000000-0000-0000-0000-000000000000/b32c9b6c-7400-488a-8246-4bc7b2004122/v/339/CHEY_Logo_Primary_White.svg" alt="City of Cheyenne - Logo" />
+</div>
+            <div class="toolbar-outer-container">
+  <div class="toolbar-inner-container clearfix">
+    <div class="toolbar-item toolbar-language notranslate toolbar-display-dropdown"><div class="no-js-element">
+		  <ul>
+		    <li id="toolbar-language-option-en-us-noscript"><a href="https://www.cheyennecity.org/Site-Footer/Sub-Footer-Links/Non-Discrimination-and-Title-VI-Program?oc_lang=en-US" class="lang-item lang-en-us" data-translate-to="en-us" lang="en-US">English (United States)<span class="visuallyhidden"> Select this as your preferred language</span></a></li><li id="toolbar-language-option-es-noscript"><a href="https://www.cheyennecity.org/Site-Footer/Sub-Footer-Links/Non-Discrimination-and-Title-VI-Program?oc_lang=es" class="lang-item lang-es" data-translate-to="es" lang="en">Spanish<span class="visuallyhidden"> Select this as your preferred language</span></a></li>
+          </ul>
+		</div>
+	<button type="button" role="combobox" aria-controls="toolbar-language-drop-down" aria-expanded="false" aria-haspopup="listbox" aria-autocomplete="none" aria-labelledby="toolbar-language-label" class="toolbar-button toolbar-button-language js-element">  
+        <span class="toolbar-language-globe-icon" aria-hidden="true"></span>
+        <span id="toolbar-language-label" class="current-language">
+            Select a language to translate to
+		</span>
+		<i aria-hidden="true"></i>
+	</button>
+	<div id="toolbar-language-drop-down" role="listbox" aria-label="Available languages" class="toolbar-drop-down toolbar-language-drop-down js-element clearfix">
+		<ul role="group">
+		    <li role="presentation"><a id="toolbar-language-option-en-us" role="option" aria-selected="true" href="https://www.cheyennecity.org/Site-Footer/Sub-Footer-Links/Non-Discrimination-and-Title-VI-Program?oc_lang=en-US" class="lang-item lang-en-us" data-translate-to="en-us" lang="en-US">English (United States)<span class="visuallyhidden"> Select this as your preferred language</span></a></li><li role="presentation"><a id="toolbar-language-option-es" role="option" aria-selected="false" href="https://www.cheyennecity.org/Site-Footer/Sub-Footer-Links/Non-Discrimination-and-Title-VI-Program?oc_lang=es" class="lang-item lang-es" data-translate-to="es" lang="en">Spanish<span class="visuallyhidden"> Select this as your preferred language</span></a></li>
+        </ul>
+	</div></div>
+  </div>
+</div>
+            <div class="header-outer-container">
+    <div class="header-container header-layout-3  clearfix">
+			<div class="header-site-logo">
+				<a href="https://www.cheyennecity.org/Home" lang="en-US" aria-label="City of Cheyenne - Home - Logo">
+				</a>
+			</div>
+      
+		    <div class="mobile-search-btn js-element">
+		        <button><i aria-hidden="true"></i><span class="mobile-search-btn-text"><span class="visuallyhidden">Open </span>Search</span></button>
+		    </div>
+		    <div class="header-website-settings">
+                <button id="btn-mob-nav" type="button" aria-expanded="false" aria-controls="nav">
+                    <i aria-hidden="true"></i><span class="side-menu-btn-text">Menu</span>
+                </button>
+        	</div>
+          <div class="navigation-outer-container">
+	<div id="nav" role="navigation" class="navigation-container  navigation-container-option-7" data-menu-type="horizontal" aria-label="primary">
+        <div class="grid">
+            <div class="col-xs-12">              
+                <ul class="sf-menu" id="sc-main-menu"><li class="nav-section-quarters-1   first-item nav-item-seq-1">
+<a href="https://www.cheyennecity.org/Your-Government" class="nav-level-1 nav-has-children"  target="">
+	<i class="item-icon" aria-hidden="true"></i><span class="item-text">Your Government</span>
+</a>
+<button aria-label="Expand" aria-haspopup="true" class="mobnav-subarrow" aria-controls="sc-menu-second-level-nav-item-seq-1">
+              <i aria-hidden="true"></i>
+              </button>
+<ul id="sc-menu-second-level-nav-item-seq-1">
+
+          
+            <li class=" "><a  href="https://www.cheyennecity.org/Your-Government/Mayor" class="nav-has-children"  target="">Mayor Patrick Collins</a><button aria-label="Expand" aria-haspopup="true" class="mobnav-subarrow-child" aria-controls="sc-menu-third-level-nav-item-seq-1-nav-item-seq-1"><i aria-hidden="true"></i>
+              </button>
+<ul id="sc-menu-third-level-nav-item-seq-1-nav-item-seq-1">
+          
+            <li  class=" "><a href="https://www.cheyennecity.org/Your-Government/Mayor/Cheyenne-Mayors"  target="">Cheyenne Mayors</a></li></ul></li><li class=" "><a  href="https://www.cheyennecity.org/Your-Government/City-Council" class="nav-has-children"  target="">City Council</a><button aria-label="Expand" aria-haspopup="true" class="mobnav-subarrow-child" aria-controls="sc-menu-third-level-nav-item-seq-1-nav-item-seq-2"><i aria-hidden="true"></i>
+              </button>
+<ul id="sc-menu-third-level-nav-item-seq-1-nav-item-seq-2">
+          
+            <li  class=" "><a href="https://www.cheyennecity.org/Your-Government/City-Council/Committees"  target="">Committee Information</a></li><li  class=" "><a href="https://www.cheyennecity.org/Your-Government/City-Council/Minutes-and-Agendas"  target="">Minutes and Agendas</a></li></ul></li><li class=" "><a  href="https://www.cheyennecity.org/Your-Government/Boards-Commissions" class=""  target="">Boards / Commissions</a></li><li class=" "><a  href="https://www.cheyennecity.org/Your-Government/Departments" class="nav-has-children"  target="">Departments</a><button aria-label="Expand" aria-haspopup="true" class="mobnav-subarrow-child" aria-controls="sc-menu-third-level-nav-item-seq-1-nav-item-seq-4"><i aria-hidden="true"></i>
+              </button>
+<ul id="sc-menu-third-level-nav-item-seq-1-nav-item-seq-4">
+          
+            <li  class=" "><a href="https://www.cheyennecity.org/Your-Government/Departments/Attorney"  target="">City Attorney</a></li><li  class=" "><a href="https://www.cheyennecity.org/Your-Government/Departments/City-Clerk"  target="">City Clerk</a></li><li  class=" "><a href="https://www.cheyennecity.org/Your-Government/Departments/City-Engineer"  target="">City Engineer</a></li><li  class=" "><a href="https://www.cheyennecity.org/Your-Government/Departments/Community-Recreation-Events"  target="">Community Recreation & Events</a></li><li  class=" "><a href="https://www.cheyennecity.org/Your-Government/Departments/Cheyenne-Fire-Rescue"  target="">Cheyenne Fire Rescue</a></li><li  class=" "><a href="https://www.cheyennecity.org/Your-Government/Departments/Human-Resources"  target="">Human Resources</a></li><li  class=" "><a href="https://www.cheyennecity.org/Your-Government/Departments/Planning-and-Development-Department"  target="">Planning and Development</a></li><li  class=" "><a href="https://www.cheyennecity.org/Your-Government/Departments/Public-Works"  target="">Public Works</a></li><li  class=" "><a href="https://www.cheyennecity.org/Your-Government/Departments/City-Treasurer"  target="">City Treasurer</a></li><li  class=" "><a href="https://www.cheyennecity.org/Your-Government/Departments/Compliance-Department"  target="">Compliance Department</a></li><li  class=" "><a href="https://www.cheyennecity.org/Your-Government/Departments/Mayors-Office"  target="">Mayor's Office</a></li><li  class=" "><a href="https://www.cheyennecity.org/Your-Government/Departments/Police-Department"  target="">Police Department</a></li></ul></li><li class=" "><a  href="https://www.cheyennecity.org/Your-Government/Demographics" class=""  target="_blank">Demographics</a></li><li class=" "><a  href="https://www.cheyennecity.org/Your-Government/Sister-Cities" class=""  target="">Sister Cities</a></li><li class=" "><a  href="https://www.cheyennecity.org/Your-Government/Cemetery-Complex" class=""  target="">Cemetery Complex</a></li><li class=" "><a  href="https://www.cheyennecity.org/Your-Government/Municipal-Court" class=""  target="">Municipal Court</a></li><li class=" "><a  href="https://www.cheyennecity.org/Your-Government/Municipal-Elections" class=""  target="_self">Municipal Elections</a></li><li class=" "><a  href="https://www.cheyennecity.org/Your-Government/Youth-Alternatives" class=""  target="_self">Youth Alternatives</a></li><li class=" "><a  href="https://www.cheyennecity.org/Your-Government/Connect-Cheyenne-Engage-Explore-and-Discover" class=""  target="">Connect Cheyenne: Engage, Explore, and Discover</a></li></ul></li>
+          
+            <li class="nav-section-quarters-1   nav-item-seq-2">
+<a href="https://www.cheyennecity.org/Business" class="nav-level-1 "  target="">Business</a>
+</li>
+          
+            <li class="nav-section-quarters-2   nav-item-seq-3">
+<a href="https://www.cheyennecity.org/Services" class="nav-level-1 nav-has-children"  target="">Services</a>
+<button aria-label="Expand" aria-haspopup="true" class="mobnav-subarrow" aria-controls="sc-menu-second-level-nav-item-seq-3">
+              <i aria-hidden="true"></i>
+              </button>
+<ul id="sc-menu-second-level-nav-item-seq-3">
+
+          
+            <li class=" "><a  href="https://www.cheyennecity.org/Services/Building-Safety" class=""  target="_self">Building Safety</a></li></ul></li>
+          
+            <li class="nav-section-quarters-2   nav-item-seq-4">
+<a href="https://www.cheyennecity.org/Explore-Cheyenne" class="nav-level-1 "  target="">Explore</a>
+</li>
+          
+            <li class="nav-section-quarters-3   nav-item-seq-5">
+<a href="https://www.cheyennecity.org/I-Want-To" class="nav-level-1 "  target="">I Want To</a>
+</li>
+          
+            </ul>
+            </div>
+        </div>
+    </div>
+</div>
+			
+			<div class="header-search-control-container" id="header-search">
+				<div class="search-inner-container">
+					<div class="sc-search-panel">
+	<label for="ctl08_txtSearch" id="ctl08_lblSearch" class="sc-search-label">Search</label><input name="ctl08$txtSearch" type="text" id="ctl08_txtSearch" class="sc-search-text" placeholder="How can we help you?" /><input type="submit" name="ctl08$btnSearch" value="Search" id="ctl08_btnSearch" class="sc-search-button" />
+</div>
+					<div role="status" id="predictiveResults"></div>
+				</div>
+			</div>
+    </div>
+</div>
+
+            </header>
+            <div class="content-outer-container">
+                <div id="main" role="main" class="main-outer-container clearfix">
+                        
+                        <div class="content-main-container">
+                            <div class="grid">
+					            <div class="col-xs-12">
+						            <nav id="breadcrumbs-container" aria-label="You Are Here :">
+							            <span role="list">
+<span role="listitem">
+	<a href="https://www.cheyennecity.org/Home"  lang="en-US">Home</a>
+	<span class="nav-separator" aria-hidden="true" role="presentation">/</span>
+</span>
+          <span class="current-page" role="listitem" aria-current="page" >Non-Discrimination and Title VI Program</span></span>
+						            </nav>
+					            </div>
+                      
+					            <div class="col-xs-12">
+						            <div class="main-inner-container">
+							            <div id="main-content" class="main-container clearfix">
+							              <div id="readspeaker_button_default" class="rs_skip rsbtn rs_preserve rs_position_left">
+    <a rel="nofollow" class="rsbtn_play" accesskey="L" title="Listen to this page using ReadSpeaker" href="//app-oc.readspeaker.com/cgi-bin/rsent?customerid=11555&amp;lang=en_us&amp;readid=main-content&amp;url=https%3A%2F%2Fwww.cheyennecity.org%2FSite-Footer%2FSub-Footer-Links%2FNon-Discrimination-and-Title-VI-Program">
+        <span class="rsbtn_left rsimg rspart"><span class="rsbtn_text"><span>Listen</span></span></span>
+        <span class="rsbtn_right rsimg rsplay rspart"></span>
+    </a>
+</div>
+                            <!-- OC Layout Element Conent Template -->
+							              <!--normalTemplateStart--><div class="grid">
+    <div class="col-xs-12">
+        <h1 class='oc-page-title '>Non-Discrimination and Title VI Program</h1>
+        
+        
+        <p>The U.S. Congress signed the Civil Rights Act in 1964 and the Civil Rights Restoration Act in 1987. Title VI of the Civil Rights Acts prohibits discrimination based on race, color, gender or national origin in all benefits and services provided by government agencies. Additional nondiscrimination laws prohibit discrimination based on disability, age, income status, minority status or limited English proficiency. Title VI and other non-discrimination laws apply to all local government programs and activities, regardless of whether or not they are federally funded.<br />
+<br />
+The City of Cheyenne assures that no person shall, on the grounds of race, color, or national origin, as provided by Title VI of the Civil Rights Act of 1964 and the Civil Rights Restoration Act of 1987, be excluded from participation in, be denied the benefits of, or be otherwise subjected to discrimination under any program or activity.<br />
+<br />
+Furthermore, the City of Cheyenne assures that no person shall, on the grounds of age, ethnicity, disability, gender, sexual orientation, income or limited English proficiency be excluded from participation in, be denied the benefits of, or be otherwise subjected to discrimination under any program or activity.</p>
+<p>&nbsp;</p>
+
+
+      
+        
+            
+        
+    </div>
+    
+    
+</div><!--normalTemplateEnd-->
+                            
+                            
+                            
+							            </div>
+						            </div>
+					            </div>
+                        <div class="col-xs-12">
+					            	<div class="share-page-container share-page-link-center share-page-link-small share-page-link-rounded share-page-link-labeled" data-item-id="60679b86-b5f6-4bfc-8be3-6cab213dbf80" id="share-page-container clearfix">
+                                        <section aria-labelledby="share-page-info-label">
+                                            <span id="share-page-info-label" class="share-page-info">Share</span><ul class="share-page-links no-translate"><li><a href="https://www.facebook.com/sharer/sharer.php?u=https%3a%2f%2fwww.cheyennecity.org%2fSite-Footer%2fSub-Footer-Links%2fNon-Discrimination-and-Title-VI-Program" target="{ShareTarget}" class="share-page-link share-page-link-facebook" data-channel="facebook" data-channel-id="1"><i aria-hidden="true"></i><span class="share-page-link-name share-page-link-name-facebook">Facebook</span></a></li><li><a href="https://twitter.com/share?url=https%3a%2f%2fwww.cheyennecity.org%2fSite-Footer%2fSub-Footer-Links%2fNon-Discrimination-and-Title-VI-Program" target="_blank" class="share-page-link share-page-link-x" data-channel="x" data-channel-id="2"><i aria-hidden="true"></i><span class="share-page-link-name share-page-link-name-x">X</span></a></li><li><a href="mailto:?Body=https%3a%2f%2fwww.cheyennecity.org%2fSite-Footer%2fSub-Footer-Links%2fNon-Discrimination-and-Title-VI-Program" target="_self" class="share-page-link share-page-link-email" data-channel="email" data-channel-id="3"><i aria-hidden="true"></i><span class="share-page-link-name share-page-link-name-email">Email</span></a></li><li><a href="#" target="_self" class="share-page-link share-page-link-print" data-channel="print" data-channel-id="5"><i aria-hidden="true"></i><span class="share-page-link-name share-page-link-name-print">Print</span></a></li></ul>
+                                        </section>
+                                    </div></div>
+                            </div>
+                        </div>
+                        <div class="back-to-top-container text-center">
+                            <a href="#body-top" id="back-to-top"><i aria-hidden="true"></i><span class="js-visuallyhidden">Back to top</span></a>
+                        </div>
+                </div>
+            </div><!--groupTemplateEnd-->
+            <footer>
+                
+                    <div class="footer-outer-container footer-first-row">
+                        <div class="footer-container clearfix">
+                            <div class="grid grid-pad">
+                                <div class="col-xs-12 col-s-6 col-m-4 col-lg-4 visuallyhidden" >
+	
+	<h2>Site Footer</h2>
+
+
+	
+	
+</div><div class="col-xs-12 col-s-12 col-m-6 col-lg-4" >
+	
+			<h2 class="visuallyhidden">Site Footer</h2>
+			<h3 class="footer-title">Contact</h3>
+			
+	<p>City of Cheyenne<br />
+2101 O'Neil Ave.<br />
+Cheyenne, WY 82001</p>
+<p><a href="tel:3076376200">(307) 637-6200</a> - Telephone<br />
+<a href="tel:711">7-1-1</a> or <a href="tel:18008779965">1-800-877-9965</a> - TTY to Voice</p>
+
+
+	
+	
+</div><div class="col-xs-12 col-s-12 col-m-6 col-lg-4" >
+	
+			<h2 class="visuallyhidden">Site Footer</h2>
+			<h3 class="footer-title">Social Media</h3>
+			
+	
+	<ul class="footer-links with-icons social-media-links">  <li class="footer-link-facebook">
+	<a href="https://www.facebook.com/CityOfCheyenne" target="_blank"  >
+<i aria-hidden="true"></i>Facebook
+</a>
+</li>
+          <li class="footer-link-twitter">
+	<a href="https://twitter.com/CityOfCheyenne" target="_blank"  >
+<i aria-hidden="true"></i>Twitter
+</a>
+</li>
+          <li class="footer-link-instagram">
+	<a href="https://www.instagram.com/cityofcheyenne/" target="_blank"  >
+<i aria-hidden="true"></i>Instagram
+</a>
+</li>
+          <li class="footer-link-youtube">
+	<a href="https://www.youtube.com/user/TheCityofCheyenne" target="_blank"  >
+<i aria-hidden="true"></i>YouTube
+</a>
+</li>
+          <li class="footer-link-">
+	<a href="https://www.flickr.com/people/cityofcheyenne/" target="_blank"  >
+<i aria-hidden="true"></i>Flickr
+</a>
+</li>
+          <li class="footer-link-">
+	<a href="https://www.linkedin.com/company/cityofcheyenne/" target="_blank"  >
+<i aria-hidden="true"></i>LinkedIn
+</a>
+</li>
+           </ul>
+	
+</div>
+                            </div>
+                        </div>
+                    </div>
+                
+                <div class="footer-outer-container footer-second-row">
+                    <div class="footer-container clearfix">
+                        <div class="grid grid-pad footer-secondary-links">
+                            <div class="col-xs-12 col-m-7">
+                                
+                                    <div>&nbsp;| <a href="https://www.cheyennecity.org/Site-Footer/Sub-Footer-Links/Accessibility-Statement" target="_self"  >Accessibility Statement</a>&nbsp;| &nbsp;| <a href="https://www.cheyennecity.org/Site-Footer/Sub-Footer-Links/Privacy-Statement" target="_self"  >Privacy Statement</a>&nbsp;| &nbsp;| <a href="https://www.cheyennecity.org/Site-Footer/Sub-Footer-Links/Translation-Disclaimer" target="_self"  >Translation Disclaimer</a>&nbsp;| <a href="https://www.cheyennecity.org/Site-Footer/Sub-Footer-Links/Terms-of-Use" target="_self"  >Terms of Use</a>&nbsp;| &nbsp;| <a href="https://www.cheyennecity.org/Site-Footer/Sub-Footer-Links/Social-Media-Guidelines" target="_self"  >Social Media Guidelines</a>&nbsp;| <a href="https://www.cheyennecity.org/Site-Footer/Sub-Footer-Links/Non-Discrimination-and-Title-VI-Program" target="_self"  >Non-Discrimination and Title VI Program</a>&nbsp;| &nbsp;| </div>
+                                
+                            </div>
+                            <div class="col-xs-12 col-m-5 powered-by">
+                                <div class="right">
+                                    &copy; 2026 City of Cheyenne&nbsp;|&nbsp;<span class="powered-by">Powered by <a href="https://granicus.com/solution/govaccess/opencities/" target="_blank">Granicus</a></span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </footer>
+        </div>
+    </div>
+
+    <script src="/files/oc-resources/b9015858-988c-48a4-9473-7c193df083e4/JsTextSnippets.js?ocsvclang=en-US" type="text/javascript"></script><script></script>
+    
+    
+
+<div id="COVID_TEMP-messages" style="display:none;">
+<div class="item">
+	<div class="title">COVID updates and information</div>
+	<div class="description"></div>
+	<div class="link"><p class="view-page-link"><a href="https://www.cheyennecity.org/Home/Tabs/Featured-Links/Coronavirus-COVID-19"  target="_self">Coronavirus (COVID-19)</a></p></div>
+	<div class="type">Announcement</div>
+	<div class="conditions"></div>	
+</div>
+</div>
+<script>
+	$('#COVID_TEMP-messages').children('.item').each(function(){
+		var $message = $(this);
+		var isMatch = false;
+		$message.find('.conditions a').each(function(){
+			var $a = $(this);
+			var mode = $a.text().split(' ')[0].toLowerCase();
+			var value = $a.attr('href').replace(/^https?:\/\//g, '');
+			
+			switch(mode)
+			{
+				case 'startswith':
+					if(document.location.pathname.toLowerCase().startsWith(value.toLowerCase()))
+					{
+						isMatch = true;
+						return false;//stop jquery each
+					}
+					break;
+					
+				case 'contains':
+					if(document.location.pathname.toLowerCase().indexOf(value.toLowerCase()) !== -1)
+					{
+						isMatch = true;
+						return false;//stop jquery each
+					}
+					break;
+					
+				case 'regex':
+					var re = new RegExp(value);
+					if(new RegExp(value).test(document.location.pathname))
+					{
+						isMatch = true;
+						return false;//stop jquery each
+					}
+					break;
+					
+				default:
+					if(document.location.pathname.toLowerCase() === value.toLowerCase())
+					{
+						isMatch = true;
+						return false;//stop jquery each
+					}
+					break;
+			}
+		});
+		if(isMatch)
+		{
+			var $main = $('#main-content');
+			if($main.length === 0) return false;
+			var $h1 = $main.find('h1').first();
+			
+			var title = $message.find('.title').text().trim();
+			var type = $message.find('.type').text().trim();
+			var description = $message.find('.description').html();
+			var link = $message.find('.link').html();
+			
+			var $content = $('<section>').addClass('obj-venue');//class is a hack to inherit styling
+			var $sideBox = $('<div>').addClass('side-box message-box message-type-'+type).appendTo($content);
+			
+			if(title !== '')
+			{
+				$('<h2>').addClass('side-box-title').text(title).appendTo($sideBox);
+			}
+			
+			var descriptionBox = ''
+			
+			if(description.trim() !== '')
+			{
+				//If the description contains no html tags, wrap the text in p tags
+				var noBrDesc = description.split('<br>').join('\r\n');
+				if (!/<[^>]+>/.test(noBrDesc)) {
+					description = '<p>' + noBrDesc.replace(/(\r\n|\r|\n){2}((\r\n|\r|\n)+)?/g, '$2</p><p>') + '</p>';
+					description = description.replace(/(\r\n|\r|\n)/g, '<br>');
+					description = description.replace('</p><p></p>', '</p>');					
+				}
+				descriptionBox += description;
+			}
+			
+			var hasLink = false;
+			if(link.trim() !== '')
+			{
+				hasLink = true;
+				descriptionBox += link;
+			}
+			
+			var $descriptionBox = null;
+			if(descriptionBox.trim() !== '')
+			{
+				$descriptionBox = $(descriptionBox);
+				$('<div>').addClass('side-box-content').html(descriptionBox).appendTo($sideBox);
+			}
+			
+			if($h1.length === 1)
+			{
+				$content.insertAfter($h1);
+			} 
+			else
+			{
+				$content.appendTo($main);
+			}
+			
+			if(hasLink)
+			{
+				var color = ($content.find('p').first() || $content.find('.side-box-content').first()).css('color');
+				$content.find('a').css('color', color);
+			}
+			
+			 return false;
+		}
+	});
+</script>
+
+
+
+
+
+
+    <script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-166377212-2', 'auto');
+  ga('send', 'pageview');
+</script>
+    
+    
+
+<script type="text/javascript">
+//<![CDATA[
+window.__TsmHiddenField = $get('ctl04_seamless_script_manager_TSM');//]]>
+</script>
+</form>
+</body>
+</html>

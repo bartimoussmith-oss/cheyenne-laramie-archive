@@ -1,0 +1,1216 @@
+<!DOCTYPE html>
+<!--[if lt IE 7]>      <html class="no-js lt-ie9 lt-ie8 lt-ie7" lang="en"> <![endif]-->
+<!--[if IE 7]>         <html class="no-js lt-ie9 lt-ie8" lang="en"> <![endif]-->
+<!--[if IE 8]>         <html class="no-js lt-ie9" lang="en"> <![endif]-->
+<!--[if gt IE 8]><!-->
+<html class="no-js" lang="en-US">
+<!--<![endif]-->
+<head>
+	<!-- Published by OpenCities, 1.38.0.1 -->
+
+    
+        
+    
+    
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+    <meta name="theme-color" content="#1B75BC"/>
+    <title>Coronavirus (COVID-19) – City of Cheyenne</title>
+	<meta name="generator" content="OpenCities - https://granicus.com/product/opencities" />
+
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <!-- Using mobile-web-app-capable for now to enable full-screen experience on supported platforms -->
+    <!-- Note: This tag works mainly on Android Chrome. It does NOT enable full-screen mode on iOS Safari. -->
+    <!-- For iOS, the correct tag is: <meta name="apple-mobile-web-app-capable" content="yes"> -->
+    <!-- TODO: Monitor for updated meta tag standards from Apple or other browser vendors -->
+    <meta name="mobile-web-app-capable" content="yes" />
+        <meta name="description" content="Updates on COVID-19 for Cheyenne and Laramie County" />
+    <meta property="og:type" content="article" />
+    <meta property="og:url" content="https://www.cheyennecity.org/Home/Tabs/Featured-Links/Coronavirus-COVID-19" />
+    <meta property="og:title" content="Coronavirus (COVID-19)" />
+    <meta property="og:description" content="Updates on COVID-19 for Cheyenne and Laramie County" />
+    <meta property="og:image" content="https://www.cheyennecity.org/files/assets/public/v/1/covid/coronavirus-cdc.jpg?w=1200" />
+    <meta property="twitter:card" content="summary" />
+    <meta property="twitter:title" content="Coronavirus (COVID-19)" />
+    <meta property="twitter:description" content="Updates on COVID-19 for Cheyenne and Laramie County" />
+    <meta property="twitter:image" content="https://www.cheyennecity.org/files/assets/public/v/1/covid/coronavirus-cdc.jpg?w=1080" />
+    <meta property="fb:app_id" content="4049459422007991" />
+    <link rel="canonical" href="https://www.cheyennecity.org/Home/Tabs/Featured-Links/Coronavirus-COVID-19" />
+
+    
+    <link rel="icon" type="image/png" href="/files/ocfavicon/Public/favicon-96x96.png" sizes="96x96" />
+<link rel="icon" type="image/svg+xml" href="/files/ocfavicon/Public/favicon.svg" />
+<link rel="shortcut icon" href="/files/ocfavicon/Public/favicon.ico" />
+<link rel="apple-touch-icon" sizes="180x180" href="/files/ocfavicon/Public/apple-touch-icon.png" />
+<link rel="manifest" href="/files/ocfavicon/Public/site.webmanifest" />
+    <script>
+        (function () {
+            if (window.__UNLOAD_LAZY_PATCH__) return;
+            window.__UNLOAD_LAZY_PATCH__ = true;
+
+            var supportsPageHide = ("onpagehide" in window);
+            var mappedType = supportsPageHide ? "pagehide" : "beforeunload";
+            var nativeAdd = window.addEventListener;
+            var nativeRemove = window.removeEventListener;
+            var unloadMap = null;
+            var patched = false;
+
+            function ensurePatched() {
+                if (patched) return;
+                unloadMap = new WeakMap();
+
+                window.addEventListener = function (type, listener, options) {
+                    if (type === "unload") {
+                        var wrapped = function (evt) {
+                            if (supportsPageHide && evt.persisted) return;
+                            listener.call(this, evt);
+                        };
+                        unloadMap.set(listener, wrapped);
+                        return nativeAdd.call(this, mappedType, wrapped, options);
+                    }
+                    return nativeAdd.call(this, type, listener, options);
+                };
+
+                window.removeEventListener = function (type, listener, options) {
+                    if (type === "unload") {
+                        var wrapped = unloadMap.get(listener);
+                        if (wrapped) {
+                            nativeRemove.call(this, mappedType, wrapped, options);
+                            unloadMap.delete(listener);
+                        }
+                        return;
+                    }
+                    return nativeRemove.call(this, type, listener, options);
+                };
+
+                var orig = null;
+                Object.defineProperty(window, "onunload", {
+                    configurable: true, enumerable: true,
+                    get: function () { return orig; },
+                    set: function (h) {
+                        orig = h;
+                        if (typeof h === "function") window.addEventListener("unload", h);
+                    }
+                });
+                patched = true;
+            }
+
+            window.addEventListener = function (type, listener, options) {
+                if (type === "unload") {
+                    ensurePatched();
+                    return window.addEventListener(type, listener, options);
+                }
+                return nativeAdd.call(this, type, listener, options);
+            };
+
+            window.removeEventListener = function (type, listener, options) {
+                if (type === "unload" && !patched) {
+                    return;
+                }
+                return nativeRemove.call(this, type, listener, options);
+            };
+
+            function patchTelerik() {
+                ensurePatched();
+                var ns = window.RadAjaxNamespace;
+                if (!ns || !ns.EventManager || !ns.EventManager.Add || ns.EventManager.__UnloadPatched) return;
+                var origAdd = ns.EventManager.Add;
+                ns.EventManager.Add = function (el, evtName, handler, clientId) {
+                    if (el === window && evtName === "unload") {
+                        return window.addEventListener("unload", handler);
+                    }
+                    return origAdd.call(this, el, evtName, handler, clientId);
+                };
+                ns.EventManager.__UnloadPatched = true;
+            }
+
+            if (window.RadAjaxNamespace)
+                patchTelerik();
+            else (window.requestIdleCallback || function (cb)
+            {
+                setTimeout(cb, 120);
+            })(patchTelerik);
+        })();
+    </script>
+    <!-- Preconnecting to Google Fonts servers -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+
+    <!-- Defer Roboto font loading to avoid render-blocking -->
+    <script>
+        window.addEventListener('DOMContentLoaded', () => {
+            const robotoLink = document.createElement('link');
+            robotoLink.rel = 'stylesheet';
+            robotoLink.href = 'https://fonts.googleapis.com/css2?family=Roboto:wght@400;500&display=swap';
+            document.head.appendChild(robotoLink);
+        });
+    </script>
+
+    <style>
+        .gm-style, .gm-style * {
+            font-family: 'Roboto', system-ui, -apple-system, "Segoe UI", Arial, sans-serif !important;
+        }
+    </style>
+
+    <script>
+        document.documentElement.className = document.documentElement.className.replace(/\bno-js\b/g, "js");
+    </script>
+    <link href="https://fonts.googleapis.com/css?family=Montserrat:400,600,700|Roboto:400,400i,700&display=swap" rel="stylesheet">
+    
+        
+            <script type="text/javascript">
+                window.__oc_flags_ImprovedBreakpointEventHandling = true;
+            </script>
+            
+        
+    
+    
+    
+        <script type="text/javascript">
+            var __metaQueryBreakpoints = {
+                'sc-size-4': '(max-width: 480px)',
+                'sc-size-3': '(min-width: 480px) and (max-width: 768px)',
+                'sc-size-2': '(min-width: 768px) and (max-width: 992px)',
+                'sc-size-1': '(min-width: 992px)'
+            }
+
+            var __ocSizePoints = [
+                { min: 0, name: 'sc-size-4' },
+                { min: 480, name: 'sc-size-3' },
+                { min: 768, name: 'sc-size-2' },
+                { min: 992, name: 'sc-size-1' }
+            ];
+
+        </script>
+    
+
+    <!-- Framework Section -->
+    
+    <script src="//ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+    <script>window.jQuery || document.write('<script src="/files/templates/00000000-0000-0000-0000-000000000000/b32c9b6c-7400-488a-8246-4bc7b2004122/v/340/jquery-1.12.4.min.js?seamlessts=639263244874657785" ><\/script>')</script>
+
+    <!--Google Maps API Loader – Improved Version to avoid Warning
+    This script loads the Google Maps JavaScript API using a dynamic and async method.
+    It replaces the old static <script> tag to avoid performance warnings from Google.
+
+    Dynamically creates the <script> tag with loading = async for better performance
+    Builds the API URL with required libraries(places, geometry, marker, geocoding)
+    Uses a Promise and callback(google.maps.__ib__) to confirm when the script is ready
+
+    It Avoids Google’s warning about direct script loading
+    Improves page load speed by loading the API asynchronously-->
+
+    
+        <script>
+            (function (root) {
+                root.OpenCities = root.OpenCities || {};
+                if (!root.OpenCities.GoogleMapsLoader) {
+                    root.OpenCities.GoogleMapsLoader = {
+                        _cbs: [],
+                        _ready: false,
+                        onReady: function (cb) {
+                            if (this._ready) { try { cb(); } catch (e) { console.error(e); } }
+                            else if (typeof cb === 'function') this._cbs.push(cb);
+                        },
+                        _fire: function () {
+                            if (this._ready) return;
+                            this._ready = true;
+                            var q = this._cbs.splice(0);
+                            for (var i = 0; i < q.length; i++) {
+                                try { q[i](); } catch (e) { console.error(e); }
+                            }
+                        }
+                    };
+                }
+            })(window);
+
+            (g => {
+                var h, a, k, p = "The Google Maps JavaScript API", c = "google", l = "importLibrary", q = "__ib__",
+                    m = document, b = window;
+                b = b[c] || (b[c] = {});
+                var d = b.maps || (b.maps = {}), r = new Set, e = new URLSearchParams,
+                    u = () => h || (h = new Promise(async (resolve, reject) => {
+                        a = m.createElement("script");
+                        e.set("libraries", [...r] + "");
+                        for (k in g) e.set(k.replace(/[A-Z]/g, t => "_" + t[0].toLowerCase()), g[k]);
+                        e.set("callback", c + ".maps." + q);
+                        a.src = "https://maps." + c + "apis.com/maps/api/js?" + e.toString();
+                        a.loading = "async";
+                        a.async = true;
+                        a.defer = true;
+                        d[q] = resolve;
+                        a.onerror = () => reject(Error(p + " could not load."));
+                        a.nonce = m.querySelector("script[nonce]")?.nonce || "";
+                        m.head.append(a);
+                    }));
+                if (d[l]) {
+                    console.warn(p + " only loads once. Ignoring duplicate load.");
+                } else {
+                    d[l] = (f, ...n) => (r.add(f), u().then(() => d[l](f, ...n)));
+                }
+            })({
+                key: "AIzaSyA2aBqwi49zIS2W3SPecxPWi5QxL2Q53dI",
+                v: "3.65"
+            });
+
+            (async () => {
+                try {
+                    if (!google?.maps?.importLibrary) return;
+
+                    if (!window.OpenCities.__mapsLibsPromise) {
+                        window.OpenCities.__mapsLibsPromise = Promise.all([
+                            google.maps.importLibrary('maps'),
+                            google.maps.importLibrary('places'),
+                            google.maps.importLibrary('geocoding'),
+                            google.maps.importLibrary('marker'),
+                            google.maps.importLibrary('geometry')
+                        ]);
+                    }
+                    await window.OpenCities.__mapsLibsPromise;
+
+                    if (window.OpenCities?.GoogleMapsLoader) {
+                        window.OpenCities.GoogleMapsLoader._fire();
+                    }
+                } catch (err) {
+                    console.error('Google Maps failed to initialise', err);
+                }
+            })();
+        </script>
+    
+    <script src="/files/templates/00000000-0000-0000-0000-000000000000/b32c9b6c-7400-488a-8246-4bc7b2004122/v/340/modernizr.custom.710f3bf.js?seamlessts=639263244874657785" defer></script>
+    <script src="//f1-oc.readspeaker.com/script/11555/webReader/webReader.js?pids=wr" type="text/javascript"></script><script type="text/javascript">window.rsConf = {general: {usePost: true}};</script>
+    <!--// End Framework Section -->
+    <!-- OpenCities Section -->
+    <script>
+        var OpenCities = OpenCities || {};
+        OpenCities.Paths = {
+            SiteTemplate: '/files/templates/00000000-0000-0000-0000-000000000000/b32c9b6c-7400-488a-8246-4bc7b2004122/v/340/',
+            ThemePath: '/files/templates/00000000-0000-0000-0000-000000000000/b32c9b6c-7400-488a-8246-4bc7b2004122/v/340/'
+        };
+    </script>
+    <script src='/ocapi/48583b55-8c56-41d7-b6ee-3c5b8fba0f20/en-US/websitesettings.js'></script>
+    <script src="/files/templates/00000000-0000-0000-0000-000000000000/b32c9b6c-7400-488a-8246-4bc7b2004122/v/340/oc_head.js?applied=20251008054708"></script>
+    <!-- Script Combine. To enter debug mode for this browser session, enter OcScriptCombineDebug=true as a querystring -->
+<link href="/files/oc-templates/00000000-0000-0000-0000-000000000000/b32c9b6c-7400-488a-8246-4bc7b2004122/v/340/oc_grid.css~oc_style.css~oc_wizard_style.css~oc_main.css~oc_forms.css~oc_wizard.css~oc_wizard_menu.css~oc_main_s1.css~oc_wizard_s1.css~oc_wizard_menu_s1.css~oc_grid_s1.css~OcScriptCombine_Minify0?uniqueid=20251008054708" rel="stylesheet" type="text/css">
+    <!-- Script Combine. To enter debug mode for this browser session, enter OcScriptCombineDebug=true as a querystring -->
+<link href="/files/oc-templates/00000000-0000-0000-0000-000000000000/b32c9b6c-7400-488a-8246-4bc7b2004122/v/340/client_style.css~client.css~client_menu.css~client_s1.css~client_menu_s1.css~client_forms.css~OcScriptCombine_Minify0?uniqueid=20251008054708" rel="stylesheet" type="text/css">
+    <script>
+(function (BackgroundSettings, $, undefined) {
+    BackgroundSettings.initialise = function () {
+        this.Application = {"CSSSelector":".background-container","EnableFade":true,"MediaType":"image"};
+    };
+} (OpenCities.BackgroundSettings = OpenCities.BackgroundSettings || {}, jQuery));
+OpenCities.BackgroundSettings.initialise();
+</script>
+    
+    <!-- Script Combine. To enter debug mode for this browser session, enter OcScriptCombineDebug=true as a querystring -->
+<link href="/files/oc-templates/00000000-0000-0000-0000-000000000000/b32c9b6c-7400-488a-8246-4bc7b2004122/v/340/oc_print.css~client_print.css~OcScriptCombine_Minify0?uniqueid=20251008054708" rel="stylesheet" type="text/css" media="print">
+    <!-- Script Combine. To enter debug mode for this browser session, enter OcScriptCombineDebug=true as a querystring -->
+<script src="/files/oc-templates/00000000-0000-0000-0000-000000000000/b32c9b6c-7400-488a-8246-4bc7b2004122/v/340/external_plugins.js~oc_form_helper.js~oc_main.js~plugins.js~oc_main_init.js~OcScriptCombine_Minify0?uniqueid=20251008054708" defer="true"></script>
+    
+    
+
+                                <script>!function(e){var n="https://s.go-mpulse.net/boomerang/";if("False"=="True")e.BOOMR_config=e.BOOMR_config||{},e.BOOMR_config.PageParams=e.BOOMR_config.PageParams||{},e.BOOMR_config.PageParams.pci=!0,n="https://s2.go-mpulse.net/boomerang/";if(window.BOOMR_API_key="DYTCK-JM9C8-ED4EP-C3GGK-Z575H",function(){function e(){if(!r){var e=document.createElement("script");e.id="boomr-scr-as",e.src=window.BOOMR.url,e.async=!0,o.appendChild(e),r=!0}}function t(e){r=!0;var n,t,a,i,d=document,O=window;if(window.BOOMR.snippetMethod=e?"if":"i",t=function(e,n){var t=d.createElement("script");t.id=n||"boomr-if-as",t.src=window.BOOMR.url,BOOMR_lstart=(new Date).getTime(),e=e||d.body,e.appendChild(t)},!window.addEventListener&&window.attachEvent&&navigator.userAgent.match(/MSIE [67]\./))return window.BOOMR.snippetMethod="s",void t(o,"boomr-async");a=document.createElement("IFRAME"),a.src="about:blank",a.title="",a.role="presentation",a.loading="eager",i=(a.frameElement||a).style,i.width=0,i.height=0,i.border=0,i.display="none",o.appendChild(a);try{O=a.contentWindow,d=O.document.open()}catch(_){n=document.domain,a.src="javascript:var d=document.open();d.domain='"+n+"';void 0;",O=a.contentWindow,d=O.document.open()}if(n)d._boomrl=function(){this.domain=n,t()},d.write("<bo"+"dy onload='document._boomrl();'>");else if(O._boomrl=function(){t()},O.addEventListener)O.addEventListener("load",O._boomrl,!1);else if(O.attachEvent)O.attachEvent("onload",O._boomrl);d.close()}function a(e){window.BOOMR_onload=e&&e.timeStamp||(new Date).getTime()}if(!window.BOOMR||!window.BOOMR.version&&!window.BOOMR.snippetExecuted){window.BOOMR=window.BOOMR||{},window.BOOMR.snippetStart=(new Date).getTime(),window.BOOMR.snippetExecuted=!0,window.BOOMR.snippetVersion=14,window.BOOMR.url=n+"DYTCK-JM9C8-ED4EP-C3GGK-Z575H";var i=document.currentScript||document.getElementsByTagName("script")[0],o=i.parentNode,r=!1,d=document.createElement("link");if(d.relList&&"function"==typeof d.relList.supports&&d.relList.supports("preload")&&"as"in d)window.BOOMR.snippetMethod="p",d.href=window.BOOMR.url,d.rel="preload",d.as="script",d.addEventListener("load",e),d.addEventListener("error",function(){t(!0)}),setTimeout(function(){if(!r)t(!0)},3e3),BOOMR_lstart=(new Date).getTime(),o.appendChild(d);else t(!1);if(window.addEventListener)window.addEventListener("load",a,!1);else if(window.attachEvent)window.attachEvent("onload",a)}}(),"".length>0)if(e&&"performance"in e&&e.performance&&"function"==typeof e.performance.setResourceTimingBufferSize)e.performance.setResourceTimingBufferSize();!function(){if(BOOMR=e.BOOMR||{},BOOMR.plugins=BOOMR.plugins||{},!BOOMR.plugins.AK){var n=""=="true"?1:0,t="",a="gt5neqcfycfuu2xqwbfq-f-2bd353175-clientnsv4-s.akamaihd.net",i="false"=="true"?2:1,o={"ak.v":"41","ak.cp":"1700496","ak.ai":parseInt("1075935",10),"ak.ol":"0","ak.cr":1,"ak.ipv":4,"ak.proto":"http/1.1","ak.rid":"70bce397","ak.r":47594,"ak.a2":n,"ak.m":"dscb","ak.n":"essl","ak.cport":41985,"ak.gh":"23.203.167.12","ak.quicv":"","ak.tlsv":"tls1.3","ak.0rtt":"","ak.0rtt.ed":"","ak.csrc":"-","ak.acc":"bbr","ak.t":"1794158667","ak.ak":"hOBiQwZUYzCg5VSAfCLimQ==r8ojrGagdHWW6Q+G4FLl1EJdRQ+MgkSt8pYjt9OHScUzKgBMdkwUOd3SNJLGwVZHJUKobTBlFuf6XVWnQUZkZjNDXPmIGSU90WFoOUWU5/F7fNF8DG7nwsSjEzaxhna9rUhjcrmrTI5hCaY09amLWmb17Ijzs/TGTM2ss/j2gKmWCGkdag9DeD9RREmDTDckTBq6gYnfU5mjeMQALbhkVjZoVAT6HiODX3TI4PoCks85k0NYcFz7DVpkpzlmsKDQkhQai7rkiTYXBQJhaQym0ZZ1U65XSIRewlDvsdKWbgKChOugnBWu0+4+DN5Dq/qauhTrglNOMntrzEoiap/HUWFYNrDYzFGbb5lfNzJQJpo4LsskF5B78FfJK6KsJLp7j0BEcFMiXoFdW0nm4Ct9yRL4kZ/cLNXHOFy4aSQR56M=","ak.pv":"362","ak.dpoabenc":"","ak.tf":i};if(""!==t)o["ak.ruds"]=t;var r={i:!1,av:function(n){var t="http.initiator";if(n&&(!n[t]||"spa_hard"===n[t]))o["ak.feo"]=void 0!==e.aFeoApplied?1:0,BOOMR.addVar(o)},rv:function(){var e=["ak.cport","ak.cr","ak.csrc","ak.gh","ak.ipv","ak.m","ak.n","ak.ol","ak.proto","ak.quicv","ak.tlsv","ak.0rtt","ak.0rtt.ed","ak.r","ak.acc","ak.t","ak.tf"];BOOMR.removeVar(e)}};BOOMR.plugins.AK={akVars:o,akDNSPreFetchDomain:a,init:function(){if(!r.i){var e=BOOMR.subscribe;e("before_beacon",r.av,null,null),e("onbeacon",r.rv,null,null),r.i=!0}return this},is_complete:function(){return!0}}}}()}(window);</script></head>
+<body class="body layout-modern  site-search-always-visble  content-type-oc-general content-template-oc-full-width group-template-oc-full-width-with-default-header page-name-coronavirus-covid-19 page-sequence-6 page-depth-4 page-section-1 website-type-primary device-desktop " id="body-top">
+    <div id="skip-to-content-container">
+        <a href="#main-content" class="visuallyhidden focusable" id="skip-to-content-link">Skip to main content</a>
+    </div>
+    <script>
+        // OCNOW-11988 (Cursor): Proactively focus skip link when returning from browser chrome.
+        // Must run inline (not deferred oc_main.js) so focus is intercepted before NVDA speaks footer.
+        (function () {
+            var awaitingReentry = false;
+            var inertSupported = 'inert' in HTMLElement.prototype;
+
+            function isExplicitlyOutsideDocument(node) {
+                return node != null && !document.documentElement.contains(node);
+            }
+
+            function getSkipContainer() {
+                return document.getElementById('skip-to-content-container');
+            }
+
+            function getSkipLink() {
+                return document.getElementById('skip-to-content-link');
+            }
+
+            function applyGuard() {
+                awaitingReentry = true;
+                if (!inertSupported) {
+                    return;
+                }
+                var skipContainer = getSkipContainer();
+                var children = document.body.children;
+                for (var i = 0; i < children.length; i++) {
+                    if (children[i] !== skipContainer) {
+                        children[i].setAttribute('inert', '');
+                    }
+                }
+            }
+
+            function clearGuard() {
+                awaitingReentry = false;
+                if (!inertSupported) {
+                    return;
+                }
+                var children = document.body.children;
+                for (var i = 0; i < children.length; i++) {
+                    children[i].removeAttribute('inert');
+                }
+            }
+
+            function isSkipLinkElement(target) {
+                if (!target) {
+                    return false;
+                }
+                var skipContainer = getSkipContainer();
+                return target.id === 'skip-to-content-link' ||
+                    (skipContainer && skipContainer.contains(target));
+            }
+
+            function focusSkipLink() {
+                var skipLink = getSkipLink();
+                if (!skipLink) {
+                    return;
+                }
+                if (window.scrollY > 0) {
+                    window.scrollTo(0, 0);
+                }
+                skipLink.focus({ preventScroll: true });
+            }
+
+            function scheduleGuardIfDocumentLostFocus() {
+                window.setTimeout(function () {
+                    if (!document.hasFocus()) {
+                        applyGuard();
+                    }
+                }, 0);
+            }
+
+            document.addEventListener('focusout', function (e) {
+                if (isExplicitlyOutsideDocument(e.relatedTarget)) {
+                    applyGuard();
+                }
+            }, true);
+
+            document.addEventListener('keydown', function (e) {
+                if (e.key === 'Tab') {
+                    scheduleGuardIfDocumentLostFocus();
+                } else if (e.key === 'F6' || (e.key === 'l' && e.ctrlKey)) {
+                    scheduleGuardIfDocumentLostFocus();
+                }
+            }, true);
+
+            window.addEventListener('focus', function () {
+                if (!awaitingReentry) {
+                    return;
+                }
+                applyGuard();
+                focusSkipLink();
+            }, true);
+
+            document.addEventListener('focusin', function (e) {
+                var reentryFromChrome = awaitingReentry || isExplicitlyOutsideDocument(e.relatedTarget);
+                if (!reentryFromChrome) {
+                    return;
+                }
+                if (isSkipLinkElement(e.target)) {
+                    clearGuard();
+                    return;
+                }
+                applyGuard();
+                focusSkipLink();
+                clearGuard();
+            }, true);
+        })();
+    </script>
+    <form name="mainForm" method="post" action="/Home/Tabs/Featured-Links/Coronavirus-COVID-19" id="mainForm">
+<input type="hidden" name="ctl04_seamless_script_manager_TSM" id="ctl04_seamless_script_manager_TSM" value="" />
+<input type="hidden" name="__SEAMLESSVIEWSTATE" id="__SEAMLESSVIEWSTATE" value="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" />
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="" />
+
+
+<script src="/Telerik.Web.UI.WebResource.axd?_TSM_HiddenField_=ctl04_seamless_script_manager_TSM&amp;compress=1&amp;_TSM_CombinedScripts_=%3b%3bSystem.Web.Extensions%2c+Version%3d4.0.0.0%2c+Culture%3dneutral%2c+PublicKeyToken%3d31bf3856ad364e35%3aen-GB%3add3ac3d5-1e29-4112-8fed-529caffa8f24%3aea597d4b%3bOpenCities.CustomControls%3aen-GB%3a7197b077-b068-4a69-9481-a6cf2e7718f9%3a8e1d32bf" type="text/javascript"></script>
+<script src="/ScriptResource.axd?d=EYVjNsQ7oYmzBqCI0dkEyYe0LYmPcVFL4WPcQCXhKfQwUqkAT7lLra0za-OLMuUUcCyPINdTVMHIWti96-8R_oN-trjXUUZnJRzckxTjid4ecctwwEJyNI-05jZYvXHBRiEKL0MUQMEyEJ2FXanyE1uBk88RxZ1wVK6AUn9D4v8rW-LNx2OOtB8vE3hC8P0jk4XZt7GAPiCeYQolxUlwFZA8cuOfgd4u08OASxFdh8mChz3A0YHhuwRrXGVlulfs9SJVkAvulhjdHYIIp1SRohDxt9acTwxUQrOlxuxC847b00zOOWg9SlpwD_iBuQQ1rOK9WH9O_wN9c2TXm4GeXaQHHT4yQ9IlzZXw6th8ch3f-k_n1yYeeurDMbwChXW1Vh_7rpu00kgmegsg9w2J3ququXIPfy2Gq8IscVTmtwouupfmUzAOicU_yESgQ-dG0" type="text/javascript"></script>
+    
+<script type="text/javascript">
+    try{
+        function SeamlessEndRequestHandler(sender, args) {
+            try {
+                var dataItems = args.get_dataItems();
+                if(dataItems.ctl04_seamless_script_manager)
+                    document.getElementById('__SEAMLESSVIEWSTATE').value = dataItems.ctl04_seamless_script_manager;
+            }
+            catch (e) { }
+        }
+
+        Sys.WebForms.PageRequestManager.getInstance().add_endRequest(SeamlessEndRequestHandler);
+    }
+    catch (e) { }
+</script>
+
+    <div class="unsupported-browser-warning js-element"></div>
+    
+    <div hidden>
+        <span id="new-window-0">opens in new tab or window </span>
+    </div>
+    <div class="overlay-container"></div>
+    
+    <div class="background-container">
+        <div class="page-container">
+            <!-- OC Layout Element GROUP TEMPLATE -->
+            <!--groupTemplateStart--><header><div class="print-header-outer-container print-element">
+<img src="/files/templates/00000000-0000-0000-0000-000000000000/b32c9b6c-7400-488a-8246-4bc7b2004122/v/339/CHEY_Logo_Primary_White.svg" alt="City of Cheyenne - Logo" />
+</div>
+            <div class="toolbar-outer-container">
+  <div class="toolbar-inner-container clearfix">
+    <div class="toolbar-item toolbar-language notranslate toolbar-display-dropdown"><div class="no-js-element">
+		  <ul>
+		    <li id="toolbar-language-option-en-us-noscript"><a href="https://www.cheyennecity.org/Home/Tabs/Featured-Links/Coronavirus-COVID-19?oc_lang=en-US" class="lang-item lang-en-us" data-translate-to="en-us" lang="en-US">English (United States)<span class="visuallyhidden"> Select this as your preferred language</span></a></li><li id="toolbar-language-option-es-noscript"><a href="https://www.cheyennecity.org/Home/Tabs/Featured-Links/Coronavirus-COVID-19?oc_lang=es" class="lang-item lang-es" data-translate-to="es" lang="en">Spanish<span class="visuallyhidden"> Select this as your preferred language</span></a></li>
+          </ul>
+		</div>
+	<button type="button" role="combobox" aria-controls="toolbar-language-drop-down" aria-expanded="false" aria-haspopup="listbox" aria-autocomplete="none" aria-labelledby="toolbar-language-label" class="toolbar-button toolbar-button-language js-element">  
+        <span class="toolbar-language-globe-icon" aria-hidden="true"></span>
+        <span id="toolbar-language-label" class="current-language">
+            Select a language to translate to
+		</span>
+		<i aria-hidden="true"></i>
+	</button>
+	<div id="toolbar-language-drop-down" role="listbox" aria-label="Available languages" class="toolbar-drop-down toolbar-language-drop-down js-element clearfix">
+		<ul role="group">
+		    <li role="presentation"><a id="toolbar-language-option-en-us" role="option" aria-selected="true" href="https://www.cheyennecity.org/Home/Tabs/Featured-Links/Coronavirus-COVID-19?oc_lang=en-US" class="lang-item lang-en-us" data-translate-to="en-us" lang="en-US">English (United States)<span class="visuallyhidden"> Select this as your preferred language</span></a></li><li role="presentation"><a id="toolbar-language-option-es" role="option" aria-selected="false" href="https://www.cheyennecity.org/Home/Tabs/Featured-Links/Coronavirus-COVID-19?oc_lang=es" class="lang-item lang-es" data-translate-to="es" lang="en">Spanish<span class="visuallyhidden"> Select this as your preferred language</span></a></li>
+        </ul>
+	</div></div>
+  </div>
+</div>
+            <div class="header-outer-container">
+    <div class="header-container header-layout-3  clearfix">
+			<div class="header-site-logo">
+				<a href="https://www.cheyennecity.org/Home" lang="en-US" aria-label="City of Cheyenne - Home - Logo">
+				</a>
+			</div>
+      
+		    <div class="mobile-search-btn js-element">
+		        <button><i aria-hidden="true"></i><span class="mobile-search-btn-text"><span class="visuallyhidden">Open </span>Search</span></button>
+		    </div>
+		    <div class="header-website-settings">
+                <button id="btn-mob-nav" type="button" aria-expanded="false" aria-controls="nav">
+                    <i aria-hidden="true"></i><span class="side-menu-btn-text">Menu</span>
+                </button>
+        	</div>
+          <div class="navigation-outer-container">
+	<div id="nav" role="navigation" class="navigation-container  navigation-container-option-7" data-menu-type="horizontal" aria-label="primary">
+        <div class="grid">
+            <div class="col-xs-12">              
+                <ul class="sf-menu" id="sc-main-menu"><li class="nav-section-quarters-1   first-item nav-item-seq-1">
+<a href="https://www.cheyennecity.org/Your-Government" class="nav-level-1 nav-has-children"  target="">
+	<i class="item-icon" aria-hidden="true"></i><span class="item-text">Your Government</span>
+</a>
+<button aria-label="Expand" aria-haspopup="true" class="mobnav-subarrow" aria-controls="sc-menu-second-level-nav-item-seq-1">
+              <i aria-hidden="true"></i>
+              </button>
+<ul id="sc-menu-second-level-nav-item-seq-1">
+
+          
+            <li class=" "><a  href="https://www.cheyennecity.org/Your-Government/Mayor" class="nav-has-children"  target="">Mayor Patrick Collins</a><button aria-label="Expand" aria-haspopup="true" class="mobnav-subarrow-child" aria-controls="sc-menu-third-level-nav-item-seq-1-nav-item-seq-1"><i aria-hidden="true"></i>
+              </button>
+<ul id="sc-menu-third-level-nav-item-seq-1-nav-item-seq-1">
+          
+            <li  class=" "><a href="https://www.cheyennecity.org/Your-Government/Mayor/Cheyenne-Mayors"  target="">Cheyenne Mayors</a></li></ul></li><li class=" "><a  href="https://www.cheyennecity.org/Your-Government/City-Council" class="nav-has-children"  target="">City Council</a><button aria-label="Expand" aria-haspopup="true" class="mobnav-subarrow-child" aria-controls="sc-menu-third-level-nav-item-seq-1-nav-item-seq-2"><i aria-hidden="true"></i>
+              </button>
+<ul id="sc-menu-third-level-nav-item-seq-1-nav-item-seq-2">
+          
+            <li  class=" "><a href="https://www.cheyennecity.org/Your-Government/City-Council/Committees"  target="">Committee Information</a></li><li  class=" "><a href="https://www.cheyennecity.org/Your-Government/City-Council/Minutes-and-Agendas"  target="">Minutes and Agendas</a></li></ul></li><li class=" "><a  href="https://www.cheyennecity.org/Your-Government/Boards-Commissions" class=""  target="">Boards / Commissions</a></li><li class=" "><a  href="https://www.cheyennecity.org/Your-Government/Departments" class="nav-has-children"  target="">Departments</a><button aria-label="Expand" aria-haspopup="true" class="mobnav-subarrow-child" aria-controls="sc-menu-third-level-nav-item-seq-1-nav-item-seq-4"><i aria-hidden="true"></i>
+              </button>
+<ul id="sc-menu-third-level-nav-item-seq-1-nav-item-seq-4">
+          
+            <li  class=" "><a href="https://www.cheyennecity.org/Your-Government/Departments/Attorney"  target="">City Attorney</a></li><li  class=" "><a href="https://www.cheyennecity.org/Your-Government/Departments/City-Clerk"  target="">City Clerk</a></li><li  class=" "><a href="https://www.cheyennecity.org/Your-Government/Departments/City-Engineer"  target="">City Engineer</a></li><li  class=" "><a href="https://www.cheyennecity.org/Your-Government/Departments/Community-Recreation-Events"  target="">Community Recreation & Events</a></li><li  class=" "><a href="https://www.cheyennecity.org/Your-Government/Departments/Cheyenne-Fire-Rescue"  target="">Cheyenne Fire Rescue</a></li><li  class=" "><a href="https://www.cheyennecity.org/Your-Government/Departments/Human-Resources"  target="">Human Resources</a></li><li  class=" "><a href="https://www.cheyennecity.org/Your-Government/Departments/Planning-and-Development-Department"  target="">Planning and Development</a></li><li  class=" "><a href="https://www.cheyennecity.org/Your-Government/Departments/Public-Works"  target="">Public Works</a></li><li  class=" "><a href="https://www.cheyennecity.org/Your-Government/Departments/City-Treasurer"  target="">City Treasurer</a></li><li  class=" "><a href="https://www.cheyennecity.org/Your-Government/Departments/Compliance-Department"  target="">Compliance Department</a></li><li  class=" "><a href="https://www.cheyennecity.org/Your-Government/Departments/Mayors-Office"  target="">Mayor's Office</a></li><li  class=" "><a href="https://www.cheyennecity.org/Your-Government/Departments/Police-Department"  target="">Police Department</a></li></ul></li><li class=" "><a  href="https://www.cheyennecity.org/Your-Government/Demographics" class=""  target="_blank">Demographics</a></li><li class=" "><a  href="https://www.cheyennecity.org/Your-Government/Sister-Cities" class=""  target="">Sister Cities</a></li><li class=" "><a  href="https://www.cheyennecity.org/Your-Government/Cemetery-Complex" class=""  target="">Cemetery Complex</a></li><li class=" "><a  href="https://www.cheyennecity.org/Your-Government/Municipal-Court" class=""  target="">Municipal Court</a></li><li class=" "><a  href="https://www.cheyennecity.org/Your-Government/Municipal-Elections" class=""  target="_self">Municipal Elections</a></li><li class=" "><a  href="https://www.cheyennecity.org/Your-Government/Youth-Alternatives" class=""  target="_self">Youth Alternatives</a></li><li class=" "><a  href="https://www.cheyennecity.org/Your-Government/Connect-Cheyenne-Engage-Explore-and-Discover" class=""  target="">Connect Cheyenne: Engage, Explore, and Discover</a></li></ul></li>
+          
+            <li class="nav-section-quarters-1   nav-item-seq-2">
+<a href="https://www.cheyennecity.org/Business" class="nav-level-1 "  target="">Business</a>
+</li>
+          
+            <li class="nav-section-quarters-2   nav-item-seq-3">
+<a href="https://www.cheyennecity.org/Services" class="nav-level-1 nav-has-children"  target="">Services</a>
+<button aria-label="Expand" aria-haspopup="true" class="mobnav-subarrow" aria-controls="sc-menu-second-level-nav-item-seq-3">
+              <i aria-hidden="true"></i>
+              </button>
+<ul id="sc-menu-second-level-nav-item-seq-3">
+
+          
+            <li class=" "><a  href="https://www.cheyennecity.org/Services/Building-Safety" class=""  target="_self">Building Safety</a></li></ul></li>
+          
+            <li class="nav-section-quarters-2   nav-item-seq-4">
+<a href="https://www.cheyennecity.org/Explore-Cheyenne" class="nav-level-1 "  target="">Explore</a>
+</li>
+          
+            <li class="nav-section-quarters-3   nav-item-seq-5">
+<a href="https://www.cheyennecity.org/I-Want-To" class="nav-level-1 "  target="">I Want To</a>
+</li>
+          
+            </ul>
+            </div>
+        </div>
+    </div>
+</div>
+			
+			<div class="header-search-control-container" id="header-search">
+				<div class="search-inner-container">
+					<div class="sc-search-panel">
+	<label for="ctl08_txtSearch" id="ctl08_lblSearch" class="sc-search-label">Search</label><input name="ctl08$txtSearch" type="text" id="ctl08_txtSearch" class="sc-search-text" placeholder="How can we help you?" /><input type="submit" name="ctl08$btnSearch" value="Search" id="ctl08_btnSearch" class="sc-search-button" />
+</div>
+					<div role="status" id="predictiveResults"></div>
+				</div>
+			</div>
+    </div>
+</div>
+
+            </header>
+            <div class="content-outer-container">
+                <div id="main" role="main" class="main-outer-container clearfix">
+                        
+                        <div class="content-main-container">
+                            <div class="grid">
+					            <div class="col-xs-12">
+						            <nav id="breadcrumbs-container" aria-label="You Are Here :">
+							            <span role="list">
+<span role="listitem">
+	<a href="https://www.cheyennecity.org/Home"  lang="en-US">Home</a>
+	<span class="nav-separator" aria-hidden="true" role="presentation">/</span>
+</span>
+          <span class="current-page" role="listitem" aria-current="page" >Coronavirus (COVID-19)</span></span>
+						            </nav>
+					            </div>
+                      
+					            <div class="col-xs-12">
+						            <div class="main-inner-container">
+							            <div id="main-content" class="main-container clearfix">
+							              <div id="readspeaker_button_default" class="rs_skip rsbtn rs_preserve rs_position_left">
+    <a rel="nofollow" class="rsbtn_play" accesskey="L" title="Listen to this page using ReadSpeaker" href="//app-oc.readspeaker.com/cgi-bin/rsent?customerid=11555&amp;lang=en_us&amp;readid=main-content&amp;url=https%3A%2F%2Fwww.cheyennecity.org%2FHome%2FTabs%2FFeatured-Links%2FCoronavirus-COVID-19">
+        <span class="rsbtn_left rsimg rspart"><span class="rsbtn_text"><span>Listen</span></span></span>
+        <span class="rsbtn_right rsimg rsplay rspart"></span>
+    </a>
+</div>
+                            <!-- OC Layout Element Conent Template -->
+							              <!--normalTemplateStart--><div class="grid">
+    <div class="col-xs-12">
+        <h1 class='oc-page-title '>Coronavirus (COVID-19)</h1>
+        
+        
+       <picture>
+  <source media="(min-width: 992px)" srcset="/files/assets/public/v/1/covid/coronavirus-cdc.jpg?dimension=pageimage&w=480">
+  <source media="(min-width: 768px)" srcset="/files/assets/public/v/1/covid/coronavirus-cdc.jpg?dimension=pageimage&w=480">
+  <source srcset="/files/assets/public/v/1/covid/coronavirus-cdc.jpg?dimension=pageimage&w=480">
+  <img class="main-page-image" src="/files/assets/public/v/1/covid/coronavirus-cdc.jpg?dimension=pageimage&w=480" alt="Coronavirus-CDC.jpg" />
+</picture> 
+      
+        <h2>Introduction</h2>
+<p>The City of Cheyenne and local health officials are closely monitoring the coronavirus (COVID-19) pandemic. This page is available to provide information on the virus, basic precautionary health measures, resources, and updates as they become available.&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<div data-layout="3" data-title-level="2" class="featured-links featured-links-option-3">
+<div class="featured-links-body clearfix">
+<ul class="clearfix">
+<li><a class="featured-link" href="https://health.wyo.gov/publichealth/infectious-disease-epidemiology-unit/disease/novel-coronavirus/covid-19-map-and-statistics/" target="">Wyoming Dept. of Health Map &amp; Statistics</a></li>
+<li><a class="featured-link" href="https://covid19-clcgisc.hub.arcgis.com/" target="">Cheyenne-Laramie County Maps and Data</a></li>
+<li><a class="featured-link" href="https://www.laramiecountycovid.com/" target="">COVID-19 Laramie County Guidance</a></li>
+</ul>
+</div>
+</div>
+<div data-type="0" data-title-level="2" class="oc-wysiwyg-container">
+<div class="oc-wysiwyg-container-panel">
+<h2>Statewide Public Health Orders</h2>
+<div class="oc-wysiwyg-container-panel-content">
+<h2 style="text-align: center;">27th Continuation of Statewide Public Health Orders&nbsp;</h2>
+<p style="text-align: center;"><em><span style="font-size: 125%;">(in effect May 17-31)</span></em></p>
+<p style="text-align: center;"><a href="/files/assets/public/v/1/covid/order1_27thcontinuation_signed.pdf" target="_self" title="Order1_27thContinuation_Signed.pdf" class="styled-button-calltoaction document ext-pdf"><i aria-hidden="true"></i>Order #1<span class="file-info">(PDF,&nbsp;1MB)</span></a>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+</div>
+</div>
+</div>
+<div data-type="0" data-title-level="2" class="oc-wysiwyg-container">
+<div class="oc-wysiwyg-container-panel">
+<h2>Laramie County Recovery Plan</h2>
+<div class="oc-wysiwyg-container-panel-content">
+<p><a href="/files/assets/public/v/1/covid/laramie-county-recovery-plan-3-16-21-v32.pdf" target="_self" title="LARAMIE COUNTY RECOVERY PLAN 3-16-21 (V32).pdf" class="styled-button-calltoaction document ext-pdf"><i aria-hidden="true"></i>Laramie County Recovery Plan<span class="file-info">(PDF,&nbsp;585KB)</span></a></p>
+</div>
+</div>
+</div>
+<div class="oc-wysiwyg-container-panel-content"></div>
+<h2>Latest Updates</h2>
+<div data-type="0" data-title-level="2" class="oc-wysiwyg-container">
+<div class="oc-wysiwyg-container-panel">
+<h2>March 2021</h2>
+<div class="oc-wysiwyg-container-panel-content">
+<p><strong>March 31 -&nbsp;</strong><a href="https://content.govdelivery.com/accounts/WYGOV/bulletins/2caa154" target="_self">All Wyomingites Over Age 16 Now Eligible for COVID-19 Vaccine</a></p>
+<p><strong>March 8 -&nbsp;</strong><a href="https://content.govdelivery.com/accounts/WYGOV/bulletins/2c5bfa9" target="_self">Governor Gordon Announces Removal of Statewide Mask Requirement,&nbsp;Lifts All Restrictions on Bars, Restaurants and Theaters</a></p>
+<p>&nbsp;</p>
+</div>
+</div>
+<div class="oc-wysiwyg-container-panel">
+<h2>February 2021</h2>
+<div class="oc-wysiwyg-container-panel-content">
+<p><strong>February 25 -&nbsp;</strong><a href="https://content.govdelivery.com/accounts/WYGOV/bulletins/2c3e15f" target="_self">Health Order Removed, Gathering Sizes Relaxed as Metrics Continue to Improve</a></p>
+<p><strong style="font-family: inherit; font-size: 1em;">February 11 -&nbsp;</strong><a href="https://content.govdelivery.com/accounts/WYGOV/bulletins/2c0c9fb" target="_self" style="font-family: inherit; font-size: 1em;">Governor Continues to Relax COVID-19 Protocols as Hospitalizations Decline</a></p>
+<p><strong style="font-family: inherit; font-size: 1em;">February 10 -</strong>&nbsp;<a href="https://content.govdelivery.com/accounts/WYGOV/bulletins/2c064c8" target="_self" style="font-family: inherit; font-size: 1em;">Governor Gordon Begins Preparations for Implementation of Federal Rental Assistance Program</a></p>
+<p>&nbsp;</p>
+</div>
+</div>
+<div class="oc-wysiwyg-container-panel">
+<h2>January 2021</h2>
+<div class="oc-wysiwyg-container-panel-content">
+<p><strong>January 21 -&nbsp;</strong><a href="https://content.govdelivery.com/accounts/WYGOV/bulletins/2ba8eca" target="_self">Health Orders Eased as COVID-19 Vaccination Efforts Continue</a></p>
+<p><strong>January 2 -&nbsp;</strong><a href="https://content.govdelivery.com/accounts/WYGOV/bulletins/2b3c987" target="_self">Bars, Restaurants Can Resume Late Night Service After Decline in COVID-19 Hospitalizations</a></p>
+<p>&nbsp;</p>
+</div>
+</div>
+</div>
+<div data-type="1" data-title-level="2" class="oc-wysiwyg-container">
+<div class="oc-wysiwyg-container-panel">
+<h2>December 2020</h2>
+<div class="oc-wysiwyg-container-panel-content">
+<p><strong>December 16 -&nbsp;</strong><span style="font-family: inherit; font-size: 1em; text-align: center;"><a href="https://content.govdelivery.com/accounts/WYGOV/bulletins/2b16690" target="_self">Governor Honors Health Care Heroes With Proclamations</a></span></p>
+<p><strong>December 11 -&nbsp;</strong><a href="https://content.govdelivery.com/accounts/WYGOV/bulletins/2b0b9d4" target="_self">Governor's Hospitality Loss Relief Program Open for Applications</a></p>
+<p><strong style="font-family: inherit; font-size: 1em;">December 8 -&nbsp;</strong><a href="https://content.govdelivery.com/accounts/WYGOV/bulletins/2b04186" target="_self" style="font-family: inherit; font-size: 1em;">Governor Gordon Announces Assistance Program for Businesses Impacted by Early Closures&nbsp;</a></p>
+<p><strong>December 7 -</strong>&nbsp;<a href="https://content.govdelivery.com/accounts/WYGOV/bulletins/2b00be5" target="_self">Increase in Deaths and Challenges to Hospital Capacity lead to New Actions to Fight Virus</a></p>
+<p>&nbsp;</p>
+</div>
+</div>
+<div class="oc-wysiwyg-container-panel">
+<h2>November 2020</h2>
+<div class="oc-wysiwyg-container-panel-content">
+<p><strong>November 19 -&nbsp;</strong><a href="https://content.govdelivery.com/accounts/WYGOV/bulletins/2ad6f79" target="_self">Governor Responds to Record COVID-19 Hospitalizations, Reduces Gathering Sizes</a></p>
+<p><strong style="font-family: inherit; font-size: 1em;">November 19 -&nbsp;</strong><a href="https://content.govdelivery.com/accounts/WYGOV/bulletins/2ad59e2" target="_self" style="font-family: inherit; font-size: 1em;">Governor Provides Additional Support to Wyoming Hospitals for COVID-19 Response</a></p>
+<p><strong style="font-family: inherit; font-size: 1em;">November 12</strong> -&nbsp;<a href="https://content.govdelivery.com/accounts/WYGOV/bulletins/2ab5aa0" target="_self" style="font-family: inherit; font-size: 1em;">Governor Gordon to hold COVID-19 briefing&nbsp;at 10 am, Friday, November 13</a></p>
+<p>&nbsp;</p>
+</div>
+</div>
+<div class="oc-wysiwyg-container-panel">
+<h2>October 2020</h2>
+<div class="oc-wysiwyg-container-panel-content">
+<p><strong>October 26 -&nbsp;</strong><a href="https://content.govdelivery.com/accounts/WYGOV/bulletins/2a7dcb8" target="_self">Governor Makes More COVID-19 Relief Funding Available to Businesses and Nonprofits Beginning Nov. 2</a></p>
+<p><strong style="font-family: inherit; font-size: 1em;">October 21 -&nbsp;</strong><a href="https://content.govdelivery.com/accounts/WYGOV/bulletins/2a6f2c7" target="_self" style="font-family: inherit; font-size: 1em;">Wyoming Submits Initial COVID-19 Vaccination Plan To CDC</a></p>
+<p><strong>October 20 -&nbsp;</strong><a href="https://content.govdelivery.com/accounts/WYGOV/bulletins/2a6ed90" target="_self">Governor Gordon to hold media briefing&nbsp;at 3 pm, Wednesday, October 21</a></p>
+<p><strong>October 14 -&nbsp;</strong><a href="https://content.govdelivery.com/accounts/WYGOV/bulletins/2a5ddf7" target="_self">Governor Utilizes CARES Funds to Provide Free COVID-19 Testing for Wyoming Residents</a></p>
+<p>&nbsp;</p>
+</div>
+</div>
+<div class="oc-wysiwyg-container-panel">
+<h2>September 2020</h2>
+<div class="oc-wysiwyg-container-panel-content">
+<p><strong>September 29</strong> -&nbsp;<a href="https://content.govdelivery.com/accounts/WYGOV/bulletins/2a35663" target="_self">Governor and Health Officer Loosen Restrictions on Restaurants and Keep Public Safe</a></p>
+<p><strong style="font-family: inherit; font-size: 1em;">September 23 -&nbsp;</strong> <a href="https://content.govdelivery.com/accounts/WYGOV/bulletins/2a2329d" target="_self" style="font-family: inherit; font-size: 1em;">Governor Gordon to hold media briefing&nbsp;at 3:30 pm, Thursday, September 24</a></p>
+<p><strong style="font-family: inherit; font-size: 1em;">September 15 -&nbsp;</strong><a href="https://content.govdelivery.com/accounts/WYGOV/bulletins/2a0977c" target="_self" style="font-family: inherit; font-size: 1em;">Health Orders Extended, Restrictions on Indoor Contact Sports Lifted</a></p>
+<p><strong>September 8 -&nbsp;</strong><a href="https://content.govdelivery.com/accounts/WYGOV/bulletins/29f3b70" target="_self">Governor Gordon to hold Media Briefing&nbsp;at 2 pm, Wednesday,&nbsp; September 9</a></p>
+<p>&nbsp;</p>
+</div>
+</div>
+<div class="oc-wysiwyg-container-panel">
+<h2>August 2020</h2>
+<div class="oc-wysiwyg-container-panel-content">
+<p><strong>August 27 -&nbsp;</strong><a href="https://content.govdelivery.com/accounts/WYGOV/bulletins/29c2938" target="_self">Public Health Orders Extended Without Changes</a></p>
+<p><strong style="font-family: inherit; font-size: 1em;">August 25 -&nbsp;</strong><a href="https://content.govdelivery.com/accounts/WYGOV/bulletins/29bc8b5" target="_self" style="font-family: inherit; font-size: 1em;">Governor Gordon to hold Media Briefing&nbsp;at 3 pm, Wednesday, August 26</a></p>
+<p><strong style="font-family: inherit; font-size: 1em;">August 21 -&nbsp;</strong><a href="/files/assets/public/covid/laramie-county%E2%80%99s-fourth-coronavirus-related-death-confirmed.pdf" target="_self" title="Laramie County’s Fourth Coronavirus-Related Death Confirmed.pdf" style="font-family: inherit; font-size: 1em;" class="document ext-pdf"><i aria-hidden="true"></i>Laramie County&rsquo;s Fourth Coronavirus-Related Death Confirmed<span class="file-info">(PDF,&nbsp;164KB)</span></a></p>
+<p><strong>August 14 -&nbsp;</strong><a href="https://content.govdelivery.com/accounts/WYGOV/bulletins/29a26e7" target="_self">Wyoming Launches COVID-19 Exposure Notification App with New Bluetooth Technology</a></p>
+<p><strong style="font-family: inherit; font-size: 1em;">August 12 -&nbsp;</strong><a href="https://content.govdelivery.com/accounts/WYGOV/bulletins/299eba4" target="_self" style="font-family: inherit; font-size: 1em;">Health Orders Extended, Outdoor Gathering Limits Eased</a></p>
+<p><strong>August 11 -&nbsp;</strong><a href="https://content.govdelivery.com/accounts/WYGOV/bulletins/299cb5e" target="_self">Governor Gordon to hold Media Briefing&nbsp;at 3 pm, Wednesday,&nbsp; August 12</a></p>
+<p><strong>August 6 -</strong>&nbsp;<a href="https://content.govdelivery.com/accounts/WYGOV/bulletins/2990f93" target="_self">Governor Gordon Launches Web Page to Track CARES Act Spending</a></p>
+<p><strong style="font-family: inherit; font-size: 1em;">August 5</strong> <strong>-</strong>&nbsp;<a href="https://content.govdelivery.com/accounts/WYGOV/bulletins/298e970" target="_self" style="font-family: inherit; font-size: 1em;">Governor Gordon uses CARES Act funds to pay for higher education for unemployed and underemployed adults</a></p>
+<p><strong>August 4 -&nbsp;</strong><span style="font-size: 1em; font-family: inherit;"><a href="https://content.govdelivery.com/accounts/WYGOV/bulletins/298ca23" target="_self">Governor Gordon to hold Media Briefing</a></span><span style="font-size: 1em; font-family: inherit;"><a href="https://content.govdelivery.com/accounts/WYGOV/bulletins/298ca23" target="_self">&nbsp;at 3 pm, Wednesday, August 5</a></span></p>
+<p><span style="font-size: 1em; font-family: inherit;"><strong>August 4 -&nbsp;</strong><a href="/files/assets/public/v/1/covid/press-release-cheyenne-civic-center.pdf" target="_self" title="Press Release - Cheyenne Civic Center.pdf" class="document ext-pdf"><i aria-hidden="true"></i>Cheyenne Civic Center Scheduled to Reopen<span class="file-info">(PDF,&nbsp;149KB)</span></a></span></p>
+</div>
+</div>
+<div class="oc-wysiwyg-container-panel">
+<h2>July 2020</h2>
+<div class="oc-wysiwyg-container-panel-content">
+<p><strong>July 28 -</strong> <a href="https://content.govdelivery.com/accounts/WYGOV/bulletins/2978cc5" target="_self">Extension of Current Public Health Orders Continues Through August 15&nbsp;</a></p>
+<p><strong>July 27 -</strong> <a href="https://content.govdelivery.com/accounts/WYGOV/bulletins/2978ae7" target="_self">Governor Gordon to hold Media Briefing at 3 pm, Tuesday, July 28&nbsp;</a></p>
+<p><strong>July 14 -&nbsp;</strong><a href="https://content.govdelivery.com/accounts/WYGOV/bulletins/295a266" target="_self">Governor Gordon to hold Media Briefing&nbsp;at 4:30 pm, Wednesday, July 15</a></p>
+<p><strong>July 13 -&nbsp;</strong><a href="https://content.govdelivery.com/accounts/WYGOV/bulletins/295810d" target="_self">Current Public Health Orders Extended through July 31</a></p>
+<p><strong>July 7 -&nbsp;</strong><a href="https://content.govdelivery.com/accounts/WYGOV/bulletins/2948239" target="_self">Governor Gordon to hold Media Briefing&nbsp;at 3 pm, Wednesday,&nbsp; July 8</a></p>
+<p><strong>July 7</strong> -&nbsp;<a href="/files/assets/public/covid/laramie-county%E2%80%99s-third-coronavirus-related-death-confirmed.pdf" target="_self" title="Laramie County’s Third Coronavirus-Related Death Confirmed" class="document ext-pdf"><i aria-hidden="true"></i>Laramie County&rsquo;s Third Coronavirus-Related Death Confirmed<span class="file-info">(PDF,&nbsp;162KB)</span></a></p>
+<p><strong>July 1</strong>&nbsp;-&nbsp;<a href="https://content.govdelivery.com/accounts/WYGOV/bulletins/2938b81" target="_self">Wyoming Citizens Can Now Use Care19 App for COVID-19 Tracking for Free</a></p>
+<p>&nbsp;</p>
+</div>
+</div>
+<div class="oc-wysiwyg-container-panel">
+<h2>June 2020</h2>
+<div class="oc-wysiwyg-container-panel-content">
+<p><strong>June 29 -&nbsp;</strong><a href="https://content.govdelivery.com/accounts/WYGOV/bulletins/2933330" target="_self">Governor Gordon to hold media briefing&nbsp;at 2:30 pm, Wednesday, July 1</a></p>
+<p><strong>June 29 -&nbsp;</strong><a href="https://content.govdelivery.com/accounts/WYGOV/bulletins/293369c?fbclid=IwAR2KXXsp8wrcdPHZlr1NKFw8Rdp7b-5bL94-VH2U3_LFEwmd4aHsWjHYrgg" target="_self">Governor Gordon continues to help small businesses recover from COVID-19</a></p>
+<p><strong>June 29</strong> -&nbsp;<a href="https://content.govdelivery.com/accounts/WYGOV/bulletins/293291e" target="_self">Public health orders remain unchanged as COVID-19 case numbers increase</a></p>
+<p><strong>June 26 -&nbsp;</strong><a href="/files/assets/public/v/1/covid/compliance-measures-implemented-for-local-restaurants-and-bars-due-to-rise-in-positive-cases.pdf" target="_self" title="Compliance Measures Implemented for Local Restaurants and Bars due to Rise in Positive Cases" class="document ext-pdf"><i aria-hidden="true"></i>Compliance Measures Implemented for Local Restaurants and Bars due to Rise in Positive Cases<span class="file-info">(PDF,&nbsp;166KB)</span></a></p>
+<p><strong>June 23 -&nbsp;</strong><a href="/files/assets/public/v/1/covid/three-new-positive-covid-19-cases-announced-five-local-restaurants-impacted.pdf" target="_self" title="Three New Positive COVID-19 Cases Announced, Five Local Restaurants Impacted .pdf" class="document ext-pdf"><i aria-hidden="true"></i>Three New Positive COVID-19 Cases Announced, Five Local Restaurants Impacted<span class="file-info">(PDF,&nbsp;168KB)</span></a></p>
+<p><strong>June 22 -</strong> <a href="/files/assets/public/v/1/covid/15-individuals-have-tested-positive-for-covid-19-over-seven-day-span.pdf" target="_self" title="15 Individuals Have Tested Positive for COVID-19 Over Seven Day Span.pdf" class="document ext-pdf"><i aria-hidden="true"></i>15 Individuals Have Tested Positive for COVID-19 During Seven Day Span<span class="file-info">(PDF,&nbsp;163KB)</span></a></p>
+<p><strong>June 17 -&nbsp;</strong><a href="/files/assets/public/v/1/covid/laramie-county-provides-modified-continuation-of-phase-2-recovery-plan.pdf" target="_self" title="Laramie County Provides Modified Continuation of Phase 2 Recovery Plan.pdf" class="document ext-pdf"><i aria-hidden="true"></i>Laramie County Provides Modified Continuation of Phase 2 Recovery Plan&nbsp;<span class="file-info">(PDF,&nbsp;149KB)</span></a></p>
+<p><strong>June 10 -&nbsp;</strong><a target="_blank" aria-label="Indoor gathering limits increased, parades permitted under updated health orders Opens in new window" href="https://content.govdelivery.com/accounts/WYGOV/bulletins/2901785" rel="noopener">Indoor gathering limits increased, parades permitted under updated health orders</a></p>
+<p><strong>June 4 -&nbsp;</strong><a target="_blank" aria-label="Governor instructs state agencies to prepare deeper budget reductions Opens in new window" href="https://content.govdelivery.com/accounts/WYGOV/bulletins/28eeda8?fbclid=IwAR2OafA5xG4R3WbaDK-zDA3uSf-vKKIR1znVj_WC-VRgk9rQ9Q-cvlhLX9c" rel="noopener">Governor instructs state agencies to prepare deeper budget reductions</a></p>
+<p><strong>June 3 -&nbsp;</strong><a target="_blank" href="https://content.govdelivery.com/accounts/WYGOV/bulletins/28ee2af" aria-label="Governor Gordon to hold media briefing at 3 pm Thursday, June 4 Opens in new window" rel="noopener">Governor Gordon to hold media briefing at 3 pm Thursday, June 4</a></p>
+<p><strong>June 1 -&nbsp;</strong><a href="/files/assets/public/v/1/covid/laramie-county-provides-updated-recovery-plan-document-for-phase-2.pdf" target="_self" title="Laramie County Provides Updated Recovery Plan Document for Phase 2.pdf" class="document ext-pdf"><i aria-hidden="true"></i>Laramie County Provides Updated Recovery Plan Document for Phase 2<span class="file-info">(PDF,&nbsp;147KB)</span></a></p>
+<p>&nbsp;</p>
+</div>
+</div>
+<div class="oc-wysiwyg-container-panel">
+<h2>May 2020</h2>
+<div class="oc-wysiwyg-container-panel-content">
+<p><strong>May 27 -&nbsp;</strong><a target="_blank" aria-label="Outdoor gatherings up to 250 persons to be permitted under new health orders Opens in new window" href="https://content.govdelivery.com/accounts/WYGOV/bulletins/28da7d2?fbclid=IwAR0x94fNM_ES8CxsdZcAuC0fWEObXEJJ8Dwqav_nRY1iap_DuQ8Kod4D7T4" rel="noopener">Outdoor gatherings up to 250 persons to be permitted under new health orders</a></p>
+<p><strong>May 26 -&nbsp;</strong><a target="_blank" aria-label="Governor Gordon to hold media briefing at 3 pm Wednesday, May 27 Opens in new window" href="https://content.govdelivery.com/accounts/WYGOV/bulletins/28d7062" rel="noopener">Governor Gordon to hold media briefing at 3 pm Wednesday, May 27</a></p>
+<p><strong>May 19 -&nbsp;</strong><a target="_blank" aria-label="Governor Gordon to hold media briefing on COVID-19, Special Session at 3 pm Wednesday, May 20 Opens in new window" href="https://content.govdelivery.com/accounts/WYGOV/bulletins/28c745a" rel="noopener">Governor Gordon to hold media briefing on COVID-19, Special Session at 3 pm Wednesday, May 20</a></p>
+<p><strong>May 18 -&nbsp;</strong><a target="_blank" href="https://content.govdelivery.com/accounts/WYGOV/bulletins/28c4234" aria-label="Governor Gordon issues statement on the three additional reported deaths from COVID-19 Opens in new window" rel="noopener">Governor Gordon issues statement on the three additional reported deaths from COVID-19</a></p>
+<p><strong>May 18 -&nbsp;</strong><a href="/files/assets/public/v/1/covid/laramie-countys-second-coronavirus-related-death-confirmed.pdf" target="_self" title="Laramie Countys Second Coronavirus-Related Death Confirmed.pdf" class="document ext-pdf"><i aria-hidden="true"></i>Laramie County's Second Coronavirus-Related Death Confirmed<span class="file-info">(PDF,&nbsp;166KB)</span></a></p>
+<p><strong>May 18 -&nbsp;</strong><a href="/files/assets/public/v/1/covid/wyoming-office-of-homeland-security-approved-to-purchase-ppe-for-local-businesses.pdf" target="_self" title="Wyoming Office of Homeland Security Approved to Purchase PPE for Local Businesses.pdf" class="document ext-pdf"><i aria-hidden="true"></i>Laramie County Businesses May Be Eligible for Personal Protective Equipment<span class="file-info">(PDF,&nbsp;167KB)</span></a></p>
+<p><strong>May 15 -&nbsp;</strong><a href="/files/assets/public/v/1/covid/laramie-county-provides-updated-recovery-plan-document-for-phase-1-seh-edits.pdf" target="_self" title="Laramie County Provides Updated Recovery Plan Document for Phase 1 -- SEH Edits.pdf" class="document ext-pdf"><i aria-hidden="true"></i>Laramie County Provides Update Recovery Plan Document for Phase 1<span class="file-info">(PDF,&nbsp;171KB)</span></a></p>
+<p><strong>May 13 -&nbsp;</strong><a target="_blank" aria-label="Restrictions ease under new orders, Governor allocates $17 million in CARES Act funding to expand COVID-19 testing and health response Opens in new window" href="https://content.govdelivery.com/accounts/WYGOV/bulletins/28b66c0" rel="noopener">Restrictions ease under new orders, Governor allocates $17 million in CARES Act funding to expand COVID-19 testing and health response</a></p>
+<p><strong>May 13 -&nbsp;</strong><a target="_blank" aria-label="Governor Gordon expresses support for phased reopenings of Yellowstone and Grand Teton National Parks Opens in new window" href="https://content.govdelivery.com/accounts/WYGOV/bulletins/28b5969" rel="noopener">Governor Gordon expresses support for phased reopenings of Yellowstone and Grand Teton National Parks</a></p>
+<p><strong>May 11 -&nbsp;</strong><a target="_blank" aria-label="Governor Gordon to hold media briefing on Wyoming's ongoing response to COVID-19 at 3 pm Wednesday, May 13 Opens in new window" href="https://content.govdelivery.com/accounts/WYGOV/bulletins/28b04c1" rel="noopener">Governor Gordon to hold media briefing on Wyoming's ongoing response to COVID-19 at 3 pm Wednesday, May 13</a></p>
+<p><strong>May 9 -&nbsp;</strong><a href="/files/assets/public/v/1/covid/laramie-county-reminds-residents-of-statewide-public-health-orders-in-place-through-may-15.pdf" target="_self" title="Laramie County Reminds Residents of Statewide Public Health Orders in Place Through May 15.pdf" class="document ext-pdf"><i aria-hidden="true"></i>Laramie County Reminds Residents of Statewide Public Health Orders in Place Through May 15<span class="file-info">(PDF,&nbsp;170KB)</span></a></p>
+<p><strong>May 7 -&nbsp;</strong><a target="_blank" aria-label="Governor Gordon calls Special Session of Wyoming Legislature to help respond to COVID-19 pandemic Opens in new window" href="https://content.govdelivery.com/accounts/WYGOV/bulletins/28a7598" rel="noopener">Governor Gordon calls Special Session of Wyoming Legislature to help respond to COVID-19 pandemic</a></p>
+<p><strong>May 6 -&nbsp;</strong><a target="_blank" aria-label="Governor Gordon to hold media briefing on Wyoming's ongoing response to COVID-19 at 3 pm Thursday, May 7 Opens in new window" href="https://content.govdelivery.com/accounts/WYGOV/bulletins/28a31ab" rel="noopener">Governor Gordon to hold media briefing on Wyoming's ongoing response to COVID-19 at 3 pm Thursday, May 7</a></p>
+<p><strong>May 5 -&nbsp;</strong><a href="/files/assets/public/v/1/covid/laramie-county-provides-recovery-plan-document-1.pdf" target="_self" title="Laramie County Provides Recovery Plan Document (1).pdf" class="document ext-pdf"><i aria-hidden="true"></i>Laramie County Provides Recovery Plan Document<span class="file-info">(PDF,&nbsp;167KB)</span></a></p>
+<p>&nbsp;</p>
+</div>
+</div>
+<div class="oc-wysiwyg-container-panel">
+<h2>April 2020</h2>
+<div class="oc-wysiwyg-container-panel-content">
+<p><strong>April 30 -&nbsp;</strong><a target="_blank" aria-label="Governor Gordon to hold media briefing on Wyoming's ongoing response to COVID-19 Opens in new window" href="https://content.govdelivery.com/accounts/WYGOV/bulletins/2893cb0" rel="noopener">Governor Gordon to hold media briefing on Wyoming's ongoing response to COVID-19</a></p>
+<p><strong>April 29 -&nbsp;</strong><a target="_blank" aria-label="Governor Gordon extends 14-day quarantine directive until May 8, announces campground openings Opens in new window" href="https://content.govdelivery.com/accounts/WYGOV/bulletins/28920bb" rel="noopener">Governor Gordon extends 14-day quarantine directive until May 8, announces campground openings</a></p>
+<p><strong>April 29 -&nbsp;</strong><a target="_blank" aria-label="Governor Gordon to hold media briefing on Wyoming's ongoing response to COVID-19 Opens in new window" href="https://content.govdelivery.com/accounts/WYGOV/bulletins/288ea48" rel="noopener">Governor Gordon to hold media briefing on Wyoming's ongoing response to COVID-19</a></p>
+<p><strong>April 28 -&nbsp;</strong><a target="_blank" href="https://content.govdelivery.com/accounts/WYGOV/bulletins/288e632" aria-label="Governor Gordon authorizes re-opening of Opens in new window" rel="noopener">Governor Gordon authorizes re-opening of&nbsp;</a>gyms, personal care services&nbsp;under new public health orders</p>
+<p><strong>April 27 -&nbsp;</strong><a target="_blank" aria-label="Governor Gordon to hold media briefing on Wyoming's ongoing response to COVID-19 Opens in new window" href="https://content.govdelivery.com/accounts/WYGOV/bulletins/288ae19" rel="noopener">Governor Gordon to hold media briefing on Wyoming's ongoing response to COVID-19</a></p>
+<p><strong>April 24 -&nbsp;</strong><a href="/files/assets/public/v/1/covid/community-leaders-working-to-ensure-a-safe-transition-towards-an-open-and-prosperous-laramie-county.pdf" target="_self" title="Community Leaders Working to Ensure a Safe Transition Towards an Open and Prosperous Laramie County.pdf" class="document ext-pdf"><i aria-hidden="true"></i>Community Leaders Working to Ensure a Safe Transition Towards an Open and Prosperous Laramie County<span class="file-info">(PDF,&nbsp;168KB)</span></a></p>
+<p><strong>April 23 -&nbsp;</strong><a target="_blank" aria-label="Governor Gordon unveils plan to ease COVID-19 restrictions Opens in new window" href="https://content.govdelivery.com/accounts/WYGOV/bulletins/2881457" rel="noopener">Governor Gordon unveils plan to ease COVID-19 restrictions</a></p>
+<p><strong>April 22 -&nbsp;</strong><a target="_blank" aria-label="Governor Gordon to hold media briefing on Wyoming's ongoing response to COVID-19 Opens in new window" href="https://content.govdelivery.com/accounts/WYGOV/bulletins/287db4d" rel="noopener">Governor Gordon to hold media briefing on Wyoming's ongoing response to COVID-19</a></p>
+<p><strong>April 21 -&nbsp;</strong><a target="_blank" href="https://content.govdelivery.com/accounts/WYGOV/bulletins/287ae53" aria-label="Governor Gordon issues statement on the deaths of four Northern Arapaho tribal members from COVID-19 Opens in new window" rel="noopener">Governor Gordon issues statement on the deaths of four Northern Arapaho tribal members from COVID-19</a></p>
+<p><strong>April 17 -&nbsp;</strong><a target="_blank" aria-label="Governor Gordon thanks Wyomingites, Opens in new window" href="https://content.govdelivery.com/accounts/WYGOV/bulletins/287209c" rel="noopener">Governor Gordon thanks Wyomingites,</a>&nbsp;confirms COVID-19 Public Health Orders&nbsp;will remain in place through April 30</p>
+<p><strong>April 17 -&nbsp;</strong><a href="/files/assets/public/v/1/covid/positive-covid-19-cases-now-at-69.pdf" target="_self" title="Positive COVID-19 Cases Now at 69.pdf" class="document ext-pdf"><i aria-hidden="true"></i>Positive COVID-19 Cases Now at 69<span class="file-info">(PDF,&nbsp;166KB)</span></a></p>
+<p><strong>April 16 -&nbsp;</strong><a target="_blank" aria-label="West Edge Zoning Workshop Available Online Through April 30 Opens in new window" href="https://www.cheyennecity.org/DocumentCenter/View/31439/West-Edge-Zoning-Workshop-Available-Online-Through-April-30" rel="noopener">West Edge Zoning Workshop Available Online Through April 30</a></p>
+<p><strong>April 15 -&nbsp;</strong><a target="_blank" aria-label="Governor Gordon instructs state agencies to prepare for COVID-19 budget impacts Opens in new window" href="https://content.govdelivery.com/accounts/WYGOV/bulletins/286aec5" rel="noopener">Governor Gordon instructs state agencies to prepare for COVID-19 budget impacts</a></p>
+<p><strong>April 15 -&nbsp;</strong><a target="_blank" aria-label="Wyoming's Second Coronavirus-Related Death Confirmed (First in Laramie County) Opens in new window" href="https://health.wyo.gov/wyomings-second-coronavirus-related-death-confirmed/" rel="noopener">Wyoming's Second Coronavirus-Related Death Confirmed (First in Laramie County)</a></p>
+<p><strong>April 15 -&nbsp;</strong><a target="_blank" aria-label="Governor Gordon to hold media briefing on Wyoming's ongoing response to COVID-19 Opens in new window" href="https://content.govdelivery.com/accounts/WYGOV/bulletins/2866dfa" rel="noopener">Governor Gordon to hold media briefing on Wyoming's ongoing response to COVID-19</a></p>
+<p><strong>April 13 -&nbsp;</strong><a target="_blank" aria-label="Governor Gordon issues statement on the confirmation of the first coronavirus-related death in Wyoming Opens in new window" href="https://content.govdelivery.com/accounts/WYGOV/bulletins/286480a" rel="noopener">Governor Gordon issues statement on the confirmation of the first coronavirus-related death in Wyoming</a></p>
+<p><strong>April 11 -&nbsp;</strong><a href="/files/assets/public/v/1/covid/cheyenne-transit-program-to-provide-single-passenger-paratransit-services-for-essential-trips-1.pdf" target="_self" title="Cheyenne Transit Program to Provide Single Passenger Paratransit Services for Essential Trips (1).pdf" class="document ext-pdf"><i aria-hidden="true"></i>Cheyenne Transit Program to Provide Single Passenger Paratransit Services for Essential Trips<span class="file-info">(PDF,&nbsp;220KB)</span></a></p>
+<p><strong>April 10 -&nbsp;</strong><a href="/files/assets/public/v/1/covid/mayor-marian-orr-joins-governor-mark-gordons-call-for-prayer.pdf" target="_self" title="Mayor Marian Orr Joins Governor Mark Gordons Call for Prayer.pdf" class="document ext-pdf"><i aria-hidden="true"></i>Mayor Marian Orr Joins Governor Mark Gordon's Call for Prayer<span class="file-info">(PDF,&nbsp;219KB)</span></a></p>
+<p><strong>April 9 -&nbsp;</strong><a target="_blank" aria-label="Governor Gordon proclaims April 10 Day of Prayer Opens in new window" href="https://content.govdelivery.com/accounts/WYGOV/bulletins/285cb46" rel="noopener">Governor Gordon proclaims April 10 Day of Prayer</a></p>
+<p><strong>April 9 -&nbsp;</strong><a href="/files/assets/public/v/1/covid/positive-covid-19-cases-now-at-53.pdf" target="_self" title="Positive COVID-19 Cases Now at 53.pdf" class="document ext-pdf"><i aria-hidden="true"></i>Positive COVID-19 Cases Now at 53<span class="file-info">(PDF,&nbsp;165KB)</span></a></p>
+<p><strong>April 9 -&nbsp;</strong><a target="_blank" aria-label="Gov. Gordon requests federal disaster declaration for Wyoming Opens in new window" href="https://content.govdelivery.com/accounts/WYGOV/bulletins/285b7fb" rel="noopener">Gov. Gordon requests federal disaster declaration for Wyoming</a></p>
+<p><strong>April 7 -&nbsp;</strong><a href="/files/assets/public/v/1/covid/laramie-county-eoc-accepting-donations-from-the-public.pdf" target="_self" title="Laramie County EOC Accepting Donations from the Public.pdf" class="document ext-pdf"><i aria-hidden="true"></i>Laramie County EOC Accepting Donations from the Public<span class="file-info">(PDF,&nbsp;187KB)</span></a></p>
+<p><strong>April 6 -&nbsp;</strong><a target="_blank" aria-label="Federal aid to more Wyoming residents coming soon (Wyoming Department of Workforce Services) Opens in new window" href="http://www.wyomingworkforce.org/news/2020-04-06/?fbclid=IwAR1Oq_uJiZi5MTNXwYHy-scm9sL44eN0k_PcNXypBYvWjTRhzgnGaa9l9Qg" rel="noopener">Federal aid to more Wyoming residents coming soon (Wyoming Department of Workforce Services)</a></p>
+<p><strong>April 3 -&nbsp;</strong><a href="/files/assets/public/v/1/covid/meeting-presss-release-with-hyperlinks_-1.pdf" target="_self" title="Meeting Presss Release with Hyperlinks_ (1).pdf" class="document ext-pdf"><i aria-hidden="true"></i>Laramie County Commissioners Electronic Meeting Update<span class="file-info">(PDF,&nbsp;118KB)</span></a></p>
+<p><strong>April 3 -&nbsp;</strong><a target="_blank" aria-label="Governor, State Health Officer extend statewide Public Health Orders through April 30 Opens in new window" href="https://content.govdelivery.com/accounts/WYGOV/bulletins/284a9bc" rel="noopener">Governor, State Health Officer extend statewide Public Health Orders through April 30</a></p>
+<p><strong>April 3 -&nbsp;</strong><a href="/files/assets/public/v/1/covid/office-of-youth-alternatives-continues-to-provide-services-remotely.pdf" target="_self" title="Office of Youth Alternatives Continues to Provide Services Remotely.pdf" class="document ext-pdf"><i aria-hidden="true"></i>Office of Youth Alternatives Continues to Provide Services Remotely<span class="file-info">(PDF,&nbsp;193KB)</span></a></p>
+<p><strong>April 2 -&nbsp;</strong><a href="/files/assets/public/v/1/covid/positive-covid-19-cases-now-at-37.pdf" target="_self" title="Positive COVID-19 Cases Now at 37.pdf" class="document ext-pdf"><i aria-hidden="true"></i>Positive COVID-19 Cases Now at 37<span class="file-info">(PDF,&nbsp;164KB)</span></a></p>
+<p><strong>April 2</strong>&nbsp;-&nbsp;<a href="/files/assets/public/v/1/covid/be-aware-of-fraudulent-services-due-to-covid-19-pandemic.pdf" target="_self" title="Be Aware of Fraudulent Services due to COVID-19 Pandemic.pdf" class="document ext-pdf"><i aria-hidden="true"></i>Be Aware of Fraudulent Services due to COVID-19 Pandemic<span class="file-info">(PDF,&nbsp;190KB)</span></a></p>
+<p><strong>April 2</strong>&nbsp;-&nbsp;<a href="/files/assets/public/v/1/covid/city-of-cheyenne-baseball-softball-facilities-remain-closed-to-public.pdf" target="_self" title="City of Cheyenne Baseball-Softball Facilities Remain Closed to Public.pdf" class="document ext-pdf"><i aria-hidden="true"></i>City of Cheyenne Baseball/Softball Facilities Remain Closed<span class="file-info">(PDF,&nbsp;188KB)</span></a></p>
+<p><strong>April 2 -&nbsp;</strong><a target="_blank" aria-label="Disaster Distress Helpline Information Opens in new window" href="https://www.samhsa.gov/find-help/disaster-distress-helpline" rel="noopener">Disaster Distress Helpline Information</a></p>
+<p><strong>April 1 -&nbsp;</strong><a href="/files/assets/public/v/1/covid/2020-4-1-home-fires.pdf" target="_self" title="2020-4-1 Home Fires.pdf" class="document ext-pdf"><i aria-hidden="true"></i>Cheyenne Fire Rescue Reminds Residents to be Safe at Home During COVID-19 Pandemic<span class="file-info">(PDF,&nbsp;98KB)</span></a></p>
+<p><strong>April 1 -&nbsp;</strong><a target="_blank" aria-label="Cheyenne Regional Medical Center to Implement New Visitation Restrictions as of 6 a.m. on April 2, 2020 Opens in new window" href="https://www.cheyenneregional.org/patients-visitors/covid-19-information/" rel="noopener">Cheyenne Regional Medical Center to Implement New Visitation Restrictions as of 6 a.m. on April 2, 2020</a></p>
+<p>&nbsp;</p>
+</div>
+</div>
+<div class="oc-wysiwyg-container-panel">
+<h2>March 2020</h2>
+<div class="oc-wysiwyg-container-panel-content">
+<p><strong>March 31 -&nbsp;</strong><a target="_blank" aria-label="Governor Gordon signs Executive Order allowing alcohol sales with pick-up food orders Opens in new window" href="http://www.cheyennecity.org/Governor%20signs%20Executive%20Order%20allowing%20alcohol%20sales%20with%20pick-up%20food%20orders%20%20For%20more%20information,%20click%20on%20the%20link%20below%20%20https://content.govdelivery.com/accounts/WYGOV/bulletins/2842836" rel="noopener">Governor Gordon signs Executive Order allowing alcohol sales with pick-up food orders</a></p>
+<p><strong>March 30 -&nbsp;</strong><a href="/files/assets/public/v/1/covid/positive-covid-19-cases-now-at-21.pdf" target="_self" title="Positive COVID-19 Cases Now at 21.pdf" class="document ext-pdf"><i aria-hidden="true"></i>Positive COVID-19 Cases Now at 21<span class="file-info">(PDF,&nbsp;164KB)</span></a></p>
+<p><strong>March 30 -&nbsp;</strong><a href="/files/assets/public/v/1/covid/greater-cheyenne-covid-19-emergency-relief-fund-announced.pdf" target="_self" title="Greater Cheyenne COVID-19 Emergency Relief Fund Announced.pdf" class="document ext-pdf"><i aria-hidden="true"></i>Greater Cheyenne COVID-19 Emergency Relief Fund Announced<span class="file-info">(PDF,&nbsp;203KB)</span></a></p>
+<p><strong>March 27 -&nbsp;</strong><a target="_blank" aria-label="Governor announces availability of Layoff Aversion Grants to Wyoming businesses Opens in new window" href="https://content.govdelivery.com/accounts/WYGOV/bulletins/283a076" rel="noopener">Governor announces availability of Layoff Aversion Grants to Wyoming businesses</a></p>
+<p><strong>March 27 -&nbsp;</strong><a href="/files/assets/public/v/1/covid/positive-covid-19-cases-now-at-17.pdf" target="_self" title="Positive COVID-19 Cases Now at 17.pdf" class="document ext-pdf"><i aria-hidden="true"></i>Positive COVID-19 Cases Now at 17<span class="file-info">(PDF,&nbsp;163KB)</span></a></p>
+<p><strong>March 27 -&nbsp;</strong><a target="_blank" aria-label="Governor, State Health Officers extend Statewide Public Health Orders through April 17 Opens in new window" href="https://content.govdelivery.com/accounts/WYGOV/bulletins/2839933" rel="noopener">Governor, State Health Officer extend Statewide Public Health Orders through April 17</a></p>
+<p><strong>March 26 -&nbsp;</strong><a href="/files/assets/public/v/1/covid/city-transitions-away-from-cash-payments-due-to-covid-19-1.pdf" target="_self" title="City Transitions Away From Cash Payments due to COVID-19 (1).pdf" class="document ext-pdf"><i aria-hidden="true"></i>City Transitions Away From Cash Payments due to COVID-19<strong>&nbsp;</strong><span class="file-info">(PDF,&nbsp;175KB)</span></a></p>
+<p><strong>March 26 -&nbsp;</strong><a href="/files/assets/public/v/1/covid/mayor-marian-orr-reiterates-the-need-for-agricultural-retail-stores.pdf" target="_self" title="Mayor Marian Orr Reiterates the Need for Agricultural Retail Stores.pdf" class="document ext-pdf"><i aria-hidden="true"></i>Mayor Marian Orr Reiterates the Need for Agricultural Retail Stores<span class="file-info">(PDF,&nbsp;162KB)</span></a></p>
+<p><strong>March 26 -&nbsp;</strong><a href="/files/assets/public/v/1/covid/laramie-county-eoc-and-crmc-accepting-mask-donations.pdf" target="_self" title="Laramie County EOC and CRMC Accepting Mask Donations.pdf" class="document ext-pdf"><i aria-hidden="true"></i>Laramie County EOC and CRMC Accepting Mask Donations<span class="file-info">(PDF,&nbsp;166KB)</span></a></p>
+<p><strong>March 26 -&nbsp;</strong><a href="/files/assets/public/v/1/covid/no-stay-at-home-orders-in-place-for-laramie-county.pdf" target="_self" title="No Stay at Home Orders in Place for Laramie County.pdf" class="document ext-pdf"><i aria-hidden="true"></i>No Stay at Home Orders in Place for Laramie County<span class="file-info">(PDF,&nbsp;161KB)</span></a></p>
+<p><strong>March 25 -&nbsp;</strong><a target="_blank" aria-label="Governor Gordon, top officials call for all Wyoming citizens to stay home Opens in new window" href="https://content.govdelivery.com/accounts/WYGOV/bulletins/283364d" rel="noopener">Governor Gordon, top officials call for all Wyoming citizens to stay home</a></p>
+<p><strong>March 25 -&nbsp;</strong><a href="/files/assets/public/v/1/covid/positive-covid-19-cases-now-at-11.pdf" target="_self" title="Positive COVID-19 Cases Now at 11.pdf" class="document ext-pdf"><i aria-hidden="true"></i>Positive COVID-19 Cases Now at 11<span class="file-info">(PDF,&nbsp;162KB)</span></a></p>
+<p><strong>March 24 -&nbsp;</strong><a target="_blank" aria-label="Governor, State Health Officer issue third closure order Opens in new window" href="https://content.govdelivery.com/accounts/WYGOV/bulletins/283038a" rel="noopener"></a><a href="https://www.cheyennecity.org/2677/Resources-and-Links"></a><a href="https://www.cheyennecity.org/2676/FAQ"></a><a target="_blank" href="https://content.govdelivery.com/accounts/WYGOV/bulletins/283038a" aria-label="Governor, State Health Officer issue third closure order Opens in new window" rel="noopener">Governor, State Health Officer issue third closure order</a></p>
+<p><strong>March 24 -&nbsp;</strong><a href="/files/assets/public/v/1/covid/eighth-positive-covid-19-case.pdf" target="_self" title="Eighth Positive COVID-19 Case.pdf" class="document ext-pdf"><i aria-hidden="true"></i>Eighth Positive COVID-19 Case<span class="file-info">(PDF,&nbsp;162KB)</span></a></p>
+<p><strong>March 24 -&nbsp;</strong><a target="_blank" href="http://www.cheyennecity.org/DocumentCenter/View/31349/Governor-to-allocate-Business-Council-funding-to-support-Wyoming-distillers-and-brewers-making-hand-sanitizer" aria-label="Governor to allocate Business Council Opens in new window" rel="noopener">Governor to allocate Business Council&nbsp;</a>funding to support&nbsp;Wyoming distillers and brewers making hand sanitizer</p>
+<p><strong>March 23 -&nbsp;</strong><a href="/files/assets/public/v/1/covid/seventh-positive-covid-19-case.pdf" target="_self" title="Seventh Positive COVID-19 Case.pdf" class="document ext-pdf"><i aria-hidden="true"></i>Seventh Positive COVID-19 Case<span class="file-info">(PDF,&nbsp;161KB)</span></a></p>
+<p><strong>March 22 -&nbsp;</strong><a href="/files/assets/public/v/1/covid/sixth-positive-covid-19-case.pdf" target="_self" title="Sixth Positive COVID-19 Case.pdf" class="document ext-pdf"><i aria-hidden="true"></i>Sixth Positive COVID-19 Case<span class="file-info">(PDF,&nbsp;162KB)</span></a><strong><br /></strong></p>
+<p><strong>March 21 -&nbsp;</strong><a href="/files/assets/public/v/1/covid/fifth-positive-covid-19-case.pdf" target="_self" title="Fifth Positive COVID-19 Case.pdf" class="document ext-pdf"><i aria-hidden="true"></i>Fifth Positive COVID-19 Case<span class="file-info">(PDF,&nbsp;161KB)</span></a></p>
+<p><strong>March 21 -&nbsp;</strong><a target="_blank" href="https://www.cdc.gov/coronavirus/2019-ncov/community/schools-childcare/talking-with-children.html" aria-label="Talking With Children About Coronavirus (CDC) Opens in new window" rel="noopener">Talking With Children About Coronavirus (CDC)</a></p>
+<p><strong>March 21 -&nbsp;</strong><a target="_blank" href="https://content.govdelivery.com/accounts/WYGOV/bulletins/282747a" aria-label="Governor Announces That Wyoming Businesses Can Start Applying For Federal Disaster Loans Opens in new window" rel="noopener">Governor Announces That Wyoming Businesses Can Start Applying For Federal Disaster Loans</a></p>
+<p><strong>March 20 -&nbsp;</strong><a href="/files/assets/public/v/1/covid/2020-3-20-homemade-cleanersbm.pdf" target="_self" title="2020-3-20 Homemade Cleanersbm.pdf" class="document ext-pdf"><i aria-hidden="true"></i>Cheyenne Fire Rescue reminds residents not to mix chemicals&nbsp; to make homemade cleaners<span class="file-info">(PDF,&nbsp;61KB)</span></a></p>
+<p><strong>M</strong><strong>arch&nbsp;</strong><strong>20 -&nbsp;</strong><a href="/files/assets/public/v/1/covid/do-your-part-to-prevent-sewer-backups.pdf" target="_self" title="Do Your Part To Prevent Sewer Backups.pdf" class="document ext-pdf"><i aria-hidden="true"></i>Do Your Part to Prevent Sewer Backups<span class="file-info">(PDF,&nbsp;223KB)</span></a></p>
+<p><strong>March 20 -&nbsp;</strong><a target="_blank" href="https://drive.google.com/file/d/1moGquUCYDQ4t2HVEx-WeAa3NfVCG_qBP/view" rel="noopener" aria-label="State of Wyoming Executive Order - Emergency Exemption From Permissible Operating Time Regulations and Waiver of Allowable Size and Weight Permit Fees Opens in new window">State of Wyoming Executive Order - Emergency Exemption From Permissible Operating Time Regulations and Waiver of Allowable Size and Weight Permit Fees</a></p>
+<p><strong>March 20 -&nbsp;</strong>The City County Health Department has set up a phone number for all COVID-19 related questions. Please call&nbsp;<strong>307-633-4000</strong></p>
+<p><strong>March 20 -&nbsp;</strong><a target="_blank" href="https://drive.google.com/file/d/1bfNoI7TJwRmRpgedNWI0b11MEtZDzIDL/view" rel="noopener" aria-label="Statewide Public Health Order #2: Forbidding Gatherings of Ten (10) People or More Opens in new window">Statewide Public Health Order #2: Forbidding Gatherings of Ten (10) People or More</a></p>
+<p><strong>March 19 -&nbsp;</strong><a href="https://drive.google.com/file/d/1eZOuS3LFsd2KZESCa2ygjcfT4tiMBGIH/view" target="_blank" aria-label="Statewide Public Health Order Closing Bars, Restaurants, Theaters, Gymnasiums, Child Care Facilities, K-12 Schools, Colleges, Universities, and Trade Schools Statewide Opens in new window" rel="noopener">Statewide Public Health Order Closing Bars, Restaurants, Theaters, Gymnasiums, Child Care Facilities, K-12 Schools, Colleges, Universities, and Trade Schools Statewide</a></p>
+<p><strong>March 19 -&nbsp;</strong><a href="/files/assets/public/v/1/covid/a-message-from-the-mayor.pdf" target="_self" title="A Message from the Mayor .pdf" class="document ext-pdf"><i aria-hidden="true"></i>A Message from the Mayor<span class="file-info">(PDF,&nbsp;193KB)</span></a></p>
+<p><strong>March 19 -&nbsp;</strong><a href="/files/assets/public/v/1/covid/fourth-positive-covid-19-case.pdf" target="_self" title="Fourth Positive COVID-19 Case.pdf" class="document ext-pdf"><i aria-hidden="true"></i>Fourth Positive COVID-19 Case<span class="file-info">(PDF,&nbsp;161KB)</span></a></p>
+<p><strong>March 19 -&nbsp;</strong><a href="/files/assets/public/v/1/covid/news-release-3-19-20.pdf" target="_self" title="News Release 3-19-20.pdf" class="document ext-pdf"><i aria-hidden="true"></i>CPD Lobby Closed<span class="file-info">(PDF,&nbsp;144KB)</span></a></p>
+<p><strong>March 19 -&nbsp;</strong><a href="/files/assets/public/v/1/covid/joint-response-to-the-covid-19-situation-by-cheyenne-mayor-marian-orr-and-city-council-president-dr.-mark-rinne.pdf" target="_self" title="Joint Response to the COVID-19 Situation by Cheyenne Mayor Marian Orr and City Council President Dr. Mark Rinne.pdf" class="document ext-pdf"><i aria-hidden="true"></i>Joint Response to the COVID - 19 Situation by Cheyenne Mayor Marian Orr and City Council President Dr. Mark Rinne<span class="file-info">(PDF,&nbsp;194KB)</span></a></p>
+<p><strong>March 19 -&nbsp;</strong><a href="/files/assets/public/v/1/covid/emergency-public-health-order-related-to-covid-19.pdf" target="_self" title="Emergency Public Health Order Related to COVID-19.pdf" class="document ext-pdf"><i aria-hidden="true"></i>Emergency Public Health Order Related to COVID-19&nbsp;<span class="file-info">(PDF,&nbsp;199KB)</span></a></p>
+<p><strong>March 18 -&nbsp;</strong><a href="/files/assets/public/v/1/covid/third-individual-has-test-positive-for-1.pdf" target="_self" title="Third Individual Has Test Positive for (1).pdf" class="document ext-pdf"><i aria-hidden="true"></i>Third Individual Has Tested Positive for COVID-19 in Cheyenne<span class="file-info">(PDF,&nbsp;199KB)</span></a></p>
+<p><strong>March 16 -&nbsp;</strong><a href="/files/assets/public/v/1/covid/lcsd1-meal-plan.pdf" target="_self" title="LCSD1-Meal-Plan.pdf" class="document ext-pdf"><i aria-hidden="true"></i>LCSD#1 Announces Youth Feeding Program<span class="file-info">(PDF,&nbsp;285KB)</span></a></p>
+<p><strong>March 16 -</strong>&nbsp;<a href="/files/assets/public/v/1/covid/city-of-cheyenne-work-plan-march-16-thru-march-27_2.pdf" target="_self" title="City of Cheyenne Work Plan March 16 thru March 27_2.pdf" class="document ext-pdf"><i aria-hidden="true"></i>City of Cheyenne Work Plan March 16 Thru March 27<span class="file-info">(PDF,&nbsp;247KB)</span></a></p>
+<p><strong>March 16 -</strong>&nbsp;<a href="/files/assets/public/v/1/covid/plan-de-trabajo-de-la-ciudad-de-cheyenne.pdf" target="_self" title="Plan de Trabajo de la Ciudad de Cheyenne .pdf" class="document ext-pdf"><i aria-hidden="true"></i>Plan de Trabajo de la Ciudad de Cheyenne 16 de Marzo al 27 de Marzo<span class="file-info">(PDF,&nbsp;210KB)</span></a></p>
+<p><strong>March 15 -&nbsp;</strong>All LCSD#1 schools closed starting March 16 until April 7.<strong>&nbsp;</strong></p>
+<p><strong>March 13</strong>&nbsp;-&nbsp;<a href="/files/assets/public/v/1/covid/city-of-cheyenne-working-with-local-partners-to-monitor-coronavirus-covid-19.pdf" target="_self" title="City of Cheyenne Working with Local Partners to Monitor Coronavirus (COVID-19).pdf" class="document ext-pdf"><i aria-hidden="true"></i>City of Cheyenne Working with Local Partners to Monitor Coronavirus&nbsp;(COVID-19)<span class="file-info">(PDF,&nbsp;440KB)</span></a></p>
+<p><strong>March 11</strong>&nbsp;- First reported case of COVID-19 found in Wyoming.&nbsp;</p>
+<p>&nbsp;</p>
+</div>
+</div>
+</div>
+<h2>Resources</h2>
+<div data-layout="3" data-title-level="2" class="featured-links featured-links-option-3">
+<div class="featured-links-body clearfix">
+<ul class="clearfix">
+<li><a class="featured-link" href="https://www.cdc.gov/coronavirus/2019-ncov/index.html" target="">Centers for Disease Control and Prevention (CDC)</a></li>
+<li><a class="featured-link" href="https://www.who.int/emergencies/diseases/novel-coronavirus-2019" target="">World Health Organization (WHO)</a></li>
+<li><a class="featured-link" href="https://health.wyo.gov/publichealth/infectious-disease-epidemiology-unit/disease/novel-coronavirus/covid-19-map-and-statistics/" target="">Wyoming Department of Health</a></li>
+<li><a class="featured-link" href="https://www.laramiecounty.com/_departments/health/coronavirus_info.aspx" target="">Cheyenne-Laramie County Health Department</a></li>
+<li><a class="featured-link" href="https://www.cheyenneregional.org/" target="">Cheyenne Regional Medical Center</a></li>
+<li><a class="featured-link" href="https://www.laramie1.org/school-health-services-482b9b91" target="">Laramie County School District #1</a></li>
+<li><a class="featured-link" href="https://www.laramie2.org/" target="">Laramie County School District #2</a></li>
+<li><a class="featured-link" href="https://www.lccc.wy.edu/" target="">Laramie County Community College (LCCC)</a></li>
+<li><a class="featured-link" href="https://www.warren.af.mil/FEW-COVID-19-INFO/" target="">F.E. Warren Air Force Base</a></li>
+</ul>
+</div>
+</div>
+<h2>Basic Information</h2>
+<div data-type="0" data-title-level="2" class="oc-wysiwyg-container">
+<div class="oc-wysiwyg-container-panel">
+<h2>What is Coronavirus (COVID-19)</h2>
+<div class="oc-wysiwyg-container-panel-content">
+<p>Coronavirus, also known as COVID-19, is a respiratory disease that was first detected in China. It has now been detected in almost 70 countries, including the United States. Worldwide illnesses have ranged from mild to severe, including illness resulting in death. Older people and people with underlying health conditions seem to be at greater risk of serious illness. Those conditions include heart disease, lung disease, and cancer. There are no medications specifically approved for COVID-19. People&nbsp; with coronavirus should be treated with supportive care to help relieve symptoms. Some severe cases require hospitalization, particularly in the elderly or those who have underlying medical conditions.&nbsp;</p>
+<p>&nbsp;</p>
+</div>
+</div>
+<div class="oc-wysiwyg-container-panel">
+<h2>How it Spreads</h2>
+<div class="oc-wysiwyg-container-panel-content">
+<h3>Person-to-person spread</h3>
+<p>The virus is thought to spread mainly from person-to-person.</p>
+<p>Between people who are in close contact with one another (within about 6 feet).</p>
+<p>Through respiratory droplets produced when an infected person coughs or sneezes.</p>
+<p>These droplets can land in the mouths or noses of people who are nearby or possibly be inhaled into the lungs.</p>
+<h3>Spread from contact with infected surfaces or objects</h3>
+<p>It may be possible that a person can get COVID-19 by touching a surface or object that has the virus on it and then touching their own mouth, nose, or possibly their eyes, but this is not thought to be the main way the virus</p>
+<p>&nbsp;</p>
+</div>
+</div>
+<div class="oc-wysiwyg-container-panel">
+<h2>What are the Symptoms?</h2>
+<div class="oc-wysiwyg-container-panel-content">
+<p>Reported illnesses have ranged from mild symptoms to severe illness and death for confirmed coronavirus disease 2019 (COVID-19) cases.</p>
+<p>These types of symptoms may appear 2-14 days after exposure:</p>
+<h2><span style="font-size: 75%;">Fever</span></h2>
+<h2><span style="font-size: 75%;">Cough</span></h2>
+<h3><span style="font-size: 75%;">Shortness of breath</span></h3>
+<p>&nbsp;</p>
+</div>
+</div>
+<div class="oc-wysiwyg-container-panel">
+<h2>Preventative Measures</h2>
+<div class="oc-wysiwyg-container-panel-content">
+<p><strong>1.</strong>&nbsp;Wash your hands often with soap and water for at least 20 seconds, especially after going to the bathroom; before eating; and after blowing your nose, coughing, or sneezing.If soap and water are<br />
+not readily available, use an alcohol-based hand sanitizer with at least 60% alcohol.<br />
+<strong>2.</strong>&nbsp;Avoid close contact with people who are sick.<br />
+<strong>3.</strong>&nbsp;Avoid touching your eyes, nose, and mouth.<br />
+<strong>4.</strong>&nbsp;Stay home when you are sick and keep your children at home when they are sick.<br />
+<strong>5.</strong>&nbsp;Cover your cough or sneeze with a tissue, then throw the tissue in the trash.<br />
+<strong>6.</strong>&nbsp;Clean and disinfect frequently touched objects and surfaces using a regular household cleaning spray<br />
+or wipe.<br />
+<strong>7.</strong>&nbsp;It is important to call ahead before going to see a doctor or emergency room to prevent the spread<br />
+of illness. Tell them your symptoms and that you suspect you were exposed to someone with<br />
+COVID-19 or had recent travel to a country that is experiencing community spread.</p>
+<p>&nbsp;</p>
+</div>
+</div>
+<div class="oc-wysiwyg-container-panel">
+<h2>Residents and Visitors</h2>
+<div class="oc-wysiwyg-container-panel-content">
+<p>If you have symptoms including a fever, cough, or shortness of breath, call your primary care provider. Do not go to the doctor without calling first.</p>
+<p>Wyoming residents with questions about COVID-19 may send an email to&nbsp;<strong>wdh.covid19@wyo.gov</strong></p>
+<p>Healthcare providers with coronavirus-related questions about specific patients should call&nbsp;<strong>1-888-996-9104</strong>&nbsp;for guidance.&nbsp;</p>
+<p>&nbsp;</p>
+</div>
+</div>
+<div class="oc-wysiwyg-container-panel">
+<h2>Recent Travelers</h2>
+<div class="oc-wysiwyg-container-panel-content">
+<p>If you recently traveled to a place experiencing COVID-19 transmission AND you feel sick, stay home and call your doctor immediately.</p>
+<p>If you are returning to America from a country with COVID-19 transmissions, travelers are given information on protecting themselves and their communities. If the person is returning from a country deemed a high risk, they are asked to self-quarantine for 14 days.</p>
+<p><strong>Do not go to the doctor without calling first</strong></p>
+<p>&nbsp;</p>
+</div>
+</div>
+<div class="oc-wysiwyg-container-panel">
+<h2>What if I feel sick?</h2>
+<div class="oc-wysiwyg-container-panel-content">
+<p>Call ahead to a healthcare professional if you develop a fever and symptoms of respiratory illness, such as cough or difficulty breathing, and have been in close contact with a person known to have the coronavirus or if you live in or have recently traveled to an area with ongoing spread. Tell your healthcare professional about your recent travel or contact. Your healthcare professional will work with necessary partners to determine if you need to be tested for COVID-19.&nbsp;</p>
+<p>&nbsp;</p>
+</div>
+</div>
+</div>
+
+
+      
+        
+            
+        
+    </div>
+    
+    
+</div><!--normalTemplateEnd-->
+                            
+                            
+                            
+							            </div>
+						            </div>
+					            </div>
+                        <div class="col-xs-12">
+					            	<div class="share-page-container share-page-link-center share-page-link-small share-page-link-rounded share-page-link-labeled" data-item-id="48583b55-8c56-41d7-b6ee-3c5b8fba0f20" id="share-page-container clearfix">
+                                        <section aria-labelledby="share-page-info-label">
+                                            <span id="share-page-info-label" class="share-page-info">Share</span><ul class="share-page-links no-translate"><li><a href="https://www.facebook.com/sharer/sharer.php?u=https%3a%2f%2fwww.cheyennecity.org%2fHome%2fTabs%2fFeatured-Links%2fCoronavirus-COVID-19" target="{ShareTarget}" class="share-page-link share-page-link-facebook" data-channel="facebook" data-channel-id="1"><i aria-hidden="true"></i><span class="share-page-link-name share-page-link-name-facebook">Facebook</span></a></li><li><a href="https://twitter.com/share?url=https%3a%2f%2fwww.cheyennecity.org%2fHome%2fTabs%2fFeatured-Links%2fCoronavirus-COVID-19" target="_blank" class="share-page-link share-page-link-x" data-channel="x" data-channel-id="2"><i aria-hidden="true"></i><span class="share-page-link-name share-page-link-name-x">X</span></a></li><li><a href="mailto:?Body=https%3a%2f%2fwww.cheyennecity.org%2fHome%2fTabs%2fFeatured-Links%2fCoronavirus-COVID-19" target="_self" class="share-page-link share-page-link-email" data-channel="email" data-channel-id="3"><i aria-hidden="true"></i><span class="share-page-link-name share-page-link-name-email">Email</span></a></li><li><a href="#" target="_self" class="share-page-link share-page-link-print" data-channel="print" data-channel-id="5"><i aria-hidden="true"></i><span class="share-page-link-name share-page-link-name-print">Print</span></a></li></ul>
+                                        </section>
+                                    </div></div>
+                            </div>
+                        </div>
+                        <div class="back-to-top-container text-center">
+                            <a href="#body-top" id="back-to-top"><i aria-hidden="true"></i><span class="js-visuallyhidden">Back to top</span></a>
+                        </div>
+                </div>
+            </div><!--groupTemplateEnd-->
+            <footer>
+                
+                    <div class="footer-outer-container footer-first-row">
+                        <div class="footer-container clearfix">
+                            <div class="grid grid-pad">
+                                <div class="col-xs-12 col-s-6 col-m-4 col-lg-4 visuallyhidden" >
+	
+	<h2>Site Footer</h2>
+
+
+	
+	
+</div><div class="col-xs-12 col-s-12 col-m-6 col-lg-4" >
+	
+			<h2 class="visuallyhidden">Site Footer</h2>
+			<h3 class="footer-title">Contact</h3>
+			
+	<p>City of Cheyenne<br />
+2101 O'Neil Ave.<br />
+Cheyenne, WY 82001</p>
+<p><a href="tel:3076376200">(307) 637-6200</a> - Telephone<br />
+<a href="tel:711">7-1-1</a> or <a href="tel:18008779965">1-800-877-9965</a> - TTY to Voice</p>
+
+
+	
+	
+</div><div class="col-xs-12 col-s-12 col-m-6 col-lg-4" >
+	
+			<h2 class="visuallyhidden">Site Footer</h2>
+			<h3 class="footer-title">Social Media</h3>
+			
+	
+	<ul class="footer-links with-icons social-media-links">  <li class="footer-link-facebook">
+	<a href="https://www.facebook.com/CityOfCheyenne" target="_blank"  >
+<i aria-hidden="true"></i>Facebook
+</a>
+</li>
+          <li class="footer-link-twitter">
+	<a href="https://twitter.com/CityOfCheyenne" target="_blank"  >
+<i aria-hidden="true"></i>Twitter
+</a>
+</li>
+          <li class="footer-link-instagram">
+	<a href="https://www.instagram.com/cityofcheyenne/" target="_blank"  >
+<i aria-hidden="true"></i>Instagram
+</a>
+</li>
+          <li class="footer-link-youtube">
+	<a href="https://www.youtube.com/user/TheCityofCheyenne" target="_blank"  >
+<i aria-hidden="true"></i>YouTube
+</a>
+</li>
+          <li class="footer-link-">
+	<a href="https://www.flickr.com/people/cityofcheyenne/" target="_blank"  >
+<i aria-hidden="true"></i>Flickr
+</a>
+</li>
+          <li class="footer-link-">
+	<a href="https://www.linkedin.com/company/cityofcheyenne/" target="_blank"  >
+<i aria-hidden="true"></i>LinkedIn
+</a>
+</li>
+           </ul>
+	
+</div>
+                            </div>
+                        </div>
+                    </div>
+                
+                <div class="footer-outer-container footer-second-row">
+                    <div class="footer-container clearfix">
+                        <div class="grid grid-pad footer-secondary-links">
+                            <div class="col-xs-12 col-m-7">
+                                
+                                    <div>&nbsp;| <a href="https://www.cheyennecity.org/Site-Footer/Sub-Footer-Links/Accessibility-Statement" target="_self"  >Accessibility Statement</a>&nbsp;| &nbsp;| <a href="https://www.cheyennecity.org/Site-Footer/Sub-Footer-Links/Privacy-Statement" target="_self"  >Privacy Statement</a>&nbsp;| &nbsp;| <a href="https://www.cheyennecity.org/Site-Footer/Sub-Footer-Links/Translation-Disclaimer" target="_self"  >Translation Disclaimer</a>&nbsp;| <a href="https://www.cheyennecity.org/Site-Footer/Sub-Footer-Links/Terms-of-Use" target="_self"  >Terms of Use</a>&nbsp;| &nbsp;| <a href="https://www.cheyennecity.org/Site-Footer/Sub-Footer-Links/Social-Media-Guidelines" target="_self"  >Social Media Guidelines</a>&nbsp;| <a href="https://www.cheyennecity.org/Site-Footer/Sub-Footer-Links/Non-Discrimination-and-Title-VI-Program" target="_self"  >Non-Discrimination and Title VI Program</a>&nbsp;| &nbsp;| </div>
+                                
+                            </div>
+                            <div class="col-xs-12 col-m-5 powered-by">
+                                <div class="right">
+                                    &copy; 2026 City of Cheyenne&nbsp;|&nbsp;<span class="powered-by">Powered by <a href="https://granicus.com/solution/govaccess/opencities/" target="_blank">Granicus</a></span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </footer>
+        </div>
+    </div>
+
+    <script src="/files/oc-resources/b9015858-988c-48a4-9473-7c193df083e4/JsTextSnippets.js?ocsvclang=en-US" type="text/javascript"></script><script></script>
+    
+    
+
+<div id="COVID_TEMP-messages" style="display:none;">
+<div class="item">
+	<div class="title">COVID updates and information</div>
+	<div class="description"></div>
+	<div class="link"><p class="view-page-link"><a href="https://www.cheyennecity.org/Home/Tabs/Featured-Links/Coronavirus-COVID-19"  target="_self">Coronavirus (COVID-19)</a></p></div>
+	<div class="type">Announcement</div>
+	<div class="conditions"></div>	
+</div>
+</div>
+<script>
+	$('#COVID_TEMP-messages').children('.item').each(function(){
+		var $message = $(this);
+		var isMatch = false;
+		$message.find('.conditions a').each(function(){
+			var $a = $(this);
+			var mode = $a.text().split(' ')[0].toLowerCase();
+			var value = $a.attr('href').replace(/^https?:\/\//g, '');
+			
+			switch(mode)
+			{
+				case 'startswith':
+					if(document.location.pathname.toLowerCase().startsWith(value.toLowerCase()))
+					{
+						isMatch = true;
+						return false;//stop jquery each
+					}
+					break;
+					
+				case 'contains':
+					if(document.location.pathname.toLowerCase().indexOf(value.toLowerCase()) !== -1)
+					{
+						isMatch = true;
+						return false;//stop jquery each
+					}
+					break;
+					
+				case 'regex':
+					var re = new RegExp(value);
+					if(new RegExp(value).test(document.location.pathname))
+					{
+						isMatch = true;
+						return false;//stop jquery each
+					}
+					break;
+					
+				default:
+					if(document.location.pathname.toLowerCase() === value.toLowerCase())
+					{
+						isMatch = true;
+						return false;//stop jquery each
+					}
+					break;
+			}
+		});
+		if(isMatch)
+		{
+			var $main = $('#main-content');
+			if($main.length === 0) return false;
+			var $h1 = $main.find('h1').first();
+			
+			var title = $message.find('.title').text().trim();
+			var type = $message.find('.type').text().trim();
+			var description = $message.find('.description').html();
+			var link = $message.find('.link').html();
+			
+			var $content = $('<section>').addClass('obj-venue');//class is a hack to inherit styling
+			var $sideBox = $('<div>').addClass('side-box message-box message-type-'+type).appendTo($content);
+			
+			if(title !== '')
+			{
+				$('<h2>').addClass('side-box-title').text(title).appendTo($sideBox);
+			}
+			
+			var descriptionBox = ''
+			
+			if(description.trim() !== '')
+			{
+				//If the description contains no html tags, wrap the text in p tags
+				var noBrDesc = description.split('<br>').join('\r\n');
+				if (!/<[^>]+>/.test(noBrDesc)) {
+					description = '<p>' + noBrDesc.replace(/(\r\n|\r|\n){2}((\r\n|\r|\n)+)?/g, '$2</p><p>') + '</p>';
+					description = description.replace(/(\r\n|\r|\n)/g, '<br>');
+					description = description.replace('</p><p></p>', '</p>');					
+				}
+				descriptionBox += description;
+			}
+			
+			var hasLink = false;
+			if(link.trim() !== '')
+			{
+				hasLink = true;
+				descriptionBox += link;
+			}
+			
+			var $descriptionBox = null;
+			if(descriptionBox.trim() !== '')
+			{
+				$descriptionBox = $(descriptionBox);
+				$('<div>').addClass('side-box-content').html(descriptionBox).appendTo($sideBox);
+			}
+			
+			if($h1.length === 1)
+			{
+				$content.insertAfter($h1);
+			} 
+			else
+			{
+				$content.appendTo($main);
+			}
+			
+			if(hasLink)
+			{
+				var color = ($content.find('p').first() || $content.find('.side-box-content').first()).css('color');
+				$content.find('a').css('color', color);
+			}
+			
+			 return false;
+		}
+	});
+</script>
+
+
+
+
+
+
+    <script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-166377212-2', 'auto');
+  ga('send', 'pageview');
+</script>
+    
+    
+
+<script type="text/javascript">
+//<![CDATA[
+window.__TsmHiddenField = $get('ctl04_seamless_script_manager_TSM');//]]>
+</script>
+</form>
+</body>
+</html>
