@@ -1,0 +1,43 @@
+name: Eight civic OSINT scans
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '43 7 * * *'
+  push:
+    paths:
+      - 'scripts/osint.py'
+      - 'osint/profiles.json'
+      - '.github/workflows/osint.yml'
+  workflow_run:
+    workflows: ['Continue bounded archive backlog']
+    types: [completed]
+permissions:
+  contents: write
+concurrency:
+  group: public-archive-collector
+  cancel-in-progress: false
+jobs:
+  scan:
+    if: github.event_name != 'workflow_run' || (github.event.workflow_run.conclusion == 'success' && github.event.workflow_run.head_repository.full_name == github.repository)
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Validate OSINT engine
+        run: python -m py_compile scripts/osint.py
+      - name: Run eight public-interest profiles over preserved evidence
+        run: python scripts/osint.py
+      - name: Publish bounded evidence-linked outputs
+        run: |
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add -- osint/results
+          if ! git diff --cached --quiet; then
+            git commit -m "osint: publish eight source-backed topical scan results"
+            git push origin HEAD:main
+          fi

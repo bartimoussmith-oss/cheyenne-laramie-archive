@@ -1,0 +1,12 @@
+{
+  "profiles": [
+    {"id":"budgets-audits","title":"Budgets, audits and public spending","terms":["budget","appropriation","audit","financial statement","sales tax","capital improvement"]},
+    {"id":"contracts-procurement","title":"Contracts and procurement","terms":["bid","request for proposal","procurement","contract","sole source","change order"]},
+    {"id":"annexation-land-use","title":"Annexation, zoning and development","terms":["annexation","rezoning","conditional use","subdivision","zoning","development agreement"]},
+    {"id":"water-stormwater","title":"Water, wastewater and stormwater","terms":["stormwater","wastewater","lead service line","drinking water","sewer","discharge permit","PFAS"]},
+    {"id":"roads-transit","title":"Roads, transit and infrastructure","terms":["road","street","traffic","transit","greenway","pavement","rail"]},
+    {"id":"council-decisions","title":"Council procedures and decisions","terms":["ordinance","resolution","public hearing","amendment","roll call","minutes"]},
+    {"id":"public-safety-resources","title":"Public-safety funding and staffing","terms":["budget","appropriation","staffing","overtime","equipment","capital"],"require_any":["police","sheriff","fire rescue","emergency management","dispatch"]},
+    {"id":"election-administration","title":"Election administration and official processes","terms":["election","canvass","ballot","vote center","precinct","absentee"]}
+  ]
+}
