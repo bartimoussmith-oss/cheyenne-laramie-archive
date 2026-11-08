@@ -1,0 +1,1387 @@
+{
+  "profile": "decision-version-trails",
+  "title": "Substitutes, amendments and decision-version trails",
+  "generated_at": "2026-11-08T17:32:36.179457+00:00",
+  "source_revision": "5b322d39f1e9acbd9f3e7ce45a3bdfaba5cf964b",
+  "classification": "retrieval_triage_not_investigative_findings",
+  "matched_representations": 84,
+  "exported_representations": 50,
+  "result_cap": 50,
+  "results_truncated": true,
+  "results": [
+    {
+      "classification": "unreviewed_topical_match_not_a_finding",
+      "source_sha256": "3dd70667ea5d722bea19d76073b4ffffcc05a651e4b1b3a1dd22befe7d173cfa",
+      "source_url": "https://www.cheyennecity.org/Your-Government/City-Council/Minutes-and-Agendas",
+      "source_retrieved_at": "2026-11-08T16:25:55.689212+00:00",
+      "page": null,
+      "extraction_method": "html_text",
+      "quality_verified": false,
+      "representation_path": "text/3dd70667ea5d722bea19d76073b4ffffcc05a651e4b1b3a1dd22befe7d173cfa.txt",
+      "representation_text_sha256": "2fed3f87d5b1cff9bd36ee7e36045d50bb8a3f93d6cd95eb2072dbc6150983b8",
+      "representation_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/5b322d39f1e9acbd9f3e7ce45a3bdfaba5cf964b/text/3dd70667ea5d722bea19d76073b4ffffcc05a651e4b1b3a1dd22befe7d173cfa.txt",
+      "original_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/5b322d39f1e9acbd9f3e7ce45a3bdfaba5cf964b/objects/3d/3dd70667ea5d722bea19d76073b4ffffcc05a651e4b1b3a1dd22befe7d173cfa",
+      "evidence": [
+        {
+          "term": "substitute",
+          "match_start": 6505,
+          "match_end": 6515,
+          "passage_start": 6355,
+          "passage_end": 6765,
+          "text": "(PDF, 126KB)\nMinutes\n(PDF, 68KB)\nVideo\n10/06/26\nAgenda\n(PDF, 124KB)\nMinutes\n(PDF, 75KB)\nVideo\n09/22/26\nAgenda\n(PDF, 125KB)\nMinutes\n(PDF, 101KB)\nVideo\nSubstitute #19\n(PDF, 996KB)\nSubstitute #27(d)\n(PDF, 81KB)\n09/09/26\nAgenda\n(PDF, 126KB)\nMinutes\n(PDF, 82KB)\nVideo\n08/18/26\nAgenda\n(PDF, 124KB)\nMinutes\n(PDF, 54KB)\nVideo\n08/04/26\nAgenda\n(PDF, 231KB)\nMinutes\n(PDF, 69KB)\nVideo\n07/21/26\nAgenda\n(PDF, 155KB)\nMinutes\n"
+        },
+        {
+          "term": "substitute",
+          "match_start": 6533,
+          "match_end": 6543,
+          "passage_start": 6383,
+          "passage_end": 6793,
+          "text": "8KB)\nVideo\n10/06/26\nAgenda\n(PDF, 124KB)\nMinutes\n(PDF, 75KB)\nVideo\n09/22/26\nAgenda\n(PDF, 125KB)\nMinutes\n(PDF, 101KB)\nVideo\nSubstitute #19\n(PDF, 996KB)\nSubstitute #27(d)\n(PDF, 81KB)\n09/09/26\nAgenda\n(PDF, 126KB)\nMinutes\n(PDF, 82KB)\nVideo\n08/18/26\nAgenda\n(PDF, 124KB)\nMinutes\n(PDF, 54KB)\nVideo\n08/04/26\nAgenda\n(PDF, 231KB)\nMinutes\n(PDF, 69KB)\nVideo\n07/21/26\nAgenda\n(PDF, 155KB)\nMinutes\n(PDF, 165KB)\nVideo\n07/07/26\n"
+        },
+        {
+          "term": "substitute",
+          "match_start": 7007,
+          "match_end": 7017,
+          "passage_start": 6857,
+          "passage_end": 7267,
+          "text": "DF, 126KB)\nMinutes\n(PDF, 100KB)\nVideo\n06/02/26\nAgenda\n(PDF, 130KB)\nMinutes\n(PDF, 114KB)\nVideo\n05/19/26\nAgenda\n(PDF, 146KB)\nMinutes\n(PDF, 153KB)\nVideo\nSubstitute #10\n(PDF, 1MB)\nSubstitute #11\n(PDF, 1MB)\n05/05/26\nAgenda\n(PDF, 128KB)\nMinutes\n(PDF, 126KB)\nVideo\nSubstitute #28\n(PDF, 2MB)\n04/21/26\nAgenda\n(PDF, 132KB)\nMinutes\n(PDF, 174KB)\nVideo\n04/07/26\nAgenda\n(PDF, 140KB)\nMinutes\n(PDF, 82KB)\nVideo\n03/17/26\nAgenda"
+        }
+      ]
+    },
+    {
+      "classification": "unreviewed_topical_match_not_a_finding",
+      "source_sha256": "00f462be921543c29907c0eabe9565316cb479aa2d9df8068b809446edf8c5a5",
+      "source_url": "https://www.cheyennecity.org/files/sharedassets/public/v/1/your-government/city-council/fc-2023/fc-02-21-23-minutes.pdf",
+      "source_retrieved_at": "2026-11-08T16:49:43.317118+00:00",
+      "page": 4,
+      "extraction_method": "tesseract",
+      "quality_verified": false,
+      "representation_path": "derived/00f462be921543c29907c0eabe9565316cb479aa2d9df8068b809446edf8c5a5/page-000004.json",
+      "representation_text_sha256": "50cf413f6f7ef06b12c3f3f1b9b13fe98a18c0b2ba1b2c94b8c2aea298b2df3d",
+      "representation_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/5b322d39f1e9acbd9f3e7ce45a3bdfaba5cf964b/derived/00f462be921543c29907c0eabe9565316cb479aa2d9df8068b809446edf8c5a5/page-000004.json",
+      "original_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/5b322d39f1e9acbd9f3e7ce45a3bdfaba5cf964b/objects/00/00f462be921543c29907c0eabe9565316cb479aa2d9df8068b809446edf8c5a5",
+      "evidence": [
+        {
+          "term": "amended",
+          "match_start": 1848,
+          "match_end": 1855,
+          "passage_start": 1698,
+          "passage_end": 2105,
+          "text": " removing “Attachment C”, the Engineering Report & Proposal, seconded by Mr.\nRoybal. Motion to amend carried by unanimous voice vote. Main motion, as amended, carried\nwith Mr. Esquibel and Mr. Roybal voting “YES”, and Dr. Aldrich voting “NO”.\n\nStefanie Boster, City Attomey, provided a staff report and Tom Cobb, City Engineer, provided\nadditional information. Committee members Aldrich and Esquibel and Cou"
+        }
+      ]
+    },
+    {
+      "classification": "unreviewed_topical_match_not_a_finding",
+      "source_sha256": "010bd83d980db77cff63d872d0af99d9ad84914af753e62bf5997fa238a50bdd",
+      "source_url": "https://www.cheyennecity.org/files/sharedassets/public/v/1/your-government/city-council/fc-2023/fc-12-04-23-agenda.pdf",
+      "source_retrieved_at": "2026-11-08T16:41:58.869663+00:00",
+      "page": 1,
+      "extraction_method": "native",
+      "quality_verified": false,
+      "representation_path": "derived/010bd83d980db77cff63d872d0af99d9ad84914af753e62bf5997fa238a50bdd/page-000001.json",
+      "representation_text_sha256": "a7dea55c2f45cc49573b98e9016e6ed743eef506ed9c3358fb48074106fe9cc4",
+      "representation_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/5b322d39f1e9acbd9f3e7ce45a3bdfaba5cf964b/derived/010bd83d980db77cff63d872d0af99d9ad84914af753e62bf5997fa238a50bdd/page-000001.json",
+      "original_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/5b322d39f1e9acbd9f3e7ce45a3bdfaba5cf964b/objects/01/010bd83d980db77cff63d872d0af99d9ad84914af753e62bf5997fa238a50bdd",
+      "evidence": [
+        {
+          "term": "amendment",
+          "match_start": 1564,
+          "match_end": 1573,
+          "passage_start": 1414,
+          "passage_end": 1823,
+          "text": "Generally, of Title 12, Streets, Sidewalks and Public Places, of the Municipal\n         Code of the City of Cheyenne, Wyoming and making a conforming amendment as\n         specified. (POSTPONED FROM NOVEMBER 27, 2023)\n\nACTION:\n\n25.      RESOLUTION – Authorizing a three (3) percent cost-of-living salary adjustment for all\n         permanent full and part-time employees of the City of Cheyenne. (SPONSOR – MR"
+        }
+      ]
+    },
+    {
+      "classification": "unreviewed_topical_match_not_a_finding",
+      "source_sha256": "01a150e0b3a34a66feb9c8466f7fa61ff72e481d429be3796e4d9ff86879a963",
+      "source_url": "https://www.cheyennecity.org/files/sharedassets/public/v/1/your-government/city-council/psc-2024/psc-07-16-24-minutes.pdf",
+      "source_retrieved_at": "2026-11-08T17:10:04.388887+00:00",
+      "page": 1,
+      "extraction_method": "native",
+      "quality_verified": false,
+      "representation_path": "derived/01a150e0b3a34a66feb9c8466f7fa61ff72e481d429be3796e4d9ff86879a963/page-000001.json",
+      "representation_text_sha256": "315d42a6c50da769879ede9ab6d12dd4a55fcb1ea799e9bd982c780de6a33597",
+      "representation_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/5b322d39f1e9acbd9f3e7ce45a3bdfaba5cf964b/derived/01a150e0b3a34a66feb9c8466f7fa61ff72e481d429be3796e4d9ff86879a963/page-000001.json",
+      "original_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/5b322d39f1e9acbd9f3e7ce45a3bdfaba5cf964b/objects/01/01a150e0b3a34a66feb9c8466f7fa61ff72e481d429be3796e4d9ff86879a963",
+      "evidence": [
+        {
+          "term": "substitute",
+          "match_start": 1435,
+          "match_end": 1445,
+          "passage_start": 1285,
+          "passage_end": 1695,
+          "text": "     conforming amendments as specified.\n\nMr. Segrave moved to approve on 3”’ and final reading, seconded by Dr. Rinne. Mr. Segrave\nmoved to amend by substitute dated July 10, 2024, seconded by Dr. Rinne. Motion to amend\ncarried by unanimous voice vote. Main motion, as amended, carried by unanimous voice vote.\n\nCaptain David Janes, Police Department, provided a staff report and proposed a substitute the\npro"
+        },
+        {
+          "term": "amended",
+          "match_start": 1555,
+          "match_end": 1562,
+          "passage_start": 1405,
+          "passage_end": 1812,
+          "text": "Mr. Segrave\nmoved to amend by substitute dated July 10, 2024, seconded by Dr. Rinne. Motion to amend\ncarried by unanimous voice vote. Main motion, as amended, carried by unanimous voice vote.\n\nCaptain David Janes, Police Department, provided a staff report and proposed a substitute the\nproposed ordinance. Tom Cobb, City Engineer, advised that moving forward with parking\nmodifications would trigger signag"
+        },
+        {
+          "term": "substitute",
+          "match_start": 1677,
+          "match_end": 1687,
+          "passage_start": 1527,
+          "passage_end": 1937,
+          "text": "voice vote. Main motion, as amended, carried by unanimous voice vote.\n\nCaptain David Janes, Police Department, provided a staff report and proposed a substitute the\nproposed ordinance. Tom Cobb, City Engineer, advised that moving forward with parking\nmodifications would trigger signage changes. Committee member Laybourn commented on the\nitem.\n\nIl.    RESOLUTION Certifying compliance with Wyoming Statute § 1"
+        }
+      ]
+    },
+    {
+      "classification": "unreviewed_topical_match_not_a_finding",
+      "source_sha256": "01a5d77bfaeb54d0057fe869e727fc80b1d205ab95df55daa928446e5aaa97d6",
+      "source_url": "https://www.cheyennecity.org/files/sharedassets/public/v/1/your-government/city-council/psc-2022/psc-02-23-22-minutes.pdf",
+      "source_retrieved_at": "2026-11-08T17:17:08.681533+00:00",
+      "page": 1,
+      "extraction_method": "tesseract",
+      "quality_verified": false,
+      "representation_path": "derived/01a5d77bfaeb54d0057fe869e727fc80b1d205ab95df55daa928446e5aaa97d6/page-000001.json",
+      "representation_text_sha256": "83a272e309ad9bd5a12606fc5bef06dc96eeec5d9e747b98c500047e1f202931",
+      "representation_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/5b322d39f1e9acbd9f3e7ce45a3bdfaba5cf964b/derived/01a5d77bfaeb54d0057fe869e727fc80b1d205ab95df55daa928446e5aaa97d6/page-000001.json",
+      "original_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/5b322d39f1e9acbd9f3e7ce45a3bdfaba5cf964b/objects/01/01a5d77bfaeb54d0057fe869e727fc80b1d205ab95df55daa928446e5aaa97d6",
+      "evidence": [
+        {
+          "term": "amendment",
+          "match_start": 1458,
+          "match_end": 1467,
+          "passage_start": 1308,
+          "passage_end": 1717,
+          "text": "” and Dr. Rinne voting “NO”.\n\nDISCUSSION: Charles Bloom, Planning & Development Department Director, provided a staff\nreport and advised the proposed amendment will clean up and modify zoning types to incentivize\nmixed uses in one zone. Mr. Bloom provided an overview of the use table and provided examples\nrelated to the Community Business (CB) zone type which allows mixed uses including residential\nwith Bo"
+        },
+        {
+          "term": "amendment",
+          "match_start": 2188,
+          "match_end": 2197,
+          "passage_start": 2038,
+          "passage_end": 2447,
+          "text": " be used including the Ashley Furniture\nshopping center area and the area around Frontier Mall. Brad Emmons, AVI Engineering, spoke\nin support of the amendment and provided examples where the conditional use allowance would\nbedesirable. Seth Lloyd, Planning & Development, spoke in favor of the amendment noting trends\naround the county prove that mixed uses work in areas which need revitalization. Dr. Rinne"
+        },
+        {
+          "term": "amendment",
+          "match_start": 2333,
+          "match_end": 2342,
+          "passage_start": 2183,
+          "passage_end": 2592,
+          "text": " the amendment and provided examples where the conditional use allowance would\nbedesirable. Seth Lloyd, Planning & Development, spoke in favor of the amendment noting trends\naround the county prove that mixed uses work in areas which need revitalization. Dr. Rinne voiced\nconcerns with residential uses in a CB zone.\n\n11. ORDINANCE -2\"! READING - Amending the Unified Development Code (UDC) to\ncreate a Common"
+        }
+      ]
+    },
+    {
+      "classification": "unreviewed_topical_match_not_a_finding",
+      "source_sha256": "01a5d77bfaeb54d0057fe869e727fc80b1d205ab95df55daa928446e5aaa97d6",
+      "source_url": "https://www.cheyennecity.org/files/sharedassets/public/v/1/your-government/city-council/psc-2022/psc-02-23-22-minutes.pdf",
+      "source_retrieved_at": "2026-11-08T17:17:08.681533+00:00",
+      "page": 2,
+      "extraction_method": "tesseract",
+      "quality_verified": false,
+      "representation_path": "derived/01a5d77bfaeb54d0057fe869e727fc80b1d205ab95df55daa928446e5aaa97d6/page-000002.json",
+      "representation_text_sha256": "ea108744cf216a1f0479fc59094d35ee0e15c0e17ec219df7a88650a777c2bfe",
+      "representation_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/5b322d39f1e9acbd9f3e7ce45a3bdfaba5cf964b/derived/01a5d77bfaeb54d0057fe869e727fc80b1d205ab95df55daa928446e5aaa97d6/page-000002.json",
+      "original_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/5b322d39f1e9acbd9f3e7ce45a3bdfaba5cf964b/objects/01/01a5d77bfaeb54d0057fe869e727fc80b1d205ab95df55daa928446e5aaa97d6",
+      "evidence": [
+        {
+          "term": "amended",
+          "match_start": 290,
+          "match_end": 297,
+          "passage_start": 140,
+          "passage_end": 547,
+          "text": "ith “eighty (80) contiguous acres” in section\n6.3.10(€)(7), seconded by Mr. Segrave. Motion to amend carried by unanimous voice vote. Main\nmotion, as amended, carried by unanimous voice vote.\n\nDISCUSSION: Charles Bloom, Planning & Development Department Director, provided a staff\nreport and advised the proposed amendment will allow flexibility in both light and high industrial\nareas as it relates to land"
+        },
+        {
+          "term": "amendment",
+          "match_start": 453,
+          "match_end": 462,
+          "passage_start": 303,
+          "passage_end": 712,
+          "text": "ied by unanimous voice vote.\n\nDISCUSSION: Charles Bloom, Planning & Development Department Director, provided a staff\nreport and advised the proposed amendment will allow flexibility in both light and high industrial\nareas as it relates to landscaping requirements. Mr. Bloom defined the “development footprint” as\nthe total land area that is permanently affected by development activities and noted according"
+        },
+        {
+          "term": "amendment",
+          "match_start": 729,
+          "match_end": 738,
+          "passage_start": 579,
+          "passage_end": 988,
+          "text": "defined the “development footprint” as\nthe total land area that is permanently affected by development activities and noted according to\nthe proposed amendment areas that are not affected, they would not be subject to landscaping\nstandards. Mr. Bloom reviewed the requirements and review criteria of the landscape plan\nincluding the requirement that the plan be prepared by a licensed landscape architect. Mr."
+        }
+      ]
+    },
+    {
+      "classification": "unreviewed_topical_match_not_a_finding",
+      "source_sha256": "06be3b512454c07cc8fe0d5f263dd531baff8c7d348af9c829225b61e827b3a5",
+      "source_url": "https://www.cheyennecity.org/files/sharedassets/public/v/1/your-government/city-council/fc-2022/fc-06-06-22-minutes.pdf",
+      "source_retrieved_at": "2026-11-08T16:51:25.771989+00:00",
+      "page": 1,
+      "extraction_method": "tesseract",
+      "quality_verified": false,
+      "representation_path": "derived/06be3b512454c07cc8fe0d5f263dd531baff8c7d348af9c829225b61e827b3a5/page-000001.json",
+      "representation_text_sha256": "9adac61e6e64dbeff8d87c62f72af3c26aeb892ded766f8a139b704136d6ef8a",
+      "representation_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/5b322d39f1e9acbd9f3e7ce45a3bdfaba5cf964b/derived/06be3b512454c07cc8fe0d5f263dd531baff8c7d348af9c829225b61e827b3a5/page-000001.json",
+      "original_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/5b322d39f1e9acbd9f3e7ce45a3bdfaba5cf964b/objects/06/06be3b512454c07cc8fe0d5f263dd531baff8c7d348af9c829225b61e827b3a5",
+      "evidence": [
+        {
+          "term": "revised",
+          "match_start": 1359,
+          "match_end": 1366,
+          "passage_start": 1209,
+          "passage_end": 1616,
+          "text": "rman White. Darin and Misha Westby,\nowners of Westby Edge LLC, were available for questions.\n\n21. ORDINANCE - 3\" READING ~ Approving and establishing revised water and sewer\nrates, tap and system development fees, administrative fees, service charges and penalties,\nand septic and commercial waste dump rates, as recommended by the Board of Public\nUtilities,\n\nDr. Aldrich moved to approve on 3\" and final re"
+        }
+      ]
+    },
+    {
+      "classification": "unreviewed_topical_match_not_a_finding",
+      "source_sha256": "090cfbec55548ada575053632aaa0d7b4114f023fc65c69c7c5c7ecddf13b0da",
+      "source_url": "https://www.cheyennecity.org/files/sharedassets/public/v/1/your-government/city-council/psc-2023/sub-sweetgrass-pud-amendment.pdf",
+      "source_retrieved_at": "2026-11-08T17:13:02.534477+00:00",
+      "page": 1,
+      "extraction_method": "native",
+      "quality_verified": false,
+      "representation_path": "derived/090cfbec55548ada575053632aaa0d7b4114f023fc65c69c7c5c7ecddf13b0da/page-000001.json",
+      "representation_text_sha256": "a537f2202c87f1e9a8ccce8ee03571c20e77a6f2b4450675b22606b0d61da130",
+      "representation_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/5b322d39f1e9acbd9f3e7ce45a3bdfaba5cf964b/derived/090cfbec55548ada575053632aaa0d7b4114f023fc65c69c7c5c7ecddf13b0da/page-000001.json",
+      "original_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/5b322d39f1e9acbd9f3e7ce45a3bdfaba5cf964b/objects/09/090cfbec55548ada575053632aaa0d7b4114f023fc65c69c7c5c7ecddf13b0da",
+      "evidence": [
+        {
+          "term": "amendment",
+          "match_start": 807,
+          "match_end": 816,
+          "passage_start": 657,
+          "passage_end": 1066,
+          "text": "      Honorable Mayor Patrick Collins and Members of the City Council\n From:     Connor White, Planner II\n Subject: PUDC-23-63 / Sweetgrass PUD / PUD Amendment / Substitute Exhibit A\n Date:    September 6, 2023\n\nThe applicant has been working with Staff on some additional corrections needed to the proposed PUD\nAmendment. The substitute Exhibit A is the final version of the Sweetgrass PUD that addresses Sta"
+        },
+        {
+          "term": "substitute",
+          "match_start": 819,
+          "match_end": 829,
+          "passage_start": 669,
+          "passage_end": 1079,
+          "text": "ble Mayor Patrick Collins and Members of the City Council\n From:     Connor White, Planner II\n Subject: PUDC-23-63 / Sweetgrass PUD / PUD Amendment / Substitute Exhibit A\n Date:    September 6, 2023\n\nThe applicant has been working with Staff on some additional corrections needed to the proposed PUD\nAmendment. The substitute Exhibit A is the final version of the Sweetgrass PUD that addresses Staffs\nconcerns."
+        },
+        {
+          "term": "amendment",
+          "match_start": 969,
+          "match_end": 978,
+          "passage_start": 819,
+          "passage_end": 1228,
+          "text": "Substitute Exhibit A\n Date:    September 6, 2023\n\nThe applicant has been working with Staff on some additional corrections needed to the proposed PUD\nAmendment. The substitute Exhibit A is the final version of the Sweetgrass PUD that addresses Staffs\nconcerns. The new exhibit is a clean version and has no red text as it is the final version for the\nordinance. The applicant has provided a comparison documen"
+        }
+      ]
+    },
+    {
+      "classification": "unreviewed_topical_match_not_a_finding",
+      "source_sha256": "090cfbec55548ada575053632aaa0d7b4114f023fc65c69c7c5c7ecddf13b0da",
+      "source_url": "https://www.cheyennecity.org/files/sharedassets/public/v/1/your-government/city-council/psc-2023/sub-sweetgrass-pud-amendment.pdf",
+      "source_retrieved_at": "2026-11-08T17:13:02.534477+00:00",
+      "page": 7,
+      "extraction_method": "native",
+      "quality_verified": false,
+      "representation_path": "derived/090cfbec55548ada575053632aaa0d7b4114f023fc65c69c7c5c7ecddf13b0da/page-000007.json",
+      "representation_text_sha256": "df41d1463b49795d09ec3fe034863a3395c93f272d85b4921f3cb10b93efea2d",
+      "representation_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/5b322d39f1e9acbd9f3e7ce45a3bdfaba5cf964b/derived/090cfbec55548ada575053632aaa0d7b4114f023fc65c69c7c5c7ecddf13b0da/page-000007.json",
+      "original_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/5b322d39f1e9acbd9f3e7ce45a3bdfaba5cf964b/objects/09/090cfbec55548ada575053632aaa0d7b4114f023fc65c69c7c5c7ecddf13b0da",
+      "evidence": [
+        {
+          "term": "amendment",
+          "match_start": 4182,
+          "match_end": 4191,
+          "passage_start": 4032,
+          "passage_end": 4301,
+          "text": "il\n   alignment changes, and other similar items.\n\n\n  Sweetgrass Planned Unit Development               Page 2            Standards & Guidelines (4th Amendment)\n  Section 1 – General Provisions                                         Dated: 8/26/2023RESUBMITTAL DRAFT\n\f"
+        }
+      ]
+    },
+    {
+      "classification": "unreviewed_topical_match_not_a_finding",
+      "source_sha256": "090cfbec55548ada575053632aaa0d7b4114f023fc65c69c7c5c7ecddf13b0da",
+      "source_url": "https://www.cheyennecity.org/files/sharedassets/public/v/1/your-government/city-council/psc-2023/sub-sweetgrass-pud-amendment.pdf",
+      "source_retrieved_at": "2026-11-08T17:13:02.534477+00:00",
+      "page": 8,
+      "extraction_method": "native",
+      "quality_verified": false,
+      "representation_path": "derived/090cfbec55548ada575053632aaa0d7b4114f023fc65c69c7c5c7ecddf13b0da/page-000008.json",
+      "representation_text_sha256": "dfc8a46c332aff66c1e0456a1623216b0f459d8f420b25eaaca48524e97ba508",
+      "representation_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/5b322d39f1e9acbd9f3e7ce45a3bdfaba5cf964b/derived/090cfbec55548ada575053632aaa0d7b4114f023fc65c69c7c5c7ecddf13b0da/page-000008.json",
+      "original_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/5b322d39f1e9acbd9f3e7ce45a3bdfaba5cf964b/objects/09/090cfbec55548ada575053632aaa0d7b4114f023fc65c69c7c5c7ecddf13b0da",
+      "evidence": [
+        {
+          "term": "amendment",
+          "match_start": 76,
+          "match_end": 85,
+          "passage_start": 0,
+          "passage_end": 335,
+          "text": "  2. Major Amendments: In the event that the Director finds that a proposed amendment is outside of the\n     minor adjustments described within UDC Section 2.3.4.b, the Committee is authorized to act on behalf of\n     Sweetgrass owners and residents pursuant to UDC§5.6.2.h.\n\n    I. Temporary Uses\n  1. Residential dwelling unit(s) may"
+        },
+        {
+          "term": "amendment",
+          "match_start": 3157,
+          "match_end": 3166,
+          "passage_start": 3007,
+          "passage_end": 3416,
+          "text": "oses of coordination between the Committee, the City, and other\n     interested parties. A change to phasing sequence or location will not trigger an amendment to the PUD.\n  3. Certain provisions and land uses in this PUD require administrative approval. These applications may be\n     allowed by the Director, with Committee review and endorsement, through the processes identified in UDC\n     §2.3.4 – Admin"
+        },
+        {
+          "term": "amendment",
+          "match_start": 3923,
+          "match_end": 3932,
+          "passage_start": 3773,
+          "passage_end": 4045,
+          "text": "nd the UDC, as applicable.\n\n(End of Section)\n\n\n\n\n    Sweetgrass Planned Unit Development               Page 3             Standards & Guidelines (4th Amendment)\n    Section 1 – General Provisions                                          Dated: 8/26/2023RESUBMITTAL DRAFT\n\f"
+        }
+      ]
+    },
+    {
+      "classification": "unreviewed_topical_match_not_a_finding",
+      "source_sha256": "090cfbec55548ada575053632aaa0d7b4114f023fc65c69c7c5c7ecddf13b0da",
+      "source_url": "https://www.cheyennecity.org/files/sharedassets/public/v/1/your-government/city-council/psc-2023/sub-sweetgrass-pud-amendment.pdf",
+      "source_retrieved_at": "2026-11-08T17:13:02.534477+00:00",
+      "page": 9,
+      "extraction_method": "native",
+      "quality_verified": false,
+      "representation_path": "derived/090cfbec55548ada575053632aaa0d7b4114f023fc65c69c7c5c7ecddf13b0da/page-000009.json",
+      "representation_text_sha256": "d13b845fce92a91028e264451ea10c686e25f787364d47d39686f92c886b3fdd",
+      "representation_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/5b322d39f1e9acbd9f3e7ce45a3bdfaba5cf964b/derived/090cfbec55548ada575053632aaa0d7b4114f023fc65c69c7c5c7ecddf13b0da/page-000009.json",
+      "original_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/5b322d39f1e9acbd9f3e7ce45a3bdfaba5cf964b/objects/09/090cfbec55548ada575053632aaa0d7b4114f023fc65c69c7c5c7ecddf13b0da",
+      "evidence": [
+        {
+          "term": "amendment",
+          "match_start": 3705,
+          "match_end": 3714,
+          "passage_start": 3555,
+          "passage_end": 3825,
+          "text": "eet while side-facing to the primary frontage.\n\n\n\n\n   Sweetgrass Planned Unit Development              Page 4             Standards & Guidelines (4th Amendment)\n   Section 2 – Definitions                                               Dated: 8/26/2023 RESUBMITTAL DRAFT\n\f"
+        }
+      ]
+    },
+    {
+      "classification": "unreviewed_topical_match_not_a_finding",
+      "source_sha256": "090cfbec55548ada575053632aaa0d7b4114f023fc65c69c7c5c7ecddf13b0da",
+      "source_url": "https://www.cheyennecity.org/files/sharedassets/public/v/1/your-government/city-council/psc-2023/sub-sweetgrass-pud-amendment.pdf",
+      "source_retrieved_at": "2026-11-08T17:13:02.534477+00:00",
+      "page": 11,
+      "extraction_method": "native",
+      "quality_verified": false,
+      "representation_path": "derived/090cfbec55548ada575053632aaa0d7b4114f023fc65c69c7c5c7ecddf13b0da/page-000011.json",
+      "representation_text_sha256": "387c41827a62aa819e18b0d9ed8f4e27ce16c769b690cdb3f7976e59f44cf8af",
+      "representation_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/5b322d39f1e9acbd9f3e7ce45a3bdfaba5cf964b/derived/090cfbec55548ada575053632aaa0d7b4114f023fc65c69c7c5c7ecddf13b0da/page-000011.json",
+      "original_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/5b322d39f1e9acbd9f3e7ce45a3bdfaba5cf964b/objects/09/090cfbec55548ada575053632aaa0d7b4114f023fc65c69c7c5c7ecddf13b0da",
+      "evidence": [
+        {
+          "term": "amendment",
+          "match_start": 1299,
+          "match_end": 1308,
+          "passage_start": 1149,
+          "passage_end": 1558,
+          "text": "ctions may be approved by the Committee on a case-by-case basis with concurrence\n       by the City Engineer and Fire Department without requiring an amendment to this PUD.\n   d. Any alleys proposed shall be constructed to UDC§4.3 Context-based Roadway: Alley or other standard to\n       be approved on a case-by-case basis by the City Engineer.\n   e. Any gated streets will be privately maintained.\n  3. Resi"
+        },
+        {
+          "term": "substitute",
+          "match_start": 3287,
+          "match_end": 3297,
+          "passage_start": 3137,
+          "passage_end": 3547,
+          "text": ".\n   b. All fences should match existing installed fences at Sweetgrass: Posts are to be white and rails/ pickets\n      are to be adobe. Alternate or substitute specifications and/or colors may be approved by the Committee.\n   c. Allowed fencing styles by location:\n      i. Open-Rail Fence: (required abutting public spaces): Extruded PVC vinyl fence with 5”x5” reinforced\n         posts (white) at 7.5’-8’ O."
+        },
+        {
+          "term": "amendment",
+          "match_start": 4205,
+          "match_end": 4214,
+          "passage_start": 4055,
+          "passage_end": 4328,
+          "text": "  or panels (adobe) (no visible gap required).\n\n   Sweetgrass Planned Unit Development                 Page 6             Standards & Guidelines (4th Amendment)\n   Section 3 - Development Standards & Guidelines                           Dated: 8/26/2023 RESUBMITTAL DRAFT\n\f"
+        }
+      ]
+    },
+    {
+      "classification": "unreviewed_topical_match_not_a_finding",
+      "source_sha256": "090cfbec55548ada575053632aaa0d7b4114f023fc65c69c7c5c7ecddf13b0da",
+      "source_url": "https://www.cheyennecity.org/files/sharedassets/public/v/1/your-government/city-council/psc-2023/sub-sweetgrass-pud-amendment.pdf",
+      "source_retrieved_at": "2026-11-08T17:13:02.534477+00:00",
+      "page": 12,
+      "extraction_method": "native",
+      "quality_verified": false,
+      "representation_path": "derived/090cfbec55548ada575053632aaa0d7b4114f023fc65c69c7c5c7ecddf13b0da/page-000012.json",
+      "representation_text_sha256": "34bfd478b8496dd8f8e98ce85251b683364ecc4cda4c8a1260b3498f79ec01fa",
+      "representation_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/5b322d39f1e9acbd9f3e7ce45a3bdfaba5cf964b/derived/090cfbec55548ada575053632aaa0d7b4114f023fc65c69c7c5c7ecddf13b0da/page-000012.json",
+      "original_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/5b322d39f1e9acbd9f3e7ce45a3bdfaba5cf964b/objects/09/090cfbec55548ada575053632aaa0d7b4114f023fc65c69c7c5c7ecddf13b0da",
+      "evidence": [
+        {
+          "term": "superseded",
+          "match_start": 1314,
+          "match_end": 1324,
+          "passage_start": 1164,
+          "passage_end": 1574,
+          "text": "    Code shall apply.\n  2. Signage:\n     a. UDC Section 6.5 (Signs) and applicable Cheyenne City Municipal Ordinance(s) shall govern, unless\n         superseded by an approved detailed sign program for the entire PUD and/or specific parcels therein.\n         i. Residential and Open Space Parcels (VLDR, LDR, MDR, HDR, WKF, and O/S) shall be governed by\n            defined UDC standards for UDC MR - Medium-De"
+        },
+        {
+          "term": "amendment",
+          "match_start": 4107,
+          "match_end": 4116,
+          "passage_start": 3957,
+          "passage_end": 4228,
+          "text": "d, except for temporary\n      holiday displays.\n\n\n   Sweetgrass Planned Unit Development                Page 7            Standards & Guidelines (4th Amendment)\n   Section 3 - Development Standards & Guidelines                         Dated: 8/26/2023 RESUBMITTAL DRAFT\n\f"
+        }
+      ]
+    },
+    {
+      "classification": "unreviewed_topical_match_not_a_finding",
+      "source_sha256": "090cfbec55548ada575053632aaa0d7b4114f023fc65c69c7c5c7ecddf13b0da",
+      "source_url": "https://www.cheyennecity.org/files/sharedassets/public/v/1/your-government/city-council/psc-2023/sub-sweetgrass-pud-amendment.pdf",
+      "source_retrieved_at": "2026-11-08T17:13:02.534477+00:00",
+      "page": 14,
+      "extraction_method": "native",
+      "quality_verified": false,
+      "representation_path": "derived/090cfbec55548ada575053632aaa0d7b4114f023fc65c69c7c5c7ecddf13b0da/page-000014.json",
+      "representation_text_sha256": "9c166181a64b05ff41d8157fdf609612bfa9561ce6c1dea821b8a79c773df36b",
+      "representation_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/5b322d39f1e9acbd9f3e7ce45a3bdfaba5cf964b/derived/090cfbec55548ada575053632aaa0d7b4114f023fc65c69c7c5c7ecddf13b0da/page-000014.json",
+      "original_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/5b322d39f1e9acbd9f3e7ce45a3bdfaba5cf964b/objects/09/090cfbec55548ada575053632aaa0d7b4114f023fc65c69c7c5c7ecddf13b0da",
+      "evidence": [
+        {
+          "term": "amendment",
+          "match_start": 4073,
+          "match_end": 4082,
+          "passage_start": 3923,
+          "passage_end": 4193,
+          "text": "of variability between front building elevations.\n\n   Sweetgrass Planned Unit Development               Page 9            Standards & Guidelines (4th Amendment)\n   Section 3 - Development Standards & Guidelines                        Dated: 8/26/2023 RESUBMITTAL DRAFT\n\f"
+        }
+      ]
+    },
+    {
+      "classification": "unreviewed_topical_match_not_a_finding",
+      "source_sha256": "090cfbec55548ada575053632aaa0d7b4114f023fc65c69c7c5c7ecddf13b0da",
+      "source_url": "https://www.cheyennecity.org/files/sharedassets/public/v/1/your-government/city-council/psc-2023/sub-sweetgrass-pud-amendment.pdf",
+      "source_retrieved_at": "2026-11-08T17:13:02.534477+00:00",
+      "page": 15,
+      "extraction_method": "native",
+      "quality_verified": false,
+      "representation_path": "derived/090cfbec55548ada575053632aaa0d7b4114f023fc65c69c7c5c7ecddf13b0da/page-000015.json",
+      "representation_text_sha256": "aaa3ec3bb19a7b0854c8993cf9c4d9d4b3af036008c4a0ef2b3645f945900bd8",
+      "representation_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/5b322d39f1e9acbd9f3e7ce45a3bdfaba5cf964b/derived/090cfbec55548ada575053632aaa0d7b4114f023fc65c69c7c5c7ecddf13b0da/page-000015.json",
+      "original_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/5b322d39f1e9acbd9f3e7ce45a3bdfaba5cf964b/objects/09/090cfbec55548ada575053632aaa0d7b4114f023fc65c69c7c5c7ecddf13b0da",
+      "evidence": [
+        {
+          "term": "amendment",
+          "match_start": 2813,
+          "match_end": 2822,
+          "passage_start": 2663,
+          "passage_end": 2934,
+          "text": "igure 1: Parcel Layouts Adjacent to School (NTS)\n\n    Sweetgrass Planned Unit Development              Page 10            Standards & Guidelines (4th Amendment)\n    Section 3 - Development Standards & Guidelines                        Dated: 8/26/2023 RESUBMITTAL DRAFT\n\f"
+        }
+      ]
+    },
+    {
+      "classification": "unreviewed_topical_match_not_a_finding",
+      "source_sha256": "090cfbec55548ada575053632aaa0d7b4114f023fc65c69c7c5c7ecddf13b0da",
+      "source_url": "https://www.cheyennecity.org/files/sharedassets/public/v/1/your-government/city-council/psc-2023/sub-sweetgrass-pud-amendment.pdf",
+      "source_retrieved_at": "2026-11-08T17:13:02.534477+00:00",
+      "page": 17,
+      "extraction_method": "native",
+      "quality_verified": false,
+      "representation_path": "derived/090cfbec55548ada575053632aaa0d7b4114f023fc65c69c7c5c7ecddf13b0da/page-000017.json",
+      "representation_text_sha256": "aa3b768f65bdb5d3f90fe3a45f1f34e18482c998884396d7ecf6e5f797b207ad",
+      "representation_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/5b322d39f1e9acbd9f3e7ce45a3bdfaba5cf964b/derived/090cfbec55548ada575053632aaa0d7b4114f023fc65c69c7c5c7ecddf13b0da/page-000017.json",
+      "original_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/5b322d39f1e9acbd9f3e7ce45a3bdfaba5cf964b/objects/09/090cfbec55548ada575053632aaa0d7b4114f023fc65c69c7c5c7ecddf13b0da",
+      "evidence": [
+        {
+          "term": "amendment",
+          "match_start": 4228,
+          "match_end": 4237,
+          "passage_start": 4078,
+          "passage_end": 4351,
+          "text": "ned\n             on a case-by-case basis; and,\n\n   Sweetgrass Planned Unit Development                 Page 12            Standards & Guidelines (4th Amendment)\n   Section 3 - Development Standards & Guidelines                           Dated: 8/26/2023 RESUBMITTAL DRAFT\n\f"
+        }
+      ]
+    },
+    {
+      "classification": "unreviewed_topical_match_not_a_finding",
+      "source_sha256": "090cfbec55548ada575053632aaa0d7b4114f023fc65c69c7c5c7ecddf13b0da",
+      "source_url": "https://www.cheyennecity.org/files/sharedassets/public/v/1/your-government/city-council/psc-2023/sub-sweetgrass-pud-amendment.pdf",
+      "source_retrieved_at": "2026-11-08T17:13:02.534477+00:00",
+      "page": 19,
+      "extraction_method": "native",
+      "quality_verified": false,
+      "representation_path": "derived/090cfbec55548ada575053632aaa0d7b4114f023fc65c69c7c5c7ecddf13b0da/page-000019.json",
+      "representation_text_sha256": "6247fdc09404fbdbfc2b9fe2c1e3f15887d8cbb0b1420d857d33fa9d5445c7fc",
+      "representation_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/5b322d39f1e9acbd9f3e7ce45a3bdfaba5cf964b/derived/090cfbec55548ada575053632aaa0d7b4114f023fc65c69c7c5c7ecddf13b0da/page-000019.json",
+      "original_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/5b322d39f1e9acbd9f3e7ce45a3bdfaba5cf964b/objects/09/090cfbec55548ada575053632aaa0d7b4114f023fc65c69c7c5c7ecddf13b0da",
+      "evidence": [
+        {
+          "term": "amendment",
+          "match_start": 4072,
+          "match_end": 4081,
+          "passage_start": 3922,
+          "passage_end": 4189,
+          "text": "es for Naturalized Landscapes: See Table 2 below.\n\n\n\n\nSweetgrass Planned Unit Development              Page 14            Standards & Guidelines (4th Amendment)\nSection 3 - Development Standards & Guidelines                        Dated: 8/26/2023 RESUBMITTAL DRAFT\n\f"
+        }
+      ]
+    },
+    {
+      "classification": "unreviewed_topical_match_not_a_finding",
+      "source_sha256": "090cfbec55548ada575053632aaa0d7b4114f023fc65c69c7c5c7ecddf13b0da",
+      "source_url": "https://www.cheyennecity.org/files/sharedassets/public/v/1/your-government/city-council/psc-2023/sub-sweetgrass-pud-amendment.pdf",
+      "source_retrieved_at": "2026-11-08T17:13:02.534477+00:00",
+      "page": 23,
+      "extraction_method": "native",
+      "quality_verified": false,
+      "representation_path": "derived/090cfbec55548ada575053632aaa0d7b4114f023fc65c69c7c5c7ecddf13b0da/page-000023.json",
+      "representation_text_sha256": "596a3d3158b88ad7cb993d16771e0d2d87eb64c3a634d4f4fbbef75b362a74a5",
+      "representation_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/5b322d39f1e9acbd9f3e7ce45a3bdfaba5cf964b/derived/090cfbec55548ada575053632aaa0d7b4114f023fc65c69c7c5c7ecddf13b0da/page-000023.json",
+      "original_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/5b322d39f1e9acbd9f3e7ce45a3bdfaba5cf964b/objects/09/090cfbec55548ada575053632aaa0d7b4114f023fc65c69c7c5c7ecddf13b0da",
+      "evidence": [
+        {
+          "term": "amendment",
+          "match_start": 4178,
+          "match_end": 4187,
+          "passage_start": 4028,
+          "passage_end": 4304,
+          "text": "e within garages (applicable to SFA only).\n\n\n   Sweetgrass Planned Unit Development                    Page 16            Standards & Guidelines (4th Amendment)\n   Section 4 – Land Use Regulations                                            Dated: 8/26/2023 RESUBMITTAL DRAFT\n\f"
+        }
+      ]
+    },
+    {
+      "classification": "unreviewed_topical_match_not_a_finding",
+      "source_sha256": "090cfbec55548ada575053632aaa0d7b4114f023fc65c69c7c5c7ecddf13b0da",
+      "source_url": "https://www.cheyennecity.org/files/sharedassets/public/v/1/your-government/city-council/psc-2023/sub-sweetgrass-pud-amendment.pdf",
+      "source_retrieved_at": "2026-11-08T17:13:02.534477+00:00",
+      "page": 26,
+      "extraction_method": "native",
+      "quality_verified": false,
+      "representation_path": "derived/090cfbec55548ada575053632aaa0d7b4114f023fc65c69c7c5c7ecddf13b0da/page-000026.json",
+      "representation_text_sha256": "250538184d88db64654dbdfc8b3435eeb4ecf13e41249680d3f5cab0c5c3077d",
+      "representation_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/5b322d39f1e9acbd9f3e7ce45a3bdfaba5cf964b/derived/090cfbec55548ada575053632aaa0d7b4114f023fc65c69c7c5c7ecddf13b0da/page-000026.json",
+      "original_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/5b322d39f1e9acbd9f3e7ce45a3bdfaba5cf964b/objects/09/090cfbec55548ada575053632aaa0d7b4114f023fc65c69c7c5c7ecddf13b0da",
+      "evidence": [
+        {
+          "term": "amendment",
+          "match_start": 8483,
+          "match_end": 8492,
+          "passage_start": 8333,
+          "passage_end": 8625,
+          "text": "ne including that standard.\n\n       Sweetgrass Planned Unit Development                           Page 19                 Standards & Guidelines (4th Amendment)\n       Section 4 – Land Use Regulations                                                        Dated: 8/26/2023 RESUBMITTAL DRAFT\n\f"
+        }
+      ]
+    },
+    {
+      "classification": "unreviewed_topical_match_not_a_finding",
+      "source_sha256": "090cfbec55548ada575053632aaa0d7b4114f023fc65c69c7c5c7ecddf13b0da",
+      "source_url": "https://www.cheyennecity.org/files/sharedassets/public/v/1/your-government/city-council/psc-2023/sub-sweetgrass-pud-amendment.pdf",
+      "source_retrieved_at": "2026-11-08T17:13:02.534477+00:00",
+      "page": 28,
+      "extraction_method": "native",
+      "quality_verified": false,
+      "representation_path": "derived/090cfbec55548ada575053632aaa0d7b4114f023fc65c69c7c5c7ecddf13b0da/page-000028.json",
+      "representation_text_sha256": "35f53b9b26e9595c9e59066ddd0d7fcad49da4e0beffb6e14d18b652474d3a27",
+      "representation_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/5b322d39f1e9acbd9f3e7ce45a3bdfaba5cf964b/derived/090cfbec55548ada575053632aaa0d7b4114f023fc65c69c7c5c7ecddf13b0da/page-000028.json",
+      "original_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/5b322d39f1e9acbd9f3e7ce45a3bdfaba5cf964b/objects/09/090cfbec55548ada575053632aaa0d7b4114f023fc65c69c7c5c7ecddf13b0da",
+      "evidence": [
+        {
+          "term": "amendment",
+          "match_start": 4939,
+          "match_end": 4948,
+          "passage_start": 4789,
+          "passage_end": 5077,
+          "text": "Units are denoted in Table 10\n\n\n\n                    Sweetgrass Planned Unit Development               Page 21            Standards & Guidelines (4th Amendment)\n                    Section 4 – Land Use Regulations                                       Dated: 8/26/2023 RESUBMITTAL DRAFT\n\f"
+        }
+      ]
+    },
+    {
+      "classification": "unreviewed_topical_match_not_a_finding",
+      "source_sha256": "090cfbec55548ada575053632aaa0d7b4114f023fc65c69c7c5c7ecddf13b0da",
+      "source_url": "https://www.cheyennecity.org/files/sharedassets/public/v/1/your-government/city-council/psc-2023/sub-sweetgrass-pud-amendment.pdf",
+      "source_retrieved_at": "2026-11-08T17:13:02.534477+00:00",
+      "page": 29,
+      "extraction_method": "native",
+      "quality_verified": false,
+      "representation_path": "derived/090cfbec55548ada575053632aaa0d7b4114f023fc65c69c7c5c7ecddf13b0da/page-000029.json",
+      "representation_text_sha256": "2fe738ba3cc2091a2a4f24d48ee06246a215bd95757b9e7a8106c331e1a3b3a9",
+      "representation_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/5b322d39f1e9acbd9f3e7ce45a3bdfaba5cf964b/derived/090cfbec55548ada575053632aaa0d7b4114f023fc65c69c7c5c7ecddf13b0da/page-000029.json",
+      "original_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/5b322d39f1e9acbd9f3e7ce45a3bdfaba5cf964b/objects/09/090cfbec55548ada575053632aaa0d7b4114f023fc65c69c7c5c7ecddf13b0da",
+      "evidence": [
+        {
+          "term": "superseded",
+          "match_start": 2294,
+          "match_end": 2304,
+          "passage_start": 2144,
+          "passage_end": 2554,
+          "text": "justification and Committee endorsement, all required parking requirements may be\n            reduced up to 30% by right.\n       ii. Unless otherwise superseded herein, requirements of Section 6.2.4 of the UDC shall apply subject to\n            the reduction allowed above.\n 4. Village Center [Parcel V Bar C] Specific Standards:\n   a. Intent: The mixed-use Village Center is intended to be the heart of the co"
+        },
+        {
+          "term": "amendment",
+          "match_start": 3881,
+          "match_end": 3890,
+          "passage_start": 3731,
+          "passage_end": 4001,
+          "text": "l uses shall require 5 spaces per 1,000 sf (GLA).\n\n  Sweetgrass Planned Unit Development               Page 22            Standards & Guidelines (4th Amendment)\n  Section 4 – Land Use Regulations                                       Dated: 8/26/2023 RESUBMITTAL DRAFT\n\f"
+        }
+      ]
+    },
+    {
+      "classification": "unreviewed_topical_match_not_a_finding",
+      "source_sha256": "090cfbec55548ada575053632aaa0d7b4114f023fc65c69c7c5c7ecddf13b0da",
+      "source_url": "https://www.cheyennecity.org/files/sharedassets/public/v/1/your-government/city-council/psc-2023/sub-sweetgrass-pud-amendment.pdf",
+      "source_retrieved_at": "2026-11-08T17:13:02.534477+00:00",
+      "page": 30,
+      "extraction_method": "native",
+      "quality_verified": false,
+      "representation_path": "derived/090cfbec55548ada575053632aaa0d7b4114f023fc65c69c7c5c7ecddf13b0da/page-000030.json",
+      "representation_text_sha256": "6c255aa62054d5da70a0d1237eb1593d9792aa730c180204aa7cadc0187d0fc1",
+      "representation_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/5b322d39f1e9acbd9f3e7ce45a3bdfaba5cf964b/derived/090cfbec55548ada575053632aaa0d7b4114f023fc65c69c7c5c7ecddf13b0da/page-000030.json",
+      "original_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/5b322d39f1e9acbd9f3e7ce45a3bdfaba5cf964b/objects/09/090cfbec55548ada575053632aaa0d7b4114f023fc65c69c7c5c7ecddf13b0da",
+      "evidence": [
+        {
+          "term": "amendment",
+          "match_start": 4399,
+          "match_end": 4408,
+          "passage_start": 4249,
+          "passage_end": 4527,
+          "text": "south and east boundaries of Parcel R+R.\n\n\n Sweetgrass Planned Unit Development                      Page 23              Standards & Guidelines (4th Amendment)\n Section 4 – Land Use Regulations                                                Dated: 8/26/2023 RESUBMITTAL DRAFT\n\f"
+        }
+      ]
+    },
+    {
+      "classification": "unreviewed_topical_match_not_a_finding",
+      "source_sha256": "090cfbec55548ada575053632aaa0d7b4114f023fc65c69c7c5c7ecddf13b0da",
+      "source_url": "https://www.cheyennecity.org/files/sharedassets/public/v/1/your-government/city-council/psc-2023/sub-sweetgrass-pud-amendment.pdf",
+      "source_retrieved_at": "2026-11-08T17:13:02.534477+00:00",
+      "page": 31,
+      "extraction_method": "native",
+      "quality_verified": false,
+      "representation_path": "derived/090cfbec55548ada575053632aaa0d7b4114f023fc65c69c7c5c7ecddf13b0da/page-000031.json",
+      "representation_text_sha256": "4a7529effaa1d6006b7fa1f2bc4c4fda7ce2b0b33b8b2dd02f9b9e4d99f6a654",
+      "representation_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/5b322d39f1e9acbd9f3e7ce45a3bdfaba5cf964b/derived/090cfbec55548ada575053632aaa0d7b4114f023fc65c69c7c5c7ecddf13b0da/page-000031.json",
+      "original_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/5b322d39f1e9acbd9f3e7ce45a3bdfaba5cf964b/objects/09/090cfbec55548ada575053632aaa0d7b4114f023fc65c69c7c5c7ecddf13b0da",
+      "evidence": [
+        {
+          "term": "amendment",
+          "match_start": 3940,
+          "match_end": 3949,
+          "passage_start": 3790,
+          "passage_end": 4061,
+          "text": " from\n             any platted residential lot.\n\n\n Sweetgrass Planned Unit Development                 Page 24            Standards & Guidelines (4th Amendment)\n Section 4 – Land Use Regulations                                         Dated: 8/26/2023 RESUBMITTAL DRAFT\n\f"
+        }
+      ]
+    },
+    {
+      "classification": "unreviewed_topical_match_not_a_finding",
+      "source_sha256": "090cfbec55548ada575053632aaa0d7b4114f023fc65c69c7c5c7ecddf13b0da",
+      "source_url": "https://www.cheyennecity.org/files/sharedassets/public/v/1/your-government/city-council/psc-2023/sub-sweetgrass-pud-amendment.pdf",
+      "source_retrieved_at": "2026-11-08T17:13:02.534477+00:00",
+      "page": 32,
+      "extraction_method": "native",
+      "quality_verified": false,
+      "representation_path": "derived/090cfbec55548ada575053632aaa0d7b4114f023fc65c69c7c5c7ecddf13b0da/page-000032.json",
+      "representation_text_sha256": "c5bcdc94c0d5d0b30008b3ee8fb54e6675959f8d148d4768553e025619531c98",
+      "representation_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/5b322d39f1e9acbd9f3e7ce45a3bdfaba5cf964b/derived/090cfbec55548ada575053632aaa0d7b4114f023fc65c69c7c5c7ecddf13b0da/page-000032.json",
+      "original_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/5b322d39f1e9acbd9f3e7ce45a3bdfaba5cf964b/objects/09/090cfbec55548ada575053632aaa0d7b4114f023fc65c69c7c5c7ecddf13b0da",
+      "evidence": [
+        {
+          "term": "amendment",
+          "match_start": 3737,
+          "match_end": 3746,
+          "passage_start": 3587,
+          "passage_end": 3858,
+          "text": "lopment Standards and Allowed Uses by District\n\n\n\n   Sweetgrass Planned Unit Development               Page 25            Standards & Guidelines (4th Amendment)\n   Section 4 – Land Use Regulations                                       Dated: 8/26/2023 RESUBMITTAL DRAFT\n\f"
+        }
+      ]
+    },
+    {
+      "classification": "unreviewed_topical_match_not_a_finding",
+      "source_sha256": "090cfbec55548ada575053632aaa0d7b4114f023fc65c69c7c5c7ecddf13b0da",
+      "source_url": "https://www.cheyennecity.org/files/sharedassets/public/v/1/your-government/city-council/psc-2023/sub-sweetgrass-pud-amendment.pdf",
+      "source_retrieved_at": "2026-11-08T17:13:02.534477+00:00",
+      "page": 34,
+      "extraction_method": "native",
+      "quality_verified": false,
+      "representation_path": "derived/090cfbec55548ada575053632aaa0d7b4114f023fc65c69c7c5c7ecddf13b0da/page-000034.json",
+      "representation_text_sha256": "70a47bde5b8b40e6d9742de949ecf456e77ea0d17a0a2f5da9814d0cb0413cff",
+      "representation_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/5b322d39f1e9acbd9f3e7ce45a3bdfaba5cf964b/derived/090cfbec55548ada575053632aaa0d7b4114f023fc65c69c7c5c7ecddf13b0da/page-000034.json",
+      "original_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/5b322d39f1e9acbd9f3e7ce45a3bdfaba5cf964b/objects/09/090cfbec55548ada575053632aaa0d7b4114f023fc65c69c7c5c7ecddf13b0da",
+      "evidence": [
+        {
+          "term": "amendment",
+          "match_start": 9117,
+          "match_end": 9126,
+          "passage_start": 8967,
+          "passage_end": 9295,
+          "text": "eetgrass Planned Unit Development                     Page 27                                                             Standards & Guidelines (4th Amendment)\n     Section 4 – Land Use Regulations                                                                                              Dated: 8/26/2023 RESUBMITTAL DRAFT\n\f"
+        }
+      ]
+    },
+    {
+      "classification": "unreviewed_topical_match_not_a_finding",
+      "source_sha256": "090cfbec55548ada575053632aaa0d7b4114f023fc65c69c7c5c7ecddf13b0da",
+      "source_url": "https://www.cheyennecity.org/files/sharedassets/public/v/1/your-government/city-council/psc-2023/sub-sweetgrass-pud-amendment.pdf",
+      "source_retrieved_at": "2026-11-08T17:13:02.534477+00:00",
+      "page": 35,
+      "extraction_method": "native",
+      "quality_verified": false,
+      "representation_path": "derived/090cfbec55548ada575053632aaa0d7b4114f023fc65c69c7c5c7ecddf13b0da/page-000035.json",
+      "representation_text_sha256": "bc1b00796eff620639d68cce51f3baf98d260e1cd4a0000f82884a1d32c9e575",
+      "representation_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/5b322d39f1e9acbd9f3e7ce45a3bdfaba5cf964b/derived/090cfbec55548ada575053632aaa0d7b4114f023fc65c69c7c5c7ecddf13b0da/page-000035.json",
+      "original_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/5b322d39f1e9acbd9f3e7ce45a3bdfaba5cf964b/objects/09/090cfbec55548ada575053632aaa0d7b4114f023fc65c69c7c5c7ecddf13b0da",
+      "evidence": [
+        {
+          "term": "amendment",
+          "match_start": 7305,
+          "match_end": 7314,
+          "passage_start": 7155,
+          "passage_end": 7489,
+          "text": "ass Planned Unit Development                           Page 28                                                            Standards & Guidelines (4th Amendment)\n      Section 4 – Land Use Regulations                                                                                                   Dated: 8/26/2023 RESUBMITTAL DRAFT\n\f"
+        }
+      ]
+    },
+    {
+      "classification": "unreviewed_topical_match_not_a_finding",
+      "source_sha256": "090cfbec55548ada575053632aaa0d7b4114f023fc65c69c7c5c7ecddf13b0da",
+      "source_url": "https://www.cheyennecity.org/files/sharedassets/public/v/1/your-government/city-council/psc-2023/sub-sweetgrass-pud-amendment.pdf",
+      "source_retrieved_at": "2026-11-08T17:13:02.534477+00:00",
+      "page": 48,
+      "extraction_method": "native",
+      "quality_verified": false,
+      "representation_path": "derived/090cfbec55548ada575053632aaa0d7b4114f023fc65c69c7c5c7ecddf13b0da/page-000048.json",
+      "representation_text_sha256": "8a309a5350b3e31ed358e1ca2f541205d09ac53ff6ceba6ac5d7223efb2720ce",
+      "representation_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/5b322d39f1e9acbd9f3e7ce45a3bdfaba5cf964b/derived/090cfbec55548ada575053632aaa0d7b4114f023fc65c69c7c5c7ecddf13b0da/page-000048.json",
+      "original_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/5b322d39f1e9acbd9f3e7ce45a3bdfaba5cf964b/objects/09/090cfbec55548ada575053632aaa0d7b4114f023fc65c69c7c5c7ecddf13b0da",
+      "evidence": [
+        {
+          "term": "amended",
+          "match_start": 348,
+          "match_end": 355,
+          "passage_start": 198,
+          "passage_end": 605,
+          "text": "criteria for the Village Center Land Use District. These standards supplement the\n   Sweetgrass Planned Unit Development Standards and Guidelines, as amended (“the PUD”).\nB. Architectural Intent: Buildings will express a timeless “Modern Farmhouse” concept to emulate an established\n   Town Center organized around a Village Green, with the goal of setting a precedent for future development\n   throughout S"
+        },
+        {
+          "term": "amendment",
+          "match_start": 4045,
+          "match_end": 4054,
+          "passage_start": 3895,
+          "passage_end": 4170,
+          "text": "s, doors, and detailing at a pedestrian scale.\n\n\n    Sweetgrass Planned Unit Development                   Page C-1       Standards & Guidelines (4th Amendment)\n    Appendix C – Village Center Architectural Standards and Guidelines                          Dated: 2/14/2022\n\f"
+        }
+      ]
+    },
+    {
+      "classification": "unreviewed_topical_match_not_a_finding",
+      "source_sha256": "090cfbec55548ada575053632aaa0d7b4114f023fc65c69c7c5c7ecddf13b0da",
+      "source_url": "https://www.cheyennecity.org/files/sharedassets/public/v/1/your-government/city-council/psc-2023/sub-sweetgrass-pud-amendment.pdf",
+      "source_retrieved_at": "2026-11-08T17:13:02.534477+00:00",
+      "page": 57,
+      "extraction_method": "native",
+      "quality_verified": false,
+      "representation_path": "derived/090cfbec55548ada575053632aaa0d7b4114f023fc65c69c7c5c7ecddf13b0da/page-000057.json",
+      "representation_text_sha256": "997c4d051090ee05ccc9572889de3eb1f776cffa375a09c927c5accbefcefe54",
+      "representation_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/5b322d39f1e9acbd9f3e7ce45a3bdfaba5cf964b/derived/090cfbec55548ada575053632aaa0d7b4114f023fc65c69c7c5c7ecddf13b0da/page-000057.json",
+      "original_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/5b322d39f1e9acbd9f3e7ce45a3bdfaba5cf964b/objects/09/090cfbec55548ada575053632aaa0d7b4114f023fc65c69c7c5c7ecddf13b0da",
+      "evidence": [
+        {
+          "term": "amendment",
+          "match_start": 4169,
+          "match_end": 4178,
+          "passage_start": 4019,
+          "passage_end": 4291,
+          "text": "   alignment changes, and other similar items.\n\n\n\n\n  Sweetgrass Planned Unit Development                Page 2            Standards & Guidelines (4th Amendment)\n  Section 1 – General Provisions                                                     Dated: September 5, 2023\n\f"
+        }
+      ]
+    },
+    {
+      "classification": "unreviewed_topical_match_not_a_finding",
+      "source_sha256": "090cfbec55548ada575053632aaa0d7b4114f023fc65c69c7c5c7ecddf13b0da",
+      "source_url": "https://www.cheyennecity.org/files/sharedassets/public/v/1/your-government/city-council/psc-2023/sub-sweetgrass-pud-amendment.pdf",
+      "source_retrieved_at": "2026-11-08T17:13:02.534477+00:00",
+      "page": 58,
+      "extraction_method": "native",
+      "quality_verified": false,
+      "representation_path": "derived/090cfbec55548ada575053632aaa0d7b4114f023fc65c69c7c5c7ecddf13b0da/page-000058.json",
+      "representation_text_sha256": "6596226738e7b45e195a0c919c05ac8cc60d8baba6802fba0f4ff912c2955004",
+      "representation_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/5b322d39f1e9acbd9f3e7ce45a3bdfaba5cf964b/derived/090cfbec55548ada575053632aaa0d7b4114f023fc65c69c7c5c7ecddf13b0da/page-000058.json",
+      "original_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/5b322d39f1e9acbd9f3e7ce45a3bdfaba5cf964b/objects/09/090cfbec55548ada575053632aaa0d7b4114f023fc65c69c7c5c7ecddf13b0da",
+      "evidence": [
+        {
+          "term": "amendment",
+          "match_start": 76,
+          "match_end": 85,
+          "passage_start": 0,
+          "passage_end": 335,
+          "text": "  2. Major Amendments: In the event that the Director finds that a proposed amendment is outside of the minor\n     adjustments described within UDC Section 2.3.4.b, the Committee is authorized to act on behalf of\n     Sweetgrass owners and residents pursuant to UDC§5.6.2.h.\n\n I. Temporary Uses\n  1. Residential dwelling unit(s) may be"
+        },
+        {
+          "term": "amendment",
+          "match_start": 3143,
+          "match_end": 3152,
+          "passage_start": 2993,
+          "passage_end": 3402,
+          "text": "oses of coordination between the Committee, the City, and other interested\n     parties. A change to phasing sequence or location will not trigger an amendment to the PUD.\n  3. Certain provisions and land uses in this PUD require administrative approval. These applications may be\n     allowed by the Director, with Committee review and endorsement, through the processes identified in UDC\n     §2.3.4 – Admin"
+        },
+        {
+          "term": "amendment",
+          "match_start": 3911,
+          "match_end": 3920,
+          "passage_start": 3761,
+          "passage_end": 4037,
+          "text": " the UDC, as applicable.\n\n(End of Section)\n\n\n\n\n    Sweetgrass Planned Unit Development                 Page 3             Standards & Guidelines (4th Amendment)\n    Section 1 – General Provisions                                                       Dated: September 5, 2023\n\f"
+        }
+      ]
+    },
+    {
+      "classification": "unreviewed_topical_match_not_a_finding",
+      "source_sha256": "090cfbec55548ada575053632aaa0d7b4114f023fc65c69c7c5c7ecddf13b0da",
+      "source_url": "https://www.cheyennecity.org/files/sharedassets/public/v/1/your-government/city-council/psc-2023/sub-sweetgrass-pud-amendment.pdf",
+      "source_retrieved_at": "2026-11-08T17:13:02.534477+00:00",
+      "page": 59,
+      "extraction_method": "native",
+      "quality_verified": false,
+      "representation_path": "derived/090cfbec55548ada575053632aaa0d7b4114f023fc65c69c7c5c7ecddf13b0da/page-000059.json",
+      "representation_text_sha256": "1937e637a9eaa6048617d059a8e1e4b89cbf4a3b6f9641b301b6d1f8d19ad567",
+      "representation_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/5b322d39f1e9acbd9f3e7ce45a3bdfaba5cf964b/derived/090cfbec55548ada575053632aaa0d7b4114f023fc65c69c7c5c7ecddf13b0da/page-000059.json",
+      "original_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/5b322d39f1e9acbd9f3e7ce45a3bdfaba5cf964b/objects/09/090cfbec55548ada575053632aaa0d7b4114f023fc65c69c7c5c7ecddf13b0da",
+      "evidence": [
+        {
+          "term": "amendment",
+          "match_start": 3698,
+          "match_end": 3707,
+          "passage_start": 3548,
+          "passage_end": 3820,
+          "text": "eet while side-facing to the primary frontage.\n\n\n\n\n   Sweetgrass Planned Unit Development              Page 4             Standards & Guidelines (4th Amendment)\n   Section 2 – Definitions                                                           Dated: September 5, 2023\n\f"
+        }
+      ]
+    },
+    {
+      "classification": "unreviewed_topical_match_not_a_finding",
+      "source_sha256": "090cfbec55548ada575053632aaa0d7b4114f023fc65c69c7c5c7ecddf13b0da",
+      "source_url": "https://www.cheyennecity.org/files/sharedassets/public/v/1/your-government/city-council/psc-2023/sub-sweetgrass-pud-amendment.pdf",
+      "source_retrieved_at": "2026-11-08T17:13:02.534477+00:00",
+      "page": 61,
+      "extraction_method": "native",
+      "quality_verified": false,
+      "representation_path": "derived/090cfbec55548ada575053632aaa0d7b4114f023fc65c69c7c5c7ecddf13b0da/page-000061.json",
+      "representation_text_sha256": "97898d14b678718dce2baee3c231f67765db03868c7ab3a68459e7a97d22ca7c",
+      "representation_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/5b322d39f1e9acbd9f3e7ce45a3bdfaba5cf964b/derived/090cfbec55548ada575053632aaa0d7b4114f023fc65c69c7c5c7ecddf13b0da/page-000061.json",
+      "original_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/5b322d39f1e9acbd9f3e7ce45a3bdfaba5cf964b/objects/09/090cfbec55548ada575053632aaa0d7b4114f023fc65c69c7c5c7ecddf13b0da",
+      "evidence": [
+        {
+          "term": "amendment",
+          "match_start": 1297,
+          "match_end": 1306,
+          "passage_start": 1147,
+          "passage_end": 1556,
+          "text": "ctions may be approved by the Committee on a case-by-case basis with concurrence\n       by the City Engineer and Fire Department without requiring an amendment to this PUD.\n   d. Any alleys proposed shall be constructed to UDC§4.3 Context-based Roadway: Alley or other standard to\n       be approved on a case-by-case basis by the City Engineer.\n   e. Any gated streets will be privately maintained.\n  3. Resi"
+        },
+        {
+          "term": "substitute",
+          "match_start": 3287,
+          "match_end": 3297,
+          "passage_start": 3137,
+          "passage_end": 3547,
+          "text": ".\n   b. All fences should match existing installed fences at Sweetgrass: Posts are to be white and rails/ pickets\n      are to be adobe. Alternate or substitute specifications and/or colors may be approved by the Committee.\n   c. Allowed fencing styles by location:\n      i. Open-Rail Fence: (required abutting public spaces): Extruded PVC vinyl fence with 5”x5” reinforced posts\n         (white) at 7.5’-8’ O."
+        },
+        {
+          "term": "amendment",
+          "match_start": 4204,
+          "match_end": 4213,
+          "passage_start": 4054,
+          "passage_end": 4328,
+          "text": "   or panels (adobe) (no visible gap required).\n\n   Sweetgrass Planned Unit Development                Page 6             Standards & Guidelines (4th Amendment)\n   Section 3 - Development Standards & Guidelines                                      Dated: September 5, 2023\n\f"
+        }
+      ]
+    },
+    {
+      "classification": "unreviewed_topical_match_not_a_finding",
+      "source_sha256": "090cfbec55548ada575053632aaa0d7b4114f023fc65c69c7c5c7ecddf13b0da",
+      "source_url": "https://www.cheyennecity.org/files/sharedassets/public/v/1/your-government/city-council/psc-2023/sub-sweetgrass-pud-amendment.pdf",
+      "source_retrieved_at": "2026-11-08T17:13:02.534477+00:00",
+      "page": 62,
+      "extraction_method": "native",
+      "quality_verified": false,
+      "representation_path": "derived/090cfbec55548ada575053632aaa0d7b4114f023fc65c69c7c5c7ecddf13b0da/page-000062.json",
+      "representation_text_sha256": "75ad718337da206d89f1e670a363ceb68596210d2d23f995f7349b55a6521d4e",
+      "representation_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/5b322d39f1e9acbd9f3e7ce45a3bdfaba5cf964b/derived/090cfbec55548ada575053632aaa0d7b4114f023fc65c69c7c5c7ecddf13b0da/page-000062.json",
+      "original_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/5b322d39f1e9acbd9f3e7ce45a3bdfaba5cf964b/objects/09/090cfbec55548ada575053632aaa0d7b4114f023fc65c69c7c5c7ecddf13b0da",
+      "evidence": [
+        {
+          "term": "superseded",
+          "match_start": 1297,
+          "match_end": 1307,
+          "passage_start": 1147,
+          "passage_end": 1557,
+          "text": "      Code shall apply.\n  2. Signage:\n    a. UDC Section 6.5 (Signs) and applicable Cheyenne City Municipal Ordinance(s) shall govern, unless\n        superseded by an approved detailed sign program for the entire PUD and/or specific parcels therein.\n        i. Residential and Open Space Parcels (VLDR, LDR, MDR, HDR, WKF, and O/S) shall be governed by defined\n           UDC standards for UDC MR - Medium-Dens"
+        },
+        {
+          "term": "amendment",
+          "match_start": 4227,
+          "match_end": 4236,
+          "passage_start": 4077,
+          "passage_end": 4353,
+          "text": "motor\n      vehicles on public thoroughfares.\n\n   Sweetgrass Planned Unit Development                  Page 7             Standards & Guidelines (4th Amendment)\n   Section 3 - Development Standards & Guidelines                                        Dated: September 5, 2023\n\f"
+        }
+      ]
+    },
+    {
+      "classification": "unreviewed_topical_match_not_a_finding",
+      "source_sha256": "090cfbec55548ada575053632aaa0d7b4114f023fc65c69c7c5c7ecddf13b0da",
+      "source_url": "https://www.cheyennecity.org/files/sharedassets/public/v/1/your-government/city-council/psc-2023/sub-sweetgrass-pud-amendment.pdf",
+      "source_retrieved_at": "2026-11-08T17:13:02.534477+00:00",
+      "page": 64,
+      "extraction_method": "native",
+      "quality_verified": false,
+      "representation_path": "derived/090cfbec55548ada575053632aaa0d7b4114f023fc65c69c7c5c7ecddf13b0da/page-000064.json",
+      "representation_text_sha256": "762417732c6fd6052036cd4ee786aa7f05a6b2586d89be564cc53f7fd805283b",
+      "representation_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/5b322d39f1e9acbd9f3e7ce45a3bdfaba5cf964b/derived/090cfbec55548ada575053632aaa0d7b4114f023fc65c69c7c5c7ecddf13b0da/page-000064.json",
+      "original_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/5b322d39f1e9acbd9f3e7ce45a3bdfaba5cf964b/objects/09/090cfbec55548ada575053632aaa0d7b4114f023fc65c69c7c5c7ecddf13b0da",
+      "evidence": [
+        {
+          "term": "amendment",
+          "match_start": 4005,
+          "match_end": 4014,
+          "passage_start": 3855,
+          "passage_end": 4128,
+          "text": "etter of endorsement from the Committee based on\n\n   Sweetgrass Planned Unit Development                Page 9            Standards & Guidelines (4th Amendment)\n   Section 3 - Development Standards & Guidelines                                     Dated: September 5, 2023\n\f"
+        }
+      ]
+    },
+    {
+      "classification": "unreviewed_topical_match_not_a_finding",
+      "source_sha256": "090cfbec55548ada575053632aaa0d7b4114f023fc65c69c7c5c7ecddf13b0da",
+      "source_url": "https://www.cheyennecity.org/files/sharedassets/public/v/1/your-government/city-council/psc-2023/sub-sweetgrass-pud-amendment.pdf",
+      "source_retrieved_at": "2026-11-08T17:13:02.534477+00:00",
+      "page": 66,
+      "extraction_method": "native",
+      "quality_verified": false,
+      "representation_path": "derived/090cfbec55548ada575053632aaa0d7b4114f023fc65c69c7c5c7ecddf13b0da/page-000066.json",
+      "representation_text_sha256": "f432515d9c1138a3abd249d9e6696fc9688003832184420f94824a2a480766db",
+      "representation_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/5b322d39f1e9acbd9f3e7ce45a3bdfaba5cf964b/derived/090cfbec55548ada575053632aaa0d7b4114f023fc65c69c7c5c7ecddf13b0da/page-000066.json",
+      "original_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/5b322d39f1e9acbd9f3e7ce45a3bdfaba5cf964b/objects/09/090cfbec55548ada575053632aaa0d7b4114f023fc65c69c7c5c7ecddf13b0da",
+      "evidence": [
+        {
+          "term": "amendment",
+          "match_start": 4271,
+          "match_end": 4280,
+          "passage_start": 4121,
+          "passage_end": 4396,
+          "text": "cture (i.e.: Color, Material, Appearance, etc).\n   Sweetgrass Planned Unit Development                Page 11             Standards & Guidelines (4th Amendment)\n   Section 3 - Development Standards & Guidelines                                       Dated: September 5, 2023\n\f"
+        }
+      ]
+    },
+    {
+      "classification": "unreviewed_topical_match_not_a_finding",
+      "source_sha256": "090cfbec55548ada575053632aaa0d7b4114f023fc65c69c7c5c7ecddf13b0da",
+      "source_url": "https://www.cheyennecity.org/files/sharedassets/public/v/1/your-government/city-council/psc-2023/sub-sweetgrass-pud-amendment.pdf",
+      "source_retrieved_at": "2026-11-08T17:13:02.534477+00:00",
+      "page": 68,
+      "extraction_method": "native",
+      "quality_verified": false,
+      "representation_path": "derived/090cfbec55548ada575053632aaa0d7b4114f023fc65c69c7c5c7ecddf13b0da/page-000068.json",
+      "representation_text_sha256": "3f6ffaf44c2ef55a4be644693cab5db7e986e9285624cd2d61b191b3766da653",
+      "representation_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/5b322d39f1e9acbd9f3e7ce45a3bdfaba5cf964b/derived/090cfbec55548ada575053632aaa0d7b4114f023fc65c69c7c5c7ecddf13b0da/page-000068.json",
+      "original_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/5b322d39f1e9acbd9f3e7ce45a3bdfaba5cf964b/objects/09/090cfbec55548ada575053632aaa0d7b4114f023fc65c69c7c5c7ecddf13b0da",
+      "evidence": [
+        {
+          "term": "amendment",
+          "match_start": 3926,
+          "match_end": 3935,
+          "passage_start": 3776,
+          "passage_end": 4049,
+          "text": "from\n             developed to undeveloped land.\n\n   Sweetgrass Planned Unit Development               Page 13            Standards & Guidelines (4th Amendment)\n   Section 3 - Development Standards & Guidelines                                     Dated: September 5, 2023\n\f"
+        }
+      ]
+    },
+    {
+      "classification": "unreviewed_topical_match_not_a_finding",
+      "source_sha256": "090cfbec55548ada575053632aaa0d7b4114f023fc65c69c7c5c7ecddf13b0da",
+      "source_url": "https://www.cheyennecity.org/files/sharedassets/public/v/1/your-government/city-council/psc-2023/sub-sweetgrass-pud-amendment.pdf",
+      "source_retrieved_at": "2026-11-08T17:13:02.534477+00:00",
+      "page": 73,
+      "extraction_method": "native",
+      "quality_verified": false,
+      "representation_path": "derived/090cfbec55548ada575053632aaa0d7b4114f023fc65c69c7c5c7ecddf13b0da/page-000073.json",
+      "representation_text_sha256": "98e9a821d5f1ef5eac6d111645996d4ad144d164530c3edffbc40facbac3a39e",
+      "representation_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/5b322d39f1e9acbd9f3e7ce45a3bdfaba5cf964b/derived/090cfbec55548ada575053632aaa0d7b4114f023fc65c69c7c5c7ecddf13b0da/page-000073.json",
+      "original_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/5b322d39f1e9acbd9f3e7ce45a3bdfaba5cf964b/objects/09/090cfbec55548ada575053632aaa0d7b4114f023fc65c69c7c5c7ecddf13b0da",
+      "evidence": [
+        {
+          "term": "amendment",
+          "match_start": 4195,
+          "match_end": 4204,
+          "passage_start": 4045,
+          "passage_end": 4323,
+          "text": "e within garages (applicable to SFA only).\n\n\n   Sweetgrass Planned Unit Development                   Page 16             Standards & Guidelines (4th Amendment)\n   Section 4 – Land Use Regulations                                                        Dated: September 5, 2023\n\f"
+        }
+      ]
+    },
+    {
+      "classification": "unreviewed_topical_match_not_a_finding",
+      "source_sha256": "090cfbec55548ada575053632aaa0d7b4114f023fc65c69c7c5c7ecddf13b0da",
+      "source_url": "https://www.cheyennecity.org/files/sharedassets/public/v/1/your-government/city-council/psc-2023/sub-sweetgrass-pud-amendment.pdf",
+      "source_retrieved_at": "2026-11-08T17:13:02.534477+00:00",
+      "page": 76,
+      "extraction_method": "native",
+      "quality_verified": false,
+      "representation_path": "derived/090cfbec55548ada575053632aaa0d7b4114f023fc65c69c7c5c7ecddf13b0da/page-000076.json",
+      "representation_text_sha256": "60bac38f261efb399efd3d6a2e0f675024d6c7bef129a6fa76c7bf4b1c8f77fa",
+      "representation_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/5b322d39f1e9acbd9f3e7ce45a3bdfaba5cf964b/derived/090cfbec55548ada575053632aaa0d7b4114f023fc65c69c7c5c7ecddf13b0da/page-000076.json",
+      "original_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/5b322d39f1e9acbd9f3e7ce45a3bdfaba5cf964b/objects/09/090cfbec55548ada575053632aaa0d7b4114f023fc65c69c7c5c7ecddf13b0da",
+      "evidence": [
+        {
+          "term": "amendment",
+          "match_start": 8541,
+          "match_end": 8550,
+          "passage_start": 8391,
+          "passage_end": 8684,
+          "text": "one including that standard.\n\n       Sweetgrass Planned Unit Development                          Page 19                 Standards & Guidelines (4th Amendment)\n       Section 4 – Land Use Regulations                                                                   Dated: September 5, 2023\n\f"
+        }
+      ]
+    },
+    {
+      "classification": "unreviewed_topical_match_not_a_finding",
+      "source_sha256": "090cfbec55548ada575053632aaa0d7b4114f023fc65c69c7c5c7ecddf13b0da",
+      "source_url": "https://www.cheyennecity.org/files/sharedassets/public/v/1/your-government/city-council/psc-2023/sub-sweetgrass-pud-amendment.pdf",
+      "source_retrieved_at": "2026-11-08T17:13:02.534477+00:00",
+      "page": 78,
+      "extraction_method": "native",
+      "quality_verified": false,
+      "representation_path": "derived/090cfbec55548ada575053632aaa0d7b4114f023fc65c69c7c5c7ecddf13b0da/page-000078.json",
+      "representation_text_sha256": "2e3c55429cc4f96e4d50768ab7e9bb6dc6dad8d3146289ac9230739665f754bd",
+      "representation_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/5b322d39f1e9acbd9f3e7ce45a3bdfaba5cf964b/derived/090cfbec55548ada575053632aaa0d7b4114f023fc65c69c7c5c7ecddf13b0da/page-000078.json",
+      "original_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/5b322d39f1e9acbd9f3e7ce45a3bdfaba5cf964b/objects/09/090cfbec55548ada575053632aaa0d7b4114f023fc65c69c7c5c7ecddf13b0da",
+      "evidence": [
+        {
+          "term": "amendment",
+          "match_start": 5043,
+          "match_end": 5052,
+          "passage_start": 4893,
+          "passage_end": 5183,
+          "text": "Units are denoted in Table 10\n\n\n\n             Sweetgrass Planned Unit Development                      Page 21            Standards & Guidelines (4th Amendment)\n             Section 4 – Land Use Regulations                                                          Dated: September 5, 2023\n\f"
+        }
+      ]
+    },
+    {
+      "classification": "unreviewed_topical_match_not_a_finding",
+      "source_sha256": "090cfbec55548ada575053632aaa0d7b4114f023fc65c69c7c5c7ecddf13b0da",
+      "source_url": "https://www.cheyennecity.org/files/sharedassets/public/v/1/your-government/city-council/psc-2023/sub-sweetgrass-pud-amendment.pdf",
+      "source_retrieved_at": "2026-11-08T17:13:02.534477+00:00",
+      "page": 79,
+      "extraction_method": "native",
+      "quality_verified": false,
+      "representation_path": "derived/090cfbec55548ada575053632aaa0d7b4114f023fc65c69c7c5c7ecddf13b0da/page-000079.json",
+      "representation_text_sha256": "3f3a3120437b95d0edb71d9d57cd0f91d551bf97b4336c073bc5be06b36f416b",
+      "representation_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/5b322d39f1e9acbd9f3e7ce45a3bdfaba5cf964b/derived/090cfbec55548ada575053632aaa0d7b4114f023fc65c69c7c5c7ecddf13b0da/page-000079.json",
+      "original_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/5b322d39f1e9acbd9f3e7ce45a3bdfaba5cf964b/objects/09/090cfbec55548ada575053632aaa0d7b4114f023fc65c69c7c5c7ecddf13b0da",
+      "evidence": [
+        {
+          "term": "superseded",
+          "match_start": 2294,
+          "match_end": 2304,
+          "passage_start": 2144,
+          "passage_end": 2554,
+          "text": "justification and Committee endorsement, all required parking requirements may be\n            reduced up to 30% by right.\n       ii. Unless otherwise superseded herein, requirements of Section 6.2.4 of the UDC shall apply subject to\n            the reduction allowed above.\n 4. Village Center [Parcel V Bar C] Specific Standards:\n   a. Intent: The mixed-use Village Center is intended to be the heart of the co"
+        },
+        {
+          "term": "amendment",
+          "match_start": 3883,
+          "match_end": 3892,
+          "passage_start": 3733,
+          "passage_end": 4005,
+          "text": "l uses shall require 5 spaces per 1,000 sf (GLA).\n\n  Sweetgrass Planned Unit Development               Page 22            Standards & Guidelines (4th Amendment)\n  Section 4 – Land Use Regulations                                                   Dated: September 5, 2023\n\f"
+        }
+      ]
+    },
+    {
+      "classification": "unreviewed_topical_match_not_a_finding",
+      "source_sha256": "090cfbec55548ada575053632aaa0d7b4114f023fc65c69c7c5c7ecddf13b0da",
+      "source_url": "https://www.cheyennecity.org/files/sharedassets/public/v/1/your-government/city-council/psc-2023/sub-sweetgrass-pud-amendment.pdf",
+      "source_retrieved_at": "2026-11-08T17:13:02.534477+00:00",
+      "page": 80,
+      "extraction_method": "native",
+      "quality_verified": false,
+      "representation_path": "derived/090cfbec55548ada575053632aaa0d7b4114f023fc65c69c7c5c7ecddf13b0da/page-000080.json",
+      "representation_text_sha256": "fc01883f7672d043c6cf801ab69f03cf61250166a4d70b2dd5078420fb1cba4e",
+      "representation_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/5b322d39f1e9acbd9f3e7ce45a3bdfaba5cf964b/derived/090cfbec55548ada575053632aaa0d7b4114f023fc65c69c7c5c7ecddf13b0da/page-000080.json",
+      "original_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/5b322d39f1e9acbd9f3e7ce45a3bdfaba5cf964b/objects/09/090cfbec55548ada575053632aaa0d7b4114f023fc65c69c7c5c7ecddf13b0da",
+      "evidence": [
+        {
+          "term": "amendment",
+          "match_start": 4417,
+          "match_end": 4426,
+          "passage_start": 4267,
+          "passage_end": 4547,
+          "text": "south and east boundaries of Parcel R+R.\n\n\n Sweetgrass Planned Unit Development                      Page 23              Standards & Guidelines (4th Amendment)\n Section 4 – Land Use Regulations                                                            Dated: September 5, 2023\n\f"
+        }
+      ]
+    },
+    {
+      "classification": "unreviewed_topical_match_not_a_finding",
+      "source_sha256": "090cfbec55548ada575053632aaa0d7b4114f023fc65c69c7c5c7ecddf13b0da",
+      "source_url": "https://www.cheyennecity.org/files/sharedassets/public/v/1/your-government/city-council/psc-2023/sub-sweetgrass-pud-amendment.pdf",
+      "source_retrieved_at": "2026-11-08T17:13:02.534477+00:00",
+      "page": 81,
+      "extraction_method": "native",
+      "quality_verified": false,
+      "representation_path": "derived/090cfbec55548ada575053632aaa0d7b4114f023fc65c69c7c5c7ecddf13b0da/page-000081.json",
+      "representation_text_sha256": "cb511aa7767cad32da5edfd2f6cf97198b93a17b5da29d89e5b8dea874197d9a",
+      "representation_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/5b322d39f1e9acbd9f3e7ce45a3bdfaba5cf964b/derived/090cfbec55548ada575053632aaa0d7b4114f023fc65c69c7c5c7ecddf13b0da/page-000081.json",
+      "original_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/5b322d39f1e9acbd9f3e7ce45a3bdfaba5cf964b/objects/09/090cfbec55548ada575053632aaa0d7b4114f023fc65c69c7c5c7ecddf13b0da",
+      "evidence": [
+        {
+          "term": "amendment",
+          "match_start": 3940,
+          "match_end": 3949,
+          "passage_start": 3790,
+          "passage_end": 4063,
+          "text": " from\n             any platted residential lot.\n\n\n Sweetgrass Planned Unit Development                 Page 24            Standards & Guidelines (4th Amendment)\n Section 4 – Land Use Regulations                                                     Dated: September 5, 2023\n\f"
+        }
+      ]
+    },
+    {
+      "classification": "unreviewed_topical_match_not_a_finding",
+      "source_sha256": "090cfbec55548ada575053632aaa0d7b4114f023fc65c69c7c5c7ecddf13b0da",
+      "source_url": "https://www.cheyennecity.org/files/sharedassets/public/v/1/your-government/city-council/psc-2023/sub-sweetgrass-pud-amendment.pdf",
+      "source_retrieved_at": "2026-11-08T17:13:02.534477+00:00",
+      "page": 82,
+      "extraction_method": "native",
+      "quality_verified": false,
+      "representation_path": "derived/090cfbec55548ada575053632aaa0d7b4114f023fc65c69c7c5c7ecddf13b0da/page-000082.json",
+      "representation_text_sha256": "02d9e04e116bd896db2025649993527dc0bb6cde5977d11930e566545c96fbac",
+      "representation_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/5b322d39f1e9acbd9f3e7ce45a3bdfaba5cf964b/derived/090cfbec55548ada575053632aaa0d7b4114f023fc65c69c7c5c7ecddf13b0da/page-000082.json",
+      "original_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/5b322d39f1e9acbd9f3e7ce45a3bdfaba5cf964b/objects/09/090cfbec55548ada575053632aaa0d7b4114f023fc65c69c7c5c7ecddf13b0da",
+      "evidence": [
+        {
+          "term": "amendment",
+          "match_start": 3739,
+          "match_end": 3748,
+          "passage_start": 3589,
+          "passage_end": 3864,
+          "text": "pment Standards and Allowed Uses by District\n\n\n\n   Sweetgrass Planned Unit Development                Page 25             Standards & Guidelines (4th Amendment)\n   Section 4 – Land Use Regulations                                                     Dated: September 5, 2023\n\f"
+        }
+      ]
+    },
+    {
+      "classification": "unreviewed_topical_match_not_a_finding",
+      "source_sha256": "090cfbec55548ada575053632aaa0d7b4114f023fc65c69c7c5c7ecddf13b0da",
+      "source_url": "https://www.cheyennecity.org/files/sharedassets/public/v/1/your-government/city-council/psc-2023/sub-sweetgrass-pud-amendment.pdf",
+      "source_retrieved_at": "2026-11-08T17:13:02.534477+00:00",
+      "page": 84,
+      "extraction_method": "native",
+      "quality_verified": false,
+      "representation_path": "derived/090cfbec55548ada575053632aaa0d7b4114f023fc65c69c7c5c7ecddf13b0da/page-000084.json",
+      "representation_text_sha256": "a9ecdbc81b902f59f5a5770e2d2a0dba7d8feb0e1093d7f58cd9f9013f86fdff",
+      "representation_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/5b322d39f1e9acbd9f3e7ce45a3bdfaba5cf964b/derived/090cfbec55548ada575053632aaa0d7b4114f023fc65c69c7c5c7ecddf13b0da/page-000084.json",
+      "original_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/5b322d39f1e9acbd9f3e7ce45a3bdfaba5cf964b/objects/09/090cfbec55548ada575053632aaa0d7b4114f023fc65c69c7c5c7ecddf13b0da",
+      "evidence": [
+        {
+          "term": "amendment",
+          "match_start": 9231,
+          "match_end": 9240,
+          "passage_start": 9081,
+          "passage_end": 9404,
+          "text": "    Sweetgrass Planned Unit Development                     Page 27                                                       Standards & Guidelines (4th Amendment)\n    Section 4 – Land Use Regulations                                                                                                    Dated: September 5, 2023\n\f"
+        }
+      ]
+    },
+    {
+      "classification": "unreviewed_topical_match_not_a_finding",
+      "source_sha256": "090cfbec55548ada575053632aaa0d7b4114f023fc65c69c7c5c7ecddf13b0da",
+      "source_url": "https://www.cheyennecity.org/files/sharedassets/public/v/1/your-government/city-council/psc-2023/sub-sweetgrass-pud-amendment.pdf",
+      "source_retrieved_at": "2026-11-08T17:13:02.534477+00:00",
+      "page": 85,
+      "extraction_method": "native",
+      "quality_verified": false,
+      "representation_path": "derived/090cfbec55548ada575053632aaa0d7b4114f023fc65c69c7c5c7ecddf13b0da/page-000085.json",
+      "representation_text_sha256": "8b275099d2653e9f2d3c84ec4939bd73656821ee8d76cbf581bc9e4f5d6a3409",
+      "representation_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/5b322d39f1e9acbd9f3e7ce45a3bdfaba5cf964b/derived/090cfbec55548ada575053632aaa0d7b4114f023fc65c69c7c5c7ecddf13b0da/page-000085.json",
+      "original_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/5b322d39f1e9acbd9f3e7ce45a3bdfaba5cf964b/objects/09/090cfbec55548ada575053632aaa0d7b4114f023fc65c69c7c5c7ecddf13b0da",
+      "evidence": [
+        {
+          "term": "amendment",
+          "match_start": 7410,
+          "match_end": 7419,
+          "passage_start": 7260,
+          "passage_end": 7590,
+          "text": "eetgrass Planned Unit Development                            Page 28                                                      Standards & Guidelines (4th Amendment)\n     Section 4 – Land Use Regulations                                                                                                          Dated: September 5, 2023\n\f"
+        }
+      ]
+    },
+    {
+      "classification": "unreviewed_topical_match_not_a_finding",
+      "source_sha256": "090cfbec55548ada575053632aaa0d7b4114f023fc65c69c7c5c7ecddf13b0da",
+      "source_url": "https://www.cheyennecity.org/files/sharedassets/public/v/1/your-government/city-council/psc-2023/sub-sweetgrass-pud-amendment.pdf",
+      "source_retrieved_at": "2026-11-08T17:13:02.534477+00:00",
+      "page": 97,
+      "extraction_method": "native",
+      "quality_verified": false,
+      "representation_path": "derived/090cfbec55548ada575053632aaa0d7b4114f023fc65c69c7c5c7ecddf13b0da/page-000097.json",
+      "representation_text_sha256": "8a309a5350b3e31ed358e1ca2f541205d09ac53ff6ceba6ac5d7223efb2720ce",
+      "representation_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/5b322d39f1e9acbd9f3e7ce45a3bdfaba5cf964b/derived/090cfbec55548ada575053632aaa0d7b4114f023fc65c69c7c5c7ecddf13b0da/page-000097.json",
+      "original_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/5b322d39f1e9acbd9f3e7ce45a3bdfaba5cf964b/objects/09/090cfbec55548ada575053632aaa0d7b4114f023fc65c69c7c5c7ecddf13b0da",
+      "evidence": [
+        {
+          "term": "amended",
+          "match_start": 348,
+          "match_end": 355,
+          "passage_start": 198,
+          "passage_end": 605,
+          "text": "criteria for the Village Center Land Use District. These standards supplement the\n   Sweetgrass Planned Unit Development Standards and Guidelines, as amended (“the PUD”).\nB. Architectural Intent: Buildings will express a timeless “Modern Farmhouse” concept to emulate an established\n   Town Center organized around a Village Green, with the goal of setting a precedent for future development\n   throughout S"
+        },
+        {
+          "term": "amendment",
+          "match_start": 4045,
+          "match_end": 4054,
+          "passage_start": 3895,
+          "passage_end": 4170,
+          "text": "s, doors, and detailing at a pedestrian scale.\n\n\n    Sweetgrass Planned Unit Development                   Page C-1       Standards & Guidelines (4th Amendment)\n    Appendix C – Village Center Architectural Standards and Guidelines                          Dated: 2/14/2022\n\f"
+        }
+      ]
+    },
+    {
+      "classification": "unreviewed_topical_match_not_a_finding",
+      "source_sha256": "10804ccc56cfd4dbf3eda3a48dd09d00c38901ed995803b3ea688cdb5d11ca9c",
+      "source_url": "https://www.cheyennecity.org/files/sharedassets/public/v/1/your-government/city-council/psc-2022/substitute-8.16.22-ord.-13.12-amendments-ca-redline.pdf",
+      "source_retrieved_at": "2026-11-08T17:15:11.672199+00:00",
+      "page": 1,
+      "extraction_method": "native",
+      "quality_verified": false,
+      "representation_path": "derived/10804ccc56cfd4dbf3eda3a48dd09d00c38901ed995803b3ea688cdb5d11ca9c/page-000001.json",
+      "representation_text_sha256": "8aa630dbd215c330f6861ff6178d007cd734572364dbecb87b954fe8f876a0b5",
+      "representation_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/5b322d39f1e9acbd9f3e7ce45a3bdfaba5cf964b/derived/10804ccc56cfd4dbf3eda3a48dd09d00c38901ed995803b3ea688cdb5d11ca9c/page-000001.json",
+      "original_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/5b322d39f1e9acbd9f3e7ce45a3bdfaba5cf964b/objects/10/10804ccc56cfd4dbf3eda3a48dd09d00c38901ed995803b3ea688cdb5d11ca9c",
+      "evidence": [
+        {
+          "term": "amended",
+          "match_start": 689,
+          "match_end": 696,
+          "passage_start": 539,
+          "passage_end": 946,
+          "text": "  Section 1. That various sections of Chapter 13, Sewer System of Title 13, Public Services,\nof the code of the City of Cheyenne, Wyoming, are hereby amended as set out in this ordinance.\nSections currently existing in Chapter 13 not set out within this ordinance remain unchanged.\n\n13.12.020 - Sewer connection required.\n\n        All occupied property in the city which that is capable of being served by t"
+        }
+      ]
+    },
+    {
+      "classification": "unreviewed_topical_match_not_a_finding",
+      "source_sha256": "10d28a36c27d7c22fa87e0d00f73974c827e7a23b94e25665007b4c25c8d354b",
+      "source_url": "https://www.cheyennecity.org/files/sharedassets/public/v/1/your-government/city-council/psc-2023/sub-ord-amending-subsec-6.6.3.b.3-chosen-version.pdf",
+      "source_retrieved_at": "2026-11-08T17:12:27.431782+00:00",
+      "page": 1,
+      "extraction_method": "native",
+      "quality_verified": false,
+      "representation_path": "derived/10d28a36c27d7c22fa87e0d00f73974c827e7a23b94e25665007b4c25c8d354b/page-000001.json",
+      "representation_text_sha256": "3f3d90cb5e2d10f88a8bb70811c97bb6cbd15830e1a61a6573be72e7c8fb66c2",
+      "representation_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/5b322d39f1e9acbd9f3e7ce45a3bdfaba5cf964b/derived/10d28a36c27d7c22fa87e0d00f73974c827e7a23b94e25665007b4c25c8d354b/page-000001.json",
+      "original_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/5b322d39f1e9acbd9f3e7ce45a3bdfaba5cf964b/objects/10/10d28a36c27d7c22fa87e0d00f73974c827e7a23b94e25665007b4c25c8d354b",
+      "evidence": [
+        {
+          "term": "amendment",
+          "match_start": 565,
+          "match_end": 574,
+          "passage_start": 415,
+          "passage_end": 824,
+          "text": "INED BY THE GOVERNING BODY OF THE CITY OF CHEYENNE,\nWYOMING:\n\n         Section 1. That the Governing Body of the City of Cheyenne finds that the text amendment\nthat is the subject of this ordinance meets the criteria specified in Section 2.4.1.d of the Unified\nDevelopment Code.\n\n       Section 2. That on October 16, 2023, the Planning Commission conducted a public\nhearing, reviewed the proposed text amendm"
+        },
+        {
+          "term": "amendment",
+          "match_start": 818,
+          "match_end": 827,
+          "passage_start": 668,
+          "passage_end": 1077,
+          "text": "Unified\nDevelopment Code.\n\n       Section 2. That on October 16, 2023, the Planning Commission conducted a public\nhearing, reviewed the proposed text amendment, and recommended approval of said text\namendment.\n\n        Section 3. That Subsection 6.6.3.b.3 Materials for Multi-dwelling buildings, of Subsection\n6.6.3.b Building Design, of Subsection 6.6.3 General Residential Design, of Section 6.6\nResidential"
+        },
+        {
+          "term": "amendment",
+          "match_start": 867,
+          "match_end": 876,
+          "passage_start": 717,
+          "passage_end": 1126,
+          "text": " on October 16, 2023, the Planning Commission conducted a public\nhearing, reviewed the proposed text amendment, and recommended approval of said text\namendment.\n\n        Section 3. That Subsection 6.6.3.b.3 Materials for Multi-dwelling buildings, of Subsection\n6.6.3.b Building Design, of Subsection 6.6.3 General Residential Design, of Section 6.6\nResidential Design Standards, of Article 6 Design Regulation"
+        }
+      ]
+    },
+    {
+      "classification": "unreviewed_topical_match_not_a_finding",
+      "source_sha256": "132ae915bb06a6eb510b479ef9ffd4df69aef887f8ea8321b94f20bb390f9e05",
+      "source_url": "https://www.cheyennecity.org/files/sharedassets/public/v/1/your-government/city-council/fc-2024/fc-12-02-24-minutes.pdf",
+      "source_retrieved_at": "2026-11-08T16:40:12.260214+00:00",
+      "page": 1,
+      "extraction_method": "native",
+      "quality_verified": false,
+      "representation_path": "derived/132ae915bb06a6eb510b479ef9ffd4df69aef887f8ea8321b94f20bb390f9e05/page-000001.json",
+      "representation_text_sha256": "edc5723222c79ebc00ab2929eaa1c77bb551b0edbe15f2ef3806f7b4e9bcbc4d",
+      "representation_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/5b322d39f1e9acbd9f3e7ce45a3bdfaba5cf964b/derived/132ae915bb06a6eb510b479ef9ffd4df69aef887f8ea8321b94f20bb390f9e05/page-000001.json",
+      "original_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/5b322d39f1e9acbd9f3e7ce45a3bdfaba5cf964b/objects/13/132ae915bb06a6eb510b479ef9ffd4df69aef887f8ea8321b94f20bb390f9e05",
+      "evidence": [
+        {
+          "term": "substitute",
+          "match_start": 1620,
+          "match_end": 1630,
+          "passage_start": 1470,
+          "passage_end": 1880,
+          "text": "eyenne Board of Public Utilities). (SPONSOR   —\n\n\n\n\n       DR. ALDRICH)\n\nMr. Cook moved to adopt, seconded by Mr. Johnson. Mr. Cook moved to amend by substitute\ndated November 21, 2024, seconded by Mr. Johnson. Motion to amend carried by unanimous\nvoice vote. Main motion, as amended, carried by unanimous voice vote.\n\nRobin Lockman, City Treasurer, provided a staff report and Mayor Patrick Collins provided\na"
+        },
+        {
+          "term": "amended",
+          "match_start": 1746,
+          "match_end": 1753,
+          "passage_start": 1596,
+          "passage_end": 2003,
+          "text": " Cook moved to amend by substitute\ndated November 21, 2024, seconded by Mr. Johnson. Motion to amend carried by unanimous\nvoice vote. Main motion, as amended, carried by unanimous voice vote.\n\nRobin Lockman, City Treasurer, provided a staff report and Mayor Patrick Collins provided\nadditional information. Chairwoman Aldrich provided information related to the substitute and\ncommittee members Johnson and "
+        },
+        {
+          "term": "substitute",
+          "match_start": 1958,
+          "match_end": 1968,
+          "passage_start": 1808,
+          "passage_end": 2218,
+          "text": " Treasurer, provided a staff report and Mayor Patrick Collins provided\nadditional information. Chairwoman Aldrich provided information related to the substitute and\ncommittee members Johnson and White commented on the item. Public comment was made by\nSeth Lloyd, City employee.\n\n28.    CONSIDERATION OF BIDS/PURCHASES/REQUESTS FOR PROPOSALS:\n\n       c)     Consideration of Bid #5-7 -25 for an Agreement betwee"
+        }
+      ]
+    },
+    {
+      "classification": "unreviewed_topical_match_not_a_finding",
+      "source_sha256": "14c781beeac8664941eaffb99f88add19ec0ad39228e3e1488a96946af73ab6b",
+      "source_url": "https://www.cheyennecity.org/files/sharedassets/public/v/1/your-government/city-council/fc-2023/fc-10-16-23-minutes.pdf",
+      "source_retrieved_at": "2026-11-08T16:42:17.208383+00:00",
+      "page": 1,
+      "extraction_method": "tesseract",
+      "quality_verified": false,
+      "representation_path": "derived/14c781beeac8664941eaffb99f88add19ec0ad39228e3e1488a96946af73ab6b/page-000001.json",
+      "representation_text_sha256": "64729d27254210b81c561f3274b7cade85cf114ea67b92195cfc08b00fe2605b",
+      "representation_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/5b322d39f1e9acbd9f3e7ce45a3bdfaba5cf964b/derived/14c781beeac8664941eaffb99f88add19ec0ad39228e3e1488a96946af73ab6b/page-000001.json",
+      "original_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/5b322d39f1e9acbd9f3e7ce45a3bdfaba5cf964b/objects/14/14c781beeac8664941eaffb99f88add19ec0ad39228e3e1488a96946af73ab6b",
+      "evidence": [
+        {
+          "term": "amendment",
+          "match_start": 646,
+          "match_end": 655,
+          "passage_start": 496,
+          "passage_end": 905,
+          "text": "riveways Generally, of Title 12, Streets, Sidewalks and Public Places, of the Municipal\nCode of the City of Cheyenne, Wyoming and making a conforming amendment as\nspecified,\n\nMr. Roybal moved to approve on 3\" and final reading, seconded by Mr. Esquibel. Dr. Aldrich\nmoved to amend section 12.04.240(B) to replace “ten (10) business days” with “three (3) business\ndays”, seconded by Mr. Esquibel. Motion to ame"
+        }
+      ]
+    },
+    {
+      "classification": "unreviewed_topical_match_not_a_finding",
+      "source_sha256": "14c781beeac8664941eaffb99f88add19ec0ad39228e3e1488a96946af73ab6b",
+      "source_url": "https://www.cheyennecity.org/files/sharedassets/public/v/1/your-government/city-council/fc-2023/fc-10-16-23-minutes.pdf",
+      "source_retrieved_at": "2026-11-08T16:42:17.208383+00:00",
+      "page": 3,
+      "extraction_method": "tesseract",
+      "quality_verified": false,
+      "representation_path": "derived/14c781beeac8664941eaffb99f88add19ec0ad39228e3e1488a96946af73ab6b/page-000003.json",
+      "representation_text_sha256": "6aff9e44acae6dcd9f94a38cb85b2eb5ffde43d90b5e26eb25a0c739eb72a90a",
+      "representation_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/5b322d39f1e9acbd9f3e7ce45a3bdfaba5cf964b/derived/14c781beeac8664941eaffb99f88add19ec0ad39228e3e1488a96946af73ab6b/page-000003.json",
+      "original_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/5b322d39f1e9acbd9f3e7ce45a3bdfaba5cf964b/objects/14/14c781beeac8664941eaffb99f88add19ec0ad39228e3e1488a96946af73ab6b",
+      "evidence": [
+        {
+          "term": "amended",
+          "match_start": 154,
+          "match_end": 161,
+          "passage_start": 4,
+          "passage_end": 411,
+          "text": "R ITEMS FOR THE AGENDA:\n\nContract Modification #1 to Contract #7814 between the City of Cheyenne and the Wyoming\nDepartment of Transportation for the Amended and Restated Cooperative Agreement for Project\nARSCT N561 A02, US 30/Pershing Blvd. to Christensen Road, Cheyenne Streets, Laramie\nCounty. (2023-2026 Optional 1% Sales Tax Fund, 2017 & 2021 Specific Purpose Option Tax\nFund and WYDOT Federal Enhancem"
+        }
+      ]
+    }
+  ]
+}

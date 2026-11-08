@@ -1,8 +1,8 @@
 {
   "profile": "water-stormwater",
   "title": "Water, wastewater and stormwater",
-  "generated_at": "2026-11-08T17:28:50.972658+00:00",
-  "source_revision": "22880f4c2443b35dd5c4b53e67708302bc66f9cc",
+  "generated_at": "2026-11-08T17:32:36.179457+00:00",
+  "source_revision": "5b322d39f1e9acbd9f3e7ce45a3bdfaba5cf964b",
   "classification": "retrieval_triage_not_investigative_findings",
   "matched_representations": 71,
   "exported_representations": 50,
@@ -19,8 +19,8 @@
       "quality_verified": false,
       "representation_path": "text/3dd70667ea5d722bea19d76073b4ffffcc05a651e4b1b3a1dd22befe7d173cfa.txt",
       "representation_text_sha256": "2fed3f87d5b1cff9bd36ee7e36045d50bb8a3f93d6cd95eb2072dbc6150983b8",
-      "representation_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/22880f4c2443b35dd5c4b53e67708302bc66f9cc/text/3dd70667ea5d722bea19d76073b4ffffcc05a651e4b1b3a1dd22befe7d173cfa.txt",
-      "original_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/22880f4c2443b35dd5c4b53e67708302bc66f9cc/objects/3d/3dd70667ea5d722bea19d76073b4ffffcc05a651e4b1b3a1dd22befe7d173cfa",
+      "representation_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/5b322d39f1e9acbd9f3e7ce45a3bdfaba5cf964b/text/3dd70667ea5d722bea19d76073b4ffffcc05a651e4b1b3a1dd22befe7d173cfa.txt",
+      "original_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/5b322d39f1e9acbd9f3e7ce45a3bdfaba5cf964b/objects/3d/3dd70667ea5d722bea19d76073b4ffffcc05a651e4b1b3a1dd22befe7d173cfa",
       "evidence": [
         {
           "term": "stormwater",
@@ -42,8 +42,8 @@
       "quality_verified": false,
       "representation_path": "text/77b33b250c26aa5b4c39100d72dc332a81fc1c0af261b50b98f49a7251582aaf.txt",
       "representation_text_sha256": "b6345c9a22eb8016f2ce5fa0d3c32e691ce51d00cbbfbed12eed62c42967b98b",
-      "representation_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/22880f4c2443b35dd5c4b53e67708302bc66f9cc/text/77b33b250c26aa5b4c39100d72dc332a81fc1c0af261b50b98f49a7251582aaf.txt",
-      "original_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/22880f4c2443b35dd5c4b53e67708302bc66f9cc/objects/77/77b33b250c26aa5b4c39100d72dc332a81fc1c0af261b50b98f49a7251582aaf",
+      "representation_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/5b322d39f1e9acbd9f3e7ce45a3bdfaba5cf964b/text/77b33b250c26aa5b4c39100d72dc332a81fc1c0af261b50b98f49a7251582aaf.txt",
+      "original_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/5b322d39f1e9acbd9f3e7ce45a3bdfaba5cf964b/objects/77/77b33b250c26aa5b4c39100d72dc332a81fc1c0af261b50b98f49a7251582aaf",
       "evidence": [
         {
           "term": "sewer",
@@ -65,8 +65,8 @@
       "quality_verified": false,
       "representation_path": "text/85821b0bf46b99b4216d0ca8c05fac9f147fd62070eae02d32693472cb0b6850.txt",
       "representation_text_sha256": "1b14fe411c56ec8ab836833ed331744ecbdd359d31329a62f6cde9c6c0f9b8a3",
-      "representation_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/22880f4c2443b35dd5c4b53e67708302bc66f9cc/text/85821b0bf46b99b4216d0ca8c05fac9f147fd62070eae02d32693472cb0b6850.txt",
-      "original_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/22880f4c2443b35dd5c4b53e67708302bc66f9cc/objects/85/85821b0bf46b99b4216d0ca8c05fac9f147fd62070eae02d32693472cb0b6850",
+      "representation_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/5b322d39f1e9acbd9f3e7ce45a3bdfaba5cf964b/text/85821b0bf46b99b4216d0ca8c05fac9f147fd62070eae02d32693472cb0b6850.txt",
+      "original_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/5b322d39f1e9acbd9f3e7ce45a3bdfaba5cf964b/objects/85/85821b0bf46b99b4216d0ca8c05fac9f147fd62070eae02d32693472cb0b6850",
       "evidence": [
         {
           "term": "stormwater",
@@ -104,8 +104,8 @@
       "quality_verified": false,
       "representation_path": "text/dc304bcb9386c40219dbbb65adf6dd322030a9f0944eadafe55e4a670a971d17.txt",
       "representation_text_sha256": "7a9d2599eee9d44aa7afed26b3ba19d4e41d33b04003a69365a8c60a6093313b",
-      "representation_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/22880f4c2443b35dd5c4b53e67708302bc66f9cc/text/dc304bcb9386c40219dbbb65adf6dd322030a9f0944eadafe55e4a670a971d17.txt",
-      "original_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/22880f4c2443b35dd5c4b53e67708302bc66f9cc/objects/dc/dc304bcb9386c40219dbbb65adf6dd322030a9f0944eadafe55e4a670a971d17",
+      "representation_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/5b322d39f1e9acbd9f3e7ce45a3bdfaba5cf964b/text/dc304bcb9386c40219dbbb65adf6dd322030a9f0944eadafe55e4a670a971d17.txt",
+      "original_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/5b322d39f1e9acbd9f3e7ce45a3bdfaba5cf964b/objects/dc/dc304bcb9386c40219dbbb65adf6dd322030a9f0944eadafe55e4a670a971d17",
       "evidence": [
         {
           "term": "sewer",
@@ -143,8 +143,8 @@
       "quality_verified": false,
       "representation_path": "derived/00e07ad1ecfa714027b3361a4d7ed67396507bbb3fb5a1da739e1ecc6893453c/page-000001.json",
       "representation_text_sha256": "89766321cfb876b6ddfba250e2825e86d7578670213a9e2ea6ed2782ad293cbf",
-      "representation_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/22880f4c2443b35dd5c4b53e67708302bc66f9cc/derived/00e07ad1ecfa714027b3361a4d7ed67396507bbb3fb5a1da739e1ecc6893453c/page-000001.json",
-      "original_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/22880f4c2443b35dd5c4b53e67708302bc66f9cc/objects/00/00e07ad1ecfa714027b3361a4d7ed67396507bbb3fb5a1da739e1ecc6893453c",
+      "representation_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/5b322d39f1e9acbd9f3e7ce45a3bdfaba5cf964b/derived/00e07ad1ecfa714027b3361a4d7ed67396507bbb3fb5a1da739e1ecc6893453c/page-000001.json",
+      "original_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/5b322d39f1e9acbd9f3e7ce45a3bdfaba5cf964b/objects/00/00e07ad1ecfa714027b3361a4d7ed67396507bbb3fb5a1da739e1ecc6893453c",
       "evidence": [
         {
           "term": "sewer",
@@ -182,8 +182,8 @@
       "quality_verified": false,
       "representation_path": "derived/00e07ad1ecfa714027b3361a4d7ed67396507bbb3fb5a1da739e1ecc6893453c/page-000002.json",
       "representation_text_sha256": "28c975f7b40b9d7afa9418742e07d12bf3cb6d086fb14c90b809c743cd8bf01c",
-      "representation_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/22880f4c2443b35dd5c4b53e67708302bc66f9cc/derived/00e07ad1ecfa714027b3361a4d7ed67396507bbb3fb5a1da739e1ecc6893453c/page-000002.json",
-      "original_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/22880f4c2443b35dd5c4b53e67708302bc66f9cc/objects/00/00e07ad1ecfa714027b3361a4d7ed67396507bbb3fb5a1da739e1ecc6893453c",
+      "representation_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/5b322d39f1e9acbd9f3e7ce45a3bdfaba5cf964b/derived/00e07ad1ecfa714027b3361a4d7ed67396507bbb3fb5a1da739e1ecc6893453c/page-000002.json",
+      "original_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/5b322d39f1e9acbd9f3e7ce45a3bdfaba5cf964b/objects/00/00e07ad1ecfa714027b3361a4d7ed67396507bbb3fb5a1da739e1ecc6893453c",
       "evidence": [
         {
           "term": "wastewater",
@@ -221,8 +221,8 @@
       "quality_verified": false,
       "representation_path": "derived/00f462be921543c29907c0eabe9565316cb479aa2d9df8068b809446edf8c5a5/page-000002.json",
       "representation_text_sha256": "d4c4b93a15473e05840a77474168628ef05e847be1be24c03e68265a4b7352c8",
-      "representation_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/22880f4c2443b35dd5c4b53e67708302bc66f9cc/derived/00f462be921543c29907c0eabe9565316cb479aa2d9df8068b809446edf8c5a5/page-000002.json",
-      "original_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/22880f4c2443b35dd5c4b53e67708302bc66f9cc/objects/00/00f462be921543c29907c0eabe9565316cb479aa2d9df8068b809446edf8c5a5",
+      "representation_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/5b322d39f1e9acbd9f3e7ce45a3bdfaba5cf964b/derived/00f462be921543c29907c0eabe9565316cb479aa2d9df8068b809446edf8c5a5/page-000002.json",
+      "original_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/5b322d39f1e9acbd9f3e7ce45a3bdfaba5cf964b/objects/00/00f462be921543c29907c0eabe9565316cb479aa2d9df8068b809446edf8c5a5",
       "evidence": [
         {
           "term": "sewer",
@@ -244,8 +244,8 @@
       "quality_verified": false,
       "representation_path": "derived/00f5dceb4ed5b8c3bb7783c9f42eec1d3540fb83ce3f83dbb227d341a6b4a05a/page-000002.json",
       "representation_text_sha256": "97b57ecf6b8d6ba3dd754642a83c279b40556d2d34e2689863c1273b135175e7",
-      "representation_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/22880f4c2443b35dd5c4b53e67708302bc66f9cc/derived/00f5dceb4ed5b8c3bb7783c9f42eec1d3540fb83ce3f83dbb227d341a6b4a05a/page-000002.json",
-      "original_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/22880f4c2443b35dd5c4b53e67708302bc66f9cc/objects/00/00f5dceb4ed5b8c3bb7783c9f42eec1d3540fb83ce3f83dbb227d341a6b4a05a",
+      "representation_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/5b322d39f1e9acbd9f3e7ce45a3bdfaba5cf964b/derived/00f5dceb4ed5b8c3bb7783c9f42eec1d3540fb83ce3f83dbb227d341a6b4a05a/page-000002.json",
+      "original_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/5b322d39f1e9acbd9f3e7ce45a3bdfaba5cf964b/objects/00/00f5dceb4ed5b8c3bb7783c9f42eec1d3540fb83ce3f83dbb227d341a6b4a05a",
       "evidence": [
         {
           "term": "stormwater",
@@ -267,8 +267,8 @@
       "quality_verified": false,
       "representation_path": "derived/02742df3cbd1e799493dcf34548f5d2769c9d2158f5e6f11c571fe222ade003f/page-000002.json",
       "representation_text_sha256": "4a0c6e0e1c1fed53c0a431dafd260dedf4ba8c9a5073bffda9fc127eaccdb501",
-      "representation_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/22880f4c2443b35dd5c4b53e67708302bc66f9cc/derived/02742df3cbd1e799493dcf34548f5d2769c9d2158f5e6f11c571fe222ade003f/page-000002.json",
-      "original_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/22880f4c2443b35dd5c4b53e67708302bc66f9cc/objects/02/02742df3cbd1e799493dcf34548f5d2769c9d2158f5e6f11c571fe222ade003f",
+      "representation_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/5b322d39f1e9acbd9f3e7ce45a3bdfaba5cf964b/derived/02742df3cbd1e799493dcf34548f5d2769c9d2158f5e6f11c571fe222ade003f/page-000002.json",
+      "original_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/5b322d39f1e9acbd9f3e7ce45a3bdfaba5cf964b/objects/02/02742df3cbd1e799493dcf34548f5d2769c9d2158f5e6f11c571fe222ade003f",
       "evidence": [
         {
           "term": "sewer",
@@ -298,8 +298,8 @@
       "quality_verified": false,
       "representation_path": "derived/02742df3cbd1e799493dcf34548f5d2769c9d2158f5e6f11c571fe222ade003f/page-000003.json",
       "representation_text_sha256": "99f88425ee404072fabdb59d502f56c4028d0731ee6f24ec5c01bc4fc4e7aacb",
-      "representation_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/22880f4c2443b35dd5c4b53e67708302bc66f9cc/derived/02742df3cbd1e799493dcf34548f5d2769c9d2158f5e6f11c571fe222ade003f/page-000003.json",
-      "original_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/22880f4c2443b35dd5c4b53e67708302bc66f9cc/objects/02/02742df3cbd1e799493dcf34548f5d2769c9d2158f5e6f11c571fe222ade003f",
+      "representation_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/5b322d39f1e9acbd9f3e7ce45a3bdfaba5cf964b/derived/02742df3cbd1e799493dcf34548f5d2769c9d2158f5e6f11c571fe222ade003f/page-000003.json",
+      "original_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/5b322d39f1e9acbd9f3e7ce45a3bdfaba5cf964b/objects/02/02742df3cbd1e799493dcf34548f5d2769c9d2158f5e6f11c571fe222ade003f",
       "evidence": [
         {
           "term": "wastewater",
@@ -329,8 +329,8 @@
       "quality_verified": false,
       "representation_path": "derived/0356098f048a1b8402a8dd070eb6fc3e62b126fb5ab9b639a0b162a634bd8860/page-000001.json",
       "representation_text_sha256": "afba01df0fc11938809e0277e402b928537095c1d3212f31d12ab3afdca45835",
-      "representation_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/22880f4c2443b35dd5c4b53e67708302bc66f9cc/derived/0356098f048a1b8402a8dd070eb6fc3e62b126fb5ab9b639a0b162a634bd8860/page-000001.json",
-      "original_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/22880f4c2443b35dd5c4b53e67708302bc66f9cc/objects/03/0356098f048a1b8402a8dd070eb6fc3e62b126fb5ab9b639a0b162a634bd8860",
+      "representation_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/5b322d39f1e9acbd9f3e7ce45a3bdfaba5cf964b/derived/0356098f048a1b8402a8dd070eb6fc3e62b126fb5ab9b639a0b162a634bd8860/page-000001.json",
+      "original_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/5b322d39f1e9acbd9f3e7ce45a3bdfaba5cf964b/objects/03/0356098f048a1b8402a8dd070eb6fc3e62b126fb5ab9b639a0b162a634bd8860",
       "evidence": [
         {
           "term": "drinking water",
@@ -352,8 +352,8 @@
       "quality_verified": false,
       "representation_path": "derived/03bf84b9bd7dc81d689b8ec05d996f50b6112caad73a1a7367837c659218caa1/page-000002.json",
       "representation_text_sha256": "deaa1bf6a0e9c83b66071daaee48feafad7ad150dec6a996967449df321b1f00",
-      "representation_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/22880f4c2443b35dd5c4b53e67708302bc66f9cc/derived/03bf84b9bd7dc81d689b8ec05d996f50b6112caad73a1a7367837c659218caa1/page-000002.json",
-      "original_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/22880f4c2443b35dd5c4b53e67708302bc66f9cc/objects/03/03bf84b9bd7dc81d689b8ec05d996f50b6112caad73a1a7367837c659218caa1",
+      "representation_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/5b322d39f1e9acbd9f3e7ce45a3bdfaba5cf964b/derived/03bf84b9bd7dc81d689b8ec05d996f50b6112caad73a1a7367837c659218caa1/page-000002.json",
+      "original_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/5b322d39f1e9acbd9f3e7ce45a3bdfaba5cf964b/objects/03/03bf84b9bd7dc81d689b8ec05d996f50b6112caad73a1a7367837c659218caa1",
       "evidence": [
         {
           "term": "sewer",
@@ -383,8 +383,8 @@
       "quality_verified": false,
       "representation_path": "derived/05f38df3b9020029fd1f5e4d70cd4e0e0896939bb95aba6f97f8eabd07776299/page-000001.json",
       "representation_text_sha256": "357d6bab6a9ef3e35ec152cfe614a8396954673f0eba2c061c6ed6b514c5b4ea",
-      "representation_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/22880f4c2443b35dd5c4b53e67708302bc66f9cc/derived/05f38df3b9020029fd1f5e4d70cd4e0e0896939bb95aba6f97f8eabd07776299/page-000001.json",
-      "original_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/22880f4c2443b35dd5c4b53e67708302bc66f9cc/objects/05/05f38df3b9020029fd1f5e4d70cd4e0e0896939bb95aba6f97f8eabd07776299",
+      "representation_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/5b322d39f1e9acbd9f3e7ce45a3bdfaba5cf964b/derived/05f38df3b9020029fd1f5e4d70cd4e0e0896939bb95aba6f97f8eabd07776299/page-000001.json",
+      "original_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/5b322d39f1e9acbd9f3e7ce45a3bdfaba5cf964b/objects/05/05f38df3b9020029fd1f5e4d70cd4e0e0896939bb95aba6f97f8eabd07776299",
       "evidence": [
         {
           "term": "stormwater",
@@ -422,8 +422,8 @@
       "quality_verified": false,
       "representation_path": "derived/06be3b512454c07cc8fe0d5f263dd531baff8c7d348af9c829225b61e827b3a5/page-000001.json",
       "representation_text_sha256": "9adac61e6e64dbeff8d87c62f72af3c26aeb892ded766f8a139b704136d6ef8a",
-      "representation_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/22880f4c2443b35dd5c4b53e67708302bc66f9cc/derived/06be3b512454c07cc8fe0d5f263dd531baff8c7d348af9c829225b61e827b3a5/page-000001.json",
-      "original_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/22880f4c2443b35dd5c4b53e67708302bc66f9cc/objects/06/06be3b512454c07cc8fe0d5f263dd531baff8c7d348af9c829225b61e827b3a5",
+      "representation_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/5b322d39f1e9acbd9f3e7ce45a3bdfaba5cf964b/derived/06be3b512454c07cc8fe0d5f263dd531baff8c7d348af9c829225b61e827b3a5/page-000001.json",
+      "original_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/5b322d39f1e9acbd9f3e7ce45a3bdfaba5cf964b/objects/06/06be3b512454c07cc8fe0d5f263dd531baff8c7d348af9c829225b61e827b3a5",
       "evidence": [
         {
           "term": "sewer",
@@ -445,8 +445,8 @@
       "quality_verified": false,
       "representation_path": "derived/090cfbec55548ada575053632aaa0d7b4114f023fc65c69c7c5c7ecddf13b0da/page-000019.json",
       "representation_text_sha256": "6247fdc09404fbdbfc2b9fe2c1e3f15887d8cbb0b1420d857d33fa9d5445c7fc",
-      "representation_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/22880f4c2443b35dd5c4b53e67708302bc66f9cc/derived/090cfbec55548ada575053632aaa0d7b4114f023fc65c69c7c5c7ecddf13b0da/page-000019.json",
-      "original_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/22880f4c2443b35dd5c4b53e67708302bc66f9cc/objects/09/090cfbec55548ada575053632aaa0d7b4114f023fc65c69c7c5c7ecddf13b0da",
+      "representation_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/5b322d39f1e9acbd9f3e7ce45a3bdfaba5cf964b/derived/090cfbec55548ada575053632aaa0d7b4114f023fc65c69c7c5c7ecddf13b0da/page-000019.json",
+      "original_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/5b322d39f1e9acbd9f3e7ce45a3bdfaba5cf964b/objects/09/090cfbec55548ada575053632aaa0d7b4114f023fc65c69c7c5c7ecddf13b0da",
       "evidence": [
         {
           "term": "wastewater",
@@ -468,8 +468,8 @@
       "quality_verified": false,
       "representation_path": "derived/090cfbec55548ada575053632aaa0d7b4114f023fc65c69c7c5c7ecddf13b0da/page-000028.json",
       "representation_text_sha256": "35f53b9b26e9595c9e59066ddd0d7fcad49da4e0beffb6e14d18b652474d3a27",
-      "representation_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/22880f4c2443b35dd5c4b53e67708302bc66f9cc/derived/090cfbec55548ada575053632aaa0d7b4114f023fc65c69c7c5c7ecddf13b0da/page-000028.json",
-      "original_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/22880f4c2443b35dd5c4b53e67708302bc66f9cc/objects/09/090cfbec55548ada575053632aaa0d7b4114f023fc65c69c7c5c7ecddf13b0da",
+      "representation_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/5b322d39f1e9acbd9f3e7ce45a3bdfaba5cf964b/derived/090cfbec55548ada575053632aaa0d7b4114f023fc65c69c7c5c7ecddf13b0da/page-000028.json",
+      "original_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/5b322d39f1e9acbd9f3e7ce45a3bdfaba5cf964b/objects/09/090cfbec55548ada575053632aaa0d7b4114f023fc65c69c7c5c7ecddf13b0da",
       "evidence": [
         {
           "term": "stormwater",
@@ -491,8 +491,8 @@
       "quality_verified": false,
       "representation_path": "derived/090cfbec55548ada575053632aaa0d7b4114f023fc65c69c7c5c7ecddf13b0da/page-000031.json",
       "representation_text_sha256": "4a7529effaa1d6006b7fa1f2bc4c4fda7ce2b0b33b8b2dd02f9b9e4d99f6a654",
-      "representation_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/22880f4c2443b35dd5c4b53e67708302bc66f9cc/derived/090cfbec55548ada575053632aaa0d7b4114f023fc65c69c7c5c7ecddf13b0da/page-000031.json",
-      "original_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/22880f4c2443b35dd5c4b53e67708302bc66f9cc/objects/09/090cfbec55548ada575053632aaa0d7b4114f023fc65c69c7c5c7ecddf13b0da",
+      "representation_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/5b322d39f1e9acbd9f3e7ce45a3bdfaba5cf964b/derived/090cfbec55548ada575053632aaa0d7b4114f023fc65c69c7c5c7ecddf13b0da/page-000031.json",
+      "original_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/5b322d39f1e9acbd9f3e7ce45a3bdfaba5cf964b/objects/09/090cfbec55548ada575053632aaa0d7b4114f023fc65c69c7c5c7ecddf13b0da",
       "evidence": [
         {
           "term": "stormwater",
@@ -514,8 +514,8 @@
       "quality_verified": false,
       "representation_path": "derived/090cfbec55548ada575053632aaa0d7b4114f023fc65c69c7c5c7ecddf13b0da/page-000032.json",
       "representation_text_sha256": "c5bcdc94c0d5d0b30008b3ee8fb54e6675959f8d148d4768553e025619531c98",
-      "representation_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/22880f4c2443b35dd5c4b53e67708302bc66f9cc/derived/090cfbec55548ada575053632aaa0d7b4114f023fc65c69c7c5c7ecddf13b0da/page-000032.json",
-      "original_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/22880f4c2443b35dd5c4b53e67708302bc66f9cc/objects/09/090cfbec55548ada575053632aaa0d7b4114f023fc65c69c7c5c7ecddf13b0da",
+      "representation_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/5b322d39f1e9acbd9f3e7ce45a3bdfaba5cf964b/derived/090cfbec55548ada575053632aaa0d7b4114f023fc65c69c7c5c7ecddf13b0da/page-000032.json",
+      "original_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/5b322d39f1e9acbd9f3e7ce45a3bdfaba5cf964b/objects/09/090cfbec55548ada575053632aaa0d7b4114f023fc65c69c7c5c7ecddf13b0da",
       "evidence": [
         {
           "term": "stormwater",
@@ -537,8 +537,8 @@
       "quality_verified": false,
       "representation_path": "derived/090cfbec55548ada575053632aaa0d7b4114f023fc65c69c7c5c7ecddf13b0da/page-000035.json",
       "representation_text_sha256": "bc1b00796eff620639d68cce51f3baf98d260e1cd4a0000f82884a1d32c9e575",
-      "representation_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/22880f4c2443b35dd5c4b53e67708302bc66f9cc/derived/090cfbec55548ada575053632aaa0d7b4114f023fc65c69c7c5c7ecddf13b0da/page-000035.json",
-      "original_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/22880f4c2443b35dd5c4b53e67708302bc66f9cc/objects/09/090cfbec55548ada575053632aaa0d7b4114f023fc65c69c7c5c7ecddf13b0da",
+      "representation_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/5b322d39f1e9acbd9f3e7ce45a3bdfaba5cf964b/derived/090cfbec55548ada575053632aaa0d7b4114f023fc65c69c7c5c7ecddf13b0da/page-000035.json",
+      "original_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/5b322d39f1e9acbd9f3e7ce45a3bdfaba5cf964b/objects/09/090cfbec55548ada575053632aaa0d7b4114f023fc65c69c7c5c7ecddf13b0da",
       "evidence": [
         {
           "term": "stormwater",
@@ -560,8 +560,8 @@
       "quality_verified": false,
       "representation_path": "derived/090cfbec55548ada575053632aaa0d7b4114f023fc65c69c7c5c7ecddf13b0da/page-000048.json",
       "representation_text_sha256": "8a309a5350b3e31ed358e1ca2f541205d09ac53ff6ceba6ac5d7223efb2720ce",
-      "representation_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/22880f4c2443b35dd5c4b53e67708302bc66f9cc/derived/090cfbec55548ada575053632aaa0d7b4114f023fc65c69c7c5c7ecddf13b0da/page-000048.json",
-      "original_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/22880f4c2443b35dd5c4b53e67708302bc66f9cc/objects/09/090cfbec55548ada575053632aaa0d7b4114f023fc65c69c7c5c7ecddf13b0da",
+      "representation_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/5b322d39f1e9acbd9f3e7ce45a3bdfaba5cf964b/derived/090cfbec55548ada575053632aaa0d7b4114f023fc65c69c7c5c7ecddf13b0da/page-000048.json",
+      "original_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/5b322d39f1e9acbd9f3e7ce45a3bdfaba5cf964b/objects/09/090cfbec55548ada575053632aaa0d7b4114f023fc65c69c7c5c7ecddf13b0da",
       "evidence": [
         {
           "term": "sewer",
@@ -583,8 +583,8 @@
       "quality_verified": false,
       "representation_path": "derived/090cfbec55548ada575053632aaa0d7b4114f023fc65c69c7c5c7ecddf13b0da/page-000069.json",
       "representation_text_sha256": "997e97d7cc3ad203759678fcdacba98e1c671f6a9de781a1fe15b66e30692d7e",
-      "representation_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/22880f4c2443b35dd5c4b53e67708302bc66f9cc/derived/090cfbec55548ada575053632aaa0d7b4114f023fc65c69c7c5c7ecddf13b0da/page-000069.json",
-      "original_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/22880f4c2443b35dd5c4b53e67708302bc66f9cc/objects/09/090cfbec55548ada575053632aaa0d7b4114f023fc65c69c7c5c7ecddf13b0da",
+      "representation_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/5b322d39f1e9acbd9f3e7ce45a3bdfaba5cf964b/derived/090cfbec55548ada575053632aaa0d7b4114f023fc65c69c7c5c7ecddf13b0da/page-000069.json",
+      "original_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/5b322d39f1e9acbd9f3e7ce45a3bdfaba5cf964b/objects/09/090cfbec55548ada575053632aaa0d7b4114f023fc65c69c7c5c7ecddf13b0da",
       "evidence": [
         {
           "term": "wastewater",
@@ -606,8 +606,8 @@
       "quality_verified": false,
       "representation_path": "derived/090cfbec55548ada575053632aaa0d7b4114f023fc65c69c7c5c7ecddf13b0da/page-000078.json",
       "representation_text_sha256": "2e3c55429cc4f96e4d50768ab7e9bb6dc6dad8d3146289ac9230739665f754bd",
-      "representation_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/22880f4c2443b35dd5c4b53e67708302bc66f9cc/derived/090cfbec55548ada575053632aaa0d7b4114f023fc65c69c7c5c7ecddf13b0da/page-000078.json",
-      "original_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/22880f4c2443b35dd5c4b53e67708302bc66f9cc/objects/09/090cfbec55548ada575053632aaa0d7b4114f023fc65c69c7c5c7ecddf13b0da",
+      "representation_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/5b322d39f1e9acbd9f3e7ce45a3bdfaba5cf964b/derived/090cfbec55548ada575053632aaa0d7b4114f023fc65c69c7c5c7ecddf13b0da/page-000078.json",
+      "original_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/5b322d39f1e9acbd9f3e7ce45a3bdfaba5cf964b/objects/09/090cfbec55548ada575053632aaa0d7b4114f023fc65c69c7c5c7ecddf13b0da",
       "evidence": [
         {
           "term": "stormwater",
@@ -629,8 +629,8 @@
       "quality_verified": false,
       "representation_path": "derived/090cfbec55548ada575053632aaa0d7b4114f023fc65c69c7c5c7ecddf13b0da/page-000081.json",
       "representation_text_sha256": "cb511aa7767cad32da5edfd2f6cf97198b93a17b5da29d89e5b8dea874197d9a",
-      "representation_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/22880f4c2443b35dd5c4b53e67708302bc66f9cc/derived/090cfbec55548ada575053632aaa0d7b4114f023fc65c69c7c5c7ecddf13b0da/page-000081.json",
-      "original_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/22880f4c2443b35dd5c4b53e67708302bc66f9cc/objects/09/090cfbec55548ada575053632aaa0d7b4114f023fc65c69c7c5c7ecddf13b0da",
+      "representation_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/5b322d39f1e9acbd9f3e7ce45a3bdfaba5cf964b/derived/090cfbec55548ada575053632aaa0d7b4114f023fc65c69c7c5c7ecddf13b0da/page-000081.json",
+      "original_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/5b322d39f1e9acbd9f3e7ce45a3bdfaba5cf964b/objects/09/090cfbec55548ada575053632aaa0d7b4114f023fc65c69c7c5c7ecddf13b0da",
       "evidence": [
         {
           "term": "stormwater",
@@ -652,8 +652,8 @@
       "quality_verified": false,
       "representation_path": "derived/090cfbec55548ada575053632aaa0d7b4114f023fc65c69c7c5c7ecddf13b0da/page-000082.json",
       "representation_text_sha256": "02d9e04e116bd896db2025649993527dc0bb6cde5977d11930e566545c96fbac",
-      "representation_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/22880f4c2443b35dd5c4b53e67708302bc66f9cc/derived/090cfbec55548ada575053632aaa0d7b4114f023fc65c69c7c5c7ecddf13b0da/page-000082.json",
-      "original_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/22880f4c2443b35dd5c4b53e67708302bc66f9cc/objects/09/090cfbec55548ada575053632aaa0d7b4114f023fc65c69c7c5c7ecddf13b0da",
+      "representation_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/5b322d39f1e9acbd9f3e7ce45a3bdfaba5cf964b/derived/090cfbec55548ada575053632aaa0d7b4114f023fc65c69c7c5c7ecddf13b0da/page-000082.json",
+      "original_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/5b322d39f1e9acbd9f3e7ce45a3bdfaba5cf964b/objects/09/090cfbec55548ada575053632aaa0d7b4114f023fc65c69c7c5c7ecddf13b0da",
       "evidence": [
         {
           "term": "stormwater",
@@ -675,8 +675,8 @@
       "quality_verified": false,
       "representation_path": "derived/090cfbec55548ada575053632aaa0d7b4114f023fc65c69c7c5c7ecddf13b0da/page-000085.json",
       "representation_text_sha256": "8b275099d2653e9f2d3c84ec4939bd73656821ee8d76cbf581bc9e4f5d6a3409",
-      "representation_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/22880f4c2443b35dd5c4b53e67708302bc66f9cc/derived/090cfbec55548ada575053632aaa0d7b4114f023fc65c69c7c5c7ecddf13b0da/page-000085.json",
-      "original_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/22880f4c2443b35dd5c4b53e67708302bc66f9cc/objects/09/090cfbec55548ada575053632aaa0d7b4114f023fc65c69c7c5c7ecddf13b0da",
+      "representation_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/5b322d39f1e9acbd9f3e7ce45a3bdfaba5cf964b/derived/090cfbec55548ada575053632aaa0d7b4114f023fc65c69c7c5c7ecddf13b0da/page-000085.json",
+      "original_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/5b322d39f1e9acbd9f3e7ce45a3bdfaba5cf964b/objects/09/090cfbec55548ada575053632aaa0d7b4114f023fc65c69c7c5c7ecddf13b0da",
       "evidence": [
         {
           "term": "stormwater",
@@ -698,8 +698,8 @@
       "quality_verified": false,
       "representation_path": "derived/090cfbec55548ada575053632aaa0d7b4114f023fc65c69c7c5c7ecddf13b0da/page-000097.json",
       "representation_text_sha256": "8a309a5350b3e31ed358e1ca2f541205d09ac53ff6ceba6ac5d7223efb2720ce",
-      "representation_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/22880f4c2443b35dd5c4b53e67708302bc66f9cc/derived/090cfbec55548ada575053632aaa0d7b4114f023fc65c69c7c5c7ecddf13b0da/page-000097.json",
-      "original_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/22880f4c2443b35dd5c4b53e67708302bc66f9cc/objects/09/090cfbec55548ada575053632aaa0d7b4114f023fc65c69c7c5c7ecddf13b0da",
+      "representation_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/5b322d39f1e9acbd9f3e7ce45a3bdfaba5cf964b/derived/090cfbec55548ada575053632aaa0d7b4114f023fc65c69c7c5c7ecddf13b0da/page-000097.json",
+      "original_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/5b322d39f1e9acbd9f3e7ce45a3bdfaba5cf964b/objects/09/090cfbec55548ada575053632aaa0d7b4114f023fc65c69c7c5c7ecddf13b0da",
       "evidence": [
         {
           "term": "sewer",
@@ -721,8 +721,8 @@
       "quality_verified": false,
       "representation_path": "derived/0bf31a6f962d66bd5fbd6404393373aa55db87cb9ada5d3486fdc0ef68c903f9/page-000001.json",
       "representation_text_sha256": "8e0c5e0a0f0bce049915bbfdc2db09ce7ca07a22ab0c8aea18e4c6a59e510fc6",
-      "representation_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/22880f4c2443b35dd5c4b53e67708302bc66f9cc/derived/0bf31a6f962d66bd5fbd6404393373aa55db87cb9ada5d3486fdc0ef68c903f9/page-000001.json",
-      "original_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/22880f4c2443b35dd5c4b53e67708302bc66f9cc/objects/0b/0bf31a6f962d66bd5fbd6404393373aa55db87cb9ada5d3486fdc0ef68c903f9",
+      "representation_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/5b322d39f1e9acbd9f3e7ce45a3bdfaba5cf964b/derived/0bf31a6f962d66bd5fbd6404393373aa55db87cb9ada5d3486fdc0ef68c903f9/page-000001.json",
+      "original_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/5b322d39f1e9acbd9f3e7ce45a3bdfaba5cf964b/objects/0b/0bf31a6f962d66bd5fbd6404393373aa55db87cb9ada5d3486fdc0ef68c903f9",
       "evidence": [
         {
           "term": "sewer",
@@ -744,8 +744,8 @@
       "quality_verified": false,
       "representation_path": "derived/10804ccc56cfd4dbf3eda3a48dd09d00c38901ed995803b3ea688cdb5d11ca9c/page-000001.json",
       "representation_text_sha256": "8aa630dbd215c330f6861ff6178d007cd734572364dbecb87b954fe8f876a0b5",
-      "representation_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/22880f4c2443b35dd5c4b53e67708302bc66f9cc/derived/10804ccc56cfd4dbf3eda3a48dd09d00c38901ed995803b3ea688cdb5d11ca9c/page-000001.json",
-      "original_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/22880f4c2443b35dd5c4b53e67708302bc66f9cc/objects/10/10804ccc56cfd4dbf3eda3a48dd09d00c38901ed995803b3ea688cdb5d11ca9c",
+      "representation_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/5b322d39f1e9acbd9f3e7ce45a3bdfaba5cf964b/derived/10804ccc56cfd4dbf3eda3a48dd09d00c38901ed995803b3ea688cdb5d11ca9c/page-000001.json",
+      "original_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/5b322d39f1e9acbd9f3e7ce45a3bdfaba5cf964b/objects/10/10804ccc56cfd4dbf3eda3a48dd09d00c38901ed995803b3ea688cdb5d11ca9c",
       "evidence": [
         {
           "term": "sewer",
@@ -783,8 +783,8 @@
       "quality_verified": false,
       "representation_path": "derived/108f3972b4fd26886fcb4c3ee89bb61fef1e1c64a7e5d90eae2a20c665b1feb4/page-000002.json",
       "representation_text_sha256": "34d9553c5a3704df2a2738e7dafcfb56ff54543df39777c5e18f21cb542153b8",
-      "representation_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/22880f4c2443b35dd5c4b53e67708302bc66f9cc/derived/108f3972b4fd26886fcb4c3ee89bb61fef1e1c64a7e5d90eae2a20c665b1feb4/page-000002.json",
-      "original_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/22880f4c2443b35dd5c4b53e67708302bc66f9cc/objects/10/108f3972b4fd26886fcb4c3ee89bb61fef1e1c64a7e5d90eae2a20c665b1feb4",
+      "representation_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/5b322d39f1e9acbd9f3e7ce45a3bdfaba5cf964b/derived/108f3972b4fd26886fcb4c3ee89bb61fef1e1c64a7e5d90eae2a20c665b1feb4/page-000002.json",
+      "original_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/5b322d39f1e9acbd9f3e7ce45a3bdfaba5cf964b/objects/10/108f3972b4fd26886fcb4c3ee89bb61fef1e1c64a7e5d90eae2a20c665b1feb4",
       "evidence": [
         {
           "term": "sewer",
@@ -814,8 +814,8 @@
       "quality_verified": false,
       "representation_path": "derived/108f3972b4fd26886fcb4c3ee89bb61fef1e1c64a7e5d90eae2a20c665b1feb4/page-000004.json",
       "representation_text_sha256": "edfd7b04f08d989e8fe90f1e57df27f73a597418bbda0cf8b6a9f20c7a890e1f",
-      "representation_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/22880f4c2443b35dd5c4b53e67708302bc66f9cc/derived/108f3972b4fd26886fcb4c3ee89bb61fef1e1c64a7e5d90eae2a20c665b1feb4/page-000004.json",
-      "original_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/22880f4c2443b35dd5c4b53e67708302bc66f9cc/objects/10/108f3972b4fd26886fcb4c3ee89bb61fef1e1c64a7e5d90eae2a20c665b1feb4",
+      "representation_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/5b322d39f1e9acbd9f3e7ce45a3bdfaba5cf964b/derived/108f3972b4fd26886fcb4c3ee89bb61fef1e1c64a7e5d90eae2a20c665b1feb4/page-000004.json",
+      "original_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/5b322d39f1e9acbd9f3e7ce45a3bdfaba5cf964b/objects/10/108f3972b4fd26886fcb4c3ee89bb61fef1e1c64a7e5d90eae2a20c665b1feb4",
       "evidence": [
         {
           "term": "wastewater",
@@ -845,8 +845,8 @@
       "quality_verified": false,
       "representation_path": "derived/10e647a301957538b009a471177553cb3aa82fffe2bbeb3b8cd675cc40faf2ed/page-000002.json",
       "representation_text_sha256": "d79910161188a7240b6aa57da4419ae8ecc3cd9287cf3cca38abc208461583a2",
-      "representation_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/22880f4c2443b35dd5c4b53e67708302bc66f9cc/derived/10e647a301957538b009a471177553cb3aa82fffe2bbeb3b8cd675cc40faf2ed/page-000002.json",
-      "original_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/22880f4c2443b35dd5c4b53e67708302bc66f9cc/objects/10/10e647a301957538b009a471177553cb3aa82fffe2bbeb3b8cd675cc40faf2ed",
+      "representation_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/5b322d39f1e9acbd9f3e7ce45a3bdfaba5cf964b/derived/10e647a301957538b009a471177553cb3aa82fffe2bbeb3b8cd675cc40faf2ed/page-000002.json",
+      "original_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/5b322d39f1e9acbd9f3e7ce45a3bdfaba5cf964b/objects/10/10e647a301957538b009a471177553cb3aa82fffe2bbeb3b8cd675cc40faf2ed",
       "evidence": [
         {
           "term": "drinking water",
@@ -868,8 +868,8 @@
       "quality_verified": false,
       "representation_path": "derived/13372b8db5b35b8cd829e97ecc04a21ca24d23e8b8f551c2dc28d2f907aa59e9/page-000003.json",
       "representation_text_sha256": "1beb71607b4986fd72a0365295504a51e1a0c5ff4d26fd3766da70eae9e0f4ae",
-      "representation_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/22880f4c2443b35dd5c4b53e67708302bc66f9cc/derived/13372b8db5b35b8cd829e97ecc04a21ca24d23e8b8f551c2dc28d2f907aa59e9/page-000003.json",
-      "original_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/22880f4c2443b35dd5c4b53e67708302bc66f9cc/objects/13/13372b8db5b35b8cd829e97ecc04a21ca24d23e8b8f551c2dc28d2f907aa59e9",
+      "representation_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/5b322d39f1e9acbd9f3e7ce45a3bdfaba5cf964b/derived/13372b8db5b35b8cd829e97ecc04a21ca24d23e8b8f551c2dc28d2f907aa59e9/page-000003.json",
+      "original_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/5b322d39f1e9acbd9f3e7ce45a3bdfaba5cf964b/objects/13/13372b8db5b35b8cd829e97ecc04a21ca24d23e8b8f551c2dc28d2f907aa59e9",
       "evidence": [
         {
           "term": "sewer",
@@ -891,8 +891,8 @@
       "quality_verified": false,
       "representation_path": "derived/17830ea84cd5047dba39ebbb1127d868dc67ab7e6fb4d6fcf1b4e413756bf804/page-000001.json",
       "representation_text_sha256": "fff59cc07c2d11f8d532a022f773df6969f6068f513c7e85ec084f0ce7f94c64",
-      "representation_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/22880f4c2443b35dd5c4b53e67708302bc66f9cc/derived/17830ea84cd5047dba39ebbb1127d868dc67ab7e6fb4d6fcf1b4e413756bf804/page-000001.json",
-      "original_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/22880f4c2443b35dd5c4b53e67708302bc66f9cc/objects/17/17830ea84cd5047dba39ebbb1127d868dc67ab7e6fb4d6fcf1b4e413756bf804",
+      "representation_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/5b322d39f1e9acbd9f3e7ce45a3bdfaba5cf964b/derived/17830ea84cd5047dba39ebbb1127d868dc67ab7e6fb4d6fcf1b4e413756bf804/page-000001.json",
+      "original_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/5b322d39f1e9acbd9f3e7ce45a3bdfaba5cf964b/objects/17/17830ea84cd5047dba39ebbb1127d868dc67ab7e6fb4d6fcf1b4e413756bf804",
       "evidence": [
         {
           "term": "drinking water",
@@ -922,8 +922,8 @@
       "quality_verified": false,
       "representation_path": "derived/1b8d658ddb8ed22b06c606f3cf74272844420aae49d7ffbb7f5c5b6deadc3e7a/page-000001.json",
       "representation_text_sha256": "d205752e288859dc75e8490783d4cb09c69c4071b96a976ee1b42e0ce281187e",
-      "representation_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/22880f4c2443b35dd5c4b53e67708302bc66f9cc/derived/1b8d658ddb8ed22b06c606f3cf74272844420aae49d7ffbb7f5c5b6deadc3e7a/page-000001.json",
-      "original_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/22880f4c2443b35dd5c4b53e67708302bc66f9cc/objects/1b/1b8d658ddb8ed22b06c606f3cf74272844420aae49d7ffbb7f5c5b6deadc3e7a",
+      "representation_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/5b322d39f1e9acbd9f3e7ce45a3bdfaba5cf964b/derived/1b8d658ddb8ed22b06c606f3cf74272844420aae49d7ffbb7f5c5b6deadc3e7a/page-000001.json",
+      "original_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/5b322d39f1e9acbd9f3e7ce45a3bdfaba5cf964b/objects/1b/1b8d658ddb8ed22b06c606f3cf74272844420aae49d7ffbb7f5c5b6deadc3e7a",
       "evidence": [
         {
           "term": "wastewater",
@@ -961,8 +961,8 @@
       "quality_verified": false,
       "representation_path": "derived/1b8d658ddb8ed22b06c606f3cf74272844420aae49d7ffbb7f5c5b6deadc3e7a/page-000002.json",
       "representation_text_sha256": "54ea229bbfe2f6ffefdde31515341c1fb293862b642127f877c785adc0b64772",
-      "representation_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/22880f4c2443b35dd5c4b53e67708302bc66f9cc/derived/1b8d658ddb8ed22b06c606f3cf74272844420aae49d7ffbb7f5c5b6deadc3e7a/page-000002.json",
-      "original_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/22880f4c2443b35dd5c4b53e67708302bc66f9cc/objects/1b/1b8d658ddb8ed22b06c606f3cf74272844420aae49d7ffbb7f5c5b6deadc3e7a",
+      "representation_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/5b322d39f1e9acbd9f3e7ce45a3bdfaba5cf964b/derived/1b8d658ddb8ed22b06c606f3cf74272844420aae49d7ffbb7f5c5b6deadc3e7a/page-000002.json",
+      "original_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/5b322d39f1e9acbd9f3e7ce45a3bdfaba5cf964b/objects/1b/1b8d658ddb8ed22b06c606f3cf74272844420aae49d7ffbb7f5c5b6deadc3e7a",
       "evidence": [
         {
           "term": "wastewater",
@@ -1000,8 +1000,8 @@
       "quality_verified": false,
       "representation_path": "derived/1b8d658ddb8ed22b06c606f3cf74272844420aae49d7ffbb7f5c5b6deadc3e7a/page-000003.json",
       "representation_text_sha256": "972d27e9a4681395608259b8a5b3bb8f9c3fbaced5fbffd16b299d28de4c09e8",
-      "representation_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/22880f4c2443b35dd5c4b53e67708302bc66f9cc/derived/1b8d658ddb8ed22b06c606f3cf74272844420aae49d7ffbb7f5c5b6deadc3e7a/page-000003.json",
-      "original_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/22880f4c2443b35dd5c4b53e67708302bc66f9cc/objects/1b/1b8d658ddb8ed22b06c606f3cf74272844420aae49d7ffbb7f5c5b6deadc3e7a",
+      "representation_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/5b322d39f1e9acbd9f3e7ce45a3bdfaba5cf964b/derived/1b8d658ddb8ed22b06c606f3cf74272844420aae49d7ffbb7f5c5b6deadc3e7a/page-000003.json",
+      "original_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/5b322d39f1e9acbd9f3e7ce45a3bdfaba5cf964b/objects/1b/1b8d658ddb8ed22b06c606f3cf74272844420aae49d7ffbb7f5c5b6deadc3e7a",
       "evidence": [
         {
           "term": "sewer",
@@ -1039,8 +1039,8 @@
       "quality_verified": false,
       "representation_path": "derived/1b8d658ddb8ed22b06c606f3cf74272844420aae49d7ffbb7f5c5b6deadc3e7a/page-000005.json",
       "representation_text_sha256": "e32fcf014dbbad08ce409a106f1692d6d456dd3138789f8ceabf6fb8b7463445",
-      "representation_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/22880f4c2443b35dd5c4b53e67708302bc66f9cc/derived/1b8d658ddb8ed22b06c606f3cf74272844420aae49d7ffbb7f5c5b6deadc3e7a/page-000005.json",
-      "original_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/22880f4c2443b35dd5c4b53e67708302bc66f9cc/objects/1b/1b8d658ddb8ed22b06c606f3cf74272844420aae49d7ffbb7f5c5b6deadc3e7a",
+      "representation_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/5b322d39f1e9acbd9f3e7ce45a3bdfaba5cf964b/derived/1b8d658ddb8ed22b06c606f3cf74272844420aae49d7ffbb7f5c5b6deadc3e7a/page-000005.json",
+      "original_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/5b322d39f1e9acbd9f3e7ce45a3bdfaba5cf964b/objects/1b/1b8d658ddb8ed22b06c606f3cf74272844420aae49d7ffbb7f5c5b6deadc3e7a",
       "evidence": [
         {
           "term": "wastewater",
@@ -1078,8 +1078,8 @@
       "quality_verified": false,
       "representation_path": "derived/1b8d658ddb8ed22b06c606f3cf74272844420aae49d7ffbb7f5c5b6deadc3e7a/page-000006.json",
       "representation_text_sha256": "43d1a70febc664692abfbe593316e5526ed46db8d6922b2a8b69ad4be71db822",
-      "representation_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/22880f4c2443b35dd5c4b53e67708302bc66f9cc/derived/1b8d658ddb8ed22b06c606f3cf74272844420aae49d7ffbb7f5c5b6deadc3e7a/page-000006.json",
-      "original_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/22880f4c2443b35dd5c4b53e67708302bc66f9cc/objects/1b/1b8d658ddb8ed22b06c606f3cf74272844420aae49d7ffbb7f5c5b6deadc3e7a",
+      "representation_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/5b322d39f1e9acbd9f3e7ce45a3bdfaba5cf964b/derived/1b8d658ddb8ed22b06c606f3cf74272844420aae49d7ffbb7f5c5b6deadc3e7a/page-000006.json",
+      "original_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/5b322d39f1e9acbd9f3e7ce45a3bdfaba5cf964b/objects/1b/1b8d658ddb8ed22b06c606f3cf74272844420aae49d7ffbb7f5c5b6deadc3e7a",
       "evidence": [
         {
           "term": "wastewater",
@@ -1101,8 +1101,8 @@
       "quality_verified": false,
       "representation_path": "derived/1b8d658ddb8ed22b06c606f3cf74272844420aae49d7ffbb7f5c5b6deadc3e7a/page-000007.json",
       "representation_text_sha256": "56d568e9162b8f8dbf03cce166acf883b43f4611db8393841ec661c34eeced0d",
-      "representation_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/22880f4c2443b35dd5c4b53e67708302bc66f9cc/derived/1b8d658ddb8ed22b06c606f3cf74272844420aae49d7ffbb7f5c5b6deadc3e7a/page-000007.json",
-      "original_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/22880f4c2443b35dd5c4b53e67708302bc66f9cc/objects/1b/1b8d658ddb8ed22b06c606f3cf74272844420aae49d7ffbb7f5c5b6deadc3e7a",
+      "representation_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/5b322d39f1e9acbd9f3e7ce45a3bdfaba5cf964b/derived/1b8d658ddb8ed22b06c606f3cf74272844420aae49d7ffbb7f5c5b6deadc3e7a/page-000007.json",
+      "original_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/5b322d39f1e9acbd9f3e7ce45a3bdfaba5cf964b/objects/1b/1b8d658ddb8ed22b06c606f3cf74272844420aae49d7ffbb7f5c5b6deadc3e7a",
       "evidence": [
         {
           "term": "wastewater",
@@ -1140,8 +1140,8 @@
       "quality_verified": false,
       "representation_path": "derived/1b8d658ddb8ed22b06c606f3cf74272844420aae49d7ffbb7f5c5b6deadc3e7a/page-000008.json",
       "representation_text_sha256": "15f98c2ebbc0854c9e735b3807764d73da1e797b8090a7986a2269d31dc7f5a0",
-      "representation_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/22880f4c2443b35dd5c4b53e67708302bc66f9cc/derived/1b8d658ddb8ed22b06c606f3cf74272844420aae49d7ffbb7f5c5b6deadc3e7a/page-000008.json",
-      "original_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/22880f4c2443b35dd5c4b53e67708302bc66f9cc/objects/1b/1b8d658ddb8ed22b06c606f3cf74272844420aae49d7ffbb7f5c5b6deadc3e7a",
+      "representation_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/5b322d39f1e9acbd9f3e7ce45a3bdfaba5cf964b/derived/1b8d658ddb8ed22b06c606f3cf74272844420aae49d7ffbb7f5c5b6deadc3e7a/page-000008.json",
+      "original_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/5b322d39f1e9acbd9f3e7ce45a3bdfaba5cf964b/objects/1b/1b8d658ddb8ed22b06c606f3cf74272844420aae49d7ffbb7f5c5b6deadc3e7a",
       "evidence": [
         {
           "term": "sewer",
@@ -1179,8 +1179,8 @@
       "quality_verified": false,
       "representation_path": "derived/1b8d658ddb8ed22b06c606f3cf74272844420aae49d7ffbb7f5c5b6deadc3e7a/page-000009.json",
       "representation_text_sha256": "5c10afb5157e158e57974d7bf8713569132ed0a0fd857df0bb0308ac7e2a25e0",
-      "representation_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/22880f4c2443b35dd5c4b53e67708302bc66f9cc/derived/1b8d658ddb8ed22b06c606f3cf74272844420aae49d7ffbb7f5c5b6deadc3e7a/page-000009.json",
-      "original_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/22880f4c2443b35dd5c4b53e67708302bc66f9cc/objects/1b/1b8d658ddb8ed22b06c606f3cf74272844420aae49d7ffbb7f5c5b6deadc3e7a",
+      "representation_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/5b322d39f1e9acbd9f3e7ce45a3bdfaba5cf964b/derived/1b8d658ddb8ed22b06c606f3cf74272844420aae49d7ffbb7f5c5b6deadc3e7a/page-000009.json",
+      "original_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/5b322d39f1e9acbd9f3e7ce45a3bdfaba5cf964b/objects/1b/1b8d658ddb8ed22b06c606f3cf74272844420aae49d7ffbb7f5c5b6deadc3e7a",
       "evidence": [
         {
           "term": "wastewater",
@@ -1210,8 +1210,8 @@
       "quality_verified": false,
       "representation_path": "derived/1b8d658ddb8ed22b06c606f3cf74272844420aae49d7ffbb7f5c5b6deadc3e7a/page-000011.json",
       "representation_text_sha256": "3b2966f0ea9a7dcdb00e6e40000ff3be4a60464619b0b3795da277ea66405b71",
-      "representation_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/22880f4c2443b35dd5c4b53e67708302bc66f9cc/derived/1b8d658ddb8ed22b06c606f3cf74272844420aae49d7ffbb7f5c5b6deadc3e7a/page-000011.json",
-      "original_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/22880f4c2443b35dd5c4b53e67708302bc66f9cc/objects/1b/1b8d658ddb8ed22b06c606f3cf74272844420aae49d7ffbb7f5c5b6deadc3e7a",
+      "representation_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/5b322d39f1e9acbd9f3e7ce45a3bdfaba5cf964b/derived/1b8d658ddb8ed22b06c606f3cf74272844420aae49d7ffbb7f5c5b6deadc3e7a/page-000011.json",
+      "original_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/5b322d39f1e9acbd9f3e7ce45a3bdfaba5cf964b/objects/1b/1b8d658ddb8ed22b06c606f3cf74272844420aae49d7ffbb7f5c5b6deadc3e7a",
       "evidence": [
         {
           "term": "sewer",
@@ -1241,8 +1241,8 @@
       "quality_verified": false,
       "representation_path": "derived/1b8d658ddb8ed22b06c606f3cf74272844420aae49d7ffbb7f5c5b6deadc3e7a/page-000012.json",
       "representation_text_sha256": "293645b35d83ff59c822ca7596f26c140899c5572b5e8143fc2e138ffbd2d1cd",
-      "representation_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/22880f4c2443b35dd5c4b53e67708302bc66f9cc/derived/1b8d658ddb8ed22b06c606f3cf74272844420aae49d7ffbb7f5c5b6deadc3e7a/page-000012.json",
-      "original_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/22880f4c2443b35dd5c4b53e67708302bc66f9cc/objects/1b/1b8d658ddb8ed22b06c606f3cf74272844420aae49d7ffbb7f5c5b6deadc3e7a",
+      "representation_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/5b322d39f1e9acbd9f3e7ce45a3bdfaba5cf964b/derived/1b8d658ddb8ed22b06c606f3cf74272844420aae49d7ffbb7f5c5b6deadc3e7a/page-000012.json",
+      "original_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/5b322d39f1e9acbd9f3e7ce45a3bdfaba5cf964b/objects/1b/1b8d658ddb8ed22b06c606f3cf74272844420aae49d7ffbb7f5c5b6deadc3e7a",
       "evidence": [
         {
           "term": "wastewater",
@@ -1264,8 +1264,8 @@
       "quality_verified": false,
       "representation_path": "derived/1b8d658ddb8ed22b06c606f3cf74272844420aae49d7ffbb7f5c5b6deadc3e7a/page-000013.json",
       "representation_text_sha256": "9ed06326ea84afd10bdfca880cb92010539109a6f7d67238ad03b32974d64f8d",
-      "representation_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/22880f4c2443b35dd5c4b53e67708302bc66f9cc/derived/1b8d658ddb8ed22b06c606f3cf74272844420aae49d7ffbb7f5c5b6deadc3e7a/page-000013.json",
-      "original_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/22880f4c2443b35dd5c4b53e67708302bc66f9cc/objects/1b/1b8d658ddb8ed22b06c606f3cf74272844420aae49d7ffbb7f5c5b6deadc3e7a",
+      "representation_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/5b322d39f1e9acbd9f3e7ce45a3bdfaba5cf964b/derived/1b8d658ddb8ed22b06c606f3cf74272844420aae49d7ffbb7f5c5b6deadc3e7a/page-000013.json",
+      "original_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/5b322d39f1e9acbd9f3e7ce45a3bdfaba5cf964b/objects/1b/1b8d658ddb8ed22b06c606f3cf74272844420aae49d7ffbb7f5c5b6deadc3e7a",
       "evidence": [
         {
           "term": "sewer",
@@ -1303,8 +1303,8 @@
       "quality_verified": false,
       "representation_path": "derived/1b8d658ddb8ed22b06c606f3cf74272844420aae49d7ffbb7f5c5b6deadc3e7a/page-000014.json",
       "representation_text_sha256": "4ca063d02e02b7692222fe8df491fe293231be3ce46754802f9331589602609a",
-      "representation_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/22880f4c2443b35dd5c4b53e67708302bc66f9cc/derived/1b8d658ddb8ed22b06c606f3cf74272844420aae49d7ffbb7f5c5b6deadc3e7a/page-000014.json",
-      "original_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/22880f4c2443b35dd5c4b53e67708302bc66f9cc/objects/1b/1b8d658ddb8ed22b06c606f3cf74272844420aae49d7ffbb7f5c5b6deadc3e7a",
+      "representation_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/5b322d39f1e9acbd9f3e7ce45a3bdfaba5cf964b/derived/1b8d658ddb8ed22b06c606f3cf74272844420aae49d7ffbb7f5c5b6deadc3e7a/page-000014.json",
+      "original_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/5b322d39f1e9acbd9f3e7ce45a3bdfaba5cf964b/objects/1b/1b8d658ddb8ed22b06c606f3cf74272844420aae49d7ffbb7f5c5b6deadc3e7a",
       "evidence": [
         {
           "term": "sewer",
@@ -1342,8 +1342,8 @@
       "quality_verified": false,
       "representation_path": "derived/1b8d658ddb8ed22b06c606f3cf74272844420aae49d7ffbb7f5c5b6deadc3e7a/page-000015.json",
       "representation_text_sha256": "b9fc50fb5c260c9e7c63dea16fa42a62012acbc163be75d69a1c8d9fb94d907a",
-      "representation_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/22880f4c2443b35dd5c4b53e67708302bc66f9cc/derived/1b8d658ddb8ed22b06c606f3cf74272844420aae49d7ffbb7f5c5b6deadc3e7a/page-000015.json",
-      "original_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/22880f4c2443b35dd5c4b53e67708302bc66f9cc/objects/1b/1b8d658ddb8ed22b06c606f3cf74272844420aae49d7ffbb7f5c5b6deadc3e7a",
+      "representation_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/5b322d39f1e9acbd9f3e7ce45a3bdfaba5cf964b/derived/1b8d658ddb8ed22b06c606f3cf74272844420aae49d7ffbb7f5c5b6deadc3e7a/page-000015.json",
+      "original_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/5b322d39f1e9acbd9f3e7ce45a3bdfaba5cf964b/objects/1b/1b8d658ddb8ed22b06c606f3cf74272844420aae49d7ffbb7f5c5b6deadc3e7a",
       "evidence": [
         {
           "term": "sewer",
@@ -1381,8 +1381,8 @@
       "quality_verified": false,
       "representation_path": "derived/1b8d658ddb8ed22b06c606f3cf74272844420aae49d7ffbb7f5c5b6deadc3e7a/page-000016.json",
       "representation_text_sha256": "c1ea70d2c0e5440cf40f4e44091556f158999e471cd7f45a7e63342aaa4fff9e",
-      "representation_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/22880f4c2443b35dd5c4b53e67708302bc66f9cc/derived/1b8d658ddb8ed22b06c606f3cf74272844420aae49d7ffbb7f5c5b6deadc3e7a/page-000016.json",
-      "original_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/22880f4c2443b35dd5c4b53e67708302bc66f9cc/objects/1b/1b8d658ddb8ed22b06c606f3cf74272844420aae49d7ffbb7f5c5b6deadc3e7a",
+      "representation_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/5b322d39f1e9acbd9f3e7ce45a3bdfaba5cf964b/derived/1b8d658ddb8ed22b06c606f3cf74272844420aae49d7ffbb7f5c5b6deadc3e7a/page-000016.json",
+      "original_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/5b322d39f1e9acbd9f3e7ce45a3bdfaba5cf964b/objects/1b/1b8d658ddb8ed22b06c606f3cf74272844420aae49d7ffbb7f5c5b6deadc3e7a",
       "evidence": [
         {
           "term": "wastewater",
@@ -1420,8 +1420,8 @@
       "quality_verified": false,
       "representation_path": "derived/1b8d658ddb8ed22b06c606f3cf74272844420aae49d7ffbb7f5c5b6deadc3e7a/page-000017.json",
       "representation_text_sha256": "993be22004206ea81c8e85087b03e3385116f0ed20cd716772ba972f7faaf37a",
-      "representation_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/22880f4c2443b35dd5c4b53e67708302bc66f9cc/derived/1b8d658ddb8ed22b06c606f3cf74272844420aae49d7ffbb7f5c5b6deadc3e7a/page-000017.json",
-      "original_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/22880f4c2443b35dd5c4b53e67708302bc66f9cc/objects/1b/1b8d658ddb8ed22b06c606f3cf74272844420aae49d7ffbb7f5c5b6deadc3e7a",
+      "representation_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/5b322d39f1e9acbd9f3e7ce45a3bdfaba5cf964b/derived/1b8d658ddb8ed22b06c606f3cf74272844420aae49d7ffbb7f5c5b6deadc3e7a/page-000017.json",
+      "original_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/5b322d39f1e9acbd9f3e7ce45a3bdfaba5cf964b/objects/1b/1b8d658ddb8ed22b06c606f3cf74272844420aae49d7ffbb7f5c5b6deadc3e7a",
       "evidence": [
         {
           "term": "sewer",
@@ -1459,8 +1459,8 @@
       "quality_verified": false,
       "representation_path": "derived/1b8d658ddb8ed22b06c606f3cf74272844420aae49d7ffbb7f5c5b6deadc3e7a/page-000018.json",
       "representation_text_sha256": "2752f789c12eb038b459438b14f5c20164eb3476916dfefbac74378c6f324e16",
-      "representation_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/22880f4c2443b35dd5c4b53e67708302bc66f9cc/derived/1b8d658ddb8ed22b06c606f3cf74272844420aae49d7ffbb7f5c5b6deadc3e7a/page-000018.json",
-      "original_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/22880f4c2443b35dd5c4b53e67708302bc66f9cc/objects/1b/1b8d658ddb8ed22b06c606f3cf74272844420aae49d7ffbb7f5c5b6deadc3e7a",
+      "representation_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/5b322d39f1e9acbd9f3e7ce45a3bdfaba5cf964b/derived/1b8d658ddb8ed22b06c606f3cf74272844420aae49d7ffbb7f5c5b6deadc3e7a/page-000018.json",
+      "original_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/5b322d39f1e9acbd9f3e7ce45a3bdfaba5cf964b/objects/1b/1b8d658ddb8ed22b06c606f3cf74272844420aae49d7ffbb7f5c5b6deadc3e7a",
       "evidence": [
         {
           "term": "sewer",
@@ -1482,8 +1482,8 @@
       "quality_verified": false,
       "representation_path": "derived/1c56f0c35aa75b20d1d414a23b5705d2525bf9162889b086f897aa64deb6b444/page-000002.json",
       "representation_text_sha256": "6f4f1f80ffa9b5bce0674f2ab38f36332a773ed3519314e180f7ebeeb7c22476",
-      "representation_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/22880f4c2443b35dd5c4b53e67708302bc66f9cc/derived/1c56f0c35aa75b20d1d414a23b5705d2525bf9162889b086f897aa64deb6b444/page-000002.json",
-      "original_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/22880f4c2443b35dd5c4b53e67708302bc66f9cc/objects/1c/1c56f0c35aa75b20d1d414a23b5705d2525bf9162889b086f897aa64deb6b444",
+      "representation_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/5b322d39f1e9acbd9f3e7ce45a3bdfaba5cf964b/derived/1c56f0c35aa75b20d1d414a23b5705d2525bf9162889b086f897aa64deb6b444/page-000002.json",
+      "original_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/5b322d39f1e9acbd9f3e7ce45a3bdfaba5cf964b/objects/1c/1c56f0c35aa75b20d1d414a23b5705d2525bf9162889b086f897aa64deb6b444",
       "evidence": [
         {
           "term": "stormwater",

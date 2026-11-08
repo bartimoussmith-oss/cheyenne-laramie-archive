@@ -1,0 +1,36 @@
+{
+  "profile": "vendor-data-exit",
+  "title": "Public software contracts and data-exit clauses",
+  "generated_at": "2026-11-08T17:32:36.179457+00:00",
+  "source_revision": "5b322d39f1e9acbd9f3e7ce45a3bdfaba5cf964b",
+  "classification": "retrieval_triage_not_investigative_findings",
+  "matched_representations": 1,
+  "exported_representations": 1,
+  "result_cap": 50,
+  "results_truncated": false,
+  "results": [
+    {
+      "classification": "unreviewed_topical_match_not_a_finding",
+      "source_sha256": "dd535b2d03be1e8fcae4cb39e118422b513be4616f3633a4dc01a102c41e290f",
+      "source_url": "https://www.cheyennecity.org/Site-Footer/Sub-Footer-Links/Privacy-Statement",
+      "source_retrieved_at": "2026-11-08T17:24:18.044491+00:00",
+      "page": null,
+      "extraction_method": "html_text",
+      "quality_verified": false,
+      "representation_path": "text/dd535b2d03be1e8fcae4cb39e118422b513be4616f3633a4dc01a102c41e290f.txt",
+      "representation_text_sha256": "9f944ac405d5037a360554b1b88d4283bc6e5848e2354cd83a5176ef17a8c0aa",
+      "representation_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/5b322d39f1e9acbd9f3e7ce45a3bdfaba5cf964b/text/dd535b2d03be1e8fcae4cb39e118422b513be4616f3633a4dc01a102c41e290f.txt",
+      "original_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/5b322d39f1e9acbd9f3e7ce45a3bdfaba5cf964b/objects/dd/dd535b2d03be1e8fcae4cb39e118422b513be4616f3633a4dc01a102c41e290f",
+      "evidence": [
+        {
+          "term": "retention",
+          "match_start": 5093,
+          "match_end": 5102,
+          "passage_start": 4943,
+          "passage_end": 5352,
+          "text": "Raw data logs are used for no other purposes and are scheduled for regular destruction in accordance with State guidelines for records management and retention.\nUnauthorized attempts to upload information or change information on this service are strictly prohibited and may be punishable under the Computer Fraud and Abuse Act of 1986 and the National Information Infrastructure Protection Act.\nLinks to othe"
+        }
+      ]
+    }
+  ]
+}

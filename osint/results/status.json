@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-08T17:28:50.972658+00:00",
-  "source_revision": "22880f4c2443b35dd5c4b53e67708302bc66f9cc",
+  "generated_at": "2026-11-08T17:32:36.179457+00:00",
+  "source_revision": "5b322d39f1e9acbd9f3e7ce45a3bdfaba5cf964b",
   "available_representation_files": 802,
   "scanned_files": 802,
   "scan_truncated": false,
@@ -48,6 +48,36 @@
       "profile": "election-administration",
       "matches": 13,
       "exported": 13
+    },
+    {
+      "profile": "vendor-data-exit",
+      "matches": 1,
+      "exported": 1
+    },
+    {
+      "profile": "legacy-defense-cleanup",
+      "matches": 0,
+      "exported": 0
+    },
+    {
+      "profile": "public-land-revenues",
+      "matches": 9,
+      "exported": 9
+    },
+    {
+      "profile": "water-trades-rights",
+      "matches": 0,
+      "exported": 0
+    },
+    {
+      "profile": "decision-version-trails",
+      "matches": 84,
+      "exported": 50
+    },
+    {
+      "profile": "utility-rate-exceptions",
+      "matches": 3,
+      "exported": 3
     }
   ]
 }

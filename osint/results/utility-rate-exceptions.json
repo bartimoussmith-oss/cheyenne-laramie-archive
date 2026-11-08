@@ -1,0 +1,82 @@
+{
+  "profile": "utility-rate-exceptions",
+  "title": "Utility-rate classes and negotiated-service provisions",
+  "generated_at": "2026-11-08T17:32:36.179457+00:00",
+  "source_revision": "5b322d39f1e9acbd9f3e7ce45a3bdfaba5cf964b",
+  "classification": "retrieval_triage_not_investigative_findings",
+  "matched_representations": 3,
+  "exported_representations": 3,
+  "result_cap": 50,
+  "results_truncated": false,
+  "results": [
+    {
+      "classification": "unreviewed_topical_match_not_a_finding",
+      "source_sha256": "090cfbec55548ada575053632aaa0d7b4114f023fc65c69c7c5c7ecddf13b0da",
+      "source_url": "https://www.cheyennecity.org/files/sharedassets/public/v/1/your-government/city-council/psc-2023/sub-sweetgrass-pud-amendment.pdf",
+      "source_retrieved_at": "2026-11-08T17:13:02.534477+00:00",
+      "page": 19,
+      "extraction_method": "native",
+      "quality_verified": false,
+      "representation_path": "derived/090cfbec55548ada575053632aaa0d7b4114f023fc65c69c7c5c7ecddf13b0da/page-000019.json",
+      "representation_text_sha256": "6247fdc09404fbdbfc2b9fe2c1e3f15887d8cbb0b1420d857d33fa9d5445c7fc",
+      "representation_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/5b322d39f1e9acbd9f3e7ce45a3bdfaba5cf964b/derived/090cfbec55548ada575053632aaa0d7b4114f023fc65c69c7c5c7ecddf13b0da/page-000019.json",
+      "original_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/5b322d39f1e9acbd9f3e7ce45a3bdfaba5cf964b/objects/09/090cfbec55548ada575053632aaa0d7b4114f023fc65c69c7c5c7ecddf13b0da",
+      "evidence": [
+        {
+          "term": "recycled water",
+          "match_start": 1793,
+          "match_end": 1807,
+          "passage_start": 1643,
+          "passage_end": 2057,
+          "text": " of irrigation design that recycled wastewater is, or will become,\n         available; therefore, irrigation systems shall be designed to accommodate recycled water.\ne. Recommended Groundcover for all New & Restored Landscape Areas\n    i. Native grass seed mixture(s) per the City of Cheyenne Greenway Landscape Specifications or Pre-\n       approved Dryland Mix in UDC Appendix G Streetscape Design, Planning and "
+        }
+      ]
+    },
+    {
+      "classification": "unreviewed_topical_match_not_a_finding",
+      "source_sha256": "090cfbec55548ada575053632aaa0d7b4114f023fc65c69c7c5c7ecddf13b0da",
+      "source_url": "https://www.cheyennecity.org/files/sharedassets/public/v/1/your-government/city-council/psc-2023/sub-sweetgrass-pud-amendment.pdf",
+      "source_retrieved_at": "2026-11-08T17:13:02.534477+00:00",
+      "page": 69,
+      "extraction_method": "native",
+      "quality_verified": false,
+      "representation_path": "derived/090cfbec55548ada575053632aaa0d7b4114f023fc65c69c7c5c7ecddf13b0da/page-000069.json",
+      "representation_text_sha256": "997e97d7cc3ad203759678fcdacba98e1c671f6a9de781a1fe15b66e30692d7e",
+      "representation_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/5b322d39f1e9acbd9f3e7ce45a3bdfaba5cf964b/derived/090cfbec55548ada575053632aaa0d7b4114f023fc65c69c7c5c7ecddf13b0da/page-000069.json",
+      "original_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/5b322d39f1e9acbd9f3e7ce45a3bdfaba5cf964b/objects/09/090cfbec55548ada575053632aaa0d7b4114f023fc65c69c7c5c7ecddf13b0da",
+      "evidence": [
+        {
+          "term": "recycled water",
+          "match_start": 1012,
+          "match_end": 1026,
+          "passage_start": 862,
+          "passage_end": 1276,
+          "text": " of irrigation design that recycled wastewater is, or will become,\n         available; therefore, irrigation systems shall be designed to accommodate recycled water.\ne. Recommended Groundcover for all New & Restored Landscape Areas\n    i. Native grass seed mixture(s) per the City of Cheyenne Greenway Landscape Specifications or Pre-\n       approved Dryland Mix in UDC Appendix G Streetscape Design, Planning and "
+        }
+      ]
+    },
+    {
+      "classification": "unreviewed_topical_match_not_a_finding",
+      "source_sha256": "2f5c9ceec649c9bc584a34c7e6620d178bf418fc51c9de7d1b690c3f238e446d",
+      "source_url": "https://www.cheyennecity.org/files/sharedassets/public/v/1/your-government/city-council/psc-2026/amendment-15-psc-11-02-03.pdf",
+      "source_retrieved_at": "2026-11-08T16:52:24.348828+00:00",
+      "page": 2,
+      "extraction_method": "native",
+      "quality_verified": false,
+      "representation_path": "derived/2f5c9ceec649c9bc584a34c7e6620d178bf418fc51c9de7d1b690c3f238e446d/page-000002.json",
+      "representation_text_sha256": "4e487a9d85dd76297da29ec1b5928151d9df589af696ecf47033b608cfa32884",
+      "representation_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/5b322d39f1e9acbd9f3e7ce45a3bdfaba5cf964b/derived/2f5c9ceec649c9bc584a34c7e6620d178bf418fc51c9de7d1b690c3f238e446d/page-000002.json",
+      "original_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/5b322d39f1e9acbd9f3e7ce45a3bdfaba5cf964b/objects/2f/2f5c9ceec649c9bc584a34c7e6620d178bf418fc51c9de7d1b690c3f238e446d",
+      "evidence": [
+        {
+          "term": "recycled water",
+          "match_start": 1420,
+          "match_end": 1434,
+          "passage_start": 1270,
+          "passage_end": 1684,
+          "text": "provides greater\n      overall water-use efficiency than a closed-loop system or (ii) uses an alternative\n      water source, including nonpotable or recycled water, without adversely affecting\n      the City's existing or reasonably anticipated water needs. In making its\n      determination, the BOPU shall consider direct and indirect water consumption, the\n      source and availability of the proposed water s"
+        }
+      ]
+    }
+  ]
+}

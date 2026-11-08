@@ -1,0 +1,236 @@
+{
+  "profile": "public-land-revenues",
+  "title": "Public-land leases and overlapping revenue uses",
+  "generated_at": "2026-11-08T17:32:36.179457+00:00",
+  "source_revision": "5b322d39f1e9acbd9f3e7ce45a3bdfaba5cf964b",
+  "classification": "retrieval_triage_not_investigative_findings",
+  "matched_representations": 9,
+  "exported_representations": 9,
+  "result_cap": 50,
+  "results_truncated": false,
+  "results": [
+    {
+      "classification": "unreviewed_topical_match_not_a_finding",
+      "source_sha256": "031f6784822968fd4dd00e67716091537789808541b9811afe84f937c9175fb2",
+      "source_url": "https://www.cheyennecity.org/files/sharedassets/public/v/1/your-government/city-council/fc-2025/fc-01-07-25-minutes.pdf",
+      "source_retrieved_at": "2026-11-08T16:40:04.102176+00:00",
+      "page": 1,
+      "extraction_method": "native",
+      "quality_verified": false,
+      "representation_path": "derived/031f6784822968fd4dd00e67716091537789808541b9811afe84f937c9175fb2/page-000001.json",
+      "representation_text_sha256": "68bd9bf6ee9baadd3bcc2fbb92884ed09b1289fcbea1764b439573d1172d0126",
+      "representation_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/5b322d39f1e9acbd9f3e7ce45a3bdfaba5cf964b/derived/031f6784822968fd4dd00e67716091537789808541b9811afe84f937c9175fb2/page-000001.json",
+      "original_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/5b322d39f1e9acbd9f3e7ce45a3bdfaba5cf964b/objects/03/031f6784822968fd4dd00e67716091537789808541b9811afe84f937c9175fb2",
+      "evidence": [
+        {
+          "term": "grazing",
+          "match_start": 1068,
+          "match_end": 1075,
+          "passage_start": 918,
+          "passage_end": 1325,
+          "text": " Esquibel\ncommented on the item.\n\n       e)     Agreement between the City of Cheyeime and Wyoming Cattle Company for the\n              Belvoir Ranch Grazing Lease. (Revenue to the City)\n\nMr. Moody moved to approve in an amount of 5210,000.00 annually for 3 years, seconded by Mr.\nEsquihel. Motion carried by unanimous voice vote.\n\nVicki Nemecek, Public Works Director, provided a staff report.         Chai"
+        },
+        {
+          "term": "lease",
+          "match_start": 1076,
+          "match_end": 1081,
+          "passage_start": 926,
+          "passage_end": 1331,
+          "text": "l\ncommented on the item.\n\n       e)     Agreement between the City of Cheyeime and Wyoming Cattle Company for the\n              Belvoir Ranch Grazing Lease. (Revenue to the City)\n\nMr. Moody moved to approve in an amount of 5210,000.00 annually for 3 years, seconded by Mr.\nEsquihel. Motion carried by unanimous voice vote.\n\nVicki Nemecek, Public Works Director, provided a staff report.         Chairman L"
+        }
+      ]
+    },
+    {
+      "classification": "unreviewed_topical_match_not_a_finding",
+      "source_sha256": "090a8fcd47edf5a41a6a3e7cda3615b5a7edd2629b2025d1d4e2fbb2d6420a40",
+      "source_url": "https://www.cheyennecity.org/files/sharedassets/public/v/1/your-government/city-council/fc-2023/fc-05-01-23-minutes.pdf",
+      "source_retrieved_at": "2026-11-08T16:43:09.188155+00:00",
+      "page": 2,
+      "extraction_method": "tesseract",
+      "quality_verified": false,
+      "representation_path": "derived/090a8fcd47edf5a41a6a3e7cda3615b5a7edd2629b2025d1d4e2fbb2d6420a40/page-000002.json",
+      "representation_text_sha256": "ac7859b5db247927a00bdcecbce953b0bfd96a3ce788d1c2b24feb654f33060e",
+      "representation_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/5b322d39f1e9acbd9f3e7ce45a3bdfaba5cf964b/derived/090a8fcd47edf5a41a6a3e7cda3615b5a7edd2629b2025d1d4e2fbb2d6420a40/page-000002.json",
+      "original_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/5b322d39f1e9acbd9f3e7ce45a3bdfaba5cf964b/objects/09/090a8fcd47edf5a41a6a3e7cda3615b5a7edd2629b2025d1d4e2fbb2d6420a40",
+      "evidence": [
+        {
+          "term": "lease",
+          "match_start": 907,
+          "match_end": 912,
+          "passage_start": 757,
+          "passage_end": 1162,
+          "text": " on the item and public\ncomment was made by Dan Dorsch, Habitat for Humanity of Laramie County Executive Director.\n\n18. | LEASES/CONTRACTS/LEGAL:\n\n4) Lease Agreement between the City of Cheyenne and Union Telephone Company\nfor telecommunications operations and tower maintenance. (Revenue to the City)\n\nDr. Aldrich moved to approve in an amount of $15,000.00 per year for $ years, seconded by Mr.\nEsquibel"
+        }
+      ]
+    },
+    {
+      "classification": "unreviewed_topical_match_not_a_finding",
+      "source_sha256": "10e647a301957538b009a471177553cb3aa82fffe2bbeb3b8cd675cc40faf2ed",
+      "source_url": "https://www.cheyennecity.org/files/sharedassets/public/v/1/your-government/city-council/fc-2024/fc-07-15-24-minutes.pdf",
+      "source_retrieved_at": "2026-11-08T16:40:54.755177+00:00",
+      "page": 2,
+      "extraction_method": "native",
+      "quality_verified": false,
+      "representation_path": "derived/10e647a301957538b009a471177553cb3aa82fffe2bbeb3b8cd675cc40faf2ed/page-000002.json",
+      "representation_text_sha256": "d79910161188a7240b6aa57da4419ae8ecc3cd9287cf3cca38abc208461583a2",
+      "representation_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/5b322d39f1e9acbd9f3e7ce45a3bdfaba5cf964b/derived/10e647a301957538b009a471177553cb3aa82fffe2bbeb3b8cd675cc40faf2ed/page-000002.json",
+      "original_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/5b322d39f1e9acbd9f3e7ce45a3bdfaba5cf964b/objects/10/10e647a301957538b009a471177553cb3aa82fffe2bbeb3b8cd675cc40faf2ed",
+      "evidence": [
+        {
+          "term": "lease",
+          "match_start": 255,
+          "match_end": 260,
+          "passage_start": 105,
+          "passage_end": 510,
+          "text": " and Mr. Johnson voting “NO.”\n\nTom Cobb, City Engineer, provided a staff report and committee member Cook commented on\nthe item.\n\n       g)      Land Lease between the City of Cheyenne and Swan Ranch Cheyenne Rail, L.L.C.\n               which supersedes and replaces the Railcar Storage Agreement, City Contract\n               #7665. by and between Cheyenne Rail Hub, LLC.\n\nMr. Cook moved to approve, seco"
+        }
+      ]
+    },
+    {
+      "classification": "unreviewed_topical_match_not_a_finding",
+      "source_sha256": "1c01ddf545d1e9a53c90878ee0d93b7c39fecc50c6f7309fa98deaca5e5a98af",
+      "source_url": "https://www.cheyennecity.org/files/sharedassets/public/v/1/your-government/city-council/fc-2022/substitution-10-3-2022-agreement-for-exchange-of-lands-with-mark-eisele-king-ranch-company.pdf",
+      "source_retrieved_at": "2026-11-08T16:50:37.449768+00:00",
+      "page": 3,
+      "extraction_method": "native",
+      "quality_verified": false,
+      "representation_path": "derived/1c01ddf545d1e9a53c90878ee0d93b7c39fecc50c6f7309fa98deaca5e5a98af/page-000003.json",
+      "representation_text_sha256": "7a173aa4c4c29c2e7fb294314558f726f977d1195991533bf631341a619c06c8",
+      "representation_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/5b322d39f1e9acbd9f3e7ce45a3bdfaba5cf964b/derived/1c01ddf545d1e9a53c90878ee0d93b7c39fecc50c6f7309fa98deaca5e5a98af/page-000003.json",
+      "original_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/5b322d39f1e9acbd9f3e7ce45a3bdfaba5cf964b/objects/1c/1c01ddf545d1e9a53c90878ee0d93b7c39fecc50c6f7309fa98deaca5e5a98af",
+      "evidence": [
+        {
+          "term": "lease",
+          "match_start": 201,
+          "match_end": 206,
+          "passage_start": 51,
+          "passage_end": 456,
+          "text": "itle Commitment and that may affect the\n       marketability of title to Parcel B;\n\n             iii.    True and complete copies or originals of any lease or occupancy\n       agreements for any portion of Parcel B;\n\n             iv.    All mortgages, notes, and loan documents for any mortgage which\n       encumbers Parcel B on the date hereof, which mortgages, notes, and loan\n       documents shall be"
+        }
+      ]
+    },
+    {
+      "classification": "unreviewed_topical_match_not_a_finding",
+      "source_sha256": "1e9089807a5a8d41a2ac462e05a74631026047db61d78156bb89fde32a119754",
+      "source_url": "https://www.cheyennecity.org/files/sharedassets/public/v/1/your-government/city-council/fc-2026/fc-02-03-25-minutes.pdf",
+      "source_retrieved_at": "2026-11-08T16:28:48.992786+00:00",
+      "page": 1,
+      "extraction_method": "native",
+      "quality_verified": false,
+      "representation_path": "derived/1e9089807a5a8d41a2ac462e05a74631026047db61d78156bb89fde32a119754/page-000001.json",
+      "representation_text_sha256": "41a969b9d68802bad311900d6a1f90f5648245a049a48d96c074e9df5bc3dc66",
+      "representation_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/5b322d39f1e9acbd9f3e7ce45a3bdfaba5cf964b/derived/1e9089807a5a8d41a2ac462e05a74631026047db61d78156bb89fde32a119754/page-000001.json",
+      "original_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/5b322d39f1e9acbd9f3e7ce45a3bdfaba5cf964b/objects/1e/1e9089807a5a8d41a2ac462e05a74631026047db61d78156bb89fde32a119754",
+      "evidence": [
+        {
+          "term": "lease",
+          "match_start": 476,
+          "match_end": 481,
+          "passage_start": 326,
+          "passage_end": 731,
+          "text": "n; Mark Moody; Jeff White; and Lawrence\nWolfe.\n\n\n                                      AGENDA ITEMS\n\n18.      LEASES/CONTRACTS/LEGAL:\n\n         c)    Lease Agreement between the City of Cheyenne and the Girl Scouts of Montana\n               and Wyoming, for 45.93 acres of city-owned real property located near the former\n               Roundtop Water Treatment Facility to be used for the purposes of con"
+        }
+      ]
+    },
+    {
+      "classification": "unreviewed_topical_match_not_a_finding",
+      "source_sha256": "239b0d4b1865db1f9d8962074172901d0cbe1a15ce41e8c9c32d327b94a7c57c",
+      "source_url": "https://www.cheyennecity.org/files/sharedassets/public/v/1/your-government/city-council/fc-2025/fc-01-07-25-agenda.pdf",
+      "source_retrieved_at": "2026-11-08T16:40:02.086102+00:00",
+      "page": 1,
+      "extraction_method": "native",
+      "quality_verified": false,
+      "representation_path": "derived/239b0d4b1865db1f9d8962074172901d0cbe1a15ce41e8c9c32d327b94a7c57c/page-000001.json",
+      "representation_text_sha256": "b0af8bf1df93862671fc49be0761514826b10b66bac3eab27abf40978012869e",
+      "representation_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/5b322d39f1e9acbd9f3e7ce45a3bdfaba5cf964b/derived/239b0d4b1865db1f9d8962074172901d0cbe1a15ce41e8c9c32d327b94a7c57c/page-000001.json",
+      "original_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/5b322d39f1e9acbd9f3e7ce45a3bdfaba5cf964b/objects/23/239b0d4b1865db1f9d8962074172901d0cbe1a15ce41e8c9c32d327b94a7c57c",
+      "evidence": [
+        {
+          "term": "grazing",
+          "match_start": 1669,
+          "match_end": 1676,
+          "passage_start": 1519,
+          "passage_end": 1926,
+          "text": "(Revenue to the City)\n\nACTION:\n\n        e)     Agreement between the City of Cheyenne and Wyoming Cattle Company for the\n               Belvoir Ranch Grazing Lease. (Revenue to the City)\n\nACTION:\n\n22.     CONSIDERATION OF BIDS/PURCHASES/REQUESTS FOR PROPOSALS:\n\n        b)     Consideration to purchase between the City of Cheyenne and Zivaro for Quest\n               Netvault Software for the City of Cheye"
+        },
+        {
+          "term": "lease",
+          "match_start": 1677,
+          "match_end": 1682,
+          "passage_start": 1527,
+          "passage_end": 1932,
+          "text": " to the City)\n\nACTION:\n\n        e)     Agreement between the City of Cheyenne and Wyoming Cattle Company for the\n               Belvoir Ranch Grazing Lease. (Revenue to the City)\n\nACTION:\n\n22.     CONSIDERATION OF BIDS/PURCHASES/REQUESTS FOR PROPOSALS:\n\n        b)     Consideration to purchase between the City of Cheyenne and Zivaro for Quest\n               Netvault Software for the City of Cheyenne IT"
+        }
+      ]
+    },
+    {
+      "classification": "unreviewed_topical_match_not_a_finding",
+      "source_sha256": "27def84b6e425c61d2075fb7dec48b29bf67cb23f1a57ab7ccd2121cfbf558c0",
+      "source_url": "https://www.cheyennecity.org/files/sharedassets/public/v/1/your-government/city-council/fc-2025/fc-02-04-25-minutes.pdf",
+      "source_retrieved_at": "2026-11-08T16:39:55.996103+00:00",
+      "page": 1,
+      "extraction_method": "native",
+      "quality_verified": false,
+      "representation_path": "derived/27def84b6e425c61d2075fb7dec48b29bf67cb23f1a57ab7ccd2121cfbf558c0/page-000001.json",
+      "representation_text_sha256": "2cc7646e98530b354ea5c8f77f8b9a3fb7b917de9538f9df50d0c82373791def",
+      "representation_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/5b322d39f1e9acbd9f3e7ce45a3bdfaba5cf964b/derived/27def84b6e425c61d2075fb7dec48b29bf67cb23f1a57ab7ccd2121cfbf558c0/page-000001.json",
+      "original_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/5b322d39f1e9acbd9f3e7ce45a3bdfaba5cf964b/objects/27/27def84b6e425c61d2075fb7dec48b29bf67cb23f1a57ab7ccd2121cfbf558c0",
+      "evidence": [
+        {
+          "term": "lease",
+          "match_start": 464,
+          "match_end": 469,
+          "passage_start": 314,
+          "passage_end": 719,
+          "text": "hairman; Ken EsquibeI Mark Moody; and Scott\nRoybal.\n\n\n                                    AGENDA ITEMS\n\n11.    LEASES/CONTRACTS/LEGAL:\n\n       h)     Lease Agreement between the City of Cheyenne and the Girl Scouts of Montana\n              and Wyoming, for 45.93 acres of city-owned real property located near the former\n              Roundtop Water Treatment Facility to be used for the purposes of condu"
+        }
+      ]
+    },
+    {
+      "classification": "unreviewed_topical_match_not_a_finding",
+      "source_sha256": "2bbb5ca0af42ca1f1e4dce85db26e8563666f5d976401c7cbe68537d84af29e9",
+      "source_url": "https://www.cheyennecity.org/files/sharedassets/public/v/1/your-government/city-council/psc-2024/psc-12-17-24-agenda.pdf",
+      "source_retrieved_at": "2026-11-08T17:09:17.942030+00:00",
+      "page": 3,
+      "extraction_method": "native",
+      "quality_verified": false,
+      "representation_path": "derived/2bbb5ca0af42ca1f1e4dce85db26e8563666f5d976401c7cbe68537d84af29e9/page-000003.json",
+      "representation_text_sha256": "b4c9b9eb6961e38db8f3e72da6588b3a1c5fd63b10d631242b950dc29b0f0586",
+      "representation_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/5b322d39f1e9acbd9f3e7ce45a3bdfaba5cf964b/derived/2bbb5ca0af42ca1f1e4dce85db26e8563666f5d976401c7cbe68537d84af29e9/page-000003.json",
+      "original_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/5b322d39f1e9acbd9f3e7ce45a3bdfaba5cf964b/objects/2b/2bbb5ca0af42ca1f1e4dce85db26e8563666f5d976401c7cbe68537d84af29e9",
+      "evidence": [
+        {
+          "term": "easement",
+          "match_start": 449,
+          "match_end": 457,
+          "passage_start": 299,
+          "passage_end": 707,
+          "text": "ate property record corrections, authorizing the\n       Mayor to execute all necessary documents related to amending and extinguishing certain\n       easement agreements affecting a portion of the Belvoir Ranch and the properties directly\n       north and south of that portion of the Belvoir Ranch. (SPONSOR – MR. ROYBAL)\n\nACTION:\n\nOTHER ITEMS FOR THE AGENDA:\n\nANNOUNCEMENT:\n\nFor calendar year 2025, startin"
+        }
+      ]
+    },
+    {
+      "classification": "unreviewed_topical_match_not_a_finding",
+      "source_sha256": "3105bb585026393ad577f774b1d0436d7b144a2834cf6de1b2ac70e02adbe242",
+      "source_url": "https://www.cheyennecity.org/files/sharedassets/public/v/1/departments/city-treasurer/adopted-budgets/fy2022-adopted-budget.pdf",
+      "source_retrieved_at": "2026-11-08T17:24:47.669632+00:00",
+      "page": 15,
+      "extraction_method": "native",
+      "quality_verified": false,
+      "representation_path": "derived/3105bb585026393ad577f774b1d0436d7b144a2834cf6de1b2ac70e02adbe242/page-000015.json",
+      "representation_text_sha256": "38f49c3d6da6441dddc82da872aa894d0a22fff3e995d3d5f759bac1ac921f6d",
+      "representation_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/5b322d39f1e9acbd9f3e7ce45a3bdfaba5cf964b/derived/3105bb585026393ad577f774b1d0436d7b144a2834cf6de1b2ac70e02adbe242/page-000015.json",
+      "original_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/5b322d39f1e9acbd9f3e7ce45a3bdfaba5cf964b/objects/31/3105bb585026393ad577f774b1d0436d7b144a2834cf6de1b2ac70e02adbe242",
+      "evidence": [
+        {
+          "term": "lease",
+          "match_start": 1715,
+          "match_end": 1720,
+          "passage_start": 1565,
+          "passage_end": 1970,
+          "text": "($5 million) and the           Ranch, Ground Based Strategic Deterrent\n  5th Penny funds earmarked for maintenance of             (GBSD)/Enhanced Use Lease (EUL), Unified\n  roads for the year ($4.5 million). The due date for      Development Code (UDC), Cheyenne Frontier\n    action on this goal is December 31, 2021.              Days, North Park, Hynds Building/Hole, the pan-\n◼   Revisit the East Cheye"
+        }
+      ]
+    }
+  ]
+}
