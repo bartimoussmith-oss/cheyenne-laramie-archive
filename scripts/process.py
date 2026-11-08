@@ -3,17 +3,20 @@ from datetime import datetime, timezone
 from pathlib import Path
 import adapters
 
+PAGE_BUDGET = 200
+PDF_BUDGET = 50
+DERIVED_BUDGET = 100000000
+
 def run(command):
     return subprocess.run(command, check=True, capture_output=True, timeout=120)
 
 def captured_pdfs(path):
     rows = {}
-    if not path.exists():
-        return rows
-    for line in path.read_text(encoding='utf-8').splitlines():
-        row = json.loads(line)
-        if row.get('disposition') == 'captured' and 'application/pdf' in row.get('media_type', ''):
-            rows.setdefault(row['sha256'], row)
+    if path.exists():
+        for line in path.read_text(encoding='utf-8').splitlines():
+            row = json.loads(line)
+            if row.get('disposition') == 'captured' and 'application/pdf' in row.get('media_type', ''):
+                rows.setdefault(row['sha256'], row)
     return rows
 
 def process():
@@ -22,8 +25,10 @@ def process():
     root.mkdir(exist_ok=True)
     pdfs = captured_pdfs(Path('ledger.jsonl'))
     attempted, failures, pages_written = 0, [], 0
+    derived_bytes = sum(p.stat().st_size for p in root.rglob('*') if p.is_file())
+    storage_pause = False
     for digest, row in sorted(pdfs.items()):
-        if attempted >= 2 or time.monotonic() - started > 480:
+        if attempted >= PDF_BUDGET or pages_written >= PAGE_BUDGET or time.monotonic() - started > 480 or storage_pause:
             break
         if not re.fullmatch('[0-9a-f]{64}', digest):
             failures.append({'sha256': digest, 'error': 'invalid hash'})
@@ -43,8 +48,8 @@ def process():
             if not missing:
                 continue
             attempted += 1
-            for number in missing[:4]:
-                if time.monotonic() - started > 480:
+            for number in missing[:50]:
+                if pages_written >= PAGE_BUDGET or time.monotonic() - started > 480:
                     break
                 text = run(['pdftotext', '-f', str(number), '-l', str(number), '-layout', str(source), '-']).stdout.decode('utf-8', 'replace')
                 method = 'native'
@@ -59,9 +64,14 @@ def process():
                         method = 'tesseract'
                     finally:
                         image.unlink(missing_ok=True)
-                if len(text.encode('utf-8')) > 2000000:
+                size = len(text.encode('utf-8'))
+                if size > 2000000:
                     raise ValueError('Page text exceeds bounded size')
-                adapters.save(directory, 'page-%06d.json' % number, {'source_sha256': digest, 'source_url': row['url'], 'page': number, 'method': method, 'quality_verified': False, 'text': text})
+                if derived_bytes + size + 4096 > DERIVED_BUDGET:
+                    storage_pause = True
+                    break
+                saved = adapters.save(directory, 'page-%06d.json' % number, {'source_sha256': digest, 'source_url': row['url'], 'page': number, 'method': method, 'quality_verified': False, 'text': text})
+                derived_bytes += saved['bytes']
                 pages_written += 1
             present = sum((directory / ('page-%06d.json' % n)).exists() for n in range(1, count + 1))
             adapters.save(directory, 'coverage.json', {'source_sha256': digest, 'expected_pages': count, 'extracted_pages': present, 'page_extraction_complete': present == count, 'ocr_accuracy_verified': False})
@@ -70,7 +80,7 @@ def process():
     proposals = Path('proposals')
     proposals.mkdir(exist_ok=True)
     adapters.partition({'local_root': 'objects', 'partition_bytes': 350000000}, proposals)
-    adapters.save(Path('.'), 'derived-status.json', {'updated_at': datetime.now(timezone.utc).isoformat(), 'captured_pdf_objects': len(pdfs), 'pdfs_attempted_this_run': attempted, 'pages_written_this_run': pages_written, 'failures': failures, 'live_processing_complete': False, 'accuracy_verified': False, 'repositories_created': False, 'paid_services_enabled': False})
+    adapters.save(Path('.'), 'derived-status.json', {'updated_at': datetime.now(timezone.utc).isoformat(), 'captured_pdf_objects': len(pdfs), 'pdfs_attempted_this_run': attempted, 'pages_written_this_run': pages_written, 'page_budget': PAGE_BUDGET, 'derived_storage_pause': storage_pause, 'failures': failures, 'live_processing_complete': False, 'accuracy_verified': False, 'repositories_created': False, 'paid_services_enabled': False})
 
 if __name__ == '__main__':
     process()
