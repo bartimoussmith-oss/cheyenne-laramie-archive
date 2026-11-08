@@ -7,6 +7,12 @@
     {"id":"roads-transit","title":"Roads, transit and infrastructure","terms":["road","street","traffic","transit","greenway","pavement","rail"]},
     {"id":"council-decisions","title":"Council procedures and decisions","terms":["ordinance","resolution","public hearing","amendment","roll call","minutes"]},
     {"id":"public-safety-resources","title":"Public-safety funding and staffing","terms":["budget","appropriation","staffing","overtime","equipment","capital"],"require_any":["police","sheriff","fire rescue","emergency management","dispatch"]},
-    {"id":"election-administration","title":"Election administration and official processes","terms":["election","canvass","ballot","vote center","precinct","absentee"]}
+    {"id":"election-administration","title":"Election administration and official processes","terms":["election","canvass","ballot","vote center","precinct","absentee"]},
+    {"id":"vendor-data-exit","title":"Public software contracts and data-exit clauses","terms":["data ownership","customer data","export","retention","expiration","termination"],"require_any":["software","subscription","SaaS","Neptune"]},
+    {"id":"legacy-defense-cleanup","title":"Legacy military sites and environmental cleanup","terms":["trichloroethene","TCE","Formerly Used Defense","groundwater","remediation"],"require_any":["Belvoir","Atlas","missile"]},
+    {"id":"public-land-revenues","title":"Public-land leases and overlapping revenue uses","terms":["wind revenue","wind revenues","lease","royalty","royalties","grazing","easement"],"require_any":["Belvoir","public land","city-owned","ranch"]},
+    {"id":"water-trades-rights","title":"Water trades and trans-basin rights","terms":["Stage I","Stage II","Stage I/II","trans-basin","water trade","water exchange","Continental Divide"]},
+    {"id":"decision-version-trails","title":"Substitutes, amendments and decision-version trails","terms":["substitute","amendment","amended","superseded","corrected","revised"],"require_any":["ordinance","resolution","committee","minutes"]},
+    {"id":"utility-rate-exceptions","title":"Utility-rate classes and negotiated-service provisions","terms":["large volume","large-volume","negotiated","outside city","recycled water","reclaimed water"],"require_any":["rate","rates","water","sewer"]}
   ]
 }

@@ -1,4 +1,4 @@
-name: Eight civic OSINT scans
+name: Civic OSINT scans
 on:
   workflow_dispatch:
   schedule:
@@ -30,7 +30,7 @@ jobs:
           python-version: '3.12'
       - name: Validate OSINT engine
         run: python -m py_compile scripts/osint.py
-      - name: Run eight public-interest profiles over preserved evidence
+      - name: Run configured public-interest profiles over preserved evidence
         run: python scripts/osint.py
       - name: Publish bounded evidence-linked outputs
         run: |
@@ -38,6 +38,6 @@ jobs:
           git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
           git add -- osint/results
           if ! git diff --cached --quiet; then
-            git commit -m "osint: publish eight source-backed topical scan results"
+            git commit -m "osint: publish source-backed topical scan results"
             git push origin HEAD:main
           fi
