@@ -1,0 +1,1607 @@
+<!DOCTYPE html>
+<!--[if lt IE 7]>      <html class="no-js lt-ie9 lt-ie8 lt-ie7" lang="en"> <![endif]-->
+<!--[if IE 7]>         <html class="no-js lt-ie9 lt-ie8" lang="en"> <![endif]-->
+<!--[if IE 8]>         <html class="no-js lt-ie9" lang="en"> <![endif]-->
+<!--[if gt IE 8]><!-->
+<html class="no-js" lang="en-US">
+<!--<![endif]-->
+<head>
+	<!-- Published by OpenCities, 1.38.0.1 -->
+
+    
+        
+    
+    
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+    <meta name="theme-color" content="#1B75BC"/>
+    <title>Cheyenne Mayors – City of Cheyenne</title>
+	<meta name="generator" content="OpenCities - https://granicus.com/product/opencities" />
+
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <!-- Using mobile-web-app-capable for now to enable full-screen experience on supported platforms -->
+    <!-- Note: This tag works mainly on Android Chrome. It does NOT enable full-screen mode on iOS Safari. -->
+    <!-- For iOS, the correct tag is: <meta name="apple-mobile-web-app-capable" content="yes"> -->
+    <!-- TODO: Monitor for updated meta tag standards from Apple or other browser vendors -->
+    <meta name="mobile-web-app-capable" content="yes" />
+        <meta name="description" content="An image gallery into Cheyenne&#39;s history of Mayors." />
+    <meta property="og:type" content="article" />
+    <meta property="og:url" content="https://www.cheyennecity.org/Your-Government/Mayor/Cheyenne-Mayors" />
+    <meta property="og:title" content="Cheyenne Mayors" />
+    <meta property="og:description" content="An image gallery into Cheyenne&#39;s history of Mayors." />
+    <meta property="og:image" content="https://www.cheyennecity.org/files/ocwebsite/Public/HeroImage/citylbb.jpg?w=1200" />
+    <meta property="twitter:card" content="summary" />
+    <meta property="twitter:title" content="Cheyenne Mayors" />
+    <meta property="twitter:description" content="An image gallery into Cheyenne&#39;s history of Mayors." />
+    <meta property="twitter:image" content="https://www.cheyennecity.org/files/ocwebsite/Public/HeroImage/citylbb.jpg?w=1080" />
+    <meta property="fb:app_id" content="4049459422007991" />
+    <link rel="canonical" href="https://www.cheyennecity.org/Your-Government/Mayor/Cheyenne-Mayors" />
+
+    
+    <link rel="icon" type="image/png" href="/files/ocfavicon/Public/favicon-96x96.png" sizes="96x96" />
+<link rel="icon" type="image/svg+xml" href="/files/ocfavicon/Public/favicon.svg" />
+<link rel="shortcut icon" href="/files/ocfavicon/Public/favicon.ico" />
+<link rel="apple-touch-icon" sizes="180x180" href="/files/ocfavicon/Public/apple-touch-icon.png" />
+<link rel="manifest" href="/files/ocfavicon/Public/site.webmanifest" />
+    <script>
+        (function () {
+            if (window.__UNLOAD_LAZY_PATCH__) return;
+            window.__UNLOAD_LAZY_PATCH__ = true;
+
+            var supportsPageHide = ("onpagehide" in window);
+            var mappedType = supportsPageHide ? "pagehide" : "beforeunload";
+            var nativeAdd = window.addEventListener;
+            var nativeRemove = window.removeEventListener;
+            var unloadMap = null;
+            var patched = false;
+
+            function ensurePatched() {
+                if (patched) return;
+                unloadMap = new WeakMap();
+
+                window.addEventListener = function (type, listener, options) {
+                    if (type === "unload") {
+                        var wrapped = function (evt) {
+                            if (supportsPageHide && evt.persisted) return;
+                            listener.call(this, evt);
+                        };
+                        unloadMap.set(listener, wrapped);
+                        return nativeAdd.call(this, mappedType, wrapped, options);
+                    }
+                    return nativeAdd.call(this, type, listener, options);
+                };
+
+                window.removeEventListener = function (type, listener, options) {
+                    if (type === "unload") {
+                        var wrapped = unloadMap.get(listener);
+                        if (wrapped) {
+                            nativeRemove.call(this, mappedType, wrapped, options);
+                            unloadMap.delete(listener);
+                        }
+                        return;
+                    }
+                    return nativeRemove.call(this, type, listener, options);
+                };
+
+                var orig = null;
+                Object.defineProperty(window, "onunload", {
+                    configurable: true, enumerable: true,
+                    get: function () { return orig; },
+                    set: function (h) {
+                        orig = h;
+                        if (typeof h === "function") window.addEventListener("unload", h);
+                    }
+                });
+                patched = true;
+            }
+
+            window.addEventListener = function (type, listener, options) {
+                if (type === "unload") {
+                    ensurePatched();
+                    return window.addEventListener(type, listener, options);
+                }
+                return nativeAdd.call(this, type, listener, options);
+            };
+
+            window.removeEventListener = function (type, listener, options) {
+                if (type === "unload" && !patched) {
+                    return;
+                }
+                return nativeRemove.call(this, type, listener, options);
+            };
+
+            function patchTelerik() {
+                ensurePatched();
+                var ns = window.RadAjaxNamespace;
+                if (!ns || !ns.EventManager || !ns.EventManager.Add || ns.EventManager.__UnloadPatched) return;
+                var origAdd = ns.EventManager.Add;
+                ns.EventManager.Add = function (el, evtName, handler, clientId) {
+                    if (el === window && evtName === "unload") {
+                        return window.addEventListener("unload", handler);
+                    }
+                    return origAdd.call(this, el, evtName, handler, clientId);
+                };
+                ns.EventManager.__UnloadPatched = true;
+            }
+
+            if (window.RadAjaxNamespace)
+                patchTelerik();
+            else (window.requestIdleCallback || function (cb)
+            {
+                setTimeout(cb, 120);
+            })(patchTelerik);
+        })();
+    </script>
+    <!-- Preconnecting to Google Fonts servers -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+
+    <!-- Defer Roboto font loading to avoid render-blocking -->
+    <script>
+        window.addEventListener('DOMContentLoaded', () => {
+            const robotoLink = document.createElement('link');
+            robotoLink.rel = 'stylesheet';
+            robotoLink.href = 'https://fonts.googleapis.com/css2?family=Roboto:wght@400;500&display=swap';
+            document.head.appendChild(robotoLink);
+        });
+    </script>
+
+    <style>
+        .gm-style, .gm-style * {
+            font-family: 'Roboto', system-ui, -apple-system, "Segoe UI", Arial, sans-serif !important;
+        }
+    </style>
+
+    <script>
+        document.documentElement.className = document.documentElement.className.replace(/\bno-js\b/g, "js");
+    </script>
+    <link href="https://fonts.googleapis.com/css?family=Montserrat:400,600,700|Roboto:400,400i,700&display=swap" rel="stylesheet">
+    
+        
+            <script type="text/javascript">
+                window.__oc_flags_ImprovedBreakpointEventHandling = true;
+            </script>
+            
+        
+    
+    
+    
+        <script type="text/javascript">
+            var __metaQueryBreakpoints = {
+                'sc-size-4': '(max-width: 480px)',
+                'sc-size-3': '(min-width: 480px) and (max-width: 768px)',
+                'sc-size-2': '(min-width: 768px) and (max-width: 992px)',
+                'sc-size-1': '(min-width: 992px)'
+            }
+
+            var __ocSizePoints = [
+                { min: 0, name: 'sc-size-4' },
+                { min: 480, name: 'sc-size-3' },
+                { min: 768, name: 'sc-size-2' },
+                { min: 992, name: 'sc-size-1' }
+            ];
+
+        </script>
+    
+
+    <!-- Framework Section -->
+    
+    <script src="//ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+    <script>window.jQuery || document.write('<script src="/files/templates/00000000-0000-0000-0000-000000000000/b32c9b6c-7400-488a-8246-4bc7b2004122/v/340/jquery-1.12.4.min.js?seamlessts=639263244890222059" ><\/script>')</script>
+
+    <!--Google Maps API Loader – Improved Version to avoid Warning
+    This script loads the Google Maps JavaScript API using a dynamic and async method.
+    It replaces the old static <script> tag to avoid performance warnings from Google.
+
+    Dynamically creates the <script> tag with loading = async for better performance
+    Builds the API URL with required libraries(places, geometry, marker, geocoding)
+    Uses a Promise and callback(google.maps.__ib__) to confirm when the script is ready
+
+    It Avoids Google’s warning about direct script loading
+    Improves page load speed by loading the API asynchronously-->
+
+    
+        <script>
+            (function (root) {
+                root.OpenCities = root.OpenCities || {};
+                if (!root.OpenCities.GoogleMapsLoader) {
+                    root.OpenCities.GoogleMapsLoader = {
+                        _cbs: [],
+                        _ready: false,
+                        onReady: function (cb) {
+                            if (this._ready) { try { cb(); } catch (e) { console.error(e); } }
+                            else if (typeof cb === 'function') this._cbs.push(cb);
+                        },
+                        _fire: function () {
+                            if (this._ready) return;
+                            this._ready = true;
+                            var q = this._cbs.splice(0);
+                            for (var i = 0; i < q.length; i++) {
+                                try { q[i](); } catch (e) { console.error(e); }
+                            }
+                        }
+                    };
+                }
+            })(window);
+
+            (g => {
+                var h, a, k, p = "The Google Maps JavaScript API", c = "google", l = "importLibrary", q = "__ib__",
+                    m = document, b = window;
+                b = b[c] || (b[c] = {});
+                var d = b.maps || (b.maps = {}), r = new Set, e = new URLSearchParams,
+                    u = () => h || (h = new Promise(async (resolve, reject) => {
+                        a = m.createElement("script");
+                        e.set("libraries", [...r] + "");
+                        for (k in g) e.set(k.replace(/[A-Z]/g, t => "_" + t[0].toLowerCase()), g[k]);
+                        e.set("callback", c + ".maps." + q);
+                        a.src = "https://maps." + c + "apis.com/maps/api/js?" + e.toString();
+                        a.loading = "async";
+                        a.async = true;
+                        a.defer = true;
+                        d[q] = resolve;
+                        a.onerror = () => reject(Error(p + " could not load."));
+                        a.nonce = m.querySelector("script[nonce]")?.nonce || "";
+                        m.head.append(a);
+                    }));
+                if (d[l]) {
+                    console.warn(p + " only loads once. Ignoring duplicate load.");
+                } else {
+                    d[l] = (f, ...n) => (r.add(f), u().then(() => d[l](f, ...n)));
+                }
+            })({
+                key: "AIzaSyA2aBqwi49zIS2W3SPecxPWi5QxL2Q53dI",
+                v: "3.65"
+            });
+
+            (async () => {
+                try {
+                    if (!google?.maps?.importLibrary) return;
+
+                    if (!window.OpenCities.__mapsLibsPromise) {
+                        window.OpenCities.__mapsLibsPromise = Promise.all([
+                            google.maps.importLibrary('maps'),
+                            google.maps.importLibrary('places'),
+                            google.maps.importLibrary('geocoding'),
+                            google.maps.importLibrary('marker'),
+                            google.maps.importLibrary('geometry')
+                        ]);
+                    }
+                    await window.OpenCities.__mapsLibsPromise;
+
+                    if (window.OpenCities?.GoogleMapsLoader) {
+                        window.OpenCities.GoogleMapsLoader._fire();
+                    }
+                } catch (err) {
+                    console.error('Google Maps failed to initialise', err);
+                }
+            })();
+        </script>
+    
+    <script src="/files/templates/00000000-0000-0000-0000-000000000000/b32c9b6c-7400-488a-8246-4bc7b2004122/v/340/modernizr.custom.710f3bf.js?seamlessts=639263244890222059" defer></script>
+    <script src="//f1-oc.readspeaker.com/script/11555/webReader/webReader.js?pids=wr" type="text/javascript"></script><script type="text/javascript">window.rsConf = {general: {usePost: true}};</script>
+    <!--// End Framework Section -->
+    <!-- OpenCities Section -->
+    <script>
+        var OpenCities = OpenCities || {};
+        OpenCities.Paths = {
+            SiteTemplate: '/files/templates/00000000-0000-0000-0000-000000000000/b32c9b6c-7400-488a-8246-4bc7b2004122/v/340/',
+            ThemePath: '/files/templates/00000000-0000-0000-0000-000000000000/b32c9b6c-7400-488a-8246-4bc7b2004122/v/340/'
+        };
+    </script>
+    <script src='/ocapi/a5007627-1a61-4a0e-8fda-ad6429a00a35/en-US/websitesettings.js'></script>
+    <script src="/files/templates/00000000-0000-0000-0000-000000000000/b32c9b6c-7400-488a-8246-4bc7b2004122/v/340/oc_head.js?applied=20251008054708"></script>
+    <!-- Script Combine. To enter debug mode for this browser session, enter OcScriptCombineDebug=true as a querystring -->
+<link href="/files/oc-templates/00000000-0000-0000-0000-000000000000/b32c9b6c-7400-488a-8246-4bc7b2004122/v/340/oc_grid.css~oc_style.css~oc_wizard_style.css~oc_main.css~oc_forms.css~oc_wizard.css~oc_wizard_menu.css~oc_main_s1.css~oc_wizard_s1.css~oc_wizard_menu_s1.css~oc_grid_s1.css~OcScriptCombine_Minify0?uniqueid=20251008054708" rel="stylesheet" type="text/css">
+    <!-- Script Combine. To enter debug mode for this browser session, enter OcScriptCombineDebug=true as a querystring -->
+<link href="/files/oc-templates/00000000-0000-0000-0000-000000000000/b32c9b6c-7400-488a-8246-4bc7b2004122/v/340/client_style.css~client.css~client_menu.css~client_s1.css~client_menu_s1.css~client_forms.css~OcScriptCombine_Minify0?uniqueid=20251008054708" rel="stylesheet" type="text/css">
+    <style type="text/css">.background-container
+{
+    background-image:url('/files/assets/public/v/1/templateimages/municipal_building_drone1.jpg?w=480');
+    
+}
+
+@media (min-width: 480px)
+{
+    .background-container
+    {
+      background-image:url('/files/assets/public/v/1/templateimages/municipal_building_drone1.jpg?w=768');
+    }
+}
+@media (min-width: 768px)
+{
+    .background-container
+    {
+      background-image:url('/files/assets/public/v/1/templateimages/municipal_building_drone1.jpg?w=992');
+    }
+}
+@media (min-width: 992px)
+{
+    .background-container
+    {
+      background-image:url('/files/assets/public/v/1/templateimages/municipal_building_drone1.jpg');
+    }
+}
+@media (min-width: 1280px)
+{
+    .background-container
+    {
+      background-image:url('/files/assets/public/v/1/templateimages/municipal_building_drone1.jpg');
+    }
+}
+@media (min-width: 1920px)
+{
+    .background-container
+    {
+      background-image:url('/files/assets/public/v/1/templateimages/municipal_building_drone1.jpg');
+    }
+}
+        </style><script>
+(function (BackgroundSettings, $, undefined) {
+    BackgroundSettings.initialise = function () {
+        this.Application = {"CSSSelector":".background-container","EnableFade":true,"MediaType":"image"};
+    };
+} (OpenCities.BackgroundSettings = OpenCities.BackgroundSettings || {}, jQuery));
+OpenCities.BackgroundSettings.initialise();
+</script>
+    
+    <!-- Script Combine. To enter debug mode for this browser session, enter OcScriptCombineDebug=true as a querystring -->
+<link href="/files/oc-templates/00000000-0000-0000-0000-000000000000/b32c9b6c-7400-488a-8246-4bc7b2004122/v/340/oc_print.css~client_print.css~OcScriptCombine_Minify0?uniqueid=20251008054708" rel="stylesheet" type="text/css" media="print">
+    <!-- Script Combine. To enter debug mode for this browser session, enter OcScriptCombineDebug=true as a querystring -->
+<script src="/files/oc-templates/00000000-0000-0000-0000-000000000000/b32c9b6c-7400-488a-8246-4bc7b2004122/v/340/external_plugins.js~oc_form_helper.js~oc_main.js~plugins.js~oc_main_init.js~OcScriptCombine_Minify0?uniqueid=20251008054708" defer="true"></script>
+    
+    
+
+                                <script>!function(e){var n="https://s.go-mpulse.net/boomerang/";if("False"=="True")e.BOOMR_config=e.BOOMR_config||{},e.BOOMR_config.PageParams=e.BOOMR_config.PageParams||{},e.BOOMR_config.PageParams.pci=!0,n="https://s2.go-mpulse.net/boomerang/";if(window.BOOMR_API_key="DYTCK-JM9C8-ED4EP-C3GGK-Z575H",function(){function e(){if(!r){var e=document.createElement("script");e.id="boomr-scr-as",e.src=window.BOOMR.url,e.async=!0,o.appendChild(e),r=!0}}function t(e){r=!0;var n,t,a,i,d=document,O=window;if(window.BOOMR.snippetMethod=e?"if":"i",t=function(e,n){var t=d.createElement("script");t.id=n||"boomr-if-as",t.src=window.BOOMR.url,BOOMR_lstart=(new Date).getTime(),e=e||d.body,e.appendChild(t)},!window.addEventListener&&window.attachEvent&&navigator.userAgent.match(/MSIE [67]\./))return window.BOOMR.snippetMethod="s",void t(o,"boomr-async");a=document.createElement("IFRAME"),a.src="about:blank",a.title="",a.role="presentation",a.loading="eager",i=(a.frameElement||a).style,i.width=0,i.height=0,i.border=0,i.display="none",o.appendChild(a);try{O=a.contentWindow,d=O.document.open()}catch(_){n=document.domain,a.src="javascript:var d=document.open();d.domain='"+n+"';void 0;",O=a.contentWindow,d=O.document.open()}if(n)d._boomrl=function(){this.domain=n,t()},d.write("<bo"+"dy onload='document._boomrl();'>");else if(O._boomrl=function(){t()},O.addEventListener)O.addEventListener("load",O._boomrl,!1);else if(O.attachEvent)O.attachEvent("onload",O._boomrl);d.close()}function a(e){window.BOOMR_onload=e&&e.timeStamp||(new Date).getTime()}if(!window.BOOMR||!window.BOOMR.version&&!window.BOOMR.snippetExecuted){window.BOOMR=window.BOOMR||{},window.BOOMR.snippetStart=(new Date).getTime(),window.BOOMR.snippetExecuted=!0,window.BOOMR.snippetVersion=14,window.BOOMR.url=n+"DYTCK-JM9C8-ED4EP-C3GGK-Z575H";var i=document.currentScript||document.getElementsByTagName("script")[0],o=i.parentNode,r=!1,d=document.createElement("link");if(d.relList&&"function"==typeof d.relList.supports&&d.relList.supports("preload")&&"as"in d)window.BOOMR.snippetMethod="p",d.href=window.BOOMR.url,d.rel="preload",d.as="script",d.addEventListener("load",e),d.addEventListener("error",function(){t(!0)}),setTimeout(function(){if(!r)t(!0)},3e3),BOOMR_lstart=(new Date).getTime(),o.appendChild(d);else t(!1);if(window.addEventListener)window.addEventListener("load",a,!1);else if(window.attachEvent)window.attachEvent("onload",a)}}(),"".length>0)if(e&&"performance"in e&&e.performance&&"function"==typeof e.performance.setResourceTimingBufferSize)e.performance.setResourceTimingBufferSize();!function(){if(BOOMR=e.BOOMR||{},BOOMR.plugins=BOOMR.plugins||{},!BOOMR.plugins.AK){var n=""=="true"?1:0,t="",a="gm4zheixacriq2xqukua-f-c13ed861f-clientnsv4-s.akamaihd.net",i="false"=="true"?2:1,o={"ak.v":"41","ak.cp":"1700496","ak.ai":parseInt("1075935",10),"ak.ol":"0","ak.cr":15,"ak.ipv":4,"ak.proto":"http/1.1","ak.rid":"3240afe3","ak.r":51636,"ak.a2":n,"ak.m":"dscb","ak.n":"essl","ak.cport":30728,"ak.gh":"2.23.85.137","ak.quicv":"","ak.tlsv":"tls1.3","ak.0rtt":"","ak.0rtt.ed":"","ak.csrc":"-","ak.acc":"bbr","ak.t":"1794155176","ak.ak":"hOBiQwZUYzCg5VSAfCLimQ==aHlypvLPCxdHI3sgJAZS8klNY304YegelTnLGHZdB9MOGu11Fsyz9lb/9ze9bVPj84/W7ro+lmtaBoDAZGjEgzOeIZ5sMWVNaJ/CexRlGnwtUi9oryQ8EgPQwPz97mrucYGi/UuUIEg+ZPSbmEzqBHsFzOJvcaRYk8NWWym2OW4mQB9ik8uDoNYegd+koxCNA2qjnT2UrlP1m21Fd2W5W/JkFhL38BNecHv8WC6WZtvgxQBivX2uaF+PIXiDetowVjFUSUC1WOpg+5j40btmA/w4CbO5Kv6cohxamlAWJ9dmfnEiMpk36yNrSAU5Vs5RJGUsxtZIjqrd5AqFe2ZdKxcQhdTGjBHXyy4PhZhlJJ6eUrbe1JN0Fo0jwRcnjU8PydStqCBJayST7GOZM0ppBHzszRdDaRiyujXTan6mGMs=","ak.pv":"362","ak.dpoabenc":"","ak.tf":i};if(""!==t)o["ak.ruds"]=t;var r={i:!1,av:function(n){var t="http.initiator";if(n&&(!n[t]||"spa_hard"===n[t]))o["ak.feo"]=void 0!==e.aFeoApplied?1:0,BOOMR.addVar(o)},rv:function(){var e=["ak.cport","ak.cr","ak.csrc","ak.gh","ak.ipv","ak.m","ak.n","ak.ol","ak.proto","ak.quicv","ak.tlsv","ak.0rtt","ak.0rtt.ed","ak.r","ak.acc","ak.t","ak.tf"];BOOMR.removeVar(e)}};BOOMR.plugins.AK={akVars:o,akDNSPreFetchDomain:a,init:function(){if(!r.i){var e=BOOMR.subscribe;e("before_beacon",r.av,null,null),e("onbeacon",r.rv,null,null),r.i=!0}return this},is_complete:function(){return!0}}}}()}(window);</script></head>
+<body class="body layout-modern  site-search-always-visble  content-type-oc-image-gallery content-template-oc-full-width group-template-oc-full-width-with-default-header page-name-cheyenne-mayors page-sequence-2 page-depth-3 page-section-4 website-type-primary device-desktop " id="body-top">
+    <div id="skip-to-content-container">
+        <a href="#main-content" class="visuallyhidden focusable" id="skip-to-content-link">Skip to main content</a>
+    </div>
+    <script>
+        // OCNOW-11988 (Cursor): Proactively focus skip link when returning from browser chrome.
+        // Must run inline (not deferred oc_main.js) so focus is intercepted before NVDA speaks footer.
+        (function () {
+            var awaitingReentry = false;
+            var inertSupported = 'inert' in HTMLElement.prototype;
+
+            function isExplicitlyOutsideDocument(node) {
+                return node != null && !document.documentElement.contains(node);
+            }
+
+            function getSkipContainer() {
+                return document.getElementById('skip-to-content-container');
+            }
+
+            function getSkipLink() {
+                return document.getElementById('skip-to-content-link');
+            }
+
+            function applyGuard() {
+                awaitingReentry = true;
+                if (!inertSupported) {
+                    return;
+                }
+                var skipContainer = getSkipContainer();
+                var children = document.body.children;
+                for (var i = 0; i < children.length; i++) {
+                    if (children[i] !== skipContainer) {
+                        children[i].setAttribute('inert', '');
+                    }
+                }
+            }
+
+            function clearGuard() {
+                awaitingReentry = false;
+                if (!inertSupported) {
+                    return;
+                }
+                var children = document.body.children;
+                for (var i = 0; i < children.length; i++) {
+                    children[i].removeAttribute('inert');
+                }
+            }
+
+            function isSkipLinkElement(target) {
+                if (!target) {
+                    return false;
+                }
+                var skipContainer = getSkipContainer();
+                return target.id === 'skip-to-content-link' ||
+                    (skipContainer && skipContainer.contains(target));
+            }
+
+            function focusSkipLink() {
+                var skipLink = getSkipLink();
+                if (!skipLink) {
+                    return;
+                }
+                if (window.scrollY > 0) {
+                    window.scrollTo(0, 0);
+                }
+                skipLink.focus({ preventScroll: true });
+            }
+
+            function scheduleGuardIfDocumentLostFocus() {
+                window.setTimeout(function () {
+                    if (!document.hasFocus()) {
+                        applyGuard();
+                    }
+                }, 0);
+            }
+
+            document.addEventListener('focusout', function (e) {
+                if (isExplicitlyOutsideDocument(e.relatedTarget)) {
+                    applyGuard();
+                }
+            }, true);
+
+            document.addEventListener('keydown', function (e) {
+                if (e.key === 'Tab') {
+                    scheduleGuardIfDocumentLostFocus();
+                } else if (e.key === 'F6' || (e.key === 'l' && e.ctrlKey)) {
+                    scheduleGuardIfDocumentLostFocus();
+                }
+            }, true);
+
+            window.addEventListener('focus', function () {
+                if (!awaitingReentry) {
+                    return;
+                }
+                applyGuard();
+                focusSkipLink();
+            }, true);
+
+            document.addEventListener('focusin', function (e) {
+                var reentryFromChrome = awaitingReentry || isExplicitlyOutsideDocument(e.relatedTarget);
+                if (!reentryFromChrome) {
+                    return;
+                }
+                if (isSkipLinkElement(e.target)) {
+                    clearGuard();
+                    return;
+                }
+                applyGuard();
+                focusSkipLink();
+                clearGuard();
+            }, true);
+        })();
+    </script>
+    <form name="mainForm" method="post" action="/Your-Government/Mayor/Cheyenne-Mayors" id="mainForm">
+<input type="hidden" name="ctl04_seamless_script_manager_TSM" id="ctl04_seamless_script_manager_TSM" value="" />
+<input type="hidden" name="__SEAMLESSVIEWSTATE" id="__SEAMLESSVIEWSTATE" value="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" />
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="" />
+
+
+<script src="/Telerik.Web.UI.WebResource.axd?_TSM_HiddenField_=ctl04_seamless_script_manager_TSM&amp;compress=1&amp;_TSM_CombinedScripts_=%3b%3bSystem.Web.Extensions%2c+Version%3d4.0.0.0%2c+Culture%3dneutral%2c+PublicKeyToken%3d31bf3856ad364e35%3aen-GB%3add3ac3d5-1e29-4112-8fed-529caffa8f24%3aea597d4b%3bOpenCities.CustomControls%3aen-GB%3a7197b077-b068-4a69-9481-a6cf2e7718f9%3a8e1d32bf" type="text/javascript"></script>
+<script src="/ScriptResource.axd?d=EYVjNsQ7oYmzBqCI0dkEyYe0LYmPcVFL4WPcQCXhKfQwUqkAT7lLra0za-OLMuUUcCyPINdTVMHIWti96-8R_oN-trjXUUZnJRzckxTjid4ecctwwEJyNI-05jZYvXHBRiEKL0MUQMEyEJ2FXanyE1uBk88RxZ1wVK6AUn9D4v8rW-LNx2OOtB8vE3hC8P0jk4XZt7GAPiCeYQolxUlwFZA8cuOfgd4u08OASxFdh8mChz3A0YHhuwRrXGVlulfs9SJVkAvulhjdHYIIp1SRohDxt9acTwxUQrOlxuxC847b00zOOWg9SlpwD_iBuQQ1rOK9WH9O_wN9c2TXm4GeXaQHHT4yQ9IlzZXw6th8ch3f-k_n1yYeeurDMbwChXW1Vh_7rpu00kgmegsg9w2J3ququXIPfy2Gq8IscVTmtwouupfmUzAOicU_yESgQ-dG0" type="text/javascript"></script>
+    
+<script type="text/javascript">
+    try{
+        function SeamlessEndRequestHandler(sender, args) {
+            try {
+                var dataItems = args.get_dataItems();
+                if(dataItems.ctl04_seamless_script_manager)
+                    document.getElementById('__SEAMLESSVIEWSTATE').value = dataItems.ctl04_seamless_script_manager;
+            }
+            catch (e) { }
+        }
+
+        Sys.WebForms.PageRequestManager.getInstance().add_endRequest(SeamlessEndRequestHandler);
+    }
+    catch (e) { }
+</script>
+
+    <div class="unsupported-browser-warning js-element"></div>
+    
+    <div hidden>
+        <span id="new-window-0">opens in new tab or window </span>
+    </div>
+    <div class="overlay-container"></div>
+    
+    <div class="background-container">
+        <div class="page-container">
+            <!-- OC Layout Element GROUP TEMPLATE -->
+            <!--groupTemplateStart--><header><div class="print-header-outer-container print-element">
+<img src="/files/templates/00000000-0000-0000-0000-000000000000/b32c9b6c-7400-488a-8246-4bc7b2004122/v/339/CHEY_Logo_Primary_White.svg" alt="City of Cheyenne - Logo" />
+</div>
+            <div class="toolbar-outer-container">
+  <div class="toolbar-inner-container clearfix">
+    <div class="toolbar-item toolbar-language notranslate toolbar-display-dropdown"><div class="no-js-element">
+		  <ul>
+		    <li id="toolbar-language-option-en-us-noscript"><a href="https://www.cheyennecity.org/Your-Government/Mayor/Cheyenne-Mayors?oc_lang=en-US" class="lang-item lang-en-us" data-translate-to="en-us" lang="en-US">English (United States)<span class="visuallyhidden"> Select this as your preferred language</span></a></li><li id="toolbar-language-option-es-noscript"><a href="https://www.cheyennecity.org/Your-Government/Mayor/Cheyenne-Mayors?oc_lang=es" class="lang-item lang-es" data-translate-to="es" lang="en">Spanish<span class="visuallyhidden"> Select this as your preferred language</span></a></li>
+          </ul>
+		</div>
+	<button type="button" role="combobox" aria-controls="toolbar-language-drop-down" aria-expanded="false" aria-haspopup="listbox" aria-autocomplete="none" aria-labelledby="toolbar-language-label" class="toolbar-button toolbar-button-language js-element">  
+        <span class="toolbar-language-globe-icon" aria-hidden="true"></span>
+        <span id="toolbar-language-label" class="current-language">
+            Select a language to translate to
+		</span>
+		<i aria-hidden="true"></i>
+	</button>
+	<div id="toolbar-language-drop-down" role="listbox" aria-label="Available languages" class="toolbar-drop-down toolbar-language-drop-down js-element clearfix">
+		<ul role="group">
+		    <li role="presentation"><a id="toolbar-language-option-en-us" role="option" aria-selected="true" href="https://www.cheyennecity.org/Your-Government/Mayor/Cheyenne-Mayors?oc_lang=en-US" class="lang-item lang-en-us" data-translate-to="en-us" lang="en-US">English (United States)<span class="visuallyhidden"> Select this as your preferred language</span></a></li><li role="presentation"><a id="toolbar-language-option-es" role="option" aria-selected="false" href="https://www.cheyennecity.org/Your-Government/Mayor/Cheyenne-Mayors?oc_lang=es" class="lang-item lang-es" data-translate-to="es" lang="en">Spanish<span class="visuallyhidden"> Select this as your preferred language</span></a></li>
+        </ul>
+	</div></div>
+  </div>
+</div>
+            <div class="header-outer-container">
+    <div class="header-container header-layout-3  clearfix">
+			<div class="header-site-logo">
+				<a href="https://www.cheyennecity.org/Home" lang="en-US" aria-label="City of Cheyenne - Home - Logo">
+				</a>
+			</div>
+      
+		    <div class="mobile-search-btn js-element">
+		        <button><i aria-hidden="true"></i><span class="mobile-search-btn-text"><span class="visuallyhidden">Open </span>Search</span></button>
+		    </div>
+		    <div class="header-website-settings">
+                <button id="btn-mob-nav" type="button" aria-expanded="false" aria-controls="nav">
+                    <i aria-hidden="true"></i><span class="side-menu-btn-text">Menu</span>
+                </button>
+        	</div>
+          <div class="navigation-outer-container">
+	<div id="nav" role="navigation" class="navigation-container  navigation-container-option-7" data-menu-type="horizontal" aria-label="primary">
+        <div class="grid">
+            <div class="col-xs-12">              
+                <ul class="sf-menu" id="sc-main-menu"><li class="nav-section-quarters-1 nav-active-path  first-item nav-item-seq-1">
+<a href="https://www.cheyennecity.org/Your-Government" class="nav-level-1 nav-has-children"  target="">
+	<i class="item-icon" aria-hidden="true"></i><span class="item-text">Your Government</span>
+</a>
+<button aria-label="Expand" aria-haspopup="true" class="mobnav-subarrow" aria-controls="sc-menu-second-level-nav-item-seq-1">
+              <i aria-hidden="true"></i>
+              </button>
+<ul id="sc-menu-second-level-nav-item-seq-1">
+
+          
+            <li class="nav-active-path "><a  href="https://www.cheyennecity.org/Your-Government/Mayor" class="nav-has-children"  target="">Mayor Patrick Collins</a><button aria-label="Expand" aria-haspopup="true" class="mobnav-subarrow-child" aria-controls="sc-menu-third-level-nav-item-seq-1-nav-item-seq-1"><i aria-hidden="true"></i>
+              </button>
+<ul id="sc-menu-third-level-nav-item-seq-1-nav-item-seq-1">
+          
+            <li  class="nav-active-path nav-active-page"><a href="https://www.cheyennecity.org/Your-Government/Mayor/Cheyenne-Mayors"  target="">Cheyenne Mayors</a></li></ul></li><li class=" "><a  href="https://www.cheyennecity.org/Your-Government/City-Council" class="nav-has-children"  target="">City Council</a><button aria-label="Expand" aria-haspopup="true" class="mobnav-subarrow-child" aria-controls="sc-menu-third-level-nav-item-seq-1-nav-item-seq-2"><i aria-hidden="true"></i>
+              </button>
+<ul id="sc-menu-third-level-nav-item-seq-1-nav-item-seq-2">
+          
+            <li  class=" "><a href="https://www.cheyennecity.org/Your-Government/City-Council/Committees"  target="">Committee Information</a></li><li  class=" "><a href="https://www.cheyennecity.org/Your-Government/City-Council/Minutes-and-Agendas"  target="">Minutes and Agendas</a></li></ul></li><li class=" "><a  href="https://www.cheyennecity.org/Your-Government/Boards-Commissions" class=""  target="">Boards / Commissions</a></li><li class=" "><a  href="https://www.cheyennecity.org/Your-Government/Departments" class="nav-has-children"  target="">Departments</a><button aria-label="Expand" aria-haspopup="true" class="mobnav-subarrow-child" aria-controls="sc-menu-third-level-nav-item-seq-1-nav-item-seq-4"><i aria-hidden="true"></i>
+              </button>
+<ul id="sc-menu-third-level-nav-item-seq-1-nav-item-seq-4">
+          
+            <li  class=" "><a href="https://www.cheyennecity.org/Your-Government/Departments/Attorney"  target="">City Attorney</a></li><li  class=" "><a href="https://www.cheyennecity.org/Your-Government/Departments/City-Clerk"  target="">City Clerk</a></li><li  class=" "><a href="https://www.cheyennecity.org/Your-Government/Departments/City-Engineer"  target="">City Engineer</a></li><li  class=" "><a href="https://www.cheyennecity.org/Your-Government/Departments/Community-Recreation-Events"  target="">Community Recreation & Events</a></li><li  class=" "><a href="https://www.cheyennecity.org/Your-Government/Departments/Cheyenne-Fire-Rescue"  target="">Cheyenne Fire Rescue</a></li><li  class=" "><a href="https://www.cheyennecity.org/Your-Government/Departments/Human-Resources"  target="">Human Resources</a></li><li  class=" "><a href="https://www.cheyennecity.org/Your-Government/Departments/Planning-and-Development-Department"  target="">Planning and Development</a></li><li  class=" "><a href="https://www.cheyennecity.org/Your-Government/Departments/Public-Works"  target="">Public Works</a></li><li  class=" "><a href="https://www.cheyennecity.org/Your-Government/Departments/City-Treasurer"  target="">City Treasurer</a></li><li  class=" "><a href="https://www.cheyennecity.org/Your-Government/Departments/Compliance-Department"  target="">Compliance Department</a></li><li  class=" "><a href="https://www.cheyennecity.org/Your-Government/Departments/Mayors-Office"  target="">Mayor's Office</a></li><li  class=" "><a href="https://www.cheyennecity.org/Your-Government/Departments/Police-Department"  target="">Police Department</a></li></ul></li><li class=" "><a  href="https://www.cheyennecity.org/Your-Government/Demographics" class=""  target="_blank">Demographics</a></li><li class=" "><a  href="https://www.cheyennecity.org/Your-Government/Sister-Cities" class=""  target="">Sister Cities</a></li><li class=" "><a  href="https://www.cheyennecity.org/Your-Government/Cemetery-Complex" class=""  target="">Cemetery Complex</a></li><li class=" "><a  href="https://www.cheyennecity.org/Your-Government/Municipal-Court" class=""  target="">Municipal Court</a></li><li class=" "><a  href="https://www.cheyennecity.org/Your-Government/Municipal-Elections" class=""  target="_self">Municipal Elections</a></li><li class=" "><a  href="https://www.cheyennecity.org/Your-Government/Youth-Alternatives" class=""  target="_self">Youth Alternatives</a></li><li class=" "><a  href="https://www.cheyennecity.org/Your-Government/Connect-Cheyenne-Engage-Explore-and-Discover" class=""  target="">Connect Cheyenne: Engage, Explore, and Discover</a></li></ul></li>
+          
+            <li class="nav-section-quarters-1   nav-item-seq-2">
+<a href="https://www.cheyennecity.org/Business" class="nav-level-1 "  target="">Business</a>
+</li>
+          
+            <li class="nav-section-quarters-2   nav-item-seq-3">
+<a href="https://www.cheyennecity.org/Services" class="nav-level-1 nav-has-children"  target="">Services</a>
+<button aria-label="Expand" aria-haspopup="true" class="mobnav-subarrow" aria-controls="sc-menu-second-level-nav-item-seq-3">
+              <i aria-hidden="true"></i>
+              </button>
+<ul id="sc-menu-second-level-nav-item-seq-3">
+
+          
+            <li class=" "><a  href="https://www.cheyennecity.org/Services/Building-Safety" class=""  target="_self">Building Safety</a></li></ul></li>
+          
+            <li class="nav-section-quarters-2   nav-item-seq-4">
+<a href="https://www.cheyennecity.org/Explore-Cheyenne" class="nav-level-1 "  target="">Explore</a>
+</li>
+          
+            <li class="nav-section-quarters-3   nav-item-seq-5">
+<a href="https://www.cheyennecity.org/I-Want-To" class="nav-level-1 "  target="">I Want To</a>
+</li>
+          
+            </ul>
+            </div>
+        </div>
+    </div>
+</div>
+			
+			<div class="header-search-control-container" id="header-search">
+				<div class="search-inner-container">
+					<div class="sc-search-panel">
+	<label for="ctl08_txtSearch" id="ctl08_lblSearch" class="sc-search-label">Search</label><input name="ctl08$txtSearch" type="text" id="ctl08_txtSearch" class="sc-search-text" placeholder="How can we help you?" /><input type="submit" name="ctl08$btnSearch" value="Search" id="ctl08_btnSearch" class="sc-search-button" />
+</div>
+					<div role="status" id="predictiveResults"></div>
+				</div>
+			</div>
+    </div>
+</div>
+
+            </header>
+            <div class="content-outer-container">
+                <div id="main" role="main" class="main-outer-container clearfix">
+                        
+                        <div class="content-main-container">
+                            <div class="grid">
+					            <div class="col-xs-12">
+						            <nav id="breadcrumbs-container" aria-label="You Are Here :">
+							            <span role="list">
+<span role="listitem">
+	<a href="https://www.cheyennecity.org/Home"  lang="en-US">Home</a>
+	<span class="nav-separator" aria-hidden="true" role="presentation">/</span>
+</span>
+          <span role="listitem"><a href="https://www.cheyennecity.org/Your-Government" >Your Government</a><span class='nav-separator' aria-hidden="true" role="presentation">/</span></span><span role="listitem">
+	<a href="https://www.cheyennecity.org/Your-Government/Mayor" >
+		Mayor Patrick Collins
+	</a>
+	<span class='nav-separator' aria-hidden="true" role="presentation">/</span>
+</span>
+<span class="current-page" role="listitem" aria-current="page" >Cheyenne Mayors</span>
+          </span>
+						            </nav>
+					            </div>
+                      
+					            <div class="col-xs-12">
+						            <div class="main-inner-container">
+							            <div id="main-content" class="main-container clearfix">
+							              <div id="readspeaker_button_default" class="rs_skip rsbtn rs_preserve rs_position_left">
+    <a rel="nofollow" class="rsbtn_play" accesskey="L" title="Listen to this page using ReadSpeaker" href="//app-oc.readspeaker.com/cgi-bin/rsent?customerid=11555&amp;lang=en_us&amp;readid=main-content&amp;url=https%3A%2F%2Fwww.cheyennecity.org%2FYour-Government%2FMayor%2FCheyenne-Mayors">
+        <span class="rsbtn_left rsimg rspart"><span class="rsbtn_text"><span>Listen</span></span></span>
+        <span class="rsbtn_right rsimg rsplay rspart"></span>
+    </a>
+</div>
+                            <!-- OC Layout Element Conent Template -->
+							              <!--normalTemplateStart--><h1 class='oc-page-title '>Cheyenne Mayors</h1>
+<div data-type="0" data-title-level="2" class="oc-wysiwyg-container">
+<div class="oc-wysiwyg-container-panel">
+<h2>History</h2>
+<div class="oc-wysiwyg-container-panel-content">
+<p>On August 8, 1867, the first charter for the government of the City of Cheyenne was established after a group of citizens had met the day before at a mass meeting. On August 10, 1867, Hiram M. Hook, a livery stable owner, was elected Cheyenne&rsquo;s first-ever Mayor. At the time, Cheyenne was situated in the Dakota Territory and had a population of approximately 600 people.</p>
+<p>For most of the 19<sup>th</sup> century, Cheyenne&rsquo;s top elected official served a one-year term. During the early 20th century a Mayor's term was extended to two years. It wasn&rsquo;t until the mid 20<sup>th</sup> century that a four-year term became customary.</p>
+<p>Mayor was the title initially given to Cheyenne&rsquo;s top elected official and was used from 1867 to 1869. However, from 1870 to 1877 the title of President was used. During that time, the City Council was referred to as the Board of Trustees. Since 1878, each elected official has been given the title of Mayor. &nbsp;&nbsp;</p>
+<p><img alt="Former Cheyenne Mayors (from L-R): Ben Nelson, Worth Story, Jim Van Velzor, Floyd Holland, R.E. Cheever, unidentified man, Herb Kingham, Bill Nation, and Val Christensen" src="/files/assets/public/v/1/cheyenne-mayors/bw-mayor-group-pic.png?w=400&amp;h=318" style="width: 400px; height: 317px; float: right; border-width: 1px; border-style: solid; margin: 5px;" title="Former Cheyenne Mayors (from L-R): Ben Nelson, Worth Story, Jim Van Velzor, Floyd Holland, R.E. Cheever, unidentified man, Herb Kingham, Bill Nation, and Val Christensen" longdesc="Former%20Cheyenne%20Mayors%20(from%20L-R):%20Ben%20Nelson,%20Worth%20Story,%20Jim%20Van%20Velzor,%20Floyd%20Holland,%20R.E.%20Cheever,%20unidentified%20man,%20Herb%20Kingham,%20Bill%20Nation,%20and%20Val%20Christensen" /></p>
+<p>Joseph M. Carey and Francis E. Warren served as Cheyenne&rsquo;s 15<sup>th</sup> and 16<sup>th</sup> Mayor, respectively. Their time at City Hall was a precursor for other political offices. Both Carey and Warren were later elected to serve as Wyoming&rsquo;s Governor and in the U.S. Senate. Carey also served in the U.S. House of Representatives. &nbsp;</p>
+<p>The legacy of former Mayors can be seen throughout the City. Various streets, parks, buildings, and amenities throughout Cheyenne bare the namesake of a former Mayor. This includes, but is not limited to:</p>
+<ul>
+<li>Sloan Lake</li>
+<li>Carey Avenue</li>
+<li>Judge Joseph M. Carey Cheyenne City Center</li>
+<li>Warren Avenue</li>
+<li>F.E. Warren Air Force Base</li>
+<li>Allison Hall at First United Methodist Church</li>
+<li>Keefe Row</li>
+<li>Holliday Park</li>
+<li>Christensen Road</li>
+<li>Nationway</li>
+<li>George Cox Parking Facility</li>
+<li>Leo Pando Park</li>
+<li>Jack R. Spiker Parking Facility</li>
+</ul>
+<p>Six individuals have served non-consecutive terms, with L.R. Bresnahan being elected five different times. The last Mayor to serve non-consecutive terms was Bill Nation (1962-66 and 1973-77).</p>
+<p><img alt="Former Cheyenne Mayors during City's 150 year celebration. Standing from L-R: Gary Schaeffer, Leo A. Pando, Jack R. Spiker, Don Erickson, Richard L. Kaysen. Sitting from L-R: Bill Nation and Marian Orr" src="/files/assets/public/v/1/cheyenne-mayors/modern-mayor-group-pic.jpg?w=400&amp;h=290" style="border-width: 1px; border-style: solid; width: 400px; height: 289px; margin: 5px; float: left;" title="Former Cheyenne Mayors during City's 150 year celebration. Standing from L-R: Gary Schaeffer, Leo A. Pando, Jack R. Spiker, Don Erickson, Richard L. Kaysen. Sitting from L-R: Bill Nation and Marian Orr" longdesc="Former%20Cheyenne%20Mayors%20during%20City's%20150%20year%20celebration.%20Standing%20from%20L-R:%20Gary%20Schaeffer,%20Leo%20A.%20Pando,%20Jack%20R.%20Spiker,%20Don%20Erickson,%20Richard%20L.%20Kaysen.%20Sitting%20from%20L-R:%20Bill%20Nation%20and%20Marian%20Orr" /></p>
+<p>Francis E. Warren (Jan. 1885 to March 1885) holds the distinction of shortest Mayoral term while the longest belongs to Don Erickson (1977-1989).&nbsp;</p>
+<p>During Cheyenne's sesquicentennial celebration in 2017, a Mayors' Roundtable was held at the historic Atlas Theatre. The event featured Mayors Bill Nation, Don Erickson, Gary Schaeffer, Leo A. Pando, Jack R. Spiker, Richard L. Kaysen, and Marian Orr. Video of the Mayors' Roundtable can be <a href="https://www.facebook.com/GreaterCheyenneChamber/videos/1668052736540150">found here</a>.&nbsp;</p>
+<p>Presently, the&nbsp;<a href="https://www.cheyennecity.org/Your-Government/Departments/Mayors-Office">Mayor</a>&nbsp;is elected at-large every four years.&nbsp;</p>
+<p>&nbsp;</p>
+</div>
+</div>
+<div class="oc-wysiwyg-container-panel">
+<h2>List of Cheyenne Mayors</h2>
+<div class="oc-wysiwyg-container-panel-content">
+<ol>
+<li><strong>Hiram M. Hook</strong>, August&nbsp;<em>1867 to January 1868</em></li>
+<li><em>&nbsp;</em><strong>Luke Murrin</strong>,&nbsp;<em>January 1868 to January 1869</em></li>
+<li><strong>W.M. Slaughter</strong>,&nbsp;<em>January 1869 to December 1869</em></li>
+<li><strong>J.H. Martin</strong>, <em>December 1869 to December 1870</em></li>
+<li><strong>Jervis Joslin</strong>, <em>January 1871 to January 1872</em></li>
+<li><strong>M. Sloan</strong>, <em>January 1872 to January 1873</em></li>
+<li><strong>M.V. Boughten</strong>, <em>January 1873 to January 1874</em></li>
+<li><strong>George Cassels</strong>, <em>January 1874 to January 1875</em></li>
+<li><strong>I.C. Whipple</strong>,&nbsp;<em>January 1875 to January 1876</em></li>
+<li><strong>L.R. Bresnahen</strong>,&nbsp;<em>January 1876 to January 1877</em></li>
+<li><strong>Dwight Fisk</strong>, <em>January 1877 to January 1878</em></li>
+<li><strong>L.R. Bresnahen&nbsp;</strong>(2),&nbsp;<em>January 1878 to January 1879</em></li>
+<li><strong>L.R. Bresnahen</strong>&nbsp;(3), <em>January 1879 to January 1880</em></li>
+<li><strong>F.E. Addoms</strong>,&nbsp;<em>January 1880 to January 1881</em></li>
+<li><strong>Joseph M. Carey</strong>, <em>January 1881 to January 1885</em></li>
+<li><strong>Francis E. Warren</strong>, <em>January 1885 to March 1885</em></li>
+<li><strong>A.H. Reel</strong>,&nbsp;<em>March 1885 to January 1887</em></li>
+<li><strong>Charles W. Riner</strong>,&nbsp;<em>January 1887 to January 1891</em></li>
+<li><strong>L.R. Bresnahen&nbsp;</strong>(4), <em>January 1891 to January 1893</em></li>
+<li><strong>Ed F. Stahle</strong>,&nbsp;<em>January 1893 to January 1895</em></li>
+<li><strong>Samuel Merrill</strong>,&nbsp;<em>January 1895 to January 1897</em></li>
+<li><strong>William R. Schnitger</strong>, <em>January 1897 to February 1901</em></li>
+<li><strong>J.L. Murray</strong>,&nbsp;<em>February 1901 to January 1903</em></li>
+<li><strong>M.P. Keefe</strong>,&nbsp;<em>January 1903 to December 1904</em></li>
+<li><strong>Daniel Webster Gill</strong>, <em>December 1904 to January 1907</em></li>
+<li><strong>P.S. Cook</strong>, January 1907 to January 1911</li>
+<li><strong>L.R. Bresnahen</strong>&nbsp;(5)<strong>,&nbsp;</strong><em>January 1911 to January 1913</em></li>
+<li><strong>Daniel Webster Gill</strong>&nbsp;(2), <em>January 1913 to January 1914</em></li>
+<li><strong>R.N. La Fountaine</strong>,&nbsp;<em>January 1914 to January 1918</em></li>
+<li><strong>Edward W. Stone</strong>,&nbsp;<em>January 1918 to January 1920</em></li>
+<li><strong>Ed P. Taylor</strong>,&nbsp;<em>January 1920 to January 1924</em></li>
+<li><strong>Archie Allison</strong>, <em>January 1924 to January 1926</em></li>
+<li><strong>Charles W. Riner</strong>&nbsp;(2), <em>January 1926 to January 1930</em></li>
+<li><strong>Cal Holliday</strong>,&nbsp;<em>January 1930 to January 1932</em></li>
+<li><strong>J.F. Weybrecht</strong>,&nbsp;<em>January 1932 to January 1934</em></li>
+<li><strong>Archie Allison</strong>&nbsp;(2),&nbsp;<em>January 1934 to January 1940</em></li>
+<li><strong>Ed Warren,&nbsp;</strong>January 1940 to January 1944</li>
+<li><strong>Ira L. Hanna</strong>,&nbsp;<em>January 1944 to September 1944</em></li>
+<li><strong>Bruce S. Jones</strong>,&nbsp;<em>September 1944 to January 1946</em></li>
+<li><strong>John J. McInerney</strong>, <em>January 1946 to January 1948</em></li>
+<li><strong>Ben Nelson</strong>,&nbsp;<em>January 1948 to March 1951</em></li>
+<li><strong>Edward Gowdy</strong>, <em>March&nbsp;1951 to June 1951 *acting Mayor*</em></li>
+<li><strong>Ed Warren</strong><em>&nbsp;(2),&nbsp;June 1951 to January 1952</em></li>
+<li><strong>R.E. Cheever</strong>,&nbsp;<em>January 1952 to January 1954</em></li>
+<li><strong>Val S. Christensen</strong>,&nbsp;<em>January 1954 to January 1958</em></li>
+<li><strong>Worth Story</strong>,&nbsp;<em>January 1958 to January 1962</em></li>
+<li><strong>Bill Nation</strong>,&nbsp;<em>January 1962 to January 1966</em></li>
+<li><strong>Herbert Kingham</strong>,&nbsp;<em>January 1966 to January 1968</em></li>
+<li><strong>George R. Cox</strong>,&nbsp;<em>January 1968 to August 1969</em></li>
+<li><strong>Floyd Holland</strong>,&nbsp;<em>August 1969 to January 1972</em></li>
+<li><strong>James D. Van Velzor</strong>, <em>January 1972 to January 1973</em></li>
+<li><strong>Bill Nation</strong>&nbsp;(2),&nbsp;<em>January 1973 to January 1977</em></li>
+<li><strong>Don Erickson</strong>,&nbsp;<em>January 1977 to January 1989</em></li>
+<li><strong>Gary N. Schaeffer</strong>,&nbsp;<em>January 1989 to January 1993</em></li>
+<li><strong>Leo A. Pando</strong>,&nbsp;<em>January 1993 to January 2001</em></li>
+<li><strong>Jack R. Spiker</strong>,&nbsp;<em>January 2001 to January 2009</em></li>
+<li><strong>Richard L. Kaysen</strong>,&nbsp;<em>January 2009 to January 2017</em></li>
+<li><strong>Marian J. Orr</strong>,&nbsp;<em>January 2017 to January 2021</em></li>
+<li><strong>Patrick Collins</strong><em>, January 2021 to present</em></li>
+</ol>
+</div>
+</div>
+</div>
+
+
+<div class="image-gallery-container masonry-theme" data-theme="masonry">
+   <div class="grid">
+          <div class="image-gallery-item col-xs-12 col-m-6 col-lg-4">
+   <a href="/files/assets/public/updated-cheyenne-mayors/1.-hiram-m.-hook-mayor-aug.-1867-to-jan.-1868.jpg" target="_self" class="document ext-jpg"><i aria-hidden="true"></i>
+      <figure>
+         <div class="image-container">
+            <img src="/files/assets/public/updated-cheyenne-mayors/1.-hiram-m.-hook-mayor-aug.-1867-to-jan.-1868.jpg?w=375" alt=".">
+         </div>
+         <figcaption>
+            <p class="caption">1. Hiram M. Hook - Aug. 1867 to Jan. 1868</p>
+         </figcaption>
+      </figure>
+   <span class="file-info">(JPG,&nbsp;133KB)</span></a>
+</div>
+          <div class="image-gallery-item col-xs-12 col-m-6 col-lg-4">
+   <a href="/files/assets/public/updated-cheyenne-mayors/2.-luke-murrin-mayor-jan.-1868-to-jan.-1869.jpg" target="_self" class="document ext-jpg"><i aria-hidden="true"></i>
+      <figure>
+         <div class="image-container">
+            <img src="/files/assets/public/updated-cheyenne-mayors/2.-luke-murrin-mayor-jan.-1868-to-jan.-1869.jpg?w=375" alt=".">
+         </div>
+         <figcaption>
+            <p class="caption">2. Luke Murrin - Jan. 1868 to Jan. 1869</p>
+         </figcaption>
+      </figure>
+   <span class="file-info">(JPG,&nbsp;139KB)</span></a>
+</div>
+          <div class="image-gallery-item col-xs-12 col-m-6 col-lg-4">
+   <a href="/files/assets/public/updated-cheyenne-mayors/3.-w.m.-slaughter-mayor-jan-1869-to-dec.-1869.jpg" target="_self" class="document ext-jpg"><i aria-hidden="true"></i>
+      <figure>
+         <div class="image-container">
+            <img src="/files/assets/public/updated-cheyenne-mayors/3.-w.m.-slaughter-mayor-jan-1869-to-dec.-1869.jpg?w=375" alt=".">
+         </div>
+         <figcaption>
+            <p class="caption">3. W.M. Slaughter - Jan. 1869 to Dec. 1869</p>
+         </figcaption>
+      </figure>
+   <span class="file-info">(JPG,&nbsp;141KB)</span></a>
+</div>
+          <div class="image-gallery-item col-xs-12 col-m-6 col-lg-4">
+   <a href="/files/assets/public/updated-cheyenne-mayors/4.-j.h.-martin-president-dec.-1869-to-dec.-1870.jpg" target="_self" class="document ext-jpg"><i aria-hidden="true"></i>
+      <figure>
+         <div class="image-container">
+            <img src="/files/assets/public/updated-cheyenne-mayors/4.-j.h.-martin-president-dec.-1869-to-dec.-1870.jpg?w=375" alt=".">
+         </div>
+         <figcaption>
+            <p class="caption">4. J.H. Martin - Dec. 1869 to Dec. 1870</p>
+         </figcaption>
+      </figure>
+   <span class="file-info">(JPG,&nbsp;145KB)</span></a>
+</div>
+          <div class="image-gallery-item col-xs-12 col-m-6 col-lg-4">
+   <a href="/files/assets/public/updated-cheyenne-mayors/5.-jervis-joslin-president-jan.-1871-to-jan.-1872.jpg" target="_self" class="document ext-jpg"><i aria-hidden="true"></i>
+      <figure>
+         <div class="image-container">
+            <img src="/files/assets/public/updated-cheyenne-mayors/5.-jervis-joslin-president-jan.-1871-to-jan.-1872.jpg?w=375" alt=".">
+         </div>
+         <figcaption>
+            <p class="caption">5. Jervis Joslin - Jan. 1871 to Jan. 1872</p>
+         </figcaption>
+      </figure>
+   <span class="file-info">(JPG,&nbsp;138KB)</span></a>
+</div>
+          <div class="image-gallery-item col-xs-12 col-m-6 col-lg-4">
+   <a href="/files/assets/public/updated-cheyenne-mayors/6.-m.-sloan-president-jan.-1872-to-jan.-1873.jpg" target="_self" class="document ext-jpg"><i aria-hidden="true"></i>
+      <figure>
+         <div class="image-container">
+            <img src="/files/assets/public/updated-cheyenne-mayors/6.-m.-sloan-president-jan.-1872-to-jan.-1873.jpg?w=375" alt=".">
+         </div>
+         <figcaption>
+            <p class="caption">6. M. Sloan - Jan. 1872 to Jan. 1873</p>
+         </figcaption>
+      </figure>
+   <span class="file-info">(JPG,&nbsp;148KB)</span></a>
+</div>
+          <div class="image-gallery-item col-xs-12 col-m-6 col-lg-4">
+   <a href="/files/assets/public/updated-cheyenne-mayors/7.-m.v.-boughten-president-jan.-1873-to-jan.-1874.jpg" target="_self" class="document ext-jpg"><i aria-hidden="true"></i>
+      <figure>
+         <div class="image-container">
+            <img src="/files/assets/public/updated-cheyenne-mayors/7.-m.v.-boughten-president-jan.-1873-to-jan.-1874.jpg?w=375" alt=".">
+         </div>
+         <figcaption>
+            <p class="caption">7. M.V. Boughten - Jan. 1873 to Jan. 1874</p>
+         </figcaption>
+      </figure>
+   <span class="file-info">(JPG,&nbsp;141KB)</span></a>
+</div>
+          <div class="image-gallery-item col-xs-12 col-m-6 col-lg-4">
+   <a href="/files/assets/public/updated-cheyenne-mayors/9.-i.c.-whipple-president-jan.-1875-to-jan.-1876.jpg" target="_self" class="document ext-jpg"><i aria-hidden="true"></i>
+      <figure>
+         <div class="image-container">
+            <img src="/files/assets/public/updated-cheyenne-mayors/9.-i.c.-whipple-president-jan.-1875-to-jan.-1876.jpg?w=375" alt=".">
+         </div>
+         <figcaption>
+            <p class="caption">9. I.C. Whipple - Jan. 1875 to Jan. 1876</p>
+         </figcaption>
+      </figure>
+   <span class="file-info">(JPG,&nbsp;316KB)</span></a>
+</div>
+          <div class="image-gallery-item col-xs-12 col-m-6 col-lg-4">
+   <a href="/files/assets/public/updated-cheyenne-mayors/10.-l.r.-bresnahen.jpg" target="_self" class="document ext-jpg"><i aria-hidden="true"></i>
+      <figure>
+         <div class="image-container">
+            <img src="/files/assets/public/updated-cheyenne-mayors/10.-l.r.-bresnahen.jpg?w=375" alt=".">
+         </div>
+         <figcaption>
+            <p class="caption">10. L.R. Bresnahen - Jan. 1876 to Jan. 1877 - 12 - Jan. 1878 to Jan. 1879 - 13 - Jan. 1879 to Jan. 1880 - 19. - Jan. 1891 to Jan. 1893 - 27. - Jan. 1911 to Jan. 1913</p>
+         </figcaption>
+      </figure>
+   <span class="file-info">(JPG,&nbsp;144KB)</span></a>
+</div>
+          <div class="image-gallery-item col-xs-12 col-m-6 col-lg-4">
+   <a href="/files/assets/public/updated-cheyenne-mayors/11.-dwight-fisk-president-jan.-1877-to-jan.-1878_1.jpg" target="_self" class="document ext-jpg"><i aria-hidden="true"></i>
+      <figure>
+         <div class="image-container">
+            <img src="/files/assets/public/updated-cheyenne-mayors/11.-dwight-fisk-president-jan.-1877-to-jan.-1878_1.jpg?w=375" alt=".">
+         </div>
+         <figcaption>
+            <p class="caption">11. Dwight Fisk - Jan. 1877 to Jan. 1878</p>
+         </figcaption>
+      </figure>
+   <span class="file-info">(JPG,&nbsp;146KB)</span></a>
+</div>
+          <div class="image-gallery-item col-xs-12 col-m-6 col-lg-4">
+   <a href="/files/assets/public/updated-cheyenne-mayors/12.-f.e.-addoms-mayor-jan.-1880-to-jan.-1881.jpg" target="_self" class="document ext-jpg"><i aria-hidden="true"></i>
+      <figure>
+         <div class="image-container">
+            <img src="/files/assets/public/updated-cheyenne-mayors/12.-f.e.-addoms-mayor-jan.-1880-to-jan.-1881.jpg?w=375" alt=".">
+         </div>
+         <figcaption>
+            <p class="caption">14. F.E. Addoms - Jan. 1880 to Jan. 1881</p>
+         </figcaption>
+      </figure>
+   <span class="file-info">(JPG,&nbsp;143KB)</span></a>
+</div>
+          <div class="image-gallery-item col-xs-12 col-m-6 col-lg-4">
+   <a href="/files/assets/public/updated-cheyenne-mayors/13.-joseph-m.-carey-mayor-jan.-1881-to-jan.-1885.jpg" target="_self" class="document ext-jpg"><i aria-hidden="true"></i>
+      <figure>
+         <div class="image-container">
+            <img src="/files/assets/public/updated-cheyenne-mayors/13.-joseph-m.-carey-mayor-jan.-1881-to-jan.-1885.jpg?w=375" alt=".">
+         </div>
+         <figcaption>
+            <p class="caption">15. Joseph M. Carey - Jan. 1881 to Jan. 1885</p>
+         </figcaption>
+      </figure>
+   <span class="file-info">(JPG,&nbsp;147KB)</span></a>
+</div>
+          <div class="image-gallery-item col-xs-12 col-m-6 col-lg-4">
+   <a href="/files/assets/public/updated-cheyenne-mayors/14.-francis-e.-warren-mayor-jan.-1885-to-march-1885.jpg" target="_self" class="document ext-jpg"><i aria-hidden="true"></i>
+      <figure>
+         <div class="image-container">
+            <img src="/files/assets/public/updated-cheyenne-mayors/14.-francis-e.-warren-mayor-jan.-1885-to-march-1885.jpg?w=375" alt=".">
+         </div>
+         <figcaption>
+            <p class="caption">16. Francis E. Warren - Jan. 1885 to March 1885</p>
+         </figcaption>
+      </figure>
+   <span class="file-info">(JPG,&nbsp;147KB)</span></a>
+</div>
+          <div class="image-gallery-item col-xs-12 col-m-6 col-lg-4">
+   <a href="/files/assets/public/updated-cheyenne-mayors/15.-a.h.-reel-mayor-march-1885-to-jan.-1887.jpg" target="_self" class="document ext-jpg"><i aria-hidden="true"></i>
+      <figure>
+         <div class="image-container">
+            <img src="/files/assets/public/updated-cheyenne-mayors/15.-a.h.-reel-mayor-march-1885-to-jan.-1887.jpg?w=375" alt=".">
+         </div>
+         <figcaption>
+            <p class="caption">17. A.H. Reel - March 1885 to Jan. 1887</p>
+         </figcaption>
+      </figure>
+   <span class="file-info">(JPG,&nbsp;139KB)</span></a>
+</div>
+          <div class="image-gallery-item col-xs-12 col-m-6 col-lg-4">
+   <a href="/files/assets/public/updated-cheyenne-mayors/16.-charles-w.-riner-mayor-jan.-1887-to-jan.-1891-mayor-jan.-1926-to-jan.-1930.jpg" target="_self" class="document ext-jpg"><i aria-hidden="true"></i>
+      <figure>
+         <div class="image-container">
+            <img src="/files/assets/public/updated-cheyenne-mayors/16.-charles-w.-riner-mayor-jan.-1887-to-jan.-1891-mayor-jan.-1926-to-jan.-1930.jpg?w=375" alt=".">
+         </div>
+         <figcaption>
+            <p class="caption">18. Charles W. Riner - Jan. 1887 to Jan. 1891 - 33. Jan. 1926 to Jan. 1930</p>
+         </figcaption>
+      </figure>
+   <span class="file-info">(JPG,&nbsp;141KB)</span></a>
+</div>
+          <div class="image-gallery-item col-xs-12 col-m-6 col-lg-4">
+   <a href="/files/assets/public/updated-cheyenne-mayors/17.-ed-f.-stahle-mayor-jan.-1893-to-jan.-1895.jpg" target="_self" class="document ext-jpg"><i aria-hidden="true"></i>
+      <figure>
+         <div class="image-container">
+            <img src="/files/assets/public/updated-cheyenne-mayors/17.-ed-f.-stahle-mayor-jan.-1893-to-jan.-1895.jpg?w=375" alt=".">
+         </div>
+         <figcaption>
+            <p class="caption">20. Ed F. Stahle - Jan. 1893 to Jan. 1895</p>
+         </figcaption>
+      </figure>
+   <span class="file-info">(JPG,&nbsp;145KB)</span></a>
+</div>
+          <div class="image-gallery-item col-xs-12 col-m-6 col-lg-4">
+   <a href="/files/assets/public/updated-cheyenne-mayors/18.-samuel-merrill-mayor-jan.-1895-to-jan.-1897.jpg" target="_self" class="document ext-jpg"><i aria-hidden="true"></i>
+      <figure>
+         <div class="image-container">
+            <img src="/files/assets/public/updated-cheyenne-mayors/18.-samuel-merrill-mayor-jan.-1895-to-jan.-1897.jpg?w=375" alt=".">
+         </div>
+         <figcaption>
+            <p class="caption">21. Samuel Merrill - Jan. 1895 to Jan. 1897</p>
+         </figcaption>
+      </figure>
+   <span class="file-info">(JPG,&nbsp;143KB)</span></a>
+</div>
+          <div class="image-gallery-item col-xs-12 col-m-6 col-lg-4">
+   <a href="/files/assets/public/updated-cheyenne-mayors/19.-william-r.-schnitger-mayor-jan.-1897-to-feb.-1901.jpg" target="_self" class="document ext-jpg"><i aria-hidden="true"></i>
+      <figure>
+         <div class="image-container">
+            <img src="/files/assets/public/updated-cheyenne-mayors/19.-william-r.-schnitger-mayor-jan.-1897-to-feb.-1901.jpg?w=375" alt=".">
+         </div>
+         <figcaption>
+            <p class="caption">22. William R. Schnitger - Jan. 1897 to Feb. 1901</p>
+         </figcaption>
+      </figure>
+   <span class="file-info">(JPG,&nbsp;139KB)</span></a>
+</div>
+          <div class="image-gallery-item col-xs-12 col-m-6 col-lg-4">
+   <a href="/files/assets/public/updated-cheyenne-mayors/20.-j.l.-murray-mayor-feb.-1901-to-jan.-1903.jpg" target="_self" class="document ext-jpg"><i aria-hidden="true"></i>
+      <figure>
+         <div class="image-container">
+            <img src="/files/assets/public/updated-cheyenne-mayors/20.-j.l.-murray-mayor-feb.-1901-to-jan.-1903.jpg?w=375" alt=".">
+         </div>
+         <figcaption>
+            <p class="caption">23. J.L. Murray - Feb. 1901 to Jan. 1903</p>
+         </figcaption>
+      </figure>
+   <span class="file-info">(JPG,&nbsp;138KB)</span></a>
+</div>
+          <div class="image-gallery-item col-xs-12 col-m-6 col-lg-4">
+   <a href="/files/assets/public/updated-cheyenne-mayors/21.-m.p.-keefe-mayor-jan.-1903-to-dec.-1904.jpg" target="_self" class="document ext-jpg"><i aria-hidden="true"></i>
+      <figure>
+         <div class="image-container">
+            <img src="/files/assets/public/updated-cheyenne-mayors/21.-m.p.-keefe-mayor-jan.-1903-to-dec.-1904.jpg?w=375" alt=".">
+         </div>
+         <figcaption>
+            <p class="caption">24. M.P. Keefe - Jan. 1903 to Dec. 1904</p>
+         </figcaption>
+      </figure>
+   <span class="file-info">(JPG,&nbsp;141KB)</span></a>
+</div>
+          <div class="image-gallery-item col-xs-12 col-m-6 col-lg-4">
+   <a href="/files/assets/public/updated-cheyenne-mayors/22.-daniel-webster-gill-mayor-dec.-1904-to-jan.-1907-mayor-jan.-1912-to-jan.-1914.jpg" target="_self" class="document ext-jpg"><i aria-hidden="true"></i>
+      <figure>
+         <div class="image-container">
+            <img src="/files/assets/public/updated-cheyenne-mayors/22.-daniel-webster-gill-mayor-dec.-1904-to-jan.-1907-mayor-jan.-1912-to-jan.-1914.jpg?w=375" alt=".">
+         </div>
+         <figcaption>
+            <p class="caption">25. Daniel Webster Gill - Dec. 1904 to Jan. 1907 - 28. Jan. 1913  to Jan. 1914</p>
+         </figcaption>
+      </figure>
+   <span class="file-info">(JPG,&nbsp;141KB)</span></a>
+</div>
+          <div class="image-gallery-item col-xs-12 col-m-6 col-lg-4">
+   <a href="/files/assets/public/updated-cheyenne-mayors/23.-p.s.-cook-mayor-jan.-1907-to-1910.jpg" target="_self" class="document ext-jpg"><i aria-hidden="true"></i>
+      <figure>
+         <div class="image-container">
+            <img src="/files/assets/public/updated-cheyenne-mayors/23.-p.s.-cook-mayor-jan.-1907-to-1910.jpg?w=375" alt=".">
+         </div>
+         <figcaption>
+            <p class="caption">26. P.S. Cook - Jan. 1907 to 1911</p>
+         </figcaption>
+      </figure>
+   <span class="file-info">(JPG,&nbsp;135KB)</span></a>
+</div>
+          <div class="image-gallery-item col-xs-12 col-m-6 col-lg-4">
+   <a href="/files/assets/public/updated-cheyenne-mayors/24.-r.n.-la-fountaine-mayor-jan.-1914-to-jan.-1918.jpg" target="_self" class="document ext-jpg"><i aria-hidden="true"></i>
+      <figure>
+         <div class="image-container">
+            <img src="/files/assets/public/updated-cheyenne-mayors/24.-r.n.-la-fountaine-mayor-jan.-1914-to-jan.-1918.jpg?w=375" alt=".">
+         </div>
+         <figcaption>
+            <p class="caption">29. R.N. La Fountaine - Jan. 1914 to Jan. 1918</p>
+         </figcaption>
+      </figure>
+   <span class="file-info">(JPG,&nbsp;200KB)</span></a>
+</div>
+          <div class="image-gallery-item col-xs-12 col-m-6 col-lg-4">
+   <a href="/files/assets/public/updated-cheyenne-mayors/25.-edward-w.-stone-mayor-jan.-1918-to-jan.-1920.jpg" target="_self" class="document ext-jpg"><i aria-hidden="true"></i>
+      <figure>
+         <div class="image-container">
+            <img src="/files/assets/public/updated-cheyenne-mayors/25.-edward-w.-stone-mayor-jan.-1918-to-jan.-1920.jpg?w=375" alt=".">
+         </div>
+         <figcaption>
+            <p class="caption">30. Edward W. Stone - Jan. 1918 to Jan. 1920</p>
+         </figcaption>
+      </figure>
+   <span class="file-info">(JPG,&nbsp;201KB)</span></a>
+</div>
+          <div class="image-gallery-item col-xs-12 col-m-6 col-lg-4">
+   <a href="/files/assets/public/updated-cheyenne-mayors/26.-ed-p.-taylor-mayor-jan.-1920-to-jan.-1924.jpg" target="_self" class="document ext-jpg"><i aria-hidden="true"></i>
+      <figure>
+         <div class="image-container">
+            <img src="/files/assets/public/updated-cheyenne-mayors/26.-ed-p.-taylor-mayor-jan.-1920-to-jan.-1924.jpg?w=375" alt=".">
+         </div>
+         <figcaption>
+            <p class="caption">31. Ed P. Taylor - Jan. 1920 to Jan. 1924</p>
+         </figcaption>
+      </figure>
+   <span class="file-info">(JPG,&nbsp;197KB)</span></a>
+</div>
+          <div class="image-gallery-item col-xs-12 col-m-6 col-lg-4">
+   <a href="/files/assets/public/updated-cheyenne-mayors/27.-archie-allison-mayor-jan.-1924-to-jan.-1926-mayor-jan.-1934-to-jan.-1940.jpg" target="_self" class="document ext-jpg"><i aria-hidden="true"></i>
+      <figure>
+         <div class="image-container">
+            <img src="/files/assets/public/updated-cheyenne-mayors/27.-archie-allison-mayor-jan.-1924-to-jan.-1926-mayor-jan.-1934-to-jan.-1940.jpg?w=375" alt=".">
+         </div>
+         <figcaption>
+            <p class="caption">32. Archie Allison - Jan. 1924 to Jan. 1926 - 36. Jan. 1934 to Jan. 1940</p>
+         </figcaption>
+      </figure>
+   <span class="file-info">(JPG,&nbsp;211KB)</span></a>
+</div>
+          <div class="image-gallery-item col-xs-12 col-m-6 col-lg-4">
+   <a href="/files/assets/public/updated-cheyenne-mayors/28.-cal-holliday-mayor-jan.-1930-to-jan.-1932.jpg" target="_self" class="document ext-jpg"><i aria-hidden="true"></i>
+      <figure>
+         <div class="image-container">
+            <img src="/files/assets/public/updated-cheyenne-mayors/28.-cal-holliday-mayor-jan.-1930-to-jan.-1932.jpg?w=375" alt=".">
+         </div>
+         <figcaption>
+            <p class="caption">34. Cal Holliday - Jan. 1930 to Jan. 1932</p>
+         </figcaption>
+      </figure>
+   <span class="file-info">(JPG,&nbsp;303KB)</span></a>
+</div>
+          <div class="image-gallery-item col-xs-12 col-m-6 col-lg-4">
+   <a href="/files/assets/public/updated-cheyenne-mayors/29.-j.f.-weybrecht-mayor-jan.-1932-to-jan.-1934.jpg" target="_self" class="document ext-jpg"><i aria-hidden="true"></i>
+      <figure>
+         <div class="image-container">
+            <img src="/files/assets/public/updated-cheyenne-mayors/29.-j.f.-weybrecht-mayor-jan.-1932-to-jan.-1934.jpg?w=375" alt=".">
+         </div>
+         <figcaption>
+            <p class="caption">35. J.F. Weybrecht - Jan. 1932 to Jan. 1934</p>
+         </figcaption>
+      </figure>
+   <span class="file-info">(JPG,&nbsp;211KB)</span></a>
+</div>
+          <div class="image-gallery-item col-xs-12 col-m-6 col-lg-4">
+   <a href="/files/assets/public/updated-cheyenne-mayors/30.-ed-warren-mayor-jan.-1940-to-jan.-1944.jpg" target="_self" class="document ext-jpg"><i aria-hidden="true"></i>
+      <figure>
+         <div class="image-container">
+            <img src="/files/assets/public/updated-cheyenne-mayors/30.-ed-warren-mayor-jan.-1940-to-jan.-1944.jpg?w=375" alt=".">
+         </div>
+         <figcaption>
+            <p class="caption">37. Ed Warren - Jan. 1940 to Jan. 1944 - 43. June 1951 to Jan. 1952</p>
+         </figcaption>
+      </figure>
+   <span class="file-info">(JPG,&nbsp;303KB)</span></a>
+</div>
+          <div class="image-gallery-item col-xs-12 col-m-6 col-lg-4">
+   <a href="/files/assets/public/cheyenne-mayors/ira-hanna_1.jpg" target="_self" class="document ext-jpg"><i aria-hidden="true"></i>
+      <figure>
+         <div class="image-container">
+            <img src="/files/assets/public/cheyenne-mayors/ira-hanna_1.jpg?w=375" alt=".">
+         </div>
+         <figcaption>
+            <p class="caption">38. Ira L. Hanna - Jan. 1944 to Sept. 1944</p>
+         </figcaption>
+      </figure>
+   <span class="file-info">(JPG,&nbsp;303KB)</span></a>
+</div>
+          <div class="image-gallery-item col-xs-12 col-m-6 col-lg-4">
+   <a href="/files/assets/public/updated-cheyenne-mayors/31.-bruce-s.-jones-mayor-sept.-1944-to-jan.-1946.jpg" target="_self" class="document ext-jpg"><i aria-hidden="true"></i>
+      <figure>
+         <div class="image-container">
+            <img src="/files/assets/public/updated-cheyenne-mayors/31.-bruce-s.-jones-mayor-sept.-1944-to-jan.-1946.jpg?w=375" alt=".">
+         </div>
+         <figcaption>
+            <p class="caption">39. Bruce S. Jones - Sept. 1944 to Jan. 1946</p>
+         </figcaption>
+      </figure>
+   <span class="file-info">(JPG,&nbsp;202KB)</span></a>
+</div>
+          <div class="image-gallery-item col-xs-12 col-m-6 col-lg-4">
+   <a href="/files/assets/public/updated-cheyenne-mayors/32.-john-j.-mcinerney-mayor-jan.-1946-to-jan.-1948.jpg" target="_self" class="document ext-jpg"><i aria-hidden="true"></i>
+      <figure>
+         <div class="image-container">
+            <img src="/files/assets/public/updated-cheyenne-mayors/32.-john-j.-mcinerney-mayor-jan.-1946-to-jan.-1948.jpg?w=375" alt=".">
+         </div>
+         <figcaption>
+            <p class="caption">40. John J. McInerney - Jan. 1946 to Jan. 1948</p>
+         </figcaption>
+      </figure>
+   <span class="file-info">(JPG,&nbsp;203KB)</span></a>
+</div>
+          <div class="image-gallery-item col-xs-12 col-m-6 col-lg-4">
+   <a href="/files/assets/public/updated-cheyenne-mayors/33.-ben-nelson-mayor-jan.-1948-to-march-1951.jpg" target="_self" class="document ext-jpg"><i aria-hidden="true"></i>
+      <figure>
+         <div class="image-container">
+            <img src="/files/assets/public/updated-cheyenne-mayors/33.-ben-nelson-mayor-jan.-1948-to-march-1951.jpg?w=375" alt=".">
+         </div>
+         <figcaption>
+            <p class="caption">41. Ben Nelson - Jan. 1948 to March 1951</p>
+         </figcaption>
+      </figure>
+   <span class="file-info">(JPG,&nbsp;204KB)</span></a>
+</div>
+          <div class="image-gallery-item col-xs-12 col-m-6 col-lg-4">
+   <a href="/files/assets/public/updated-cheyenne-mayors/ed-gowdy.jpg" target="_self" class="document ext-jpg"><i aria-hidden="true"></i>
+      <figure>
+         <div class="image-container">
+            <img src="/files/assets/public/updated-cheyenne-mayors/ed-gowdy.jpg?w=375" alt=".">
+         </div>
+         <figcaption>
+            <p class="caption">42. Ed Gowdy - March 1951 to June 1951 (acting Mayor)</p>
+         </figcaption>
+      </figure>
+   <span class="file-info">(JPG,&nbsp;492KB)</span></a>
+</div>
+          <div class="image-gallery-item col-xs-12 col-m-6 col-lg-4">
+   <a href="/files/assets/public/updated-cheyenne-mayors/34.-r.e.-cheever-mayor-jan.-1952-to-jan.-1954.jpg" target="_self" class="document ext-jpg"><i aria-hidden="true"></i>
+      <figure>
+         <div class="image-container">
+            <img src="/files/assets/public/updated-cheyenne-mayors/34.-r.e.-cheever-mayor-jan.-1952-to-jan.-1954.jpg?w=375" alt=".">
+         </div>
+         <figcaption>
+            <p class="caption">44. R.E. Cheever - Jan. 1952 to Jan. 1954</p>
+         </figcaption>
+      </figure>
+   <span class="file-info">(JPG,&nbsp;206KB)</span></a>
+</div>
+          <div class="image-gallery-item col-xs-12 col-m-6 col-lg-4">
+   <a href="/files/assets/public/updated-cheyenne-mayors/35.-val-s.-christensen-mayor-jan.-1954-to-jan.-1958.jpg" target="_self" class="document ext-jpg"><i aria-hidden="true"></i>
+      <figure>
+         <div class="image-container">
+            <img src="/files/assets/public/updated-cheyenne-mayors/35.-val-s.-christensen-mayor-jan.-1954-to-jan.-1958.jpg?w=375" alt=".">
+         </div>
+         <figcaption>
+            <p class="caption">45. Val S. Christensen - Jan. 1954 to Jan. 1958</p>
+         </figcaption>
+      </figure>
+   <span class="file-info">(JPG,&nbsp;210KB)</span></a>
+</div>
+          <div class="image-gallery-item col-xs-12 col-m-6 col-lg-4">
+   <a href="/files/assets/public/updated-cheyenne-mayors/36.-worth-story-mayor-jan.-1958-to-jan.-1962.jpg" target="_self" class="document ext-jpg"><i aria-hidden="true"></i>
+      <figure>
+         <div class="image-container">
+            <img src="/files/assets/public/updated-cheyenne-mayors/36.-worth-story-mayor-jan.-1958-to-jan.-1962.jpg?w=375" alt=".">
+         </div>
+         <figcaption>
+            <p class="caption">46. Worth Story - Jan. 1958 to Jan. 1962</p>
+         </figcaption>
+      </figure>
+   <span class="file-info">(JPG,&nbsp;197KB)</span></a>
+</div>
+          <div class="image-gallery-item col-xs-12 col-m-6 col-lg-4">
+   <a href="/files/assets/public/updated-cheyenne-mayors/37.-bill-nation-mayor-jan.-1962-to-jan.-1966.jpg" target="_self" class="document ext-jpg"><i aria-hidden="true"></i>
+      <figure>
+         <div class="image-container">
+            <img src="/files/assets/public/updated-cheyenne-mayors/37.-bill-nation-mayor-jan.-1962-to-jan.-1966.jpg?w=375" alt=".">
+         </div>
+         <figcaption>
+            <p class="caption">47. Bill Nation - Jan. 1962 to Jan. 1966</p>
+         </figcaption>
+      </figure>
+   <span class="file-info">(JPG,&nbsp;191KB)</span></a>
+</div>
+          <div class="image-gallery-item col-xs-12 col-m-6 col-lg-4">
+   <a href="/files/assets/public/updated-cheyenne-mayors/38.-herbert-kingham-mayor-jan.-1966-to-jan.-1968.jpg" target="_self" class="document ext-jpg"><i aria-hidden="true"></i>
+      <figure>
+         <div class="image-container">
+            <img src="/files/assets/public/updated-cheyenne-mayors/38.-herbert-kingham-mayor-jan.-1966-to-jan.-1968.jpg?w=375" alt=".">
+         </div>
+         <figcaption>
+            <p class="caption">48. Herbert Kingham - Jan. 1966 to Jan. 1968</p>
+         </figcaption>
+      </figure>
+   <span class="file-info">(JPG,&nbsp;200KB)</span></a>
+</div>
+          <div class="image-gallery-item col-xs-12 col-m-6 col-lg-4">
+   <a href="/files/assets/public/updated-cheyenne-mayors/39.-george-r.-cox-mayor-jan.-1968-to-aug.-11-1969.jpg" target="_self" class="document ext-jpg"><i aria-hidden="true"></i>
+      <figure>
+         <div class="image-container">
+            <img src="/files/assets/public/updated-cheyenne-mayors/39.-george-r.-cox-mayor-jan.-1968-to-aug.-11-1969.jpg?w=375" alt=".">
+         </div>
+         <figcaption>
+            <p class="caption">49. George R. Cox - Jan. 1968 to Aug. 1969</p>
+         </figcaption>
+      </figure>
+   <span class="file-info">(JPG,&nbsp;203KB)</span></a>
+</div>
+          <div class="image-gallery-item col-xs-12 col-m-6 col-lg-4">
+   <a href="/files/assets/public/updated-cheyenne-mayors/40.-floyd-holland-mayor-aug.-1969-to-jan.-1972.jpg" target="_self" class="document ext-jpg"><i aria-hidden="true"></i>
+      <figure>
+         <div class="image-container">
+            <img src="/files/assets/public/updated-cheyenne-mayors/40.-floyd-holland-mayor-aug.-1969-to-jan.-1972.jpg?w=375" alt=".">
+         </div>
+         <figcaption>
+            <p class="caption">50. Floyd Holland - Aug. 1969 to Jan. 1972</p>
+         </figcaption>
+      </figure>
+   <span class="file-info">(JPG,&nbsp;194KB)</span></a>
+</div>
+          <div class="image-gallery-item col-xs-12 col-m-6 col-lg-4">
+   <a href="/files/assets/public/updated-cheyenne-mayors/41.-james-d.-vanvelzor-mayor-jan.-1972-to-jan.-1973.jpg" target="_self" class="document ext-jpg"><i aria-hidden="true"></i>
+      <figure>
+         <div class="image-container">
+            <img src="/files/assets/public/updated-cheyenne-mayors/41.-james-d.-vanvelzor-mayor-jan.-1972-to-jan.-1973.jpg?w=375" alt=".">
+         </div>
+         <figcaption>
+            <p class="caption">51. James D. Van Velzor - Jan. 1972 to Jan. 1973</p>
+         </figcaption>
+      </figure>
+   <span class="file-info">(JPG,&nbsp;197KB)</span></a>
+</div>
+          <div class="image-gallery-item col-xs-12 col-m-6 col-lg-4">
+   <a href="/files/assets/public/updated-cheyenne-mayors/42.-bill-nation-mayor-jan.-1973-to-jan.-1977.jpg" target="_self" class="document ext-jpg"><i aria-hidden="true"></i>
+      <figure>
+         <div class="image-container">
+            <img src="/files/assets/public/updated-cheyenne-mayors/42.-bill-nation-mayor-jan.-1973-to-jan.-1977.jpg?w=375" alt=".">
+         </div>
+         <figcaption>
+            <p class="caption">52. Bill Nation - Jan. 1973 to Jan. 1977</p>
+         </figcaption>
+      </figure>
+   <span class="file-info">(JPG,&nbsp;185KB)</span></a>
+</div>
+          <div class="image-gallery-item col-xs-12 col-m-6 col-lg-4">
+   <a href="/files/assets/public/updated-cheyenne-mayors/43.-don-erickson-mayor-jan.-1977-to-jan.-1989.jpg" target="_self" class="document ext-jpg"><i aria-hidden="true"></i>
+      <figure>
+         <div class="image-container">
+            <img src="/files/assets/public/updated-cheyenne-mayors/43.-don-erickson-mayor-jan.-1977-to-jan.-1989.jpg?w=375" alt=".">
+         </div>
+         <figcaption>
+            <p class="caption">53. Don Erickson - Jan. 1977 to Jan. 1989</p>
+         </figcaption>
+      </figure>
+   <span class="file-info">(JPG,&nbsp;204KB)</span></a>
+</div>
+          <div class="image-gallery-item col-xs-12 col-m-6 col-lg-4">
+   <a href="/files/assets/public/updated-cheyenne-mayors/44.-gary-n.-schaeffer-mayor-jan.-1989-to-jan.-1993.jpg" target="_self" class="document ext-jpg"><i aria-hidden="true"></i>
+      <figure>
+         <div class="image-container">
+            <img src="/files/assets/public/updated-cheyenne-mayors/44.-gary-n.-schaeffer-mayor-jan.-1989-to-jan.-1993.jpg?w=375" alt=".">
+         </div>
+         <figcaption>
+            <p class="caption">54. Gary N. Schaeffer - Jan. 1989 to Jan. 1993</p>
+         </figcaption>
+      </figure>
+   <span class="file-info">(JPG,&nbsp;340KB)</span></a>
+</div>
+          <div class="image-gallery-item col-xs-12 col-m-6 col-lg-4">
+   <a href="/files/assets/public/updated-cheyenne-mayors/45.-leo-a.-pando-mayor-jan.-1993-to-jan.-2001.jpg" target="_self" class="document ext-jpg"><i aria-hidden="true"></i>
+      <figure>
+         <div class="image-container">
+            <img src="/files/assets/public/updated-cheyenne-mayors/45.-leo-a.-pando-mayor-jan.-1993-to-jan.-2001.jpg?w=375" alt=".">
+         </div>
+         <figcaption>
+            <p class="caption">55. Leo A. Pando - Jan. 1993 to Jan. 2001</p>
+         </figcaption>
+      </figure>
+   <span class="file-info">(JPG,&nbsp;363KB)</span></a>
+</div>
+          <div class="image-gallery-item col-xs-12 col-m-6 col-lg-4">
+   <a href="/files/assets/public/updated-cheyenne-mayors/46.-jack-r.-spiker-mayor-jan.-2001-to-jan.-2009.jpg" target="_self" class="document ext-jpg"><i aria-hidden="true"></i>
+      <figure>
+         <div class="image-container">
+            <img src="/files/assets/public/updated-cheyenne-mayors/46.-jack-r.-spiker-mayor-jan.-2001-to-jan.-2009.jpg?w=375" alt=".">
+         </div>
+         <figcaption>
+            <p class="caption">56. Jack R. Spiker - Jan. 2001 to Jan. 2009</p>
+         </figcaption>
+      </figure>
+   <span class="file-info">(JPG,&nbsp;320KB)</span></a>
+</div>
+          <div class="image-gallery-item col-xs-12 col-m-6 col-lg-4">
+   <a href="/files/assets/public/updated-cheyenne-mayors/47.-richard-l.-kaysen-mayor-jan.-2009-to-jan.-2017.jpg" target="_self" class="document ext-jpg"><i aria-hidden="true"></i>
+      <figure>
+         <div class="image-container">
+            <img src="/files/assets/public/updated-cheyenne-mayors/47.-richard-l.-kaysen-mayor-jan.-2009-to-jan.-2017.jpg?w=375" alt=".">
+         </div>
+         <figcaption>
+            <p class="caption">57. Richard L. Kaysen - Jan. 2009 to Jan. 2017</p>
+         </figcaption>
+      </figure>
+   <span class="file-info">(JPG,&nbsp;331KB)</span></a>
+</div>
+          <div class="image-gallery-item col-xs-12 col-m-6 col-lg-4">
+   <a href="/files/assets/public/updated-cheyenne-mayors/48.-marian-j.-orr-mayor-jan.-2017-to-jan.-2021.jpg" target="_self" class="document ext-jpg"><i aria-hidden="true"></i>
+      <figure>
+         <div class="image-container">
+            <img src="/files/assets/public/updated-cheyenne-mayors/48.-marian-j.-orr-mayor-jan.-2017-to-jan.-2021.jpg?w=375" alt=".">
+         </div>
+         <figcaption>
+            <p class="caption">58. Marian J. Orr - Jan. 2017 to Jan. 2021</p>
+         </figcaption>
+      </figure>
+   <span class="file-info">(JPG,&nbsp;345KB)</span></a>
+</div>
+          <div class="image-gallery-item col-xs-12 col-m-6 col-lg-4">
+   <a href="/files/assets/public/updated-cheyenne-mayors/49.-patrick-collins-mayor-jan.-2021-to-present.jpg" target="_self" class="document ext-jpg"><i aria-hidden="true"></i>
+      <figure>
+         <div class="image-container">
+            <img src="/files/assets/public/updated-cheyenne-mayors/49.-patrick-collins-mayor-jan.-2021-to-present.jpg?w=375" alt=".">
+         </div>
+         <figcaption>
+            <p class="caption">59. Patrick Collins - Jan. 2021 to present</p>
+         </figcaption>
+      </figure>
+   <span class="file-info">(JPG,&nbsp;371KB)</span></a>
+</div>
+          </div>
+</div>
+          <!--normalTemplateEnd-->
+                            
+                            
+                            
+							            </div>
+						            </div>
+					            </div>
+                        <div class="col-xs-12">
+					            	<div class="share-page-container share-page-link-center share-page-link-small share-page-link-rounded share-page-link-labeled" data-item-id="a5007627-1a61-4a0e-8fda-ad6429a00a35" id="share-page-container clearfix">
+                                        <section aria-labelledby="share-page-info-label">
+                                            <span id="share-page-info-label" class="share-page-info">Share</span><ul class="share-page-links no-translate"><li><a href="https://www.facebook.com/sharer/sharer.php?u=https%3a%2f%2fwww.cheyennecity.org%2fYour-Government%2fMayor%2fCheyenne-Mayors" target="{ShareTarget}" class="share-page-link share-page-link-facebook" data-channel="facebook" data-channel-id="1"><i aria-hidden="true"></i><span class="share-page-link-name share-page-link-name-facebook">Facebook</span></a></li><li><a href="https://twitter.com/share?url=https%3a%2f%2fwww.cheyennecity.org%2fYour-Government%2fMayor%2fCheyenne-Mayors" target="_blank" class="share-page-link share-page-link-x" data-channel="x" data-channel-id="2"><i aria-hidden="true"></i><span class="share-page-link-name share-page-link-name-x">X</span></a></li><li><a href="mailto:?Body=https%3a%2f%2fwww.cheyennecity.org%2fYour-Government%2fMayor%2fCheyenne-Mayors" target="_self" class="share-page-link share-page-link-email" data-channel="email" data-channel-id="3"><i aria-hidden="true"></i><span class="share-page-link-name share-page-link-name-email">Email</span></a></li><li><a href="#" target="_self" class="share-page-link share-page-link-print" data-channel="print" data-channel-id="5"><i aria-hidden="true"></i><span class="share-page-link-name share-page-link-name-print">Print</span></a></li></ul>
+                                        </section>
+                                    </div></div>
+                            </div>
+                        </div>
+                        <div class="back-to-top-container text-center">
+                            <a href="#body-top" id="back-to-top"><i aria-hidden="true"></i><span class="js-visuallyhidden">Back to top</span></a>
+                        </div>
+                </div>
+            </div><!--groupTemplateEnd-->
+            <footer>
+                
+                    <div class="footer-outer-container footer-first-row">
+                        <div class="footer-container clearfix">
+                            <div class="grid grid-pad">
+                                <div class="col-xs-12 col-s-6 col-m-4 col-lg-4 visuallyhidden" >
+	
+	<h2>Site Footer</h2>
+
+
+	
+	
+</div><div class="col-xs-12 col-s-12 col-m-6 col-lg-4" >
+	
+			<h2 class="visuallyhidden">Site Footer</h2>
+			<h3 class="footer-title">Contact</h3>
+			
+	<p>City of Cheyenne<br />
+2101 O'Neil Ave.<br />
+Cheyenne, WY 82001</p>
+<p><a href="tel:3076376200">(307) 637-6200</a> - Telephone<br />
+<a href="tel:711">7-1-1</a> or <a href="tel:18008779965">1-800-877-9965</a> - TTY to Voice</p>
+
+
+	
+	
+</div><div class="col-xs-12 col-s-12 col-m-6 col-lg-4" >
+	
+			<h2 class="visuallyhidden">Site Footer</h2>
+			<h3 class="footer-title">Social Media</h3>
+			
+	
+	<ul class="footer-links with-icons social-media-links">  <li class="footer-link-facebook">
+	<a href="https://www.facebook.com/CityOfCheyenne" target="_blank"  >
+<i aria-hidden="true"></i>Facebook
+</a>
+</li>
+          <li class="footer-link-twitter">
+	<a href="https://twitter.com/CityOfCheyenne" target="_blank"  >
+<i aria-hidden="true"></i>Twitter
+</a>
+</li>
+          <li class="footer-link-instagram">
+	<a href="https://www.instagram.com/cityofcheyenne/" target="_blank"  >
+<i aria-hidden="true"></i>Instagram
+</a>
+</li>
+          <li class="footer-link-youtube">
+	<a href="https://www.youtube.com/user/TheCityofCheyenne" target="_blank"  >
+<i aria-hidden="true"></i>YouTube
+</a>
+</li>
+          <li class="footer-link-">
+	<a href="https://www.flickr.com/people/cityofcheyenne/" target="_blank"  >
+<i aria-hidden="true"></i>Flickr
+</a>
+</li>
+          <li class="footer-link-">
+	<a href="https://www.linkedin.com/company/cityofcheyenne/" target="_blank"  >
+<i aria-hidden="true"></i>LinkedIn
+</a>
+</li>
+           </ul>
+	
+</div>
+                            </div>
+                        </div>
+                    </div>
+                
+                <div class="footer-outer-container footer-second-row">
+                    <div class="footer-container clearfix">
+                        <div class="grid grid-pad footer-secondary-links">
+                            <div class="col-xs-12 col-m-7">
+                                
+                                    <div>&nbsp;| <a href="https://www.cheyennecity.org/Site-Footer/Sub-Footer-Links/Accessibility-Statement" target="_self"  >Accessibility Statement</a>&nbsp;| &nbsp;| <a href="https://www.cheyennecity.org/Site-Footer/Sub-Footer-Links/Privacy-Statement" target="_self"  >Privacy Statement</a>&nbsp;| &nbsp;| <a href="https://www.cheyennecity.org/Site-Footer/Sub-Footer-Links/Translation-Disclaimer" target="_self"  >Translation Disclaimer</a>&nbsp;| <a href="https://www.cheyennecity.org/Site-Footer/Sub-Footer-Links/Terms-of-Use" target="_self"  >Terms of Use</a>&nbsp;| &nbsp;| <a href="https://www.cheyennecity.org/Site-Footer/Sub-Footer-Links/Social-Media-Guidelines" target="_self"  >Social Media Guidelines</a>&nbsp;| <a href="https://www.cheyennecity.org/Site-Footer/Sub-Footer-Links/Non-Discrimination-and-Title-VI-Program" target="_self"  >Non-Discrimination and Title VI Program</a>&nbsp;| &nbsp;| </div>
+                                
+                            </div>
+                            <div class="col-xs-12 col-m-5 powered-by">
+                                <div class="right">
+                                    &copy; 2026 City of Cheyenne&nbsp;|&nbsp;<span class="powered-by">Powered by <a href="https://granicus.com/solution/govaccess/opencities/" target="_blank">Granicus</a></span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </footer>
+        </div>
+    </div>
+
+    <script src="/files/oc-resources/b9015858-988c-48a4-9473-7c193df083e4/JsTextSnippets.js?ocsvclang=en-US" type="text/javascript"></script><script></script>
+    
+    
+
+<div id="COVID_TEMP-messages" style="display:none;">
+<div class="item">
+	<div class="title">COVID updates and information</div>
+	<div class="description"></div>
+	<div class="link"><p class="view-page-link"><a href="https://www.cheyennecity.org/Home/Tabs/Featured-Links/Coronavirus-COVID-19"  target="_self">Coronavirus (COVID-19)</a></p></div>
+	<div class="type">Announcement</div>
+	<div class="conditions"></div>	
+</div>
+</div>
+<script>
+	$('#COVID_TEMP-messages').children('.item').each(function(){
+		var $message = $(this);
+		var isMatch = false;
+		$message.find('.conditions a').each(function(){
+			var $a = $(this);
+			var mode = $a.text().split(' ')[0].toLowerCase();
+			var value = $a.attr('href').replace(/^https?:\/\//g, '');
+			
+			switch(mode)
+			{
+				case 'startswith':
+					if(document.location.pathname.toLowerCase().startsWith(value.toLowerCase()))
+					{
+						isMatch = true;
+						return false;//stop jquery each
+					}
+					break;
+					
+				case 'contains':
+					if(document.location.pathname.toLowerCase().indexOf(value.toLowerCase()) !== -1)
+					{
+						isMatch = true;
+						return false;//stop jquery each
+					}
+					break;
+					
+				case 'regex':
+					var re = new RegExp(value);
+					if(new RegExp(value).test(document.location.pathname))
+					{
+						isMatch = true;
+						return false;//stop jquery each
+					}
+					break;
+					
+				default:
+					if(document.location.pathname.toLowerCase() === value.toLowerCase())
+					{
+						isMatch = true;
+						return false;//stop jquery each
+					}
+					break;
+			}
+		});
+		if(isMatch)
+		{
+			var $main = $('#main-content');
+			if($main.length === 0) return false;
+			var $h1 = $main.find('h1').first();
+			
+			var title = $message.find('.title').text().trim();
+			var type = $message.find('.type').text().trim();
+			var description = $message.find('.description').html();
+			var link = $message.find('.link').html();
+			
+			var $content = $('<section>').addClass('obj-venue');//class is a hack to inherit styling
+			var $sideBox = $('<div>').addClass('side-box message-box message-type-'+type).appendTo($content);
+			
+			if(title !== '')
+			{
+				$('<h2>').addClass('side-box-title').text(title).appendTo($sideBox);
+			}
+			
+			var descriptionBox = ''
+			
+			if(description.trim() !== '')
+			{
+				//If the description contains no html tags, wrap the text in p tags
+				var noBrDesc = description.split('<br>').join('\r\n');
+				if (!/<[^>]+>/.test(noBrDesc)) {
+					description = '<p>' + noBrDesc.replace(/(\r\n|\r|\n){2}((\r\n|\r|\n)+)?/g, '$2</p><p>') + '</p>';
+					description = description.replace(/(\r\n|\r|\n)/g, '<br>');
+					description = description.replace('</p><p></p>', '</p>');					
+				}
+				descriptionBox += description;
+			}
+			
+			var hasLink = false;
+			if(link.trim() !== '')
+			{
+				hasLink = true;
+				descriptionBox += link;
+			}
+			
+			var $descriptionBox = null;
+			if(descriptionBox.trim() !== '')
+			{
+				$descriptionBox = $(descriptionBox);
+				$('<div>').addClass('side-box-content').html(descriptionBox).appendTo($sideBox);
+			}
+			
+			if($h1.length === 1)
+			{
+				$content.insertAfter($h1);
+			} 
+			else
+			{
+				$content.appendTo($main);
+			}
+			
+			if(hasLink)
+			{
+				var color = ($content.find('p').first() || $content.find('.side-box-content').first()).css('color');
+				$content.find('a').css('color', color);
+			}
+			
+			 return false;
+		}
+	});
+</script>
+
+
+
+
+
+
+    <script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-166377212-2', 'auto');
+  ga('send', 'pageview');
+</script>
+    
+    
+
+<script type="text/javascript">
+//<![CDATA[
+window.__TsmHiddenField = $get('ctl04_seamless_script_manager_TSM');//]]>
+</script>
+</form>
+</body>
+</html>

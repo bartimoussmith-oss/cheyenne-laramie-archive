@@ -1,0 +1,1094 @@
+<!DOCTYPE html>
+<!--[if lt IE 7]>      <html class="no-js lt-ie9 lt-ie8 lt-ie7" lang="en"> <![endif]-->
+<!--[if IE 7]>         <html class="no-js lt-ie9 lt-ie8" lang="en"> <![endif]-->
+<!--[if IE 8]>         <html class="no-js lt-ie9" lang="en"> <![endif]-->
+<!--[if gt IE 8]><!-->
+<html class="no-js" lang="en-US">
+<!--<![endif]-->
+<head>
+	<!-- Published by OpenCities, 1.38.0.1 -->
+
+    
+        
+    
+    
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+    <meta name="theme-color" content="#1B75BC"/>
+    <title>City Council – City of Cheyenne</title>
+	<meta name="generator" content="OpenCities - https://granicus.com/product/opencities" />
+
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <!-- Using mobile-web-app-capable for now to enable full-screen experience on supported platforms -->
+    <!-- Note: This tag works mainly on Android Chrome. It does NOT enable full-screen mode on iOS Safari. -->
+    <!-- For iOS, the correct tag is: <meta name="apple-mobile-web-app-capable" content="yes"> -->
+    <!-- TODO: Monitor for updated meta tag standards from Apple or other browser vendors -->
+    <meta name="mobile-web-app-capable" content="yes" />
+        <meta name="description" content="The City of Cheyenne operates as a Mayor-Council form of government and is classified as a first class City pursuant to Wyoming Statutes. The Cheyenne City Council is composed of nine members elected on a non-partisan basis." />
+    <meta property="og:type" content="article" />
+    <meta property="og:url" content="https://www.cheyennecity.org/Your-Government/City-Council" />
+    <meta property="og:title" content="City Council" />
+    <meta property="og:description" content="The City of Cheyenne operates as a Mayor-Council form of government and is classified as a first class City pursuant to Wyoming Statutes. The Cheyenne City Council is composed of nine members elected on a non-partisan basis." />
+    <meta property="og:image" content="https://www.cheyennecity.org/files/assets/public/v/1/templateimages/city-council-chambers.jpg?w=1200" />
+    <meta property="twitter:card" content="summary" />
+    <meta property="twitter:title" content="City Council" />
+    <meta property="twitter:description" content="The City of Cheyenne operates as a Mayor-Council form of government and is classified as a first class City pursuant to Wyoming Statutes. The Cheyenne City Council is composed of nine members elected on a non-partisan basis." />
+    <meta property="twitter:image" content="https://www.cheyennecity.org/files/assets/public/v/1/templateimages/city-council-chambers.jpg?w=1080" />
+    <meta property="fb:app_id" content="4049459422007991" />
+    <link rel="canonical" href="https://www.cheyennecity.org/Your-Government/City-Council" />
+
+    
+    <link rel="icon" type="image/png" href="/files/ocfavicon/Public/favicon-96x96.png" sizes="96x96" />
+<link rel="icon" type="image/svg+xml" href="/files/ocfavicon/Public/favicon.svg" />
+<link rel="shortcut icon" href="/files/ocfavicon/Public/favicon.ico" />
+<link rel="apple-touch-icon" sizes="180x180" href="/files/ocfavicon/Public/apple-touch-icon.png" />
+<link rel="manifest" href="/files/ocfavicon/Public/site.webmanifest" />
+    <script>
+        (function () {
+            if (window.__UNLOAD_LAZY_PATCH__) return;
+            window.__UNLOAD_LAZY_PATCH__ = true;
+
+            var supportsPageHide = ("onpagehide" in window);
+            var mappedType = supportsPageHide ? "pagehide" : "beforeunload";
+            var nativeAdd = window.addEventListener;
+            var nativeRemove = window.removeEventListener;
+            var unloadMap = null;
+            var patched = false;
+
+            function ensurePatched() {
+                if (patched) return;
+                unloadMap = new WeakMap();
+
+                window.addEventListener = function (type, listener, options) {
+                    if (type === "unload") {
+                        var wrapped = function (evt) {
+                            if (supportsPageHide && evt.persisted) return;
+                            listener.call(this, evt);
+                        };
+                        unloadMap.set(listener, wrapped);
+                        return nativeAdd.call(this, mappedType, wrapped, options);
+                    }
+                    return nativeAdd.call(this, type, listener, options);
+                };
+
+                window.removeEventListener = function (type, listener, options) {
+                    if (type === "unload") {
+                        var wrapped = unloadMap.get(listener);
+                        if (wrapped) {
+                            nativeRemove.call(this, mappedType, wrapped, options);
+                            unloadMap.delete(listener);
+                        }
+                        return;
+                    }
+                    return nativeRemove.call(this, type, listener, options);
+                };
+
+                var orig = null;
+                Object.defineProperty(window, "onunload", {
+                    configurable: true, enumerable: true,
+                    get: function () { return orig; },
+                    set: function (h) {
+                        orig = h;
+                        if (typeof h === "function") window.addEventListener("unload", h);
+                    }
+                });
+                patched = true;
+            }
+
+            window.addEventListener = function (type, listener, options) {
+                if (type === "unload") {
+                    ensurePatched();
+                    return window.addEventListener(type, listener, options);
+                }
+                return nativeAdd.call(this, type, listener, options);
+            };
+
+            window.removeEventListener = function (type, listener, options) {
+                if (type === "unload" && !patched) {
+                    return;
+                }
+                return nativeRemove.call(this, type, listener, options);
+            };
+
+            function patchTelerik() {
+                ensurePatched();
+                var ns = window.RadAjaxNamespace;
+                if (!ns || !ns.EventManager || !ns.EventManager.Add || ns.EventManager.__UnloadPatched) return;
+                var origAdd = ns.EventManager.Add;
+                ns.EventManager.Add = function (el, evtName, handler, clientId) {
+                    if (el === window && evtName === "unload") {
+                        return window.addEventListener("unload", handler);
+                    }
+                    return origAdd.call(this, el, evtName, handler, clientId);
+                };
+                ns.EventManager.__UnloadPatched = true;
+            }
+
+            if (window.RadAjaxNamespace)
+                patchTelerik();
+            else (window.requestIdleCallback || function (cb)
+            {
+                setTimeout(cb, 120);
+            })(patchTelerik);
+        })();
+    </script>
+    <!-- Preconnecting to Google Fonts servers -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+
+    <!-- Defer Roboto font loading to avoid render-blocking -->
+    <script>
+        window.addEventListener('DOMContentLoaded', () => {
+            const robotoLink = document.createElement('link');
+            robotoLink.rel = 'stylesheet';
+            robotoLink.href = 'https://fonts.googleapis.com/css2?family=Roboto:wght@400;500&display=swap';
+            document.head.appendChild(robotoLink);
+        });
+    </script>
+
+    <style>
+        .gm-style, .gm-style * {
+            font-family: 'Roboto', system-ui, -apple-system, "Segoe UI", Arial, sans-serif !important;
+        }
+    </style>
+
+    <script>
+        document.documentElement.className = document.documentElement.className.replace(/\bno-js\b/g, "js");
+    </script>
+    <link href="https://fonts.googleapis.com/css?family=Montserrat:400,600,700|Roboto:400,400i,700&display=swap" rel="stylesheet">
+    
+        
+            <script type="text/javascript">
+                window.__oc_flags_ImprovedBreakpointEventHandling = true;
+            </script>
+            
+        
+    
+    
+    
+        <script type="text/javascript">
+            var __metaQueryBreakpoints = {
+                'sc-size-4': '(max-width: 480px)',
+                'sc-size-3': '(min-width: 480px) and (max-width: 768px)',
+                'sc-size-2': '(min-width: 768px) and (max-width: 992px)',
+                'sc-size-1': '(min-width: 992px)'
+            }
+
+            var __ocSizePoints = [
+                { min: 0, name: 'sc-size-4' },
+                { min: 480, name: 'sc-size-3' },
+                { min: 768, name: 'sc-size-2' },
+                { min: 992, name: 'sc-size-1' }
+            ];
+
+        </script>
+    
+
+    <!-- Framework Section -->
+    
+    <script src="//ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+    <script>window.jQuery || document.write('<script src="/files/templates/00000000-0000-0000-0000-000000000000/b32c9b6c-7400-488a-8246-4bc7b2004122/v/340/jquery-1.12.4.min.js?seamlessts=639263244886473407" ><\/script>')</script>
+
+    <!--Google Maps API Loader – Improved Version to avoid Warning
+    This script loads the Google Maps JavaScript API using a dynamic and async method.
+    It replaces the old static <script> tag to avoid performance warnings from Google.
+
+    Dynamically creates the <script> tag with loading = async for better performance
+    Builds the API URL with required libraries(places, geometry, marker, geocoding)
+    Uses a Promise and callback(google.maps.__ib__) to confirm when the script is ready
+
+    It Avoids Google’s warning about direct script loading
+    Improves page load speed by loading the API asynchronously-->
+
+    
+        <script>
+            (function (root) {
+                root.OpenCities = root.OpenCities || {};
+                if (!root.OpenCities.GoogleMapsLoader) {
+                    root.OpenCities.GoogleMapsLoader = {
+                        _cbs: [],
+                        _ready: false,
+                        onReady: function (cb) {
+                            if (this._ready) { try { cb(); } catch (e) { console.error(e); } }
+                            else if (typeof cb === 'function') this._cbs.push(cb);
+                        },
+                        _fire: function () {
+                            if (this._ready) return;
+                            this._ready = true;
+                            var q = this._cbs.splice(0);
+                            for (var i = 0; i < q.length; i++) {
+                                try { q[i](); } catch (e) { console.error(e); }
+                            }
+                        }
+                    };
+                }
+            })(window);
+
+            (g => {
+                var h, a, k, p = "The Google Maps JavaScript API", c = "google", l = "importLibrary", q = "__ib__",
+                    m = document, b = window;
+                b = b[c] || (b[c] = {});
+                var d = b.maps || (b.maps = {}), r = new Set, e = new URLSearchParams,
+                    u = () => h || (h = new Promise(async (resolve, reject) => {
+                        a = m.createElement("script");
+                        e.set("libraries", [...r] + "");
+                        for (k in g) e.set(k.replace(/[A-Z]/g, t => "_" + t[0].toLowerCase()), g[k]);
+                        e.set("callback", c + ".maps." + q);
+                        a.src = "https://maps." + c + "apis.com/maps/api/js?" + e.toString();
+                        a.loading = "async";
+                        a.async = true;
+                        a.defer = true;
+                        d[q] = resolve;
+                        a.onerror = () => reject(Error(p + " could not load."));
+                        a.nonce = m.querySelector("script[nonce]")?.nonce || "";
+                        m.head.append(a);
+                    }));
+                if (d[l]) {
+                    console.warn(p + " only loads once. Ignoring duplicate load.");
+                } else {
+                    d[l] = (f, ...n) => (r.add(f), u().then(() => d[l](f, ...n)));
+                }
+            })({
+                key: "AIzaSyA2aBqwi49zIS2W3SPecxPWi5QxL2Q53dI",
+                v: "3.65"
+            });
+
+            (async () => {
+                try {
+                    if (!google?.maps?.importLibrary) return;
+
+                    if (!window.OpenCities.__mapsLibsPromise) {
+                        window.OpenCities.__mapsLibsPromise = Promise.all([
+                            google.maps.importLibrary('maps'),
+                            google.maps.importLibrary('places'),
+                            google.maps.importLibrary('geocoding'),
+                            google.maps.importLibrary('marker'),
+                            google.maps.importLibrary('geometry')
+                        ]);
+                    }
+                    await window.OpenCities.__mapsLibsPromise;
+
+                    if (window.OpenCities?.GoogleMapsLoader) {
+                        window.OpenCities.GoogleMapsLoader._fire();
+                    }
+                } catch (err) {
+                    console.error('Google Maps failed to initialise', err);
+                }
+            })();
+        </script>
+    
+    <script src="/files/templates/00000000-0000-0000-0000-000000000000/b32c9b6c-7400-488a-8246-4bc7b2004122/v/340/modernizr.custom.710f3bf.js?seamlessts=639263244886473407" defer></script>
+    <script src="//f1-oc.readspeaker.com/script/11555/webReader/webReader.js?pids=wr" type="text/javascript"></script><script type="text/javascript">window.rsConf = {general: {usePost: true}};</script>
+    <!--// End Framework Section -->
+    <!-- OpenCities Section -->
+    <script>
+        var OpenCities = OpenCities || {};
+        OpenCities.Paths = {
+            SiteTemplate: '/files/templates/00000000-0000-0000-0000-000000000000/b32c9b6c-7400-488a-8246-4bc7b2004122/v/340/',
+            ThemePath: '/files/templates/00000000-0000-0000-0000-000000000000/b32c9b6c-7400-488a-8246-4bc7b2004122/v/340/'
+        };
+    </script>
+    <script src='/ocapi/4e0293ce-16b1-4cc1-b08a-1d0eb416e38a/en-US/websitesettings.js'></script>
+    <script src="/files/templates/00000000-0000-0000-0000-000000000000/b32c9b6c-7400-488a-8246-4bc7b2004122/v/340/oc_head.js?applied=20251008054708"></script>
+    <!-- Script Combine. To enter debug mode for this browser session, enter OcScriptCombineDebug=true as a querystring -->
+<link href="/files/oc-templates/00000000-0000-0000-0000-000000000000/b32c9b6c-7400-488a-8246-4bc7b2004122/v/340/oc_grid.css~oc_style.css~oc_wizard_style.css~oc_main.css~oc_forms.css~oc_wizard.css~oc_wizard_menu.css~oc_main_s1.css~oc_wizard_s1.css~oc_wizard_menu_s1.css~oc_grid_s1.css~OcScriptCombine_Minify0?uniqueid=20251008054708" rel="stylesheet" type="text/css">
+    <!-- Script Combine. To enter debug mode for this browser session, enter OcScriptCombineDebug=true as a querystring -->
+<link href="/files/oc-templates/00000000-0000-0000-0000-000000000000/b32c9b6c-7400-488a-8246-4bc7b2004122/v/340/client_style.css~client.css~client_menu.css~client_s1.css~client_menu_s1.css~client_forms.css~OcScriptCombine_Minify0?uniqueid=20251008054708" rel="stylesheet" type="text/css">
+    <style type="text/css">.background-container
+{
+    background-image:url('/files/assets/public/v/1/templateimages/municipal_building_drone1.jpg?w=480');
+    
+}
+
+@media (min-width: 480px)
+{
+    .background-container
+    {
+      background-image:url('/files/assets/public/v/1/templateimages/municipal_building_drone1.jpg?w=768');
+    }
+}
+@media (min-width: 768px)
+{
+    .background-container
+    {
+      background-image:url('/files/assets/public/v/1/templateimages/municipal_building_drone1.jpg?w=992');
+    }
+}
+@media (min-width: 992px)
+{
+    .background-container
+    {
+      background-image:url('/files/assets/public/v/1/templateimages/municipal_building_drone1.jpg');
+    }
+}
+@media (min-width: 1280px)
+{
+    .background-container
+    {
+      background-image:url('/files/assets/public/v/1/templateimages/municipal_building_drone1.jpg');
+    }
+}
+@media (min-width: 1920px)
+{
+    .background-container
+    {
+      background-image:url('/files/assets/public/v/1/templateimages/municipal_building_drone1.jpg');
+    }
+}
+        </style><script>
+(function (BackgroundSettings, $, undefined) {
+    BackgroundSettings.initialise = function () {
+        this.Application = {"CSSSelector":".background-container","EnableFade":true,"MediaType":"image"};
+    };
+} (OpenCities.BackgroundSettings = OpenCities.BackgroundSettings || {}, jQuery));
+OpenCities.BackgroundSettings.initialise();
+</script>
+    
+    <!-- Script Combine. To enter debug mode for this browser session, enter OcScriptCombineDebug=true as a querystring -->
+<link href="/files/oc-templates/00000000-0000-0000-0000-000000000000/b32c9b6c-7400-488a-8246-4bc7b2004122/v/340/oc_print.css~client_print.css~OcScriptCombine_Minify0?uniqueid=20251008054708" rel="stylesheet" type="text/css" media="print">
+    <!-- Script Combine. To enter debug mode for this browser session, enter OcScriptCombineDebug=true as a querystring -->
+<script src="/files/oc-templates/00000000-0000-0000-0000-000000000000/b32c9b6c-7400-488a-8246-4bc7b2004122/v/340/external_plugins.js~oc_form_helper.js~oc_main.js~plugins.js~oc_main_init.js~OcScriptCombine_Minify0?uniqueid=20251008054708" defer="true"></script>
+    
+    
+
+                                <script>!function(e){var n="https://s.go-mpulse.net/boomerang/";if("False"=="True")e.BOOMR_config=e.BOOMR_config||{},e.BOOMR_config.PageParams=e.BOOMR_config.PageParams||{},e.BOOMR_config.PageParams.pci=!0,n="https://s2.go-mpulse.net/boomerang/";if(window.BOOMR_API_key="DYTCK-JM9C8-ED4EP-C3GGK-Z575H",function(){function e(){if(!r){var e=document.createElement("script");e.id="boomr-scr-as",e.src=window.BOOMR.url,e.async=!0,o.appendChild(e),r=!0}}function t(e){r=!0;var n,t,a,i,d=document,O=window;if(window.BOOMR.snippetMethod=e?"if":"i",t=function(e,n){var t=d.createElement("script");t.id=n||"boomr-if-as",t.src=window.BOOMR.url,BOOMR_lstart=(new Date).getTime(),e=e||d.body,e.appendChild(t)},!window.addEventListener&&window.attachEvent&&navigator.userAgent.match(/MSIE [67]\./))return window.BOOMR.snippetMethod="s",void t(o,"boomr-async");a=document.createElement("IFRAME"),a.src="about:blank",a.title="",a.role="presentation",a.loading="eager",i=(a.frameElement||a).style,i.width=0,i.height=0,i.border=0,i.display="none",o.appendChild(a);try{O=a.contentWindow,d=O.document.open()}catch(_){n=document.domain,a.src="javascript:var d=document.open();d.domain='"+n+"';void 0;",O=a.contentWindow,d=O.document.open()}if(n)d._boomrl=function(){this.domain=n,t()},d.write("<bo"+"dy onload='document._boomrl();'>");else if(O._boomrl=function(){t()},O.addEventListener)O.addEventListener("load",O._boomrl,!1);else if(O.attachEvent)O.attachEvent("onload",O._boomrl);d.close()}function a(e){window.BOOMR_onload=e&&e.timeStamp||(new Date).getTime()}if(!window.BOOMR||!window.BOOMR.version&&!window.BOOMR.snippetExecuted){window.BOOMR=window.BOOMR||{},window.BOOMR.snippetStart=(new Date).getTime(),window.BOOMR.snippetExecuted=!0,window.BOOMR.snippetVersion=14,window.BOOMR.url=n+"DYTCK-JM9C8-ED4EP-C3GGK-Z575H";var i=document.currentScript||document.getElementsByTagName("script")[0],o=i.parentNode,r=!1,d=document.createElement("link");if(d.relList&&"function"==typeof d.relList.supports&&d.relList.supports("preload")&&"as"in d)window.BOOMR.snippetMethod="p",d.href=window.BOOMR.url,d.rel="preload",d.as="script",d.addEventListener("load",e),d.addEventListener("error",function(){t(!0)}),setTimeout(function(){if(!r)t(!0)},3e3),BOOMR_lstart=(new Date).getTime(),o.appendChild(d);else t(!1);if(window.addEventListener)window.addEventListener("load",a,!1);else if(window.attachEvent)window.attachEvent("onload",a)}}(),"".length>0)if(e&&"performance"in e&&e.performance&&"function"==typeof e.performance.setResourceTimingBufferSize)e.performance.setResourceTimingBufferSize();!function(){if(BOOMR=e.BOOMR||{},BOOMR.plugins=BOOMR.plugins||{},!BOOMR.plugins.AK){var n=""=="true"?1:0,t="",a="gm4zheixacris2xqukva-f-ffe2ef8ef-clientnsv4-s.akamaihd.net",i="false"=="true"?2:1,o={"ak.v":"41","ak.cp":"1700496","ak.ai":parseInt("1075935",10),"ak.ol":"0","ak.cr":14,"ak.ipv":4,"ak.proto":"http/1.1","ak.rid":"72dc8973","ak.r":51636,"ak.a2":n,"ak.m":"dscb","ak.n":"essl","ak.cport":30728,"ak.gh":"2.23.85.136","ak.quicv":"","ak.tlsv":"tls1.3","ak.0rtt":"","ak.0rtt.ed":"","ak.csrc":"-","ak.acc":"bbr","ak.t":"1794155178","ak.ak":"hOBiQwZUYzCg5VSAfCLimQ==ypEVZXTr9i+EN50xUECbJz6bB55MsiC7tsCEGcvsBc/kepurRfwulUzBnvHwJ3aOYLnfZbKnf+KF7kKRIeayWGrihauY2Ut4wechqa4yQ9h5nDfaeaT3bcBtthP4mZJVAE3y/O/D6ZM3j4gZ141uae7+vMCjVJTqMhoc8SL+j/wuETr2hh+meej7e0hIP1c7VeaD6tSmv3AldDT8tVXUm473F9et0ddWIXOUAfedl43hQyQI81i2eH/df1dYVT1kjCdw3gllhadHa2eG5CnzM/nvxjNCpilAcxBrdo4tRcbsFimf6Dz7X26GucyG5+BuAKcBpZxe3N9+3ijYW70OyjJccLFks0egTbsHV9vPWpbO1GYzQQ4wAaCYIsNdJAtWY7u2P5+ex4gNcR9jO7jHfIaoUUokKZUFmpYTs+ZzJVg=","ak.pv":"362","ak.dpoabenc":"","ak.tf":i};if(""!==t)o["ak.ruds"]=t;var r={i:!1,av:function(n){var t="http.initiator";if(n&&(!n[t]||"spa_hard"===n[t]))o["ak.feo"]=void 0!==e.aFeoApplied?1:0,BOOMR.addVar(o)},rv:function(){var e=["ak.cport","ak.cr","ak.csrc","ak.gh","ak.ipv","ak.m","ak.n","ak.ol","ak.proto","ak.quicv","ak.tlsv","ak.0rtt","ak.0rtt.ed","ak.r","ak.acc","ak.t","ak.tf"];BOOMR.removeVar(e)}};BOOMR.plugins.AK={akVars:o,akDNSPreFetchDomain:a,init:function(){if(!r.i){var e=BOOMR.subscribe;e("before_beacon",r.av,null,null),e("onbeacon",r.rv,null,null),r.i=!0}return this},is_complete:function(){return!0}}}}()}(window);</script></head>
+<body class="body layout-modern  site-search-always-visble  content-type-oc-landing-page content-template-oc-3-columns group-template-oc-full-width-with-default-header page-name-city-council page-sequence-2 page-depth-2 page-section-4 website-type-primary device-desktop " id="body-top">
+    <div id="skip-to-content-container">
+        <a href="#main-content" class="visuallyhidden focusable" id="skip-to-content-link">Skip to main content</a>
+    </div>
+    <script>
+        // OCNOW-11988 (Cursor): Proactively focus skip link when returning from browser chrome.
+        // Must run inline (not deferred oc_main.js) so focus is intercepted before NVDA speaks footer.
+        (function () {
+            var awaitingReentry = false;
+            var inertSupported = 'inert' in HTMLElement.prototype;
+
+            function isExplicitlyOutsideDocument(node) {
+                return node != null && !document.documentElement.contains(node);
+            }
+
+            function getSkipContainer() {
+                return document.getElementById('skip-to-content-container');
+            }
+
+            function getSkipLink() {
+                return document.getElementById('skip-to-content-link');
+            }
+
+            function applyGuard() {
+                awaitingReentry = true;
+                if (!inertSupported) {
+                    return;
+                }
+                var skipContainer = getSkipContainer();
+                var children = document.body.children;
+                for (var i = 0; i < children.length; i++) {
+                    if (children[i] !== skipContainer) {
+                        children[i].setAttribute('inert', '');
+                    }
+                }
+            }
+
+            function clearGuard() {
+                awaitingReentry = false;
+                if (!inertSupported) {
+                    return;
+                }
+                var children = document.body.children;
+                for (var i = 0; i < children.length; i++) {
+                    children[i].removeAttribute('inert');
+                }
+            }
+
+            function isSkipLinkElement(target) {
+                if (!target) {
+                    return false;
+                }
+                var skipContainer = getSkipContainer();
+                return target.id === 'skip-to-content-link' ||
+                    (skipContainer && skipContainer.contains(target));
+            }
+
+            function focusSkipLink() {
+                var skipLink = getSkipLink();
+                if (!skipLink) {
+                    return;
+                }
+                if (window.scrollY > 0) {
+                    window.scrollTo(0, 0);
+                }
+                skipLink.focus({ preventScroll: true });
+            }
+
+            function scheduleGuardIfDocumentLostFocus() {
+                window.setTimeout(function () {
+                    if (!document.hasFocus()) {
+                        applyGuard();
+                    }
+                }, 0);
+            }
+
+            document.addEventListener('focusout', function (e) {
+                if (isExplicitlyOutsideDocument(e.relatedTarget)) {
+                    applyGuard();
+                }
+            }, true);
+
+            document.addEventListener('keydown', function (e) {
+                if (e.key === 'Tab') {
+                    scheduleGuardIfDocumentLostFocus();
+                } else if (e.key === 'F6' || (e.key === 'l' && e.ctrlKey)) {
+                    scheduleGuardIfDocumentLostFocus();
+                }
+            }, true);
+
+            window.addEventListener('focus', function () {
+                if (!awaitingReentry) {
+                    return;
+                }
+                applyGuard();
+                focusSkipLink();
+            }, true);
+
+            document.addEventListener('focusin', function (e) {
+                var reentryFromChrome = awaitingReentry || isExplicitlyOutsideDocument(e.relatedTarget);
+                if (!reentryFromChrome) {
+                    return;
+                }
+                if (isSkipLinkElement(e.target)) {
+                    clearGuard();
+                    return;
+                }
+                applyGuard();
+                focusSkipLink();
+                clearGuard();
+            }, true);
+        })();
+    </script>
+    <form name="mainForm" method="post" action="/Your-Government/City-Council" id="mainForm">
+<input type="hidden" name="ctl04_seamless_script_manager_TSM" id="ctl04_seamless_script_manager_TSM" value="" />
+<input type="hidden" name="__SEAMLESSVIEWSTATE" id="__SEAMLESSVIEWSTATE" value="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" />
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="" />
+
+
+<script src="/Telerik.Web.UI.WebResource.axd?_TSM_HiddenField_=ctl04_seamless_script_manager_TSM&amp;compress=1&amp;_TSM_CombinedScripts_=%3b%3bSystem.Web.Extensions%2c+Version%3d4.0.0.0%2c+Culture%3dneutral%2c+PublicKeyToken%3d31bf3856ad364e35%3aen-GB%3add3ac3d5-1e29-4112-8fed-529caffa8f24%3aea597d4b%3bOpenCities.CustomControls%3aen-GB%3a7197b077-b068-4a69-9481-a6cf2e7718f9%3a8e1d32bf" type="text/javascript"></script>
+<script src="/ScriptResource.axd?d=EYVjNsQ7oYmzBqCI0dkEyYe0LYmPcVFL4WPcQCXhKfQwUqkAT7lLra0za-OLMuUUcCyPINdTVMHIWti96-8R_oN-trjXUUZnJRzckxTjid4ecctwwEJyNI-05jZYvXHBRiEKL0MUQMEyEJ2FXanyE1uBk88RxZ1wVK6AUn9D4v8rW-LNx2OOtB8vE3hC8P0jk4XZt7GAPiCeYQolxUlwFZA8cuOfgd4u08OASxFdh8mChz3A0YHhuwRrXGVlulfs9SJVkAvulhjdHYIIp1SRohDxt9acTwxUQrOlxuxC847b00zOOWg9SlpwD_iBuQQ1rOK9WH9O_wN9c2TXm4GeXaQHHT4yQ9IlzZXw6th8ch3f-k_n1yYeeurDMbwChXW1Vh_7rpu00kgmegsg9w2J3ququXIPfy2Gq8IscVTmtwouupfmUzAOicU_yESgQ-dG0" type="text/javascript"></script>
+    
+<script type="text/javascript">
+    try{
+        function SeamlessEndRequestHandler(sender, args) {
+            try {
+                var dataItems = args.get_dataItems();
+                if(dataItems.ctl04_seamless_script_manager)
+                    document.getElementById('__SEAMLESSVIEWSTATE').value = dataItems.ctl04_seamless_script_manager;
+            }
+            catch (e) { }
+        }
+
+        Sys.WebForms.PageRequestManager.getInstance().add_endRequest(SeamlessEndRequestHandler);
+    }
+    catch (e) { }
+</script>
+
+    <div class="unsupported-browser-warning js-element"></div>
+    
+    <div hidden>
+        <span id="new-window-0">opens in new tab or window </span>
+    </div>
+    <div class="overlay-container"></div>
+    
+    <div class="background-container">
+        <div class="page-container">
+            <!-- OC Layout Element GROUP TEMPLATE -->
+            <!--groupTemplateStart--><header><div class="print-header-outer-container print-element">
+<img src="/files/templates/00000000-0000-0000-0000-000000000000/b32c9b6c-7400-488a-8246-4bc7b2004122/v/339/CHEY_Logo_Primary_White.svg" alt="City of Cheyenne - Logo" />
+</div>
+            <div class="toolbar-outer-container">
+  <div class="toolbar-inner-container clearfix">
+    <div class="toolbar-item toolbar-language notranslate toolbar-display-dropdown"><div class="no-js-element">
+		  <ul>
+		    <li id="toolbar-language-option-en-us-noscript"><a href="https://www.cheyennecity.org/Your-Government/City-Council?oc_lang=en-US" class="lang-item lang-en-us" data-translate-to="en-us" lang="en-US">English (United States)<span class="visuallyhidden"> Select this as your preferred language</span></a></li><li id="toolbar-language-option-es-noscript"><a href="https://www.cheyennecity.org/Your-Government/City-Council?oc_lang=es" class="lang-item lang-es" data-translate-to="es" lang="en">Spanish<span class="visuallyhidden"> Select this as your preferred language</span></a></li>
+          </ul>
+		</div>
+	<button type="button" role="combobox" aria-controls="toolbar-language-drop-down" aria-expanded="false" aria-haspopup="listbox" aria-autocomplete="none" aria-labelledby="toolbar-language-label" class="toolbar-button toolbar-button-language js-element">  
+        <span class="toolbar-language-globe-icon" aria-hidden="true"></span>
+        <span id="toolbar-language-label" class="current-language">
+            Select a language to translate to
+		</span>
+		<i aria-hidden="true"></i>
+	</button>
+	<div id="toolbar-language-drop-down" role="listbox" aria-label="Available languages" class="toolbar-drop-down toolbar-language-drop-down js-element clearfix">
+		<ul role="group">
+		    <li role="presentation"><a id="toolbar-language-option-en-us" role="option" aria-selected="true" href="https://www.cheyennecity.org/Your-Government/City-Council?oc_lang=en-US" class="lang-item lang-en-us" data-translate-to="en-us" lang="en-US">English (United States)<span class="visuallyhidden"> Select this as your preferred language</span></a></li><li role="presentation"><a id="toolbar-language-option-es" role="option" aria-selected="false" href="https://www.cheyennecity.org/Your-Government/City-Council?oc_lang=es" class="lang-item lang-es" data-translate-to="es" lang="en">Spanish<span class="visuallyhidden"> Select this as your preferred language</span></a></li>
+        </ul>
+	</div></div>
+  </div>
+</div>
+            <div class="header-outer-container">
+    <div class="header-container header-layout-3  clearfix">
+			<div class="header-site-logo">
+				<a href="https://www.cheyennecity.org/Home" lang="en-US" aria-label="City of Cheyenne - Home - Logo">
+				</a>
+			</div>
+      
+		    <div class="mobile-search-btn js-element">
+		        <button><i aria-hidden="true"></i><span class="mobile-search-btn-text"><span class="visuallyhidden">Open </span>Search</span></button>
+		    </div>
+		    <div class="header-website-settings">
+                <button id="btn-mob-nav" type="button" aria-expanded="false" aria-controls="nav">
+                    <i aria-hidden="true"></i><span class="side-menu-btn-text">Menu</span>
+                </button>
+        	</div>
+          <div class="navigation-outer-container">
+	<div id="nav" role="navigation" class="navigation-container  navigation-container-option-7" data-menu-type="horizontal" aria-label="primary">
+        <div class="grid">
+            <div class="col-xs-12">              
+                <ul class="sf-menu" id="sc-main-menu"><li class="nav-section-quarters-1 nav-active-path  first-item nav-item-seq-1">
+<a href="https://www.cheyennecity.org/Your-Government" class="nav-level-1 nav-has-children"  target="">
+	<i class="item-icon" aria-hidden="true"></i><span class="item-text">Your Government</span>
+</a>
+<button aria-label="Expand" aria-haspopup="true" class="mobnav-subarrow" aria-controls="sc-menu-second-level-nav-item-seq-1">
+              <i aria-hidden="true"></i>
+              </button>
+<ul id="sc-menu-second-level-nav-item-seq-1">
+
+          
+            <li class=" "><a  href="https://www.cheyennecity.org/Your-Government/Mayor" class="nav-has-children"  target="">Mayor Patrick Collins</a><button aria-label="Expand" aria-haspopup="true" class="mobnav-subarrow-child" aria-controls="sc-menu-third-level-nav-item-seq-1-nav-item-seq-1"><i aria-hidden="true"></i>
+              </button>
+<ul id="sc-menu-third-level-nav-item-seq-1-nav-item-seq-1">
+          
+            <li  class=" "><a href="https://www.cheyennecity.org/Your-Government/Mayor/Cheyenne-Mayors"  target="">Cheyenne Mayors</a></li></ul></li><li class="nav-active-path nav-active-page"><a  href="https://www.cheyennecity.org/Your-Government/City-Council" class="nav-has-children"  target="">City Council</a><button aria-label="Expand" aria-haspopup="true" class="mobnav-subarrow-child" aria-controls="sc-menu-third-level-nav-item-seq-1-nav-item-seq-2"><i aria-hidden="true"></i>
+              </button>
+<ul id="sc-menu-third-level-nav-item-seq-1-nav-item-seq-2">
+          
+            <li  class=" "><a href="https://www.cheyennecity.org/Your-Government/City-Council/Committees"  target="">Committee Information</a></li><li  class=" "><a href="https://www.cheyennecity.org/Your-Government/City-Council/Minutes-and-Agendas"  target="">Minutes and Agendas</a></li></ul></li><li class=" "><a  href="https://www.cheyennecity.org/Your-Government/Boards-Commissions" class=""  target="">Boards / Commissions</a></li><li class=" "><a  href="https://www.cheyennecity.org/Your-Government/Departments" class="nav-has-children"  target="">Departments</a><button aria-label="Expand" aria-haspopup="true" class="mobnav-subarrow-child" aria-controls="sc-menu-third-level-nav-item-seq-1-nav-item-seq-4"><i aria-hidden="true"></i>
+              </button>
+<ul id="sc-menu-third-level-nav-item-seq-1-nav-item-seq-4">
+          
+            <li  class=" "><a href="https://www.cheyennecity.org/Your-Government/Departments/Attorney"  target="">City Attorney</a></li><li  class=" "><a href="https://www.cheyennecity.org/Your-Government/Departments/City-Clerk"  target="">City Clerk</a></li><li  class=" "><a href="https://www.cheyennecity.org/Your-Government/Departments/City-Engineer"  target="">City Engineer</a></li><li  class=" "><a href="https://www.cheyennecity.org/Your-Government/Departments/Community-Recreation-Events"  target="">Community Recreation & Events</a></li><li  class=" "><a href="https://www.cheyennecity.org/Your-Government/Departments/Cheyenne-Fire-Rescue"  target="">Cheyenne Fire Rescue</a></li><li  class=" "><a href="https://www.cheyennecity.org/Your-Government/Departments/Human-Resources"  target="">Human Resources</a></li><li  class=" "><a href="https://www.cheyennecity.org/Your-Government/Departments/Planning-and-Development-Department"  target="">Planning and Development</a></li><li  class=" "><a href="https://www.cheyennecity.org/Your-Government/Departments/Public-Works"  target="">Public Works</a></li><li  class=" "><a href="https://www.cheyennecity.org/Your-Government/Departments/City-Treasurer"  target="">City Treasurer</a></li><li  class=" "><a href="https://www.cheyennecity.org/Your-Government/Departments/Compliance-Department"  target="">Compliance Department</a></li><li  class=" "><a href="https://www.cheyennecity.org/Your-Government/Departments/Mayors-Office"  target="">Mayor's Office</a></li><li  class=" "><a href="https://www.cheyennecity.org/Your-Government/Departments/Police-Department"  target="">Police Department</a></li></ul></li><li class=" "><a  href="https://www.cheyennecity.org/Your-Government/Demographics" class=""  target="_blank">Demographics</a></li><li class=" "><a  href="https://www.cheyennecity.org/Your-Government/Sister-Cities" class=""  target="">Sister Cities</a></li><li class=" "><a  href="https://www.cheyennecity.org/Your-Government/Cemetery-Complex" class=""  target="">Cemetery Complex</a></li><li class=" "><a  href="https://www.cheyennecity.org/Your-Government/Municipal-Court" class=""  target="">Municipal Court</a></li><li class=" "><a  href="https://www.cheyennecity.org/Your-Government/Municipal-Elections" class=""  target="_self">Municipal Elections</a></li><li class=" "><a  href="https://www.cheyennecity.org/Your-Government/Youth-Alternatives" class=""  target="_self">Youth Alternatives</a></li><li class=" "><a  href="https://www.cheyennecity.org/Your-Government/Connect-Cheyenne-Engage-Explore-and-Discover" class=""  target="">Connect Cheyenne: Engage, Explore, and Discover</a></li></ul></li>
+          
+            <li class="nav-section-quarters-1   nav-item-seq-2">
+<a href="https://www.cheyennecity.org/Business" class="nav-level-1 "  target="">Business</a>
+</li>
+          
+            <li class="nav-section-quarters-2   nav-item-seq-3">
+<a href="https://www.cheyennecity.org/Services" class="nav-level-1 nav-has-children"  target="">Services</a>
+<button aria-label="Expand" aria-haspopup="true" class="mobnav-subarrow" aria-controls="sc-menu-second-level-nav-item-seq-3">
+              <i aria-hidden="true"></i>
+              </button>
+<ul id="sc-menu-second-level-nav-item-seq-3">
+
+          
+            <li class=" "><a  href="https://www.cheyennecity.org/Services/Building-Safety" class=""  target="_self">Building Safety</a></li></ul></li>
+          
+            <li class="nav-section-quarters-2   nav-item-seq-4">
+<a href="https://www.cheyennecity.org/Explore-Cheyenne" class="nav-level-1 "  target="">Explore</a>
+</li>
+          
+            <li class="nav-section-quarters-3   nav-item-seq-5">
+<a href="https://www.cheyennecity.org/I-Want-To" class="nav-level-1 "  target="">I Want To</a>
+</li>
+          
+            </ul>
+            </div>
+        </div>
+    </div>
+</div>
+			
+			<div class="header-search-control-container" id="header-search">
+				<div class="search-inner-container">
+					<div class="sc-search-panel">
+	<label for="ctl08_txtSearch" id="ctl08_lblSearch" class="sc-search-label">Search</label><input name="ctl08$txtSearch" type="text" id="ctl08_txtSearch" class="sc-search-text" placeholder="How can we help you?" /><input type="submit" name="ctl08$btnSearch" value="Search" id="ctl08_btnSearch" class="sc-search-button" />
+</div>
+					<div role="status" id="predictiveResults"></div>
+				</div>
+			</div>
+    </div>
+</div>
+
+            </header>
+            <div class="content-outer-container">
+                <div id="main" role="main" class="main-outer-container clearfix">
+                        
+                        <div class="content-main-container">
+                            <div class="grid">
+					            <div class="col-xs-12">
+						            <nav id="breadcrumbs-container" aria-label="You Are Here :">
+							            <span role="list">
+<span role="listitem">
+	<a href="https://www.cheyennecity.org/Home"  lang="en-US">Home</a>
+	<span class="nav-separator" aria-hidden="true" role="presentation">/</span>
+</span>
+          <span role="listitem"><a href="https://www.cheyennecity.org/Your-Government" >Your Government</a><span class='nav-separator' aria-hidden="true" role="presentation">/</span></span><span class="current-page" role="listitem" aria-current="page" >City Council</span></span>
+						            </nav>
+					            </div>
+                      
+					            <div class="col-xs-12">
+						            <div class="main-inner-container">
+							            <div id="main-content" class="main-container clearfix">
+							              <div id="readspeaker_button_default" class="rs_skip rsbtn rs_preserve rs_position_left">
+    <a rel="nofollow" class="rsbtn_play" accesskey="L" title="Listen to this page using ReadSpeaker" href="//app-oc.readspeaker.com/cgi-bin/rsent?customerid=11555&amp;lang=en_us&amp;readid=main-content&amp;url=https%3A%2F%2Fwww.cheyennecity.org%2FYour-Government%2FCity-Council">
+        <span class="rsbtn_left rsimg rspart"><span class="rsbtn_text"><span>Listen</span></span></span>
+        <span class="rsbtn_right rsimg rsplay rspart"></span>
+    </a>
+</div>
+                            <!-- OC Layout Element Conent Template -->
+							              <!--normalTemplateStart--><h1 class='oc-page-title '>City Council</h1>
+<div class="clearfix">
+    
+      
+       <picture>
+  <source media="(min-width: 992px)" srcset="/files/assets/public/v/1/templateimages/city-council-chambers.jpg?dimension=pageimage&w=480">
+  <source media="(min-width: 768px)" srcset="/files/assets/public/v/1/templateimages/city-council-chambers.jpg?dimension=pageimage&w=480">
+  <source srcset="/files/assets/public/v/1/templateimages/city-council-chambers.jpg?dimension=pageimage&w=480">
+  <img class="main-page-image" src="/files/assets/public/v/1/templateimages/city-council-chambers.jpg?dimension=pageimage&w=480" alt="City Council Chambers" />
+</picture> 
+      
+
+    <h4>Governing Body</h4>
+<div>The City of Cheyenne operates as a Mayor-Council form of government and is classified as a first class City pursuant to Wyoming Statutes. The Cheyenne City Council is composed of nine members elected on a non-partisan basis. Three Council persons are elected from each of the three wards established within the City and serve staggered four-year terms. At the first regularly scheduled meeting of each year, a president and vice president are elected from among Council members to serve a one-year term.<br />
+<br />
+The Governing Body is comprised of all nine Council members and the Mayor, who is elected at-large for a four-year term. The Mayor is a full-time position.</div>
+<div>&nbsp;</div>
+<h4>Responsibility</h4>
+<div>
+<div>
+<div>The Governing Body serves as the City's legislative body, having responsibility including:&nbsp;
+<div>
+<ul>
+<li>Enacting ordinances</li>
+<li>Approving City growth and development</li>
+<li>Establishing rules and regulations</li>
+<li>Appropriating funds to conduct City business</li>
+</ul>
+<p>&nbsp;</p>
+<div data-layout="3" data-title-level="2" class="featured-links featured-links-option-3">
+<div class="featured-links-body clearfix">
+<ul class="clearfix">
+<li><a class="featured-link" href="https://www.cheyennecity.org/Your-Government/City-Council/City-Council-Meetings" target="">City Council Meetings</a></li>
+<li><a class="featured-link" href="https://www.cheyennecity.org/Your-Government/City-Council/Committees" target="">Committee</a></li>
+<li><a class="featured-link" href="https://www.cheyennecity.org/Your-Government/City-Council/City-Wards-Map" target="">City Wards Map</a></li>
+<li><a class="featured-link" href="https://www.cheyennecity.org/Your-Government/City-Council/City-Council-Members" target="">City Council Members</a></li>
+<li><a class="featured-link" href="https://www.cheyennecity.org/Your-Government/City-Council/Former-City-Council-Members?transfer=90090de2-e91f-40d5-b11e-cec22025ae74" target="">Former City Council Members</a></li>
+<li><a class="featured-link" href="https://www.cheyennecity.org/Your-Government/City-Council/City-Council-Meeting-Videos" target="">City Council Meeting Videos</a></li>
+<li><a class="featured-link" href="https://www.cheyennecity.org/Your-Government/City-Council/Minutes-and-Agendas" target="">City Council Minutes and Agendas</a></li>
+</ul>
+</div>
+</div>
+&nbsp;&nbsp;&nbsp;
+<div data-type="0" data-title-level="2" class="oc-wysiwyg-container">
+<div class="oc-wysiwyg-container-panel">
+<h2>2024 Council Priorities</h2>
+<div class="oc-wysiwyg-container-panel-content">
+<p style="text-align: center"><strong>2024 City Council Priorities</strong></p>
+<p style="text-align: center">&nbsp;</p>
+<p><strong>Pumphouse</strong></p>
+<p>Council Champion: Laybourn</p>
+<p>Specific Goals:</p>
+<p>- Secure and prevent further deterioration</p>
+<p>- Begin process of finding tenant</p>
+<p>&nbsp;</p>
+<p>Measures of Success:</p>
+<p>- Pumphouse mothballed</p>
+<p>- Tenant negotiations in progress</p>
+<p>&nbsp;</p>
+<p>Project website: <a href="https://www.cheyennecity.org/pumphouse">www.cheyennecity.org/pumphouse</a></p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p><strong>15th Street Project</strong></p>
+<p>Council Champion: White</p>
+<p>Specific Goals:</p>
+<p>- Support current project to move railcars</p>
+<p>- Get contract in place</p>
+<p>- Schedule work session</p>
+<p>&nbsp;</p>
+<p>Measures of Success:</p>
+<p>- Specific plan in place for placing railcars</p>
+<p>- Review of current plans</p>
+<p>- Work session held</p>
+<p>&nbsp;</p>
+<p>Project website: TBA</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p><strong>Belvoir Ranch</strong></p>
+<p>Council Champion: Roybal</p>
+<p>Specific Goals:</p>
+<p>- Trail system established</p>
+<p>- Work session</p>
+<p>- Explore solar power</p>
+<p>&nbsp;</p>
+<p>Measures of Success:</p>
+<p>- Construction of trail system</p>
+<p>- Work session held</p>
+<p>- Decision on whether to move forward with solar power</p>
+<p>&nbsp;</p>
+<p>Project website: <a href="http://www.cheyennecity.org/belvoir">www.cheyennecity.org/belvoir</a></p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p><strong>&nbsp;</strong></p>
+<p><strong>Reed Avenue</strong></p>
+<p>Council Champion: Esquibel</p>
+<p>Specific Goals:</p>
+<p>- Locate underground utilities (Contractor hired Jan. 2024)</p>
+<p>- Closure of crossings at 18th and 21st streets</p>
+<p>&nbsp;</p>
+<p>Measures of Success:</p>
+<p>- Secure grants for crossing elimination</p>
+<p>- Complete design concept</p>
+<p>- Work session held</p>
+<p>&nbsp;</p>
+<p>Project website: <a href="http://www.cheyennecity.org/reed">www.cheyennecity.org/reed</a></p>
+<p>&nbsp;</p>
+</div>
+</div>
+<div class="oc-wysiwyg-container-panel">
+<h2>2025 Council Priorities</h2>
+<div class="oc-wysiwyg-container-panel-content">
+<p style="text-align: center;"><strong>2025 City Council Priorities</strong></p>
+<p>&nbsp;</p>
+<p style="text-align: left;"><strong>Explore new revenue streams</strong></p>
+<p>Council Champions: Aldrich, Esquibel, Emmons</p>
+<p>Council seeks to identify new potential revenue sources for the City. Specifically, this goal includes:</p>
+<ul>
+<li>Assembling an independent study to analyze potential revenue sources,</li>
+<li>Reviewing City-owned real property,</li>
+<li>Assessing current fees for City services, and</li>
+<li>Exploring ways to reduce costs, and</li>
+<li>Exploring new ways to use City property to generate revenue.</li>
+</ul>
+<p>&nbsp;</p>
+<p style="text-align: left;"><strong>Ensure resources are available to address traffic violations and road safety</strong></p>
+<p>Council Champions: Laybourn, White, Moody</p>
+<p>Council seeks to ensure that the Cheyenne Police Department and other City departments have the resources to address traffic violations in the community. Components of this goal include:</p>
+<ul>
+<li>Addressing if current City ordinances can be updated to better address issues,</li>
+<li>Submitting a resolution of support to the Wyoming Association of Municipalities requesting the Legislature to allow cities and towns to reduce urban speed limits,</li>
+<li>Holding public engagement opportunities to allow residents to provide feedback on traffic and nuisance violations, and</li>
+<li>Exploring adding traffic calming devices and reviewing current street design to promote traffic safety for all users.</li>
+</ul>
+<p>&nbsp;</p>
+<p style="text-align: left;"><strong>Identify a plan to develop the east end of the Belvoir Ranch</strong></p>
+<p>Council Champions: Segrave, Roybal</p>
+<p>Council would like to explore development opportunities for the east end of the Belvoir Ranch, which is located near Otto Road. This would not affect existing or planned uses on other sections of the Belvoir, including the trail network under construction. This goal includes:</p>
+<ul>
+<li>Identifying access opportunities,</li>
+<li>Reviewing potential land exchanges, and</li>
+<li>Exploring solar power generation opportunities with the possibility of a third-party partnership.</li>
+</ul>
+<p style="text-align: left;"><strong>Identify 6th Penny projects</strong></p>
+<p>Council Champion: Laybourn, Rinne</p>
+<p>The current specific purpose option tax in Laramie County (known as the 6th Penny) is expected to expire within the next 18 months (as of February 2025). Council plans to identify a list of City projects to submit for consideration on the next 6th Penny ballot that will go to voters. This goal includes:</p>
+<ul>
+<li>Identifying a list of projects by the end of Summer 2025, and</li>
+<li>Encouraging public feedback on the proposed list.</li>
+</ul>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+</div>
+</div>
+<div class="oc-wysiwyg-container-panel">
+<h2>2026 Council Priorities</h2>
+<div class="oc-wysiwyg-container-panel-content">
+<p style="text-align: center;"><strong>2026 City Council Priorities</strong></p>
+<p><strong>&nbsp;</strong></p>
+<p><strong>6th Penny Education and Public Outreach:</strong> Council members will develop a plan to educate voters about upcoming 6th Penny ballot initiatives.</p>
+<p><strong>Improve the City&rsquo;s public information strategy:</strong> Council will work with City staff to identify ways to improve public engagement and outreach and develop a plan to execute that strategy.</p>
+<p><strong>Complete previous projects and goals:</strong> Council will focus on completing projects and goals that have outstanding action items and explore options for a project tracking system.</p>
+<p>&nbsp;</p>
+</div>
+</div>
+</div>
+&nbsp;&nbsp;&nbsp;
+<p>&nbsp;</p>
+</div>
+</div>
+</div>
+</div>
+
+
+</div>
+<div class="landing-page-nav landing-3-col">
+<div class="grid">
+          <div class="col-xs-12 col-m-4">
+	<div class="list-item-container landing-3-col nav-item-seq-1">		
+		<a href="https://www.cheyennecity.org/Your-Government/City-Council/Committees"  target="" >
+		<h2 class="list-item-title">Committee Information</h2>
+		<p>
+			
+		</p>
+		</a>
+	</div>	
+</div>
+          <div class="col-xs-12 col-m-4">
+	<div class="list-item-container landing-3-col nav-item-seq-2">		
+		<a href="https://www.cheyennecity.org/Your-Government/City-Council/Minutes-and-Agendas"  target="" >
+		<h2 class="list-item-title">Minutes and Agendas</h2>
+		<p>
+			This page contains meeting information for City Council, Finance Committee, Public Services Committee, Committee of the Whole, and Work Sessions
+		</p>
+		</a>
+	</div>	
+</div>
+          </div>
+</div>
+          
+
+
+<!--normalTemplateEnd-->
+                            
+                            
+                            
+							            </div>
+						            </div>
+					            </div>
+                        <div class="col-xs-12">
+					            	<div class="share-page-container share-page-link-center share-page-link-small share-page-link-rounded share-page-link-labeled" data-item-id="4e0293ce-16b1-4cc1-b08a-1d0eb416e38a" id="share-page-container clearfix">
+                                        <section aria-labelledby="share-page-info-label">
+                                            <span id="share-page-info-label" class="share-page-info">Share</span><ul class="share-page-links no-translate"><li><a href="https://www.facebook.com/sharer/sharer.php?u=https%3a%2f%2fwww.cheyennecity.org%2fYour-Government%2fCity-Council" target="{ShareTarget}" class="share-page-link share-page-link-facebook" data-channel="facebook" data-channel-id="1"><i aria-hidden="true"></i><span class="share-page-link-name share-page-link-name-facebook">Facebook</span></a></li><li><a href="https://twitter.com/share?url=https%3a%2f%2fwww.cheyennecity.org%2fYour-Government%2fCity-Council" target="_blank" class="share-page-link share-page-link-x" data-channel="x" data-channel-id="2"><i aria-hidden="true"></i><span class="share-page-link-name share-page-link-name-x">X</span></a></li><li><a href="mailto:?Body=https%3a%2f%2fwww.cheyennecity.org%2fYour-Government%2fCity-Council" target="_self" class="share-page-link share-page-link-email" data-channel="email" data-channel-id="3"><i aria-hidden="true"></i><span class="share-page-link-name share-page-link-name-email">Email</span></a></li><li><a href="#" target="_self" class="share-page-link share-page-link-print" data-channel="print" data-channel-id="5"><i aria-hidden="true"></i><span class="share-page-link-name share-page-link-name-print">Print</span></a></li></ul>
+                                        </section>
+                                    </div></div>
+                            </div>
+                        </div>
+                        <div class="back-to-top-container text-center">
+                            <a href="#body-top" id="back-to-top"><i aria-hidden="true"></i><span class="js-visuallyhidden">Back to top</span></a>
+                        </div>
+                </div>
+            </div><!--groupTemplateEnd-->
+            <footer>
+                
+                    <div class="footer-outer-container footer-first-row">
+                        <div class="footer-container clearfix">
+                            <div class="grid grid-pad">
+                                <div class="col-xs-12 col-s-6 col-m-4 col-lg-4 visuallyhidden" >
+	
+	<h2>Site Footer</h2>
+
+
+	
+	
+</div><div class="col-xs-12 col-s-12 col-m-6 col-lg-4" >
+	
+			<h2 class="visuallyhidden">Site Footer</h2>
+			<h3 class="footer-title">Contact</h3>
+			
+	<p>City of Cheyenne<br />
+2101 O'Neil Ave.<br />
+Cheyenne, WY 82001</p>
+<p><a href="tel:3076376200">(307) 637-6200</a> - Telephone<br />
+<a href="tel:711">7-1-1</a> or <a href="tel:18008779965">1-800-877-9965</a> - TTY to Voice</p>
+
+
+	
+	
+</div><div class="col-xs-12 col-s-12 col-m-6 col-lg-4" >
+	
+			<h2 class="visuallyhidden">Site Footer</h2>
+			<h3 class="footer-title">Social Media</h3>
+			
+	
+	<ul class="footer-links with-icons social-media-links">  <li class="footer-link-facebook">
+	<a href="https://www.facebook.com/CityOfCheyenne" target="_blank"  >
+<i aria-hidden="true"></i>Facebook
+</a>
+</li>
+          <li class="footer-link-twitter">
+	<a href="https://twitter.com/CityOfCheyenne" target="_blank"  >
+<i aria-hidden="true"></i>Twitter
+</a>
+</li>
+          <li class="footer-link-instagram">
+	<a href="https://www.instagram.com/cityofcheyenne/" target="_blank"  >
+<i aria-hidden="true"></i>Instagram
+</a>
+</li>
+          <li class="footer-link-youtube">
+	<a href="https://www.youtube.com/user/TheCityofCheyenne" target="_blank"  >
+<i aria-hidden="true"></i>YouTube
+</a>
+</li>
+          <li class="footer-link-">
+	<a href="https://www.flickr.com/people/cityofcheyenne/" target="_blank"  >
+<i aria-hidden="true"></i>Flickr
+</a>
+</li>
+          <li class="footer-link-">
+	<a href="https://www.linkedin.com/company/cityofcheyenne/" target="_blank"  >
+<i aria-hidden="true"></i>LinkedIn
+</a>
+</li>
+           </ul>
+	
+</div>
+                            </div>
+                        </div>
+                    </div>
+                
+                <div class="footer-outer-container footer-second-row">
+                    <div class="footer-container clearfix">
+                        <div class="grid grid-pad footer-secondary-links">
+                            <div class="col-xs-12 col-m-7">
+                                
+                                    <div>&nbsp;| <a href="https://www.cheyennecity.org/Site-Footer/Sub-Footer-Links/Accessibility-Statement" target="_self"  >Accessibility Statement</a>&nbsp;| &nbsp;| <a href="https://www.cheyennecity.org/Site-Footer/Sub-Footer-Links/Privacy-Statement" target="_self"  >Privacy Statement</a>&nbsp;| &nbsp;| <a href="https://www.cheyennecity.org/Site-Footer/Sub-Footer-Links/Translation-Disclaimer" target="_self"  >Translation Disclaimer</a>&nbsp;| <a href="https://www.cheyennecity.org/Site-Footer/Sub-Footer-Links/Terms-of-Use" target="_self"  >Terms of Use</a>&nbsp;| &nbsp;| <a href="https://www.cheyennecity.org/Site-Footer/Sub-Footer-Links/Social-Media-Guidelines" target="_self"  >Social Media Guidelines</a>&nbsp;| <a href="https://www.cheyennecity.org/Site-Footer/Sub-Footer-Links/Non-Discrimination-and-Title-VI-Program" target="_self"  >Non-Discrimination and Title VI Program</a>&nbsp;| &nbsp;| </div>
+                                
+                            </div>
+                            <div class="col-xs-12 col-m-5 powered-by">
+                                <div class="right">
+                                    &copy; 2026 City of Cheyenne&nbsp;|&nbsp;<span class="powered-by">Powered by <a href="https://granicus.com/solution/govaccess/opencities/" target="_blank">Granicus</a></span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </footer>
+        </div>
+    </div>
+
+    <script src="/files/oc-resources/b9015858-988c-48a4-9473-7c193df083e4/JsTextSnippets.js?ocsvclang=en-US" type="text/javascript"></script><script></script>
+    
+    
+
+<div id="COVID_TEMP-messages" style="display:none;">
+<div class="item">
+	<div class="title">COVID updates and information</div>
+	<div class="description"></div>
+	<div class="link"><p class="view-page-link"><a href="https://www.cheyennecity.org/Home/Tabs/Featured-Links/Coronavirus-COVID-19"  target="_self">Coronavirus (COVID-19)</a></p></div>
+	<div class="type">Announcement</div>
+	<div class="conditions"></div>	
+</div>
+</div>
+<script>
+	$('#COVID_TEMP-messages').children('.item').each(function(){
+		var $message = $(this);
+		var isMatch = false;
+		$message.find('.conditions a').each(function(){
+			var $a = $(this);
+			var mode = $a.text().split(' ')[0].toLowerCase();
+			var value = $a.attr('href').replace(/^https?:\/\//g, '');
+			
+			switch(mode)
+			{
+				case 'startswith':
+					if(document.location.pathname.toLowerCase().startsWith(value.toLowerCase()))
+					{
+						isMatch = true;
+						return false;//stop jquery each
+					}
+					break;
+					
+				case 'contains':
+					if(document.location.pathname.toLowerCase().indexOf(value.toLowerCase()) !== -1)
+					{
+						isMatch = true;
+						return false;//stop jquery each
+					}
+					break;
+					
+				case 'regex':
+					var re = new RegExp(value);
+					if(new RegExp(value).test(document.location.pathname))
+					{
+						isMatch = true;
+						return false;//stop jquery each
+					}
+					break;
+					
+				default:
+					if(document.location.pathname.toLowerCase() === value.toLowerCase())
+					{
+						isMatch = true;
+						return false;//stop jquery each
+					}
+					break;
+			}
+		});
+		if(isMatch)
+		{
+			var $main = $('#main-content');
+			if($main.length === 0) return false;
+			var $h1 = $main.find('h1').first();
+			
+			var title = $message.find('.title').text().trim();
+			var type = $message.find('.type').text().trim();
+			var description = $message.find('.description').html();
+			var link = $message.find('.link').html();
+			
+			var $content = $('<section>').addClass('obj-venue');//class is a hack to inherit styling
+			var $sideBox = $('<div>').addClass('side-box message-box message-type-'+type).appendTo($content);
+			
+			if(title !== '')
+			{
+				$('<h2>').addClass('side-box-title').text(title).appendTo($sideBox);
+			}
+			
+			var descriptionBox = ''
+			
+			if(description.trim() !== '')
+			{
+				//If the description contains no html tags, wrap the text in p tags
+				var noBrDesc = description.split('<br>').join('\r\n');
+				if (!/<[^>]+>/.test(noBrDesc)) {
+					description = '<p>' + noBrDesc.replace(/(\r\n|\r|\n){2}((\r\n|\r|\n)+)?/g, '$2</p><p>') + '</p>';
+					description = description.replace(/(\r\n|\r|\n)/g, '<br>');
+					description = description.replace('</p><p></p>', '</p>');					
+				}
+				descriptionBox += description;
+			}
+			
+			var hasLink = false;
+			if(link.trim() !== '')
+			{
+				hasLink = true;
+				descriptionBox += link;
+			}
+			
+			var $descriptionBox = null;
+			if(descriptionBox.trim() !== '')
+			{
+				$descriptionBox = $(descriptionBox);
+				$('<div>').addClass('side-box-content').html(descriptionBox).appendTo($sideBox);
+			}
+			
+			if($h1.length === 1)
+			{
+				$content.insertAfter($h1);
+			} 
+			else
+			{
+				$content.appendTo($main);
+			}
+			
+			if(hasLink)
+			{
+				var color = ($content.find('p').first() || $content.find('.side-box-content').first()).css('color');
+				$content.find('a').css('color', color);
+			}
+			
+			 return false;
+		}
+	});
+</script>
+
+
+
+
+
+
+    <script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-166377212-2', 'auto');
+  ga('send', 'pageview');
+</script>
+    
+    
+
+<script type="text/javascript">
+//<![CDATA[
+window.__TsmHiddenField = $get('ctl04_seamless_script_manager_TSM');//]]>
+</script>
+</form>
+</body>
+</html>

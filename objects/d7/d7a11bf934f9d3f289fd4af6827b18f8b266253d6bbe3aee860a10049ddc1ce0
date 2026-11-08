@@ -1,0 +1,771 @@
+<!DOCTYPE html>
+<!--[if lt IE 7]>      <html class="no-js lt-ie9 lt-ie8 lt-ie7" lang="en"> <![endif]-->
+<!--[if IE 7]>         <html class="no-js lt-ie9 lt-ie8" lang="en"> <![endif]-->
+<!--[if IE 8]>         <html class="no-js lt-ie9" lang="en"> <![endif]-->
+<!--[if gt IE 8]><!-->
+<html class="no-js" lang="en-US">
+<!--<![endif]-->
+<head>
+	<!-- Published by OpenCities, 1.38.0.1 -->
+
+    
+        
+    
+    
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+    
+    <title>Clerk to the Board of County Commissioners - Laramie County, Wyoming</title>
+	<meta name="generator" content="OpenCities - https://granicus.com/product/opencities" />
+
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <!-- Using mobile-web-app-capable for now to enable full-screen experience on supported platforms -->
+    <!-- Note: This tag works mainly on Android Chrome. It does NOT enable full-screen mode on iOS Safari. -->
+    <!-- For iOS, the correct tag is: <meta name="apple-mobile-web-app-capable" content="yes"> -->
+    <!-- TODO: Monitor for updated meta tag standards from Apple or other browser vendors -->
+    <meta name="mobile-web-app-capable" content="yes" />
+        <meta name="description" content="Clerk to the Board of County Commissioners" />
+    <meta property="og:type" content="article" />
+    <meta property="og:url" content="https://www.laramiecountywy.gov/County-Government/Elected-Officials/County-Clerk/Clerk-to-the-Board-of-County-Commissioners" />
+    <meta property="og:title" content="Clerk to the Board of County Commissioners" />
+    <meta property="og:description" content="Clerk to the Board of County Commissioners" />
+    <meta property="twitter:card" content="summary" />
+    <meta property="twitter:title" content="Clerk to the Board of County Commissioners" />
+    <meta property="twitter:description" content="Clerk to the Board of County Commissioners" />
+    <link rel="canonical" href="https://www.laramiecountywy.gov/County-Government/Elected-Officials/County-Clerk/Clerk-to-the-Board-of-County-Commissioners" />
+
+    
+    <link rel="apple-touch-icon" sizes="180x180" href="/files/ocfavicon/Public/apple-touch-icon.png?V=638464418271868732">
+<link rel="icon" type="image/png" sizes="32x32" href="/files/ocfavicon/Public/favicon-32x32.png?V=638464418271868732">
+<link rel="icon" type="image/png" sizes="16x16" href="/files/ocfavicon/Public/favicon-16x16.png?V=638464418271868732">
+<link rel="manifest" href="/files/ocfavicon/Public/site.webmanifest?V=638464418271868732">
+<link rel="shortcut icon" href="/files/ocfavicon/Public/favicon.ico?V=638464418271868732">
+<meta name="msapplication-TileColor" content="#000000">
+<meta name="msapplication-config" content="/files/ocfavicon/Public/browserconfig.xml?V=638464418271868732">
+    <script>
+        (function () {
+            if (window.__UNLOAD_LAZY_PATCH__) return;
+            window.__UNLOAD_LAZY_PATCH__ = true;
+
+            var supportsPageHide = ("onpagehide" in window);
+            var mappedType = supportsPageHide ? "pagehide" : "beforeunload";
+            var nativeAdd = window.addEventListener;
+            var nativeRemove = window.removeEventListener;
+            var unloadMap = null;
+            var patched = false;
+
+            function ensurePatched() {
+                if (patched) return;
+                unloadMap = new WeakMap();
+
+                window.addEventListener = function (type, listener, options) {
+                    if (type === "unload") {
+                        var wrapped = function (evt) {
+                            if (supportsPageHide && evt.persisted) return;
+                            listener.call(this, evt);
+                        };
+                        unloadMap.set(listener, wrapped);
+                        return nativeAdd.call(this, mappedType, wrapped, options);
+                    }
+                    return nativeAdd.call(this, type, listener, options);
+                };
+
+                window.removeEventListener = function (type, listener, options) {
+                    if (type === "unload") {
+                        var wrapped = unloadMap.get(listener);
+                        if (wrapped) {
+                            nativeRemove.call(this, mappedType, wrapped, options);
+                            unloadMap.delete(listener);
+                        }
+                        return;
+                    }
+                    return nativeRemove.call(this, type, listener, options);
+                };
+
+                var orig = null;
+                Object.defineProperty(window, "onunload", {
+                    configurable: true, enumerable: true,
+                    get: function () { return orig; },
+                    set: function (h) {
+                        orig = h;
+                        if (typeof h === "function") window.addEventListener("unload", h);
+                    }
+                });
+                patched = true;
+            }
+
+            window.addEventListener = function (type, listener, options) {
+                if (type === "unload") {
+                    ensurePatched();
+                    return window.addEventListener(type, listener, options);
+                }
+                return nativeAdd.call(this, type, listener, options);
+            };
+
+            window.removeEventListener = function (type, listener, options) {
+                if (type === "unload" && !patched) {
+                    return;
+                }
+                return nativeRemove.call(this, type, listener, options);
+            };
+
+            function patchTelerik() {
+                ensurePatched();
+                var ns = window.RadAjaxNamespace;
+                if (!ns || !ns.EventManager || !ns.EventManager.Add || ns.EventManager.__UnloadPatched) return;
+                var origAdd = ns.EventManager.Add;
+                ns.EventManager.Add = function (el, evtName, handler, clientId) {
+                    if (el === window && evtName === "unload") {
+                        return window.addEventListener("unload", handler);
+                    }
+                    return origAdd.call(this, el, evtName, handler, clientId);
+                };
+                ns.EventManager.__UnloadPatched = true;
+            }
+
+            if (window.RadAjaxNamespace)
+                patchTelerik();
+            else (window.requestIdleCallback || function (cb)
+            {
+                setTimeout(cb, 120);
+            })(patchTelerik);
+        })();
+    </script>
+    <!-- Preconnecting to Google Fonts servers -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+
+    <!-- Defer Roboto font loading to avoid render-blocking -->
+    <script>
+        window.addEventListener('DOMContentLoaded', () => {
+            const robotoLink = document.createElement('link');
+            robotoLink.rel = 'stylesheet';
+            robotoLink.href = 'https://fonts.googleapis.com/css2?family=Roboto:wght@400;500&display=swap';
+            document.head.appendChild(robotoLink);
+        });
+    </script>
+
+    <style>
+        .gm-style, .gm-style * {
+            font-family: 'Roboto', system-ui, -apple-system, "Segoe UI", Arial, sans-serif !important;
+        }
+    </style>
+
+    <script>
+        document.documentElement.className = document.documentElement.className.replace(/\bno-js\b/g, "js");
+    </script>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Bitter:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Work+Sans:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap" rel="stylesheet">
+    
+        
+            <script type="text/javascript">
+                window.__oc_flags_ImprovedBreakpointEventHandling = true;
+            </script>
+            
+        
+    
+    
+    
+        <script type="text/javascript">
+            var __metaQueryBreakpoints = {
+                'sc-size-4': '(max-width: 480px)',
+                'sc-size-3': '(min-width: 480px) and (max-width: 768px)',
+                'sc-size-2': '(min-width: 768px) and (max-width: 992px)',
+                'sc-size-1': '(min-width: 992px)'
+            }
+
+            var __ocSizePoints = [
+                { min: 0, name: 'sc-size-4' },
+                { min: 480, name: 'sc-size-3' },
+                { min: 768, name: 'sc-size-2' },
+                { min: 992, name: 'sc-size-1' }
+            ];
+
+        </script>
+    
+
+    <!-- Framework Section -->
+    
+    <script src="//ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+    <script>window.jQuery || document.write('<script src="/files/templates/00000000-0000-0000-0000-000000000000/78c8934f-20a7-4e7e-a33f-88997155898c/v/247/jquery-1.12.4.min.js?seamlessts=639288037932747584" ><\/script>')</script>
+
+    <!--Google Maps API Loader – Improved Version to avoid Warning
+    This script loads the Google Maps JavaScript API using a dynamic and async method.
+    It replaces the old static <script> tag to avoid performance warnings from Google.
+
+    Dynamically creates the <script> tag with loading = async for better performance
+    Builds the API URL with required libraries(places, geometry, marker, geocoding)
+    Uses a Promise and callback(google.maps.__ib__) to confirm when the script is ready
+
+    It Avoids Google’s warning about direct script loading
+    Improves page load speed by loading the API asynchronously-->
+
+    
+        <script>
+            (function (root) {
+                root.OpenCities = root.OpenCities || {};
+                if (!root.OpenCities.GoogleMapsLoader) {
+                    root.OpenCities.GoogleMapsLoader = {
+                        _cbs: [],
+                        _ready: false,
+                        onReady: function (cb) {
+                            if (this._ready) { try { cb(); } catch (e) { console.error(e); } }
+                            else if (typeof cb === 'function') this._cbs.push(cb);
+                        },
+                        _fire: function () {
+                            if (this._ready) return;
+                            this._ready = true;
+                            var q = this._cbs.splice(0);
+                            for (var i = 0; i < q.length; i++) {
+                                try { q[i](); } catch (e) { console.error(e); }
+                            }
+                        }
+                    };
+                }
+            })(window);
+
+            (g => {
+                var h, a, k, p = "The Google Maps JavaScript API", c = "google", l = "importLibrary", q = "__ib__",
+                    m = document, b = window;
+                b = b[c] || (b[c] = {});
+                var d = b.maps || (b.maps = {}), r = new Set, e = new URLSearchParams,
+                    u = () => h || (h = new Promise(async (resolve, reject) => {
+                        a = m.createElement("script");
+                        e.set("libraries", [...r] + "");
+                        for (k in g) e.set(k.replace(/[A-Z]/g, t => "_" + t[0].toLowerCase()), g[k]);
+                        e.set("callback", c + ".maps." + q);
+                        a.src = "https://maps." + c + "apis.com/maps/api/js?" + e.toString();
+                        a.loading = "async";
+                        a.async = true;
+                        a.defer = true;
+                        d[q] = resolve;
+                        a.onerror = () => reject(Error(p + " could not load."));
+                        a.nonce = m.querySelector("script[nonce]")?.nonce || "";
+                        m.head.append(a);
+                    }));
+                if (d[l]) {
+                    console.warn(p + " only loads once. Ignoring duplicate load.");
+                } else {
+                    d[l] = (f, ...n) => (r.add(f), u().then(() => d[l](f, ...n)));
+                }
+            })({
+                key: "AIzaSyAztaUVaKjf3--ZW3ZBjTHw4AdvV74G2XQ",
+                v: "3.65"
+            });
+
+            (async () => {
+                try {
+                    if (!google?.maps?.importLibrary) return;
+
+                    if (!window.OpenCities.__mapsLibsPromise) {
+                        window.OpenCities.__mapsLibsPromise = Promise.all([
+                            google.maps.importLibrary('maps'),
+                            google.maps.importLibrary('places'),
+                            google.maps.importLibrary('geocoding'),
+                            google.maps.importLibrary('marker'),
+                            google.maps.importLibrary('geometry')
+                        ]);
+                    }
+                    await window.OpenCities.__mapsLibsPromise;
+
+                    if (window.OpenCities?.GoogleMapsLoader) {
+                        window.OpenCities.GoogleMapsLoader._fire();
+                    }
+                } catch (err) {
+                    console.error('Google Maps failed to initialise', err);
+                }
+            })();
+        </script>
+    
+    <script src="/files/templates/00000000-0000-0000-0000-000000000000/78c8934f-20a7-4e7e-a33f-88997155898c/v/247/modernizr.custom.710f3bf.js?seamlessts=639288037932747584" defer></script>
+    
+    <!--// End Framework Section -->
+    <!-- OpenCities Section -->
+    <script>
+        var OpenCities = OpenCities || {};
+        OpenCities.Paths = {
+            SiteTemplate: '/files/templates/00000000-0000-0000-0000-000000000000/78c8934f-20a7-4e7e-a33f-88997155898c/v/247/',
+            ThemePath: '/files/templates/00000000-0000-0000-0000-000000000000/78c8934f-20a7-4e7e-a33f-88997155898c/v/247/'
+        };
+    </script>
+    <script src='/ocapi/4cdf3c35-9cb4-4bfe-ad78-20e62c144e65/en-US/websitesettings.js'></script>
+    <script src="/files/templates/00000000-0000-0000-0000-000000000000/78c8934f-20a7-4e7e-a33f-88997155898c/v/247/oc_head.js?applied=20261028110246"></script>
+    <!-- Script Combine. To enter debug mode for this browser session, enter OcScriptCombineDebug=true as a querystring -->
+<link href="/files/oc-templates/00000000-0000-0000-0000-000000000000/78c8934f-20a7-4e7e-a33f-88997155898c/v/247/oc_grid.css~oc_style.css~oc_wizard_style.css~oc_main.css~oc_forms.css~oc_wizard.css~oc_wizard_menu.css~oc_main_s1.css~oc_wizard_s1.css~oc_wizard_menu_s1.css~oc_grid_s1.css~OcScriptCombine_Minify0?uniqueid=20261028110246" rel="stylesheet" type="text/css">
+    <!-- Script Combine. To enter debug mode for this browser session, enter OcScriptCombineDebug=true as a querystring -->
+<link href="/files/oc-templates/00000000-0000-0000-0000-000000000000/78c8934f-20a7-4e7e-a33f-88997155898c/v/247/client_style.css~client.css~client_menu.css~client_s1.css~client_menu_s1.css~client_forms.css~OcScriptCombine_Minify0?uniqueid=20261028110246" rel="stylesheet" type="text/css">
+    <script>
+(function (BackgroundSettings, $, undefined) {
+    BackgroundSettings.initialise = function () {
+        this.Application = {"CSSSelector":".background-container","EnableFade":true,"MediaType":"image"};
+    };
+} (OpenCities.BackgroundSettings = OpenCities.BackgroundSettings || {}, jQuery));
+OpenCities.BackgroundSettings.initialise();
+</script>
+    
+    <!-- Script Combine. To enter debug mode for this browser session, enter OcScriptCombineDebug=true as a querystring -->
+<link href="/files/oc-templates/00000000-0000-0000-0000-000000000000/78c8934f-20a7-4e7e-a33f-88997155898c/v/247/oc_print.css~client_print.css~OcScriptCombine_Minify0?uniqueid=20261028110246" rel="stylesheet" type="text/css" media="print">
+    <!-- Script Combine. To enter debug mode for this browser session, enter OcScriptCombineDebug=true as a querystring -->
+<script src="/files/oc-templates/00000000-0000-0000-0000-000000000000/78c8934f-20a7-4e7e-a33f-88997155898c/v/247/external_plugins.js~oc_form_helper.js~oc_main.js~plugins.js~oc_main_init.js~OcScriptCombine_Minify0?uniqueid=20261028110246" defer="true"></script>
+    
+    
+
+                                <script>!function(e){var n="https://s.go-mpulse.net/boomerang/";if("False"=="True")e.BOOMR_config=e.BOOMR_config||{},e.BOOMR_config.PageParams=e.BOOMR_config.PageParams||{},e.BOOMR_config.PageParams.pci=!0,n="https://s2.go-mpulse.net/boomerang/";if(window.BOOMR_API_key="DYTCK-JM9C8-ED4EP-C3GGK-Z575H",function(){function e(){if(!r){var e=document.createElement("script");e.id="boomr-scr-as",e.src=window.BOOMR.url,e.async=!0,o.appendChild(e),r=!0}}function t(e){r=!0;var n,t,a,i,d=document,O=window;if(window.BOOMR.snippetMethod=e?"if":"i",t=function(e,n){var t=d.createElement("script");t.id=n||"boomr-if-as",t.src=window.BOOMR.url,BOOMR_lstart=(new Date).getTime(),e=e||d.body,e.appendChild(t)},!window.addEventListener&&window.attachEvent&&navigator.userAgent.match(/MSIE [67]\./))return window.BOOMR.snippetMethod="s",void t(o,"boomr-async");a=document.createElement("IFRAME"),a.src="about:blank",a.title="",a.role="presentation",a.loading="eager",i=(a.frameElement||a).style,i.width=0,i.height=0,i.border=0,i.display="none",o.appendChild(a);try{O=a.contentWindow,d=O.document.open()}catch(_){n=document.domain,a.src="javascript:var d=document.open();d.domain='"+n+"';void 0;",O=a.contentWindow,d=O.document.open()}if(n)d._boomrl=function(){this.domain=n,t()},d.write("<bo"+"dy onload='document._boomrl();'>");else if(O._boomrl=function(){t()},O.addEventListener)O.addEventListener("load",O._boomrl,!1);else if(O.attachEvent)O.attachEvent("onload",O._boomrl);d.close()}function a(e){window.BOOMR_onload=e&&e.timeStamp||(new Date).getTime()}if(!window.BOOMR||!window.BOOMR.version&&!window.BOOMR.snippetExecuted){window.BOOMR=window.BOOMR||{},window.BOOMR.snippetStart=(new Date).getTime(),window.BOOMR.snippetExecuted=!0,window.BOOMR.snippetVersion=14,window.BOOMR.url=n+"DYTCK-JM9C8-ED4EP-C3GGK-Z575H";var i=document.currentScript||document.getElementsByTagName("script")[0],o=i.parentNode,r=!1,d=document.createElement("link");if(d.relList&&"function"==typeof d.relList.supports&&d.relList.supports("preload")&&"as"in d)window.BOOMR.snippetMethod="p",d.href=window.BOOMR.url,d.rel="preload",d.as="script",d.addEventListener("load",e),d.addEventListener("error",function(){t(!0)}),setTimeout(function(){if(!r)t(!0)},3e3),BOOMR_lstart=(new Date).getTime(),o.appendChild(d);else t(!1);if(window.addEventListener)window.addEventListener("load",a,!1);else if(window.attachEvent)window.attachEvent("onload",a)}}(),"".length>0)if(e&&"performance"in e&&e.performance&&"function"==typeof e.performance.setResourceTimingBufferSize)e.performance.setResourceTimingBufferSize();!function(){if(BOOMR=e.BOOMR||{},BOOMR.plugins=BOOMR.plugins||{},!BOOMR.plugins.AK){var n=""=="true"?1:0,t="",a="gm4zheixacriy2xqukma-f-ef952c5c2-clientnsv4-s.akamaihd.net",i="false"=="true"?2:1,o={"ak.v":"41","ak.cp":"1700621","ak.ai":parseInt("1075935",10),"ak.ol":"0","ak.cr":15,"ak.ipv":4,"ak.proto":"http/1.1","ak.rid":"1d1bc7c9","ak.r":51636,"ak.a2":n,"ak.m":"dscb","ak.n":"essl","ak.cport":30730,"ak.gh":"2.23.85.140","ak.quicv":"","ak.tlsv":"tls1.3","ak.0rtt":"","ak.0rtt.ed":"","ak.csrc":"-","ak.acc":"bbr","ak.t":"1794155160","ak.ak":"hOBiQwZUYzCg5VSAfCLimQ==sFeAELdO8VUhlKchQsIx2lYoH3ATLvZruWMov9ihwPqZLn83GeUXtd0FXyREQSi5/hCTO2T3m9UTuGoVzV4LfHQjYglb7A/flZq4cwFN7r/QYKVgrMqjRQ1GS/mqQnJpVUWY0+89GjBczX8aVlV5nZoaJJm8n+NqRpGLlkyUlqzVwSPs3N2oDnQXzJ/SbCGzA7bQXnGNwaKiA8sKntt5eJp4VrxPOCE9aZWX+dVL5QQtiaFp/aecdy6qcQKBHs4ej//x+bRBXj6CxzNDYK1JtrKp5o0nO6bOg7G9hEbHFKMDWgAmt/MTC7h9fIEo2BEOA8sGzyp9383toK99puZiarvPijE8YmNsyau3rmVKSJSQZ8Wv/v7m3cVvqtOyDCMJ56W0dpK6KzFDb6Tf665aEMMgK2rylBsiVxmXmE602fw=","ak.pv":"362","ak.dpoabenc":"","ak.tf":i};if(""!==t)o["ak.ruds"]=t;var r={i:!1,av:function(n){var t="http.initiator";if(n&&(!n[t]||"spa_hard"===n[t]))o["ak.feo"]=void 0!==e.aFeoApplied?1:0,BOOMR.addVar(o)},rv:function(){var e=["ak.cport","ak.cr","ak.csrc","ak.gh","ak.ipv","ak.m","ak.n","ak.ol","ak.proto","ak.quicv","ak.tlsv","ak.0rtt","ak.0rtt.ed","ak.r","ak.acc","ak.t","ak.tf"];BOOMR.removeVar(e)}};BOOMR.plugins.AK={akVars:o,akDNSPreFetchDomain:a,init:function(){if(!r.i){var e=BOOMR.subscribe;e("before_beacon",r.av,null,null),e("onbeacon",r.rv,null,null),r.i=!0}return this},is_complete:function(){return!0}}}}()}(window);</script></head>
+<body class="body layout-modern  site-search-always-visble  content-type-oc-general content-template-oc-full-width-without-image group-template-oc-full-width-with-default-header page-name-clerk-to-the-board-of-county-commissioners page-sequence-1 page-depth-4 page-section-2 website-type-primary device-desktop " id="body-top">
+    <div id="skip-to-content-container">
+        <a href="#main-content" class="visuallyhidden focusable" id="skip-to-content-link">Skip to main content</a>
+    </div>
+    <script>
+        // OCNOW-11988 (Cursor): Proactively focus skip link when returning from browser chrome.
+        // Must run inline (not deferred oc_main.js) so focus is intercepted before NVDA speaks footer.
+        (function () {
+            var awaitingReentry = false;
+            var inertSupported = 'inert' in HTMLElement.prototype;
+
+            function isExplicitlyOutsideDocument(node) {
+                return node != null && !document.documentElement.contains(node);
+            }
+
+            function getSkipContainer() {
+                return document.getElementById('skip-to-content-container');
+            }
+
+            function getSkipLink() {
+                return document.getElementById('skip-to-content-link');
+            }
+
+            function applyGuard() {
+                awaitingReentry = true;
+                if (!inertSupported) {
+                    return;
+                }
+                var skipContainer = getSkipContainer();
+                var children = document.body.children;
+                for (var i = 0; i < children.length; i++) {
+                    if (children[i] !== skipContainer) {
+                        children[i].setAttribute('inert', '');
+                    }
+                }
+            }
+
+            function clearGuard() {
+                awaitingReentry = false;
+                if (!inertSupported) {
+                    return;
+                }
+                var children = document.body.children;
+                for (var i = 0; i < children.length; i++) {
+                    children[i].removeAttribute('inert');
+                }
+            }
+
+            function isSkipLinkElement(target) {
+                if (!target) {
+                    return false;
+                }
+                var skipContainer = getSkipContainer();
+                return target.id === 'skip-to-content-link' ||
+                    (skipContainer && skipContainer.contains(target));
+            }
+
+            function focusSkipLink() {
+                var skipLink = getSkipLink();
+                if (!skipLink) {
+                    return;
+                }
+                if (window.scrollY > 0) {
+                    window.scrollTo(0, 0);
+                }
+                skipLink.focus({ preventScroll: true });
+            }
+
+            function scheduleGuardIfDocumentLostFocus() {
+                window.setTimeout(function () {
+                    if (!document.hasFocus()) {
+                        applyGuard();
+                    }
+                }, 0);
+            }
+
+            document.addEventListener('focusout', function (e) {
+                if (isExplicitlyOutsideDocument(e.relatedTarget)) {
+                    applyGuard();
+                }
+            }, true);
+
+            document.addEventListener('keydown', function (e) {
+                if (e.key === 'Tab') {
+                    scheduleGuardIfDocumentLostFocus();
+                } else if (e.key === 'F6' || (e.key === 'l' && e.ctrlKey)) {
+                    scheduleGuardIfDocumentLostFocus();
+                }
+            }, true);
+
+            window.addEventListener('focus', function () {
+                if (!awaitingReentry) {
+                    return;
+                }
+                applyGuard();
+                focusSkipLink();
+            }, true);
+
+            document.addEventListener('focusin', function (e) {
+                var reentryFromChrome = awaitingReentry || isExplicitlyOutsideDocument(e.relatedTarget);
+                if (!reentryFromChrome) {
+                    return;
+                }
+                if (isSkipLinkElement(e.target)) {
+                    clearGuard();
+                    return;
+                }
+                applyGuard();
+                focusSkipLink();
+                clearGuard();
+            }, true);
+        })();
+    </script>
+    <form name="mainForm" method="post" action="/County-Government/Elected-Officials/County-Clerk/Clerk-to-the-Board-of-County-Commissioners" id="mainForm">
+<input type="hidden" name="ctl04_seamless_script_manager_TSM" id="ctl04_seamless_script_manager_TSM" value="" />
+<input type="hidden" name="__SEAMLESSVIEWSTATE" id="__SEAMLESSVIEWSTATE" value="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" />
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="" />
+
+
+<script src="/Telerik.Web.UI.WebResource.axd?_TSM_HiddenField_=ctl04_seamless_script_manager_TSM&amp;compress=1&amp;_TSM_CombinedScripts_=%3b%3bSystem.Web.Extensions%2c+Version%3d4.0.0.0%2c+Culture%3dneutral%2c+PublicKeyToken%3d31bf3856ad364e35%3aen-GB%3add3ac3d5-1e29-4112-8fed-529caffa8f24%3aea597d4b%3bOpenCities.CustomControls%3aen-GB%3a7197b077-b068-4a69-9481-a6cf2e7718f9%3a8e1d32bf" type="text/javascript"></script>
+<script src="/ScriptResource.axd?d=EYVjNsQ7oYmzBqCI0dkEyYe0LYmPcVFL4WPcQCXhKfQwUqkAT7lLra0za-OLMuUUcCyPINdTVMHIWti96-8R_oN-trjXUUZnJRzckxTjid4ecctwwEJyNI-05jZYvXHBRiEKL0MUQMEyEJ2FXanyE1uBk88RxZ1wVK6AUn9D4v8rW-LNx2OOtB8vE3hC8P0jk4XZt7GAPiCeYQolxUlwFZA8cuOfgd4u08OASxFdh8mChz3A0YHhuwRrXGVlulfs9SJVkAvulhjdHYIIp1SRohDxt9acTwxUQrOlxuxC847b00zOOWg9SlpwD_iBuQQ1rOK9WH9O_wN9c2TXm4GeXaQHHT4yQ9IlzZXw6th8ch3f-k_n1yYeeurDMbwChXW1Vh_7rpu00kgmegsg9w2J3ququXIPfy2Gq8IscVTmtwouupfmUzAOicU_yESgQ-dG0" type="text/javascript"></script>
+    
+<script type="text/javascript">
+    try{
+        function SeamlessEndRequestHandler(sender, args) {
+            try {
+                var dataItems = args.get_dataItems();
+                if(dataItems.ctl04_seamless_script_manager)
+                    document.getElementById('__SEAMLESSVIEWSTATE').value = dataItems.ctl04_seamless_script_manager;
+            }
+            catch (e) { }
+        }
+
+        Sys.WebForms.PageRequestManager.getInstance().add_endRequest(SeamlessEndRequestHandler);
+    }
+    catch (e) { }
+</script>
+
+    <div class="unsupported-browser-warning js-element"></div>
+    
+    <div hidden>
+        <span id="new-window-0">opens in new tab or window </span>
+    </div>
+    <div class="overlay-container"></div>
+    
+    <div class="background-container">
+        <div class="page-container">
+            <!-- OC Layout Element GROUP TEMPLATE -->
+            <!--groupTemplateStart--><header><div class="print-header-outer-container print-element">
+<img src="/files/assets/public/templateimages/print-header.png" alt="Laramie County, Wyoming - Logo" />
+</div>
+            <div class="toolbar-outer-container">
+  <div class="toolbar-inner-container clearfix">
+    <div class="toolbar-item toolbar-language notranslate toolbar-display-dropdown"><div class="no-js-element">
+		  <ul>
+		    <li id="toolbar-language-option-en-us-noscript"><a href="https://www.laramiecountywy.gov/County-Government/Elected-Officials/County-Clerk/Clerk-to-the-Board-of-County-Commissioners?oc_lang=en-US" class="lang-item lang-en-us" data-translate-to="en-us" lang="en-US">English<span class="visuallyhidden"> Select this as your preferred language</span></a></li><li id="toolbar-language-option-es-noscript"><a href="https://www.laramiecountywy.gov/County-Government/Elected-Officials/County-Clerk/Clerk-to-the-Board-of-County-Commissioners?oc_lang=es" class="lang-item lang-es" data-translate-to="es" lang="es">Spanish<span class="visuallyhidden"> Select this as your preferred language</span></a></li>
+          </ul>
+		</div>
+	<button type="button" role="combobox" aria-controls="toolbar-language-drop-down" aria-expanded="false" aria-haspopup="listbox" aria-autocomplete="none" aria-labelledby="toolbar-language-label" class="toolbar-button toolbar-button-language js-element">  
+        <span class="toolbar-language-globe-icon" aria-hidden="true"></span>
+        <span id="toolbar-language-label" class="current-language">
+            Select a language to translate to
+		</span>
+		<i aria-hidden="true"></i>
+	</button>
+	<div id="toolbar-language-drop-down" role="listbox" aria-label="Available languages" class="toolbar-drop-down toolbar-language-drop-down js-element clearfix">
+		<ul role="group">
+		    <li role="presentation"><a id="toolbar-language-option-en-us" role="option" aria-selected="true" href="https://www.laramiecountywy.gov/County-Government/Elected-Officials/County-Clerk/Clerk-to-the-Board-of-County-Commissioners?oc_lang=en-US" class="lang-item lang-en-us" data-translate-to="en-us" lang="en-US">English<span class="visuallyhidden"> Select this as your preferred language</span></a></li><li role="presentation"><a id="toolbar-language-option-es" role="option" aria-selected="false" href="https://www.laramiecountywy.gov/County-Government/Elected-Officials/County-Clerk/Clerk-to-the-Board-of-County-Commissioners?oc_lang=es" class="lang-item lang-es" data-translate-to="es" lang="es">Spanish<span class="visuallyhidden"> Select this as your preferred language</span></a></li>
+        </ul>
+	</div></div>
+  </div>
+</div>
+            <div class="header-outer-container">
+    <div class="header-container header-layout-4  clearfix">
+			<div class="header-site-logo">
+				<a href="https://www.laramiecountywy.gov/Home" lang="en-US" aria-label="Laramie County, Wyoming - Home - Logo">
+				</a>
+			</div>
+      
+		    <div class="mobile-search-btn js-element">
+		        <button><i aria-hidden="true"></i><span class="mobile-search-btn-text"><span class="visuallyhidden">Open </span>Search</span></button>
+		    </div>
+		    <div class="header-website-settings">
+                <button id="btn-mob-nav" type="button" aria-expanded="false" aria-controls="nav">
+                    <i aria-hidden="true"></i><span class="side-menu-btn-text">Menu</span>
+                </button>
+        	</div>
+          <div class="navigation-outer-container">
+	<div id="nav" role="navigation" class="navigation-container  navigation-container-option-8" data-menu-type="horizontal" aria-label="primary">
+        <div class="grid">
+            <div class="col-xs-12">              
+                <ul class="sf-menu mega-menu" id="sc-main-menu"><li class="nav-section-quarters-1 nav-active-path  first-item nav-item-seq-1">
+<a href="https://www.laramiecountywy.gov/County-Government" class="nav-level-1 nav-has-children"  target="">
+	<i class="item-icon" aria-hidden="true"></i><span class="item-text">County Government</span>
+</a>
+<button aria-label="Expand" aria-controls="sc-menu-second-level-nav-item-seq-1" aria-haspopup="true" class="mobnav-subarrow" ><i aria-hidden="true"></i></button>
+<ul id="sc-menu-second-level-nav-item-seq-1" class="second-level-container ch-7">
+
+          
+            <li class="second-level-item nav-active-path "><a href="https://www.laramiecountywy.gov/County-Government/Elected-Officials" class="nav-has-children"  target="">Elected Officials</a><button aria-label="Expand" aria-controls="sc-menu-third-level-nav-item-seq-1-nav-item-seq-1" class="mobnav-subarrow-child"><i aria-hidden="true"></i>
+              </button>
+<ul  id="sc-menu-third-level-nav-item-seq-1-nav-item-seq-1" class="third-level-container">
+          
+            <li  class="third-level-item  "><a href="https://www.laramiecountywy.gov/County-Government/Elected-Officials/County-Assessor"  target="">County Assessor</a></li><li  class="third-level-item nav-active-path "><a href="https://www.laramiecountywy.gov/County-Government/Elected-Officials/County-Clerk"  target="">County Clerk</a></li><li  class="third-level-item  "><a href="https://www.laramiecountywy.gov/County-Government/Elected-Officials/County-Commissioners"  target="">County Commissioners</a></li><li  class="third-level-item  "><a href="https://www.laramiecountywy.gov/County-Government/Elected-Officials/County-Coroner"  target="">County Coroner</a></li><li  class="third-level-item  "><a href="https://www.laramiecountywy.gov/County-Government/Elected-Officials/County-Treasurer"  target="">County Treasurer</a></li><li  class="third-level-item  "><a href="https://www.laramiecountywy.gov/County-Government/Elected-Officials/District-Court-Clerk"  target="">Clerk of District Court</a></li><li  class="third-level-item  "><a href="https://www.laramiecountywy.gov/County-Government/Elected-Officials/Laramie-County-Sheriffs-Office"  target="">Laramie County Sheriff's Office</a></li></ul></li><li class="second-level-item  "><a href="https://www.laramiecountywy.gov/County-Government/County-Departments" class="nav-has-children"  target="">County Departments</a><button aria-label="Expand" aria-controls="sc-menu-third-level-nav-item-seq-1-nav-item-seq-2" class="mobnav-subarrow-child"><i aria-hidden="true"></i>
+              </button>
+<ul  id="sc-menu-third-level-nav-item-seq-1-nav-item-seq-2" class="third-level-container">
+          
+            <li  class="third-level-item  "><a href="https://www.laramiecountywy.gov/County-Government/County-Departments/Building-Maintenance"  target="">Building Maintenance</a></li><li  class="third-level-item  "><a href="https://www.laramiecountywy.gov/County-Government/County-Departments/Combined-Communications"  target="">Combined Communications</a></li><li  class="third-level-item  "><a href="https://www.laramiecountywy.gov/County-Government/County-Departments/County-Attorney"  target="">County Attorney</a></li><li  class="third-level-item  "><a href="https://www.laramiecountywy.gov/County-Government/County-Departments/County-Events"  target="">County Events</a></li><li  class="third-level-item  "><a href="https://www.laramiecountywy.gov/County-Government/County-Departments/Emergency-Management"  target="">Emergency Management</a></li><li  class="third-level-item  "><a href="https://www.laramiecountywy.gov/County-Government/County-Departments/Fire-Warden"  target="">Fire Warden</a></li><li  class="third-level-item  "><a href="https://www.laramiecountywy.gov/County-Government/County-Departments/Grants"  target="">Grants</a></li><li  class="third-level-item  "><a href="https://www.laramiecountywy.gov/County-Government/County-Departments/Human-Resources"  target="">Human Resources</a></li><li  class="third-level-item  "><a href="https://www.laramiecountywy.gov/County-Government/County-Departments/Information-Technology"  target="">Information Technology</a></li><li  class="third-level-item  "><a href="https://www.laramiecountywy.gov/County-Government/County-Departments/Planning-Development"  target="">Planning & Development</a></li><li  class="third-level-item  "><a href="https://www.laramiecountywy.gov/County-Government/County-Departments/Public-Works"  target="">Public Works</a></li><li  class="third-level-item  "><a href="https://www.laramiecountywy.gov/County-Government/County-Departments/Risk-Management"  target="">Risk Management</a></li><li  class="third-level-item  "><a href="https://www.laramiecountywy.gov/County-Government/County-Departments/Shooting-Sports-Complex"  target="">Shooting Sports Complex</a></li><li  class="third-level-item  "><a href="https://www.laramiecountywy.gov/County-Government/County-Departments/Recovery-Courts"  target="">Recovery Courts</a></li></ul></li><li class="second-level-item  "><a href="https://www.laramiecountywy.gov/County-Government/Public-Notices" class="nav-has-children"  target="_self">Public Notices</a><button aria-label="Expand" aria-controls="sc-menu-third-level-nav-item-seq-1-nav-item-seq-3" class="mobnav-subarrow-child"><i aria-hidden="true"></i>
+              </button>
+<ul  id="sc-menu-third-level-nav-item-seq-1-nav-item-seq-3" class="third-level-container">
+          
+            <li  class="third-level-item  "><a href="https://www.laramiecountywy.gov/County-Government/Public-Notices/Public-Meetings"  target="">Public Meetings</a></li><li  class="third-level-item  "><a href="https://www.laramiecountywy.gov/County-Government/Public-Notices/Request-For-Proposals-RFPs"  target="_self">Request For Proposals (RFPs)</a></li><li  class="third-level-item  "><a href="https://www.laramiecountywy.gov/County-Government/Public-Notices/Public-Reports"  target="">Public Reports</a></li><li  class="third-level-item  "><a href="https://www.laramiecountywy.gov/County-Government/Public-Notices/Grants-Public-Notice"  target="">Grants Public Notice</a></li><li  class="third-level-item  "><a href="https://www.laramiecountywy.gov/County-Government/Public-Notices/Planning-and-Development-Public-Notice"  target="_self">Planning and Development Public Notice</a></li></ul></li><li class="second-level-item  "><a href="https://www.laramiecountywy.gov/County-Government/Holiday-Schedule" class=""  target="">Holiday Schedule</a></li><li class="second-level-item  "><a href="https://www.laramiecountywy.gov/County-Government/Press-Releases" class=""  target="_self">Press Releases</a></li><li class="second-level-item  "><a href="https://www.laramiecountywy.gov/County-Government/Boards-Commissions" class="nav-has-children"  target="">Boards & Commissions</a><button aria-label="Expand" aria-controls="sc-menu-third-level-nav-item-seq-1-nav-item-seq-6" class="mobnav-subarrow-child"><i aria-hidden="true"></i>
+              </button>
+<ul  id="sc-menu-third-level-nav-item-seq-1-nav-item-seq-6" class="third-level-container">
+          
+            <li  class="third-level-item  "><a href="https://www.laramiecountywy.gov/County-Government/Boards-Commissions/Economic-Joint-Powers"  target="_blank">Economic Joint Powers Board</a></li><li  class="third-level-item  "><a href="https://www.laramiecountywy.gov/County-Government/Boards-Commissions/Airport-Board"  target="_blank">Airport Board</a></li><li  class="third-level-item  "><a href="https://www.laramiecountywy.gov/County-Government/Boards-Commissions/Joint-Powers-Board"  target="_blank">Joint Powers Board</a></li><li  class="third-level-item  "><a href="https://www.laramiecountywy.gov/County-Government/Boards-Commissions/Parks-and-Recreation-Board"  target="">Parks and Recreation Board</a></li><li  class="third-level-item  "><a href="https://www.laramiecountywy.gov/County-Government/Boards-Commissions/Planning-Commission"  target="_self">Planning Commission</a></li><li  class="third-level-item  "><a href="https://www.laramiecountywy.gov/County-Government/Boards-Commissions/Board-Vacancy"  target="_self">Board Vacancy</a></li><li  class="third-level-item  "><a href="https://www.laramiecountywy.gov/County-Government/Boards-Commissions/Special-District-Budgets"  target="">Special District Budgets</a></li></ul></li><li class="second-level-item  "><a href="https://www.laramiecountywy.gov/County-Government/Contact-Us" class="nav-has-children"  target="">Contact Us</a><button aria-label="Expand" aria-controls="sc-menu-third-level-nav-item-seq-1-nav-item-seq-7" class="mobnav-subarrow-child"><i aria-hidden="true"></i>
+              </button>
+<ul  id="sc-menu-third-level-nav-item-seq-1-nav-item-seq-7" class="third-level-container">
+          
+            <li  class="third-level-item  "><a href="https://www.laramiecountywy.gov/County-Government/Contact-Us/Public-Records-Information-Requests"  target="">Public Records Information Requests</a></li><li  class="third-level-item  "><a href="https://www.laramiecountywy.gov/County-Government/Contact-Us/Elected-Officials"  target="_self">Elected Officials</a></li><li  class="third-level-item  "><a href="https://www.laramiecountywy.gov/County-Government/Contact-Us/County-Department"  target="_blank">County Department</a></li><li  class="third-level-item  "><a href="https://www.laramiecountywy.gov/County-Government/Contact-Us/Social-Media"  target="_self">Social Media</a></li></ul></li></ul></li>
+          
+            <li class="nav-section-quarters-1   nav-item-seq-2">
+<a href="https://www.laramiecountywy.gov/Resident-Services" class="nav-level-1 nav-has-children"  target="">Resident Services</a>
+<button aria-label="Expand" aria-controls="sc-menu-second-level-nav-item-seq-2" aria-haspopup="true" class="mobnav-subarrow" ><i aria-hidden="true"></i></button>
+<ul id="sc-menu-second-level-nav-item-seq-2" class="second-level-container ch-8">
+
+          
+            <li class="second-level-item  "><a href="https://www.laramiecountywy.gov/Resident-Services/GISMaps" class="nav-has-children"  target="_blank">GIS/Maps</a><button aria-label="Expand" aria-controls="sc-menu-third-level-nav-item-seq-2-nav-item-seq-1" class="mobnav-subarrow-child"><i aria-hidden="true"></i>
+              </button>
+<ul  id="sc-menu-third-level-nav-item-seq-2-nav-item-seq-1" class="third-level-container">
+          
+            <li  class="third-level-item  "><a href="https://www.laramiecountywy.gov/Resident-Services/GISMaps/Parcel-Viewer"  target="_self">Parcel Viewer</a></li><li  class="third-level-item  "><a href="https://www.laramiecountywy.gov/Resident-Services/GISMaps/LC-Interactive-Map-Portal"  target="_self">LC Interactive Map Portal</a></li></ul></li><li class="second-level-item  "><a href="https://www.laramiecountywy.gov/Resident-Services/Vehicle-Information" class="nav-has-children"  target="">Vehicle Information</a><button aria-label="Expand" aria-controls="sc-menu-third-level-nav-item-seq-2-nav-item-seq-2" class="mobnav-subarrow-child"><i aria-hidden="true"></i>
+              </button>
+<ul  id="sc-menu-third-level-nav-item-seq-2-nav-item-seq-2" class="third-level-container">
+          
+            <li  class="third-level-item  "><a href="https://www.laramiecountywy.gov/Resident-Services/Vehicle-Information/Renew-Vehicle-License-Online"  target="_blank">Renew Vehicle License Online</a></li><li  class="third-level-item  "><a href="https://www.laramiecountywy.gov/Resident-Services/Vehicle-Information/Vehicle-Sales-Tax"  target="_blank">Vehicle Sales Tax</a></li><li  class="third-level-item  "><a href="https://www.laramiecountywy.gov/Resident-Services/Vehicle-Information/Vehicle-Titles"  target="_blank">Vehicle Titles</a></li></ul></li><li class="second-level-item  "><a href="https://www.laramiecountywy.gov/Resident-Services/Property-Information" class="nav-has-children"  target="">Property Information</a><button aria-label="Expand" aria-controls="sc-menu-third-level-nav-item-seq-2-nav-item-seq-3" class="mobnav-subarrow-child"><i aria-hidden="true"></i>
+              </button>
+<ul  id="sc-menu-third-level-nav-item-seq-2-nav-item-seq-3" class="third-level-container">
+          
+            <li  class="third-level-item  "><a href="https://www.laramiecountywy.gov/Resident-Services/Property-Information/Pay-Property-Tax-Online"  target="_blank">Pay Property Tax Online</a></li><li  class="third-level-item  "><a href="https://www.laramiecountywy.gov/Resident-Services/Property-Information/Parcel-Viewer"  target="_blank">Parcel Viewer</a></li><li  class="third-level-item  "><a href="https://www.laramiecountywy.gov/Resident-Services/Property-Information/Building"  target="_blank">Building</a></li><li  class="third-level-item  "><a href="https://www.laramiecountywy.gov/Resident-Services/Property-Information/Personal-Property-Reporting"  target="_blank">Personal Property Reporting</a></li><li  class="third-level-item  "><a href="https://www.laramiecountywy.gov/Resident-Services/Property-Information/Property-Assessment"  target="_blank">Property Assessment</a></li><li  class="third-level-item  "><a href="https://www.laramiecountywy.gov/Resident-Services/Property-Information/Property-Review-and-Appeal"  target="_blank">Property Review and Appeal</a></li><li  class="third-level-item  "><a href="https://www.laramiecountywy.gov/Resident-Services/Property-Information/Veterans-Exemptions"  target="_blank">Veteran's Exemptions</a></li><li  class="third-level-item  "><a href="https://www.laramiecountywy.gov/Resident-Services/Property-Information/Land-Use-Regulations"  target="_blank">Land Use Regulations</a></li></ul></li><li class="second-level-item  "><a href="https://www.laramiecountywy.gov/Resident-Services/Elections" class="nav-has-children"  target="_self">Elections</a><button aria-label="Expand" aria-controls="sc-menu-third-level-nav-item-seq-2-nav-item-seq-4" class="mobnav-subarrow-child"><i aria-hidden="true"></i>
+              </button>
+<ul  id="sc-menu-third-level-nav-item-seq-2-nav-item-seq-4" class="third-level-container">
+          
+            <li  class="third-level-item  "><a href="https://www.laramiecountywy.gov/Resident-Services/Elections/Register-to-Vote"  target="_self">Register to Vote</a></li><li  class="third-level-item  "><a href="https://www.laramiecountywy.gov/Resident-Services/Elections/Voting-in-Laramie-County"  target="_self">Voting in Laramie County</a></li><li  class="third-level-item  "><a href="https://www.laramiecountywy.gov/Resident-Services/Elections/Ballot-Lookup"  target="_self">Ballot Lookup</a></li><li  class="third-level-item  "><a href="https://www.laramiecountywy.gov/Resident-Services/Elections/Election-Day-Polling-Places"  target="_blank">Election Day Polling Places</a></li></ul></li><li class="second-level-item  "><a href="https://www.laramiecountywy.gov/Resident-Services/Community-Safety-Justice" class="nav-has-children"  target="">Community Safety & Justice</a><button aria-label="Expand" aria-controls="sc-menu-third-level-nav-item-seq-2-nav-item-seq-5" class="mobnav-subarrow-child"><i aria-hidden="true"></i>
+              </button>
+<ul  id="sc-menu-third-level-nav-item-seq-2-nav-item-seq-5" class="third-level-container">
+          
+            <li  class="third-level-item  "><a href="https://www.laramiecountywy.gov/Resident-Services/Community-Safety-Justice/Combined-Communications-911"  target="_self">Combined Communications 911</a></li><li  class="third-level-item  "><a href="https://www.laramiecountywy.gov/Resident-Services/Community-Safety-Justice/Fire-Warden"  target="_self">Fire Warden</a></li><li  class="third-level-item  "><a href="https://www.laramiecountywy.gov/Resident-Services/Community-Safety-Justice/Sheriff"  target="_self">Sheriff</a></li><li  class="third-level-item  "><a href="https://www.laramiecountywy.gov/Resident-Services/Community-Safety-Justice/Land-Use-NuisanceViolations"  target="_blank">Land Use Nuisance/Violations</a></li><li  class="third-level-item  "><a href="https://www.laramiecountywy.gov/Resident-Services/Community-Safety-Justice/Inspections-Restaurant-Pool-Daycare"  target="_blank">Inspections Restaurant / Pool / Daycare</a></li></ul></li><li class="second-level-item  "><a href="https://www.laramiecountywy.gov/Resident-Services/Public-Works" class=""  target="_self">Public Works</a></li><li class="second-level-item  "><a href="https://www.laramiecountywy.gov/Resident-Services/Emergency-Management" class=""  target="_self">Emergency Management</a></li><li class="second-level-item  "><a href="https://www.laramiecountywy.gov/Resident-Services/Community-Partners" class="nav-has-children"  target="">Community Partners</a><button aria-label="Expand" aria-controls="sc-menu-third-level-nav-item-seq-2-nav-item-seq-8" class="mobnav-subarrow-child"><i aria-hidden="true"></i>
+              </button>
+<ul  id="sc-menu-third-level-nav-item-seq-2-nav-item-seq-8" class="third-level-container">
+          
+            <li  class="third-level-item  "><a href="https://www.laramiecountywy.gov/Resident-Services/Community-Partners/MPO"  target="_blank">MPO</a></li><li  class="third-level-item  "><a href="https://www.laramiecountywy.gov/Resident-Services/Community-Partners/Library"  target="_blank">Library</a></li><li  class="third-level-item  "><a href="https://www.laramiecountywy.gov/Resident-Services/Community-Partners/Health-Department"  target="_blank">Health Department</a></li><li  class="third-level-item  "><a href="https://www.laramiecountywy.gov/Resident-Services/Community-Partners/City-of-Cheyenne"  target="_blank">City of Cheyenne</a></li><li  class="third-level-item  "><a href="https://www.laramiecountywy.gov/Resident-Services/Community-Partners/DDA"  target="_blank">DDA</a></li><li  class="third-level-item  "><a href="https://www.laramiecountywy.gov/Resident-Services/Community-Partners/BOPU"  target="_blank">BOPU</a></li><li  class="third-level-item  "><a href="https://www.laramiecountywy.gov/Resident-Services/Community-Partners/Visit-Cheyenne"  target="_blank">Visit Cheyenne</a></li><li  class="third-level-item  "><a href="https://www.laramiecountywy.gov/Resident-Services/Community-Partners/Laramie-County-School-District-1"  target="_blank">Laramie County School District #1</a></li><li  class="third-level-item  "><a href="https://www.laramiecountywy.gov/Resident-Services/Community-Partners/Laramie-County-School-District-2"  target="_blank">Laramie County School District #2</a></li><li  class="third-level-item  "><a href="https://www.laramiecountywy.gov/Resident-Services/Community-Partners/LCCC"  target="_blank">LCCC</a></li><li  class="third-level-item  "><a href="https://www.laramiecountywy.gov/Resident-Services/Community-Partners/Conservation-District"  target="_blank">Conservation District</a></li><li  class="third-level-item  "><a href="https://www.laramiecountywy.gov/Resident-Services/Community-Partners/Weed-Pest"  target="_blank">Weed & Pest</a></li><li  class="third-level-item  "><a href="https://www.laramiecountywy.gov/Resident-Services/Community-Partners/Extension-Service"  target="_blank">Extension Service</a></li><li  class="third-level-item  "><a href="https://www.laramiecountywy.gov/Resident-Services/Community-Partners/District-Attorney"  target="">Laramie County District Attorney</a></li></ul></li></ul></li>
+          
+            <li class="nav-section-quarters-2   nav-item-seq-3">
+<a href="https://www.laramiecountywy.gov/Doing-Business-with-Laramie-County" class="nav-level-1 nav-has-children"  target="">Doing Business with Laramie County</a>
+<button aria-label="Expand" aria-controls="sc-menu-second-level-nav-item-seq-3" aria-haspopup="true" class="mobnav-subarrow" ><i aria-hidden="true"></i></button>
+<ul id="sc-menu-second-level-nav-item-seq-3" class="second-level-container ch-4">
+
+          
+            <li class="second-level-item  "><a href="https://www.laramiecountywy.gov/Doing-Business-with-Laramie-County/Planning-Development" class="nav-has-children"  target="_self">Planning & Development</a><button aria-label="Expand" aria-controls="sc-menu-third-level-nav-item-seq-3-nav-item-seq-1" class="mobnav-subarrow-child"><i aria-hidden="true"></i>
+              </button>
+<ul  id="sc-menu-third-level-nav-item-seq-3-nav-item-seq-1" class="third-level-container">
+          
+            <li  class="third-level-item  "><a href="https://www.laramiecountywy.gov/Doing-Business-with-Laramie-County/Planning-Development/Laramie-County-Land-Use-Regulations"  target="_blank">Laramie County Land Use Regulations</a></li><li  class="third-level-item  "><a href="https://www.laramiecountywy.gov/Doing-Business-with-Laramie-County/Planning-Development/Planning-and-Development-Portal"  target="_blank">Planning and Development Portal</a></li></ul></li><li class="second-level-item  "><a href="https://www.laramiecountywy.gov/Doing-Business-with-Laramie-County/Requests-for-Proposals-RFPs" class=""  target="_self">Requests for Proposals (RFPs)</a></li><li class="second-level-item  "><a href="https://www.laramiecountywy.gov/Doing-Business-with-Laramie-County/Environmental-Health" class=""  target="_blank">Environmental Health</a></li><li class="second-level-item  "><a href="https://www.laramiecountywy.gov/Doing-Business-with-Laramie-County/Laramie-County-Permits-and-Licensing" class="nav-has-children"  target="">Laramie County Permits and Licensing</a><button aria-label="Expand" aria-controls="sc-menu-third-level-nav-item-seq-3-nav-item-seq-4" class="mobnav-subarrow-child"><i aria-hidden="true"></i>
+              </button>
+<ul  id="sc-menu-third-level-nav-item-seq-3-nav-item-seq-4" class="third-level-container">
+          
+            <li  class="third-level-item  "><a href="https://www.laramiecountywy.gov/Doing-Business-with-Laramie-County/Laramie-County-Permits-and-Licensing/Clerk-Permits-and-Licensing"  target="_blank">Clerk Permits and Licensing</a></li><li  class="third-level-item  "><a href="https://www.laramiecountywy.gov/Doing-Business-with-Laramie-County/Laramie-County-Permits-and-Licensing/Planning-and-Building-Permit-and-Licensing"  target="_blank">Planning and Building Permit and Licensing</a></li><li  class="third-level-item  "><a href="https://www.laramiecountywy.gov/Doing-Business-with-Laramie-County/Laramie-County-Permits-and-Licensing/Public-Works-Permits"  target="_blank">Public Works Permits</a></li></ul></li></ul></li>
+          
+            <li class="nav-section-quarters-2   nav-item-seq-4">
+<a href="https://www.laramiecountywy.gov/Community-Events-Recreation" class="nav-level-1 nav-has-children"  target="">Community Events & Recreation</a>
+<button aria-label="Expand" aria-controls="sc-menu-second-level-nav-item-seq-4" aria-haspopup="true" class="mobnav-subarrow" ><i aria-hidden="true"></i></button>
+<ul id="sc-menu-second-level-nav-item-seq-4" class="second-level-container ch-4">
+
+          
+            <li class="second-level-item  "><a href="https://www.laramiecountywy.gov/Community-Events-Recreation/County-Events" class=""  target="_blank">County Events</a></li><li class="second-level-item  "><a href="https://www.laramiecountywy.gov/Community-Events-Recreation/County-Fair" class=""  target="_blank">County Fair</a></li><li class="second-level-item  "><a href="https://www.laramiecountywy.gov/Community-Events-Recreation/Shooting-Sports-Complex" class=""  target="_blank">Shooting Sports Complex</a></li><li class="second-level-item  "><a href="https://www.laramiecountywy.gov/Community-Events-Recreation/Parks-Recreation" class="nav-has-children"  target="">Parks & Recreation</a><button aria-label="Expand" aria-controls="sc-menu-third-level-nav-item-seq-4-nav-item-seq-4" class="mobnav-subarrow-child"><i aria-hidden="true"></i>
+              </button>
+<ul  id="sc-menu-third-level-nav-item-seq-4-nav-item-seq-4" class="third-level-container">
+          
+            <li  class="third-level-item  "><a href="https://www.laramiecountywy.gov/Community-Events-Recreation/Parks-Recreation/Motocross"  target="_blank">Motocross</a></li><li  class="third-level-item  "><a href="https://www.laramiecountywy.gov/Community-Events-Recreation/Parks-Recreation/Disk-Golf"  target="_blank">Disk Golf</a></li><li  class="third-level-item  "><a href="https://www.laramiecountywy.gov/Community-Events-Recreation/Parks-Recreation/Clear-Creek-Park-and-Picnic-Area"  target="">Clear Creek Park and Picnic Area</a></li><li  class="third-level-item  "><a href="https://www.laramiecountywy.gov/Community-Events-Recreation/Parks-Recreation/Orchard-Valley-Community-Park"  target="">Orchard Valley Community Park</a></li></ul></li></ul></li>
+          
+            <li class="nav-section-quarters-3   nav-item-seq-5">
+<a href="https://www.laramiecountywy.gov/Social-Channels" class="nav-level-1 "  target="">Social Channels</a>
+</li>
+          
+            </ul>
+            </div>
+        </div>
+    </div>
+</div>
+			
+			<div class="header-search-control-container" id="header-search">
+				<div class="search-inner-container">
+					<div class="sc-search-panel">
+	<label for="ctl08_txtSearch" id="ctl08_lblSearch" class="sc-search-label">Search</label><input name="ctl08$txtSearch" type="text" id="ctl08_txtSearch" class="sc-search-text" placeholder="How can we help you?" /><input type="submit" name="ctl08$btnSearch" value="Search" id="ctl08_btnSearch" class="sc-search-button" />
+</div>
+					<div role="status" id="predictiveResults"></div>
+				</div>
+			</div>
+    </div>
+</div>
+
+            
+            </header>
+            <div class="content-outer-container">
+                <div id="main" role="main" class="main-outer-container clearfix">
+                        
+                        <div class="content-main-container">
+                            <div class="grid">
+					            <div class="col-xs-12">
+						            <nav id="breadcrumbs-container" aria-label="You Are Here :">
+							            <span role="list">
+<span role="listitem">
+	<a href="https://www.laramiecountywy.gov/Home"  lang="en-US">Home</a>
+	<span class="nav-separator" aria-hidden="true" role="presentation">/</span>
+</span>
+          <span role="listitem"><a href="https://www.laramiecountywy.gov/County-Government" >County Government</a><span class='nav-separator' aria-hidden="true" role="presentation">/</span></span><span role="listitem">
+	<a href="https://www.laramiecountywy.gov/County-Government/Elected-Officials" >
+		Elected Officials
+	</a>
+	<span class='nav-separator' aria-hidden="true" role="presentation">/</span>
+</span>
+<span role="listitem">
+	<a href="https://www.laramiecountywy.gov/County-Government/Elected-Officials/County-Clerk" >
+		County Clerk
+	</a>
+	<span class='nav-separator' aria-hidden="true" role="presentation">/</span>
+</span>
+<span class="current-page" role="listitem" aria-current="page" >Clerk to the Board of County Commissioners</span>
+          
+          </span>
+						            </nav>
+					            </div>
+                      
+					            <div class="col-xs-12">
+						            <div class="main-inner-container">
+							            <div id="main-content" class="main-container clearfix">
+							              
+                            <!-- OC Layout Element Conent Template -->
+							              <!--normalTemplateStart--><div class="grid">
+    <div class="col-xs-12">
+        <h1 class='oc-page-title '>Clerk to the Board of County Commissioners</h1>
+        
+        <p>The Laramie County Board of Commissioners meets in regular session the first and third Tuesdays of each month on the third floor of the Historic Courthouse, 310 W. 19th Street. Meetings begin at 3:30 p.m.</p>
+<p>As Clerk to the Board, our office prepares and distributes the meeting agenda and records the minutes of each meeting. The agenda is finalized by noon on the Wednesday preceding the meeting. For information on Board agendas or to request that an item be added to the agenda, please call&nbsp;<a href="tel:13076334266">633-4266</a>&nbsp;or write&nbsp;<a href="mailto:office@laramiecountywy.gov">office@laramiecountywy.gov</a>.</p>
+<h3><strong>Laramie County&rsquo;s Historical Minutes Site, Jan. 1868 through June 1994</strong></h3>
+<p>The Laramie County Clerk&rsquo;s office announced the April 15, 2022 launch of the county&rsquo;s Historical Minutes site of Board of County Commissioners records dating from Jan. 1868 through June 1994.&nbsp;</p>
+<p>According to County Clerk Debra Lee, the site represents the culmination of 24 months of work that involved borrowing 272 volumes of archival records from State Archives, contracting to have records scanned and digitized under the direction of the Clerk&rsquo;s Records Center staff, and development of the online site.&nbsp;&nbsp; Funding for the project was approved by Commissioners.&nbsp;</p>
+<p>&ldquo;We are excited to make these historical records of Laramie County available for the first time to the public in a convenient and searchable manner.&nbsp; It&rsquo;s a fascinating look into the early history of Laramie County and preserving these records in multiple formats ensures they are safeguarded,&rdquo; said Lee.</p>
+<p>The public can search records online by year or descriptive words, save them to a clipboard, download and print them.&nbsp;<br />
+<strong>For a &lsquo;how to&rsquo; guide</strong>&nbsp;on how to find navigate the site, see the&nbsp;<a href="/files/assets/public/v/1/commissioners/documents/arcasearch-guide.pdf" target="_blank" title="ArcaSearch-Guide.pdf" class="document ext-pdf"><i aria-hidden="true"></i>Arcasearch User Guide<span class="file-info">(PDF,&nbsp;586KB)</span></a><br />
+<strong>Explore the historical records site (it&rsquo;s free!)</strong>:&nbsp;&nbsp;<a href="https://gov.arcasearch.com/uswylrc/" target="_blank">https://gov.arcasearch.com/uswylrc/</a></p>
+<p><strong>Empowering citizens with information - Agendas &amp; Minutes,&nbsp; Jan. 1991 to current</strong><br />
+Explore available videos, agendas, minutes and supporting documents of Commission meeting, Jan. 1991 to current.&nbsp; Laramie County seeks to empower its citizens with information through an online program that reinforces the County's commitment to transparency, accountability, and efficient operations. &nbsp;With our Legistar agenda and minutes interface, citizens can search and print resolutions, agendas, documents, and minutes. &nbsp;<br />
+<a href="https://laramiecounty.legistar.com/Calendar.aspx" target="_blank">Click here to visit Laramie County Board of Commissioners Agenda &amp; Minutes Center (1991 to current)</a></p>
+<p>&nbsp;</p>
+
+
+      
+        
+            
+        
+    </div>
+    
+    
+</div><!--normalTemplateEnd-->
+                            
+                            
+                            
+							            </div>
+						            </div>
+					            </div>
+                        
+                            </div>
+                        </div>
+                        <div class="back-to-top-container text-center">
+                            <a href="#body-top" id="back-to-top"><i aria-hidden="true"></i><span class="js-visuallyhidden">Back to top</span></a>
+                        </div>
+                </div>
+            </div><!--groupTemplateEnd-->
+            <footer>
+                
+                    <div class="footer-outer-container footer-first-row">
+                        <div class="footer-container clearfix">
+                            <div class="grid grid-pad">
+                                <div class="col-xs-12 col-s-12 col-m-6 col-lg-8 footer-contact-us" >
+	
+			<h2 class="visuallyhidden">Site Footer</h2>
+			<h3 class="footer-title">Contact Us</h3>
+			
+	<div><strong>Laramie County</strong></div>
+<p>309 W. 20th Street<br />
+Cheyenne, WY 82001</p>
+
+
+	<ul class="footer-links with-icons ">   </ul>
+	
+</div><div class="col-xs-12 col-s-12 col-m-6 col-lg-4 footer-share-connect" >
+	
+			<h2 class="visuallyhidden">Site Footer</h2>
+			<h3 class="footer-title">Share &amp; Connect</h3>
+			
+	
+	<ul class="footer-links with-icons ">  <li class="footer-link-follow-us-on-social-media">
+	<a href="https://www.laramiecountywy.gov/County-Government/Contact-Us" target="_self"  >
+<i aria-hidden="true"></i>Follow us on Social Media
+</a>
+</li>
+           </ul>
+	
+</div>
+                            </div>
+                        </div>
+                    </div>
+                
+                <div class="footer-outer-container footer-second-row">
+                    <div class="footer-container clearfix">
+                        <div class="grid grid-pad footer-secondary-links">
+                            <div class="col-xs-12 col-m-7">
+                                
+                                    
+                                
+                            </div>
+                            <div class="col-xs-12 col-m-5 powered-by">
+                                <div class="right">
+                                    &copy; 2026 Laramie County, Wyoming&nbsp;|&nbsp;<span class="powered-by">Powered by <a href="https://granicus.com/solution/govaccess/opencities/" target="_blank">Granicus</a></span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </footer>
+        </div>
+    </div>
+
+    <script src="/files/oc-resources/b9015858-988c-48a4-9473-7c193df083e4/JsTextSnippets.js?ocsvclang=en-US" type="text/javascript"></script><script>OpenCitiesResourceStrings["Sys Js Get Updates"] = "Get updates";</script>
+    
+    
+    <!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-GDXRC8N1SV"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-GDXRC8N1SV');
+</script>
+    
+    
+
+<script type="text/javascript">
+//<![CDATA[
+window.__TsmHiddenField = $get('ctl04_seamless_script_manager_TSM');//]]>
+</script>
+</form>
+</body>
+</html>

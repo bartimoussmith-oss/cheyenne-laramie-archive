@@ -1,0 +1,1114 @@
+<!DOCTYPE html>
+<!--[if lt IE 7]>      <html class="no-js lt-ie9 lt-ie8 lt-ie7" lang="en"> <![endif]-->
+<!--[if IE 7]>         <html class="no-js lt-ie9 lt-ie8" lang="en"> <![endif]-->
+<!--[if IE 8]>         <html class="no-js lt-ie9" lang="en"> <![endif]-->
+<!--[if gt IE 8]><!-->
+<html class="no-js" lang="en-US">
+<!--<![endif]-->
+<head>
+	<!-- Published by OpenCities, 1.38.0.1 -->
+
+    
+        
+    
+    
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+    <meta name="theme-color" content="#1B75BC"/>
+    <title>Departments – City of Cheyenne</title>
+	<meta name="generator" content="OpenCities - https://granicus.com/product/opencities" />
+
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <!-- Using mobile-web-app-capable for now to enable full-screen experience on supported platforms -->
+    <!-- Note: This tag works mainly on Android Chrome. It does NOT enable full-screen mode on iOS Safari. -->
+    <!-- For iOS, the correct tag is: <meta name="apple-mobile-web-app-capable" content="yes"> -->
+    <!-- TODO: Monitor for updated meta tag standards from Apple or other browser vendors -->
+    <meta name="mobile-web-app-capable" content="yes" />
+        <meta name="description" content="The Municipal Building is located at 2101 O&#39;Neil Avenue in Cheyenne, Wyoming. Contact information and additional details on each City department can be found here." />
+    <meta property="og:type" content="article" />
+    <meta property="og:url" content="https://www.cheyennecity.org/Your-Government/Departments" />
+    <meta property="og:title" content="Departments" />
+    <meta property="og:description" content="The Municipal Building is located at 2101 O&#39;Neil Avenue in Cheyenne, Wyoming. Contact information and additional details on each City department can be found here." />
+    <meta property="og:image" content="https://www.cheyennecity.org/files/assets/public/v/1/templateimages/municipal-building-exterior.jpg?w=1200" />
+    <meta property="twitter:card" content="summary" />
+    <meta property="twitter:title" content="Departments" />
+    <meta property="twitter:description" content="The Municipal Building is located at 2101 O&#39;Neil Avenue in Cheyenne, Wyoming. Contact information and additional details on each City department can be found here." />
+    <meta property="twitter:image" content="https://www.cheyennecity.org/files/assets/public/v/1/templateimages/municipal-building-exterior.jpg?w=1080" />
+    <meta property="fb:app_id" content="4049459422007991" />
+    <link rel="canonical" href="https://www.cheyennecity.org/Your-Government/Departments" />
+
+    
+    <link rel="icon" type="image/png" href="/files/ocfavicon/Public/favicon-96x96.png" sizes="96x96" />
+<link rel="icon" type="image/svg+xml" href="/files/ocfavicon/Public/favicon.svg" />
+<link rel="shortcut icon" href="/files/ocfavicon/Public/favicon.ico" />
+<link rel="apple-touch-icon" sizes="180x180" href="/files/ocfavicon/Public/apple-touch-icon.png" />
+<link rel="manifest" href="/files/ocfavicon/Public/site.webmanifest" />
+    <script>
+        (function () {
+            if (window.__UNLOAD_LAZY_PATCH__) return;
+            window.__UNLOAD_LAZY_PATCH__ = true;
+
+            var supportsPageHide = ("onpagehide" in window);
+            var mappedType = supportsPageHide ? "pagehide" : "beforeunload";
+            var nativeAdd = window.addEventListener;
+            var nativeRemove = window.removeEventListener;
+            var unloadMap = null;
+            var patched = false;
+
+            function ensurePatched() {
+                if (patched) return;
+                unloadMap = new WeakMap();
+
+                window.addEventListener = function (type, listener, options) {
+                    if (type === "unload") {
+                        var wrapped = function (evt) {
+                            if (supportsPageHide && evt.persisted) return;
+                            listener.call(this, evt);
+                        };
+                        unloadMap.set(listener, wrapped);
+                        return nativeAdd.call(this, mappedType, wrapped, options);
+                    }
+                    return nativeAdd.call(this, type, listener, options);
+                };
+
+                window.removeEventListener = function (type, listener, options) {
+                    if (type === "unload") {
+                        var wrapped = unloadMap.get(listener);
+                        if (wrapped) {
+                            nativeRemove.call(this, mappedType, wrapped, options);
+                            unloadMap.delete(listener);
+                        }
+                        return;
+                    }
+                    return nativeRemove.call(this, type, listener, options);
+                };
+
+                var orig = null;
+                Object.defineProperty(window, "onunload", {
+                    configurable: true, enumerable: true,
+                    get: function () { return orig; },
+                    set: function (h) {
+                        orig = h;
+                        if (typeof h === "function") window.addEventListener("unload", h);
+                    }
+                });
+                patched = true;
+            }
+
+            window.addEventListener = function (type, listener, options) {
+                if (type === "unload") {
+                    ensurePatched();
+                    return window.addEventListener(type, listener, options);
+                }
+                return nativeAdd.call(this, type, listener, options);
+            };
+
+            window.removeEventListener = function (type, listener, options) {
+                if (type === "unload" && !patched) {
+                    return;
+                }
+                return nativeRemove.call(this, type, listener, options);
+            };
+
+            function patchTelerik() {
+                ensurePatched();
+                var ns = window.RadAjaxNamespace;
+                if (!ns || !ns.EventManager || !ns.EventManager.Add || ns.EventManager.__UnloadPatched) return;
+                var origAdd = ns.EventManager.Add;
+                ns.EventManager.Add = function (el, evtName, handler, clientId) {
+                    if (el === window && evtName === "unload") {
+                        return window.addEventListener("unload", handler);
+                    }
+                    return origAdd.call(this, el, evtName, handler, clientId);
+                };
+                ns.EventManager.__UnloadPatched = true;
+            }
+
+            if (window.RadAjaxNamespace)
+                patchTelerik();
+            else (window.requestIdleCallback || function (cb)
+            {
+                setTimeout(cb, 120);
+            })(patchTelerik);
+        })();
+    </script>
+    <!-- Preconnecting to Google Fonts servers -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+
+    <!-- Defer Roboto font loading to avoid render-blocking -->
+    <script>
+        window.addEventListener('DOMContentLoaded', () => {
+            const robotoLink = document.createElement('link');
+            robotoLink.rel = 'stylesheet';
+            robotoLink.href = 'https://fonts.googleapis.com/css2?family=Roboto:wght@400;500&display=swap';
+            document.head.appendChild(robotoLink);
+        });
+    </script>
+
+    <style>
+        .gm-style, .gm-style * {
+            font-family: 'Roboto', system-ui, -apple-system, "Segoe UI", Arial, sans-serif !important;
+        }
+    </style>
+
+    <script>
+        document.documentElement.className = document.documentElement.className.replace(/\bno-js\b/g, "js");
+    </script>
+    <link href="https://fonts.googleapis.com/css?family=Montserrat:400,600,700|Roboto:400,400i,700&display=swap" rel="stylesheet">
+    
+        
+            <script type="text/javascript">
+                window.__oc_flags_ImprovedBreakpointEventHandling = true;
+            </script>
+            
+        
+    
+    
+    
+        <script type="text/javascript">
+            var __metaQueryBreakpoints = {
+                'sc-size-4': '(max-width: 480px)',
+                'sc-size-3': '(min-width: 480px) and (max-width: 768px)',
+                'sc-size-2': '(min-width: 768px) and (max-width: 992px)',
+                'sc-size-1': '(min-width: 992px)'
+            }
+
+            var __ocSizePoints = [
+                { min: 0, name: 'sc-size-4' },
+                { min: 480, name: 'sc-size-3' },
+                { min: 768, name: 'sc-size-2' },
+                { min: 992, name: 'sc-size-1' }
+            ];
+
+        </script>
+    
+
+    <!-- Framework Section -->
+    
+    <script src="//ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+    <script>window.jQuery || document.write('<script src="/files/templates/00000000-0000-0000-0000-000000000000/b32c9b6c-7400-488a-8246-4bc7b2004122/v/340/jquery-1.12.4.min.js?seamlessts=639263244950419808" ><\/script>')</script>
+
+    <!--Google Maps API Loader – Improved Version to avoid Warning
+    This script loads the Google Maps JavaScript API using a dynamic and async method.
+    It replaces the old static <script> tag to avoid performance warnings from Google.
+
+    Dynamically creates the <script> tag with loading = async for better performance
+    Builds the API URL with required libraries(places, geometry, marker, geocoding)
+    Uses a Promise and callback(google.maps.__ib__) to confirm when the script is ready
+
+    It Avoids Google’s warning about direct script loading
+    Improves page load speed by loading the API asynchronously-->
+
+    
+        <script>
+            (function (root) {
+                root.OpenCities = root.OpenCities || {};
+                if (!root.OpenCities.GoogleMapsLoader) {
+                    root.OpenCities.GoogleMapsLoader = {
+                        _cbs: [],
+                        _ready: false,
+                        onReady: function (cb) {
+                            if (this._ready) { try { cb(); } catch (e) { console.error(e); } }
+                            else if (typeof cb === 'function') this._cbs.push(cb);
+                        },
+                        _fire: function () {
+                            if (this._ready) return;
+                            this._ready = true;
+                            var q = this._cbs.splice(0);
+                            for (var i = 0; i < q.length; i++) {
+                                try { q[i](); } catch (e) { console.error(e); }
+                            }
+                        }
+                    };
+                }
+            })(window);
+
+            (g => {
+                var h, a, k, p = "The Google Maps JavaScript API", c = "google", l = "importLibrary", q = "__ib__",
+                    m = document, b = window;
+                b = b[c] || (b[c] = {});
+                var d = b.maps || (b.maps = {}), r = new Set, e = new URLSearchParams,
+                    u = () => h || (h = new Promise(async (resolve, reject) => {
+                        a = m.createElement("script");
+                        e.set("libraries", [...r] + "");
+                        for (k in g) e.set(k.replace(/[A-Z]/g, t => "_" + t[0].toLowerCase()), g[k]);
+                        e.set("callback", c + ".maps." + q);
+                        a.src = "https://maps." + c + "apis.com/maps/api/js?" + e.toString();
+                        a.loading = "async";
+                        a.async = true;
+                        a.defer = true;
+                        d[q] = resolve;
+                        a.onerror = () => reject(Error(p + " could not load."));
+                        a.nonce = m.querySelector("script[nonce]")?.nonce || "";
+                        m.head.append(a);
+                    }));
+                if (d[l]) {
+                    console.warn(p + " only loads once. Ignoring duplicate load.");
+                } else {
+                    d[l] = (f, ...n) => (r.add(f), u().then(() => d[l](f, ...n)));
+                }
+            })({
+                key: "AIzaSyA2aBqwi49zIS2W3SPecxPWi5QxL2Q53dI",
+                v: "3.65"
+            });
+
+            (async () => {
+                try {
+                    if (!google?.maps?.importLibrary) return;
+
+                    if (!window.OpenCities.__mapsLibsPromise) {
+                        window.OpenCities.__mapsLibsPromise = Promise.all([
+                            google.maps.importLibrary('maps'),
+                            google.maps.importLibrary('places'),
+                            google.maps.importLibrary('geocoding'),
+                            google.maps.importLibrary('marker'),
+                            google.maps.importLibrary('geometry')
+                        ]);
+                    }
+                    await window.OpenCities.__mapsLibsPromise;
+
+                    if (window.OpenCities?.GoogleMapsLoader) {
+                        window.OpenCities.GoogleMapsLoader._fire();
+                    }
+                } catch (err) {
+                    console.error('Google Maps failed to initialise', err);
+                }
+            })();
+        </script>
+    
+    <script src="/files/templates/00000000-0000-0000-0000-000000000000/b32c9b6c-7400-488a-8246-4bc7b2004122/v/340/modernizr.custom.710f3bf.js?seamlessts=639263244950419808" defer></script>
+    <script src="//f1-oc.readspeaker.com/script/11555/webReader/webReader.js?pids=wr" type="text/javascript"></script><script type="text/javascript">window.rsConf = {general: {usePost: true}};</script>
+    <!--// End Framework Section -->
+    <!-- OpenCities Section -->
+    <script>
+        var OpenCities = OpenCities || {};
+        OpenCities.Paths = {
+            SiteTemplate: '/files/templates/00000000-0000-0000-0000-000000000000/b32c9b6c-7400-488a-8246-4bc7b2004122/v/340/',
+            ThemePath: '/files/templates/00000000-0000-0000-0000-000000000000/b32c9b6c-7400-488a-8246-4bc7b2004122/v/340/'
+        };
+    </script>
+    <script src='/ocapi/14c7d156-9261-441e-be9e-2dcbdee683f5/en-US/websitesettings.js'></script>
+    <script src="/files/templates/00000000-0000-0000-0000-000000000000/b32c9b6c-7400-488a-8246-4bc7b2004122/v/340/oc_head.js?applied=20251008054708"></script>
+    <!-- Script Combine. To enter debug mode for this browser session, enter OcScriptCombineDebug=true as a querystring -->
+<link href="/files/oc-templates/00000000-0000-0000-0000-000000000000/b32c9b6c-7400-488a-8246-4bc7b2004122/v/340/oc_grid.css~oc_style.css~oc_wizard_style.css~oc_main.css~oc_forms.css~oc_wizard.css~oc_wizard_menu.css~oc_main_s1.css~oc_wizard_s1.css~oc_wizard_menu_s1.css~oc_grid_s1.css~OcScriptCombine_Minify0?uniqueid=20251008054708" rel="stylesheet" type="text/css">
+    <!-- Script Combine. To enter debug mode for this browser session, enter OcScriptCombineDebug=true as a querystring -->
+<link href="/files/oc-templates/00000000-0000-0000-0000-000000000000/b32c9b6c-7400-488a-8246-4bc7b2004122/v/340/client_style.css~client.css~client_menu.css~client_s1.css~client_menu_s1.css~client_forms.css~OcScriptCombine_Minify0?uniqueid=20251008054708" rel="stylesheet" type="text/css">
+    <style type="text/css">.background-container
+{
+    background-image:url('/files/assets/public/v/1/templateimages/municipal_building_drone1.jpg?w=480');
+    
+}
+
+@media (min-width: 480px)
+{
+    .background-container
+    {
+      background-image:url('/files/assets/public/v/1/templateimages/municipal_building_drone1.jpg?w=768');
+    }
+}
+@media (min-width: 768px)
+{
+    .background-container
+    {
+      background-image:url('/files/assets/public/v/1/templateimages/municipal_building_drone1.jpg?w=992');
+    }
+}
+@media (min-width: 992px)
+{
+    .background-container
+    {
+      background-image:url('/files/assets/public/v/1/templateimages/municipal_building_drone1.jpg');
+    }
+}
+@media (min-width: 1280px)
+{
+    .background-container
+    {
+      background-image:url('/files/assets/public/v/1/templateimages/municipal_building_drone1.jpg');
+    }
+}
+@media (min-width: 1920px)
+{
+    .background-container
+    {
+      background-image:url('/files/assets/public/v/1/templateimages/municipal_building_drone1.jpg');
+    }
+}
+        </style><script>
+(function (BackgroundSettings, $, undefined) {
+    BackgroundSettings.initialise = function () {
+        this.Application = {"CSSSelector":".background-container","EnableFade":true,"MediaType":"image"};
+    };
+} (OpenCities.BackgroundSettings = OpenCities.BackgroundSettings || {}, jQuery));
+OpenCities.BackgroundSettings.initialise();
+</script>
+    
+    <!-- Script Combine. To enter debug mode for this browser session, enter OcScriptCombineDebug=true as a querystring -->
+<link href="/files/oc-templates/00000000-0000-0000-0000-000000000000/b32c9b6c-7400-488a-8246-4bc7b2004122/v/340/oc_print.css~client_print.css~OcScriptCombine_Minify0?uniqueid=20251008054708" rel="stylesheet" type="text/css" media="print">
+    <!-- Script Combine. To enter debug mode for this browser session, enter OcScriptCombineDebug=true as a querystring -->
+<script src="/files/oc-templates/00000000-0000-0000-0000-000000000000/b32c9b6c-7400-488a-8246-4bc7b2004122/v/340/external_plugins.js~oc_form_helper.js~oc_main.js~plugins.js~oc_main_init.js~OcScriptCombine_Minify0?uniqueid=20251008054708" defer="true"></script>
+    
+    
+
+                                <script>!function(e){var n="https://s.go-mpulse.net/boomerang/";if("False"=="True")e.BOOMR_config=e.BOOMR_config||{},e.BOOMR_config.PageParams=e.BOOMR_config.PageParams||{},e.BOOMR_config.PageParams.pci=!0,n="https://s2.go-mpulse.net/boomerang/";if(window.BOOMR_API_key="DYTCK-JM9C8-ED4EP-C3GGK-Z575H",function(){function e(){if(!r){var e=document.createElement("script");e.id="boomr-scr-as",e.src=window.BOOMR.url,e.async=!0,o.appendChild(e),r=!0}}function t(e){r=!0;var n,t,a,i,d=document,O=window;if(window.BOOMR.snippetMethod=e?"if":"i",t=function(e,n){var t=d.createElement("script");t.id=n||"boomr-if-as",t.src=window.BOOMR.url,BOOMR_lstart=(new Date).getTime(),e=e||d.body,e.appendChild(t)},!window.addEventListener&&window.attachEvent&&navigator.userAgent.match(/MSIE [67]\./))return window.BOOMR.snippetMethod="s",void t(o,"boomr-async");a=document.createElement("IFRAME"),a.src="about:blank",a.title="",a.role="presentation",a.loading="eager",i=(a.frameElement||a).style,i.width=0,i.height=0,i.border=0,i.display="none",o.appendChild(a);try{O=a.contentWindow,d=O.document.open()}catch(_){n=document.domain,a.src="javascript:var d=document.open();d.domain='"+n+"';void 0;",O=a.contentWindow,d=O.document.open()}if(n)d._boomrl=function(){this.domain=n,t()},d.write("<bo"+"dy onload='document._boomrl();'>");else if(O._boomrl=function(){t()},O.addEventListener)O.addEventListener("load",O._boomrl,!1);else if(O.attachEvent)O.attachEvent("onload",O._boomrl);d.close()}function a(e){window.BOOMR_onload=e&&e.timeStamp||(new Date).getTime()}if(!window.BOOMR||!window.BOOMR.version&&!window.BOOMR.snippetExecuted){window.BOOMR=window.BOOMR||{},window.BOOMR.snippetStart=(new Date).getTime(),window.BOOMR.snippetExecuted=!0,window.BOOMR.snippetVersion=14,window.BOOMR.url=n+"DYTCK-JM9C8-ED4EP-C3GGK-Z575H";var i=document.currentScript||document.getElementsByTagName("script")[0],o=i.parentNode,r=!1,d=document.createElement("link");if(d.relList&&"function"==typeof d.relList.supports&&d.relList.supports("preload")&&"as"in d)window.BOOMR.snippetMethod="p",d.href=window.BOOMR.url,d.rel="preload",d.as="script",d.addEventListener("load",e),d.addEventListener("error",function(){t(!0)}),setTimeout(function(){if(!r)t(!0)},3e3),BOOMR_lstart=(new Date).getTime(),o.appendChild(d);else t(!1);if(window.addEventListener)window.addEventListener("load",a,!1);else if(window.attachEvent)window.attachEvent("onload",a)}}(),"".length>0)if(e&&"performance"in e&&e.performance&&"function"==typeof e.performance.setResourceTimingBufferSize)e.performance.setResourceTimingBufferSize();!function(){if(BOOMR=e.BOOMR||{},BOOMR.plugins=BOOMR.plugins||{},!BOOMR.plugins.AK){var n=""=="true"?1:0,t="",a="gm4zheixacris2xqukya-f-f469e078e-clientnsv4-s.akamaihd.net",i="false"=="true"?2:1,o={"ak.v":"41","ak.cp":"1700496","ak.ai":parseInt("1075935",10),"ak.ol":"0","ak.cr":15,"ak.ipv":4,"ak.proto":"http/1.1","ak.rid":"3241631d","ak.r":51636,"ak.a2":n,"ak.m":"dscb","ak.n":"essl","ak.cport":30735,"ak.gh":"2.23.85.137","ak.quicv":"","ak.tlsv":"tls1.3","ak.0rtt":"","ak.0rtt.ed":"","ak.csrc":"-","ak.acc":"bbr","ak.t":"1794155184","ak.ak":"hOBiQwZUYzCg5VSAfCLimQ==5xrI3gZnGTb1SVrUAMFI/4T2Lz0fwS+zL60dbSc39PFtdpHWv52xm5Zl6qKEtqBUx4mJERhs2RJeW6SCusCghvJaRiaXYLwvK0OWkWt1m0h/HrKUmFseUjii/N+zEbnqj5VnyeDWWH1uN6f/fX8UYvW6yFhVE+ZCVMHorLdAy2U/ZbnPoju/XsD92tTQeHx41bqH/nSiiAHB/ve7GrdmnVfUB86v1Rssm1XpW1zp8Y7Ro4Lmz8TLxvUfybnrR6lXHDJx9MvAHsU1enXW2yjhWYk147Rttx4PeR670gGGwRHc0zO+P9DXA7Yc3lJXmcVHYzwoVuh0kQ51lCWlVe/ah4bCYXhBRD9j4srKSuwri5wmhiE2s2jHqPoOh5/5A9WdJ+V1rUe3OgquFsFXS70yAm8kuqxlftCIUZdn0GRdaR4=","ak.pv":"362","ak.dpoabenc":"","ak.tf":i};if(""!==t)o["ak.ruds"]=t;var r={i:!1,av:function(n){var t="http.initiator";if(n&&(!n[t]||"spa_hard"===n[t]))o["ak.feo"]=void 0!==e.aFeoApplied?1:0,BOOMR.addVar(o)},rv:function(){var e=["ak.cport","ak.cr","ak.csrc","ak.gh","ak.ipv","ak.m","ak.n","ak.ol","ak.proto","ak.quicv","ak.tlsv","ak.0rtt","ak.0rtt.ed","ak.r","ak.acc","ak.t","ak.tf"];BOOMR.removeVar(e)}};BOOMR.plugins.AK={akVars:o,akDNSPreFetchDomain:a,init:function(){if(!r.i){var e=BOOMR.subscribe;e("before_beacon",r.av,null,null),e("onbeacon",r.rv,null,null),r.i=!0}return this},is_complete:function(){return!0}}}}()}(window);</script></head>
+<body class="body layout-modern  site-search-always-visble  content-type-oc-module-interface content-template-oc-departments-without-search group-template-oc-full-width-with-default-header page-name-departments page-sequence-5 page-depth-2 page-section-4 website-type-primary device-desktop " id="body-top">
+    <div id="skip-to-content-container">
+        <a href="#main-content" class="visuallyhidden focusable" id="skip-to-content-link">Skip to main content</a>
+    </div>
+    <script>
+        // OCNOW-11988 (Cursor): Proactively focus skip link when returning from browser chrome.
+        // Must run inline (not deferred oc_main.js) so focus is intercepted before NVDA speaks footer.
+        (function () {
+            var awaitingReentry = false;
+            var inertSupported = 'inert' in HTMLElement.prototype;
+
+            function isExplicitlyOutsideDocument(node) {
+                return node != null && !document.documentElement.contains(node);
+            }
+
+            function getSkipContainer() {
+                return document.getElementById('skip-to-content-container');
+            }
+
+            function getSkipLink() {
+                return document.getElementById('skip-to-content-link');
+            }
+
+            function applyGuard() {
+                awaitingReentry = true;
+                if (!inertSupported) {
+                    return;
+                }
+                var skipContainer = getSkipContainer();
+                var children = document.body.children;
+                for (var i = 0; i < children.length; i++) {
+                    if (children[i] !== skipContainer) {
+                        children[i].setAttribute('inert', '');
+                    }
+                }
+            }
+
+            function clearGuard() {
+                awaitingReentry = false;
+                if (!inertSupported) {
+                    return;
+                }
+                var children = document.body.children;
+                for (var i = 0; i < children.length; i++) {
+                    children[i].removeAttribute('inert');
+                }
+            }
+
+            function isSkipLinkElement(target) {
+                if (!target) {
+                    return false;
+                }
+                var skipContainer = getSkipContainer();
+                return target.id === 'skip-to-content-link' ||
+                    (skipContainer && skipContainer.contains(target));
+            }
+
+            function focusSkipLink() {
+                var skipLink = getSkipLink();
+                if (!skipLink) {
+                    return;
+                }
+                if (window.scrollY > 0) {
+                    window.scrollTo(0, 0);
+                }
+                skipLink.focus({ preventScroll: true });
+            }
+
+            function scheduleGuardIfDocumentLostFocus() {
+                window.setTimeout(function () {
+                    if (!document.hasFocus()) {
+                        applyGuard();
+                    }
+                }, 0);
+            }
+
+            document.addEventListener('focusout', function (e) {
+                if (isExplicitlyOutsideDocument(e.relatedTarget)) {
+                    applyGuard();
+                }
+            }, true);
+
+            document.addEventListener('keydown', function (e) {
+                if (e.key === 'Tab') {
+                    scheduleGuardIfDocumentLostFocus();
+                } else if (e.key === 'F6' || (e.key === 'l' && e.ctrlKey)) {
+                    scheduleGuardIfDocumentLostFocus();
+                }
+            }, true);
+
+            window.addEventListener('focus', function () {
+                if (!awaitingReentry) {
+                    return;
+                }
+                applyGuard();
+                focusSkipLink();
+            }, true);
+
+            document.addEventListener('focusin', function (e) {
+                var reentryFromChrome = awaitingReentry || isExplicitlyOutsideDocument(e.relatedTarget);
+                if (!reentryFromChrome) {
+                    return;
+                }
+                if (isSkipLinkElement(e.target)) {
+                    clearGuard();
+                    return;
+                }
+                applyGuard();
+                focusSkipLink();
+                clearGuard();
+            }, true);
+        })();
+    </script>
+    <form name="mainForm" method="post" action="/Your-Government/Departments" id="mainForm">
+<input type="hidden" name="ctl04_seamless_script_manager_TSM" id="ctl04_seamless_script_manager_TSM" value="" />
+<input type="hidden" name="__SEAMLESSVIEWSTATE" id="__SEAMLESSVIEWSTATE" value="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" />
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="" />
+
+
+<script src="/Telerik.Web.UI.WebResource.axd?_TSM_HiddenField_=ctl04_seamless_script_manager_TSM&amp;compress=1&amp;_TSM_CombinedScripts_=%3b%3bSystem.Web.Extensions%2c+Version%3d4.0.0.0%2c+Culture%3dneutral%2c+PublicKeyToken%3d31bf3856ad364e35%3aen-GB%3add3ac3d5-1e29-4112-8fed-529caffa8f24%3aea597d4b%3bOpenCities.CustomControls%3aen-GB%3a7197b077-b068-4a69-9481-a6cf2e7718f9%3a8e1d32bf" type="text/javascript"></script>
+<script src="/ScriptResource.axd?d=EYVjNsQ7oYmzBqCI0dkEyYe0LYmPcVFL4WPcQCXhKfQwUqkAT7lLra0za-OLMuUUcCyPINdTVMHIWti96-8R_oN-trjXUUZnJRzckxTjid4ecctwwEJyNI-05jZYvXHBRiEKL0MUQMEyEJ2FXanyE1uBk88RxZ1wVK6AUn9D4v8rW-LNx2OOtB8vE3hC8P0jk4XZt7GAPiCeYQolxUlwFZA8cuOfgd4u08OASxFdh8mChz3A0YHhuwRrXGVlulfs9SJVkAvulhjdHYIIp1SRohDxt9acTwxUQrOlxuxC847b00zOOWg9SlpwD_iBuQQ1rOK9WH9O_wN9c2TXm4GeXaQHHT4yQ9IlzZXw6th8ch3f-k_n1yYeeurDMbwChXW1Vh_7rpu00kgmegsg9w2J3ququXIPfy2Gq8IscVTmtwouupfmUzAOicU_yESgQ-dG0" type="text/javascript"></script>
+    
+<script type="text/javascript">
+    try{
+        function SeamlessEndRequestHandler(sender, args) {
+            try {
+                var dataItems = args.get_dataItems();
+                if(dataItems.ctl04_seamless_script_manager)
+                    document.getElementById('__SEAMLESSVIEWSTATE').value = dataItems.ctl04_seamless_script_manager;
+            }
+            catch (e) { }
+        }
+
+        Sys.WebForms.PageRequestManager.getInstance().add_endRequest(SeamlessEndRequestHandler);
+    }
+    catch (e) { }
+</script>
+
+    <div class="unsupported-browser-warning js-element"></div>
+    
+    <div hidden>
+        <span id="new-window-0">opens in new tab or window </span>
+    </div>
+    <div class="overlay-container"></div>
+    
+    <div class="background-container">
+        <div class="page-container">
+            <!-- OC Layout Element GROUP TEMPLATE -->
+            <!--groupTemplateStart--><header><div class="print-header-outer-container print-element">
+<img src="/files/templates/00000000-0000-0000-0000-000000000000/b32c9b6c-7400-488a-8246-4bc7b2004122/v/339/CHEY_Logo_Primary_White.svg" alt="City of Cheyenne - Logo" />
+</div>
+            <div class="toolbar-outer-container">
+  <div class="toolbar-inner-container clearfix">
+    <div class="toolbar-item toolbar-language notranslate toolbar-display-dropdown"><div class="no-js-element">
+		  <ul>
+		    <li id="toolbar-language-option-en-us-noscript"><a href="https://www.cheyennecity.org/Your-Government/Departments?oc_lang=en-US" class="lang-item lang-en-us" data-translate-to="en-us" lang="en-US">English (United States)<span class="visuallyhidden"> Select this as your preferred language</span></a></li><li id="toolbar-language-option-es-noscript"><a href="https://www.cheyennecity.org/Your-Government/Departments?oc_lang=es" class="lang-item lang-es" data-translate-to="es" lang="en">Spanish<span class="visuallyhidden"> Select this as your preferred language</span></a></li>
+          </ul>
+		</div>
+	<button type="button" role="combobox" aria-controls="toolbar-language-drop-down" aria-expanded="false" aria-haspopup="listbox" aria-autocomplete="none" aria-labelledby="toolbar-language-label" class="toolbar-button toolbar-button-language js-element">  
+        <span class="toolbar-language-globe-icon" aria-hidden="true"></span>
+        <span id="toolbar-language-label" class="current-language">
+            Select a language to translate to
+		</span>
+		<i aria-hidden="true"></i>
+	</button>
+	<div id="toolbar-language-drop-down" role="listbox" aria-label="Available languages" class="toolbar-drop-down toolbar-language-drop-down js-element clearfix">
+		<ul role="group">
+		    <li role="presentation"><a id="toolbar-language-option-en-us" role="option" aria-selected="true" href="https://www.cheyennecity.org/Your-Government/Departments?oc_lang=en-US" class="lang-item lang-en-us" data-translate-to="en-us" lang="en-US">English (United States)<span class="visuallyhidden"> Select this as your preferred language</span></a></li><li role="presentation"><a id="toolbar-language-option-es" role="option" aria-selected="false" href="https://www.cheyennecity.org/Your-Government/Departments?oc_lang=es" class="lang-item lang-es" data-translate-to="es" lang="en">Spanish<span class="visuallyhidden"> Select this as your preferred language</span></a></li>
+        </ul>
+	</div></div>
+  </div>
+</div>
+            <div class="header-outer-container">
+    <div class="header-container header-layout-3  clearfix">
+			<div class="header-site-logo">
+				<a href="https://www.cheyennecity.org/Home" lang="en-US" aria-label="City of Cheyenne - Home - Logo">
+				</a>
+			</div>
+      
+		    <div class="mobile-search-btn js-element">
+		        <button><i aria-hidden="true"></i><span class="mobile-search-btn-text"><span class="visuallyhidden">Open </span>Search</span></button>
+		    </div>
+		    <div class="header-website-settings">
+                <button id="btn-mob-nav" type="button" aria-expanded="false" aria-controls="nav">
+                    <i aria-hidden="true"></i><span class="side-menu-btn-text">Menu</span>
+                </button>
+        	</div>
+          <div class="navigation-outer-container">
+	<div id="nav" role="navigation" class="navigation-container  navigation-container-option-7" data-menu-type="horizontal" aria-label="primary">
+        <div class="grid">
+            <div class="col-xs-12">              
+                <ul class="sf-menu" id="sc-main-menu"><li class="nav-section-quarters-1 nav-active-path  first-item nav-item-seq-1">
+<a href="https://www.cheyennecity.org/Your-Government" class="nav-level-1 nav-has-children"  target="">
+	<i class="item-icon" aria-hidden="true"></i><span class="item-text">Your Government</span>
+</a>
+<button aria-label="Expand" aria-haspopup="true" class="mobnav-subarrow" aria-controls="sc-menu-second-level-nav-item-seq-1">
+              <i aria-hidden="true"></i>
+              </button>
+<ul id="sc-menu-second-level-nav-item-seq-1">
+
+          
+            <li class=" "><a  href="https://www.cheyennecity.org/Your-Government/Mayor" class="nav-has-children"  target="">Mayor Patrick Collins</a><button aria-label="Expand" aria-haspopup="true" class="mobnav-subarrow-child" aria-controls="sc-menu-third-level-nav-item-seq-1-nav-item-seq-1"><i aria-hidden="true"></i>
+              </button>
+<ul id="sc-menu-third-level-nav-item-seq-1-nav-item-seq-1">
+          
+            <li  class=" "><a href="https://www.cheyennecity.org/Your-Government/Mayor/Cheyenne-Mayors"  target="">Cheyenne Mayors</a></li></ul></li><li class=" "><a  href="https://www.cheyennecity.org/Your-Government/City-Council" class="nav-has-children"  target="">City Council</a><button aria-label="Expand" aria-haspopup="true" class="mobnav-subarrow-child" aria-controls="sc-menu-third-level-nav-item-seq-1-nav-item-seq-2"><i aria-hidden="true"></i>
+              </button>
+<ul id="sc-menu-third-level-nav-item-seq-1-nav-item-seq-2">
+          
+            <li  class=" "><a href="https://www.cheyennecity.org/Your-Government/City-Council/Committees"  target="">Committee Information</a></li><li  class=" "><a href="https://www.cheyennecity.org/Your-Government/City-Council/Minutes-and-Agendas"  target="">Minutes and Agendas</a></li></ul></li><li class=" "><a  href="https://www.cheyennecity.org/Your-Government/Boards-Commissions" class=""  target="">Boards / Commissions</a></li><li class="nav-active-path nav-active-page"><a  href="https://www.cheyennecity.org/Your-Government/Departments" class="nav-has-children"  target="">Departments</a><button aria-label="Expand" aria-haspopup="true" class="mobnav-subarrow-child" aria-controls="sc-menu-third-level-nav-item-seq-1-nav-item-seq-4"><i aria-hidden="true"></i>
+              </button>
+<ul id="sc-menu-third-level-nav-item-seq-1-nav-item-seq-4">
+          
+            <li  class=" "><a href="https://www.cheyennecity.org/Your-Government/Departments/Attorney"  target="">City Attorney</a></li><li  class=" "><a href="https://www.cheyennecity.org/Your-Government/Departments/City-Clerk"  target="">City Clerk</a></li><li  class=" "><a href="https://www.cheyennecity.org/Your-Government/Departments/City-Engineer"  target="">City Engineer</a></li><li  class=" "><a href="https://www.cheyennecity.org/Your-Government/Departments/Community-Recreation-Events"  target="">Community Recreation & Events</a></li><li  class=" "><a href="https://www.cheyennecity.org/Your-Government/Departments/Cheyenne-Fire-Rescue"  target="">Cheyenne Fire Rescue</a></li><li  class=" "><a href="https://www.cheyennecity.org/Your-Government/Departments/Human-Resources"  target="">Human Resources</a></li><li  class=" "><a href="https://www.cheyennecity.org/Your-Government/Departments/Planning-and-Development-Department"  target="">Planning and Development</a></li><li  class=" "><a href="https://www.cheyennecity.org/Your-Government/Departments/Public-Works"  target="">Public Works</a></li><li  class=" "><a href="https://www.cheyennecity.org/Your-Government/Departments/City-Treasurer"  target="">City Treasurer</a></li><li  class=" "><a href="https://www.cheyennecity.org/Your-Government/Departments/Compliance-Department"  target="">Compliance Department</a></li><li  class=" "><a href="https://www.cheyennecity.org/Your-Government/Departments/Mayors-Office"  target="">Mayor's Office</a></li><li  class=" "><a href="https://www.cheyennecity.org/Your-Government/Departments/Police-Department"  target="">Police Department</a></li></ul></li><li class=" "><a  href="https://www.cheyennecity.org/Your-Government/Demographics" class=""  target="_blank">Demographics</a></li><li class=" "><a  href="https://www.cheyennecity.org/Your-Government/Sister-Cities" class=""  target="">Sister Cities</a></li><li class=" "><a  href="https://www.cheyennecity.org/Your-Government/Cemetery-Complex" class=""  target="">Cemetery Complex</a></li><li class=" "><a  href="https://www.cheyennecity.org/Your-Government/Municipal-Court" class=""  target="">Municipal Court</a></li><li class=" "><a  href="https://www.cheyennecity.org/Your-Government/Municipal-Elections" class=""  target="_self">Municipal Elections</a></li><li class=" "><a  href="https://www.cheyennecity.org/Your-Government/Youth-Alternatives" class=""  target="_self">Youth Alternatives</a></li><li class=" "><a  href="https://www.cheyennecity.org/Your-Government/Connect-Cheyenne-Engage-Explore-and-Discover" class=""  target="">Connect Cheyenne: Engage, Explore, and Discover</a></li></ul></li>
+          
+            <li class="nav-section-quarters-1   nav-item-seq-2">
+<a href="https://www.cheyennecity.org/Business" class="nav-level-1 "  target="">Business</a>
+</li>
+          
+            <li class="nav-section-quarters-2   nav-item-seq-3">
+<a href="https://www.cheyennecity.org/Services" class="nav-level-1 nav-has-children"  target="">Services</a>
+<button aria-label="Expand" aria-haspopup="true" class="mobnav-subarrow" aria-controls="sc-menu-second-level-nav-item-seq-3">
+              <i aria-hidden="true"></i>
+              </button>
+<ul id="sc-menu-second-level-nav-item-seq-3">
+
+          
+            <li class=" "><a  href="https://www.cheyennecity.org/Services/Building-Safety" class=""  target="_self">Building Safety</a></li></ul></li>
+          
+            <li class="nav-section-quarters-2   nav-item-seq-4">
+<a href="https://www.cheyennecity.org/Explore-Cheyenne" class="nav-level-1 "  target="">Explore</a>
+</li>
+          
+            <li class="nav-section-quarters-3   nav-item-seq-5">
+<a href="https://www.cheyennecity.org/I-Want-To" class="nav-level-1 "  target="">I Want To</a>
+</li>
+          
+            </ul>
+            </div>
+        </div>
+    </div>
+</div>
+			
+			<div class="header-search-control-container" id="header-search">
+				<div class="search-inner-container">
+					<div class="sc-search-panel">
+	<label for="ctl08_txtSearch" id="ctl08_lblSearch" class="sc-search-label">Search</label><input name="ctl08$txtSearch" type="text" id="ctl08_txtSearch" class="sc-search-text" placeholder="How can we help you?" /><input type="submit" name="ctl08$btnSearch" value="Search" id="ctl08_btnSearch" class="sc-search-button" />
+</div>
+					<div role="status" id="predictiveResults"></div>
+				</div>
+			</div>
+    </div>
+</div>
+
+            </header>
+            <div class="content-outer-container">
+                <div id="main" role="main" class="main-outer-container clearfix">
+                        
+                        <div class="content-main-container">
+                            <div class="grid">
+					            <div class="col-xs-12">
+						            <nav id="breadcrumbs-container" aria-label="You Are Here :">
+							            <span role="list">
+<span role="listitem">
+	<a href="https://www.cheyennecity.org/Home"  lang="en-US">Home</a>
+	<span class="nav-separator" aria-hidden="true" role="presentation">/</span>
+</span>
+          <span role="listitem"><a href="https://www.cheyennecity.org/Your-Government" >Your Government</a><span class='nav-separator' aria-hidden="true" role="presentation">/</span></span><span class="current-page" role="listitem" aria-current="page" >Departments</span></span>
+						            </nav>
+					            </div>
+                      
+					            <div class="col-xs-12">
+						            <div class="main-inner-container">
+							            <div id="main-content" class="main-container clearfix">
+							              <div id="readspeaker_button_default" class="rs_skip rsbtn rs_preserve rs_position_left">
+    <a rel="nofollow" class="rsbtn_play" accesskey="L" title="Listen to this page using ReadSpeaker" href="//app-oc.readspeaker.com/cgi-bin/rsent?customerid=11555&amp;lang=en_us&amp;readid=main-content&amp;url=https%3A%2F%2Fwww.cheyennecity.org%2FYour-Government%2FDepartments">
+        <span class="rsbtn_left rsimg rspart"><span class="rsbtn_text"><span>Listen</span></span></span>
+        <span class="rsbtn_right rsimg rsplay rspart"></span>
+    </a>
+</div>
+                            <!-- OC Layout Element Conent Template -->
+							              <!--normalTemplateStart--><h1 class='oc-page-title '>Departments</h1>
+
+
+
+<div class="grid">
+<div class="col-xs-12">
+
+<div class="grid"><div class="list-container department-list-container left">
+<div class="col-xs-12 col-m-6 col-lg-4" >
+<article>
+		<header>
+			<a href="https://www.cheyennecity.org/Your-Government/Departments/Cheyenne-Fire-Rescue"><h2 class="list-item-title" data-result-highlight-element="true">Cheyenne Fire Rescue</h2></a>
+		</header>
+		<div class="content-details-stack">
+			<li class="contact-phone"><span class="field-label">Telephone</span><span class="field-value">307-637-6311</span></li>
+      <li class="contact-phone-alternate"><span class="field-label">Alternate Phone</span><span class="field-value">Non emergency: 307-637-6525</span></li>
+			<li class="contact-email"><span class="field-label">Email</span><span class="field-value">
+<a href="mailto:fireadminstaff@cheyennecity.org" title="Compose an email to fireadminstaff@cheyennecity.org">fireadminstaff@cheyennecity.org</a>
+</span></li>
+		</div>
+		<p data-result-highlight-element="true">		
+			Cheyenne Fire Rescue will preserve life and property, promote public safety, and foster lasting partnerships to enhance the quality of life in our community.
+		</p>
+</article>
+</div><div class="col-xs-12 col-m-6 col-lg-4" >
+<article>
+		<header>
+			<a href="https://www.cheyennecity.org/Your-Government/Departments/Attorney"><h2 class="list-item-title" data-result-highlight-element="true">City Attorney</h2></a>
+		</header>
+		<div class="content-details-stack">
+			
+      
+			
+		</div>
+		<p data-result-highlight-element="true">		
+			The City Attorney's Office is committed to serving the public by providing legal support and advice to the Mayor, the City Council, and City departments, boards and commissions.
+		</p>
+</article>
+</div><div class="col-xs-12 col-m-6 col-lg-4" >
+<article>
+		<header>
+			<a href="https://www.cheyennecity.org/Your-Government/Departments/City-Clerk"><h2 class="list-item-title" data-result-highlight-element="true">City Clerk</h2></a>
+		</header>
+		<div class="content-details-stack">
+			<li class="contact-phone"><span class="field-label">Telephone</span><span class="field-value">307-637-6329</span></li>
+      
+			<li class="contact-email"><span class="field-label">Email</span><span class="field-value">
+<a href="mailto:cityclerk@cheyennecity.org" title="Compose an email to cityclerk@cheyennecity.org">cityclerk@cheyennecity.org</a>
+</span></li>
+		</div>
+		<p data-result-highlight-element="true">		
+			The City Clerk is entrusted with recording, managing and maintaining numerous City records.
+		</p>
+</article>
+</div><div class="col-xs-12 col-m-6 col-lg-4" >
+<article>
+		<header>
+			<a href="https://www.cheyennecity.org/Your-Government/Departments/City-Engineer"><h2 class="list-item-title" data-result-highlight-element="true">City Engineer</h2></a>
+		</header>
+		<div class="content-details-stack">
+			<li class="contact-phone"><span class="field-label">Telephone</span><span class="field-value">307-637-6268</span></li>
+      
+			
+		</div>
+		<p data-result-highlight-element="true">		
+			The City Engineer's Office provides the following services: City Construction Services, Construction Plan Review, Engineering Services, Flood Plain Management, GIS Mapping, Pavement Management
+		</p>
+</article>
+</div><div class="col-xs-12 col-m-6 col-lg-4" >
+<article>
+		<header>
+			<a href="https://www.cheyennecity.org/Your-Government/Departments/City-Treasurer"><h2 class="list-item-title" data-result-highlight-element="true">City Treasurer</h2></a>
+		</header>
+		<div class="content-details-stack">
+			<li class="contact-phone"><span class="field-label">Telephone</span><span class="field-value">307-637-6336</span></li>
+      
+			<li class="contact-email"><span class="field-label">Email</span><span class="field-value">
+<a href="mailto:rlockman@cheyennecity.org" title="Compose an email to rlockman@cheyennecity.org">rlockman@cheyennecity.org</a>
+</span></li>
+		</div>
+		<p data-result-highlight-element="true">		
+			The City Treasurer's Department oversees the management and monitoring of all City fund revenues and expenditures and is comprised of nine employees. The primary responsibility of the Department involves maintenance of the City's financial accounting system and financial records in order to ensure the City's financial position is accurately reflected at all times.
+		</p>
+</article>
+</div><div class="col-xs-12 col-m-6 col-lg-4" >
+<article>
+		<header>
+			<a href="https://www.cheyennecity.org/Your-Government/Departments/Community-Recreation-Events"><h2 class="list-item-title" data-result-highlight-element="true">Community Recreation & Events</h2></a>
+		</header>
+		<div class="content-details-stack">
+			<li class="contact-phone"><span class="field-label">Telephone</span><span class="field-value">(307) 638-4358</span></li>
+      
+			<li class="contact-email"><span class="field-label">Email</span><span class="field-value">
+<a href="mailto:jsanchez@cheyennecity.org" title="Compose an email to jsanchez@cheyennecity.org">jsanchez@cheyennecity.org</a>
+</span></li>
+		</div>
+		<p data-result-highlight-element="true">		
+			The mission of the Community Recreation & Events Department is to meet the needs of a changing and growing community by providing a variety of high quality parks and recreation activities, services, and facilities for Cheyenne.  Through focused and cost effective provision of services, the Parks & Recreation Department contributes positively to the economic well being of the community and improves
+		</p>
+</article>
+</div><div class="col-xs-12 col-m-6 col-lg-4" >
+<article>
+		<header>
+			<a href="https://www.cheyennecity.org/Your-Government/Departments/Compliance-Department"><h2 class="list-item-title" data-result-highlight-element="true">Compliance Department</h2></a>
+		</header>
+		<div class="content-details-stack">
+			<li class="contact-phone"><span class="field-label">Telephone</span><span class="field-value">307-637-6477</span></li>
+      <li class="contact-phone-alternate"><span class="field-label">Alternate Phone</span><span class="field-value">307-637-6478</span></li>
+			<li class="contact-email"><span class="field-label">Email</span><span class="field-value">
+<a href="mailto:efountain@cheyennecity.org" title="Compose an email to efountain@cheyennecity.org">efountain@cheyennecity.org</a>
+</span></li>
+		</div>
+		<p data-result-highlight-element="true">		
+			The Compliance Department consists of Animal Control, Building Safety, Risk Management, and Code Enforcement
+		</p>
+</article>
+</div><div class="col-xs-12 col-m-6 col-lg-4" >
+<article>
+		<header>
+			<a href="https://www.cheyennecity.org/Your-Government/Departments/Human-Resources"><h2 class="list-item-title" data-result-highlight-element="true">Human Resources</h2></a>
+		</header>
+		<div class="content-details-stack">
+			<li class="contact-phone"><span class="field-label">Telephone</span><span class="field-value">307-637-6340</span></li>
+      
+			<li class="contact-email"><span class="field-label">Email</span><span class="field-value">
+<a href="mailto:humanresourcesstaff@cheyennecity.org" title="Compose an email to humanresourcesstaff@cheyennecity.org">humanresourcesstaff@cheyennecity.org</a>
+</span></li>
+		</div>
+		<p data-result-highlight-element="true">		
+			Human Resources is committed to providing City employees with a stable work environment with equal opportunity for learning and personal growth. The Human Resources Division will act as a catalyst to enable all City employees to contribute at optimum levels toward the success of the city. We are an advocate for doing the 'right thing' every day.
+		</p>
+</article>
+</div><div class="col-xs-12 col-m-6 col-lg-4" >
+<article>
+		<header>
+			<a href="https://www.cheyennecity.org/Your-Government/Departments/Mayors-Office"><h2 class="list-item-title" data-result-highlight-element="true">Mayor's Office</h2></a>
+		</header>
+		<div class="content-details-stack">
+			<li class="contact-phone"><span class="field-label">Telephone</span><span class="field-value">307-637-6300</span></li>
+      
+			<li class="contact-email"><span class="field-label">Email</span><span class="field-value">
+<a href="mailto:mayor@cheyennecity.org" title="Compose an email to mayor@cheyennecity.org">mayor@cheyennecity.org</a>
+</span></li>
+		</div>
+		<p data-result-highlight-element="true">		
+			Responsible for the overall direction and management of City operations. The Mayor serves as the Chief Executive and Operating Officer for the City
+		</p>
+</article>
+</div><div class="col-xs-12 col-m-6 col-lg-4" >
+<article>
+		<header>
+			<a href="https://www.cheyennecity.org/Your-Government/Municipal-Court"><h2 class="list-item-title" data-result-highlight-element="true">Municipal Court</h2></a>
+		</header>
+		<div class="content-details-stack">
+			<li class="contact-phone"><span class="field-label">Telephone</span><span class="field-value">307-773-1003</span></li>
+      
+			<li class="contact-email"><span class="field-label">Email</span><span class="field-value">
+<a href="mailto:municourt@cheyennecity.org" title="Compose an email to municourt@cheyennecity.org">municourt@cheyennecity.org</a>
+</span></li>
+		</div>
+		<p data-result-highlight-element="true">		
+			Municipal Court administers the operation of the judicial branch of the City Government according to the ordinances adopted by the City Council.
+		</p>
+</article>
+</div><div class="col-xs-12 col-m-6 col-lg-4" >
+<article>
+		<header>
+			<a href="https://www.cheyennecity.org/Your-Government/Departments/Planning-and-Development-Department"><h2 class="list-item-title" data-result-highlight-element="true">Planning and Development</h2></a>
+		</header>
+		<div class="content-details-stack">
+			<li class="contact-phone"><span class="field-label">Telephone</span><span class="field-value">307-637-6282</span></li>
+      <li class="contact-phone-alternate"><span class="field-label">Alternate Phone</span><span class="field-value">Building Permits and Contractor Licensing - 307-637-6265</span></li>
+			
+		</div>
+		<p data-result-highlight-element="true">		
+			The Department is comprised of Development, Planning, the Downtown Development Authority, and the Metropolitan Planning Organization. The department reviews development applications, implements Plan Cheyenne, administers the Greenway program, and provides support to multiple boards and commissions including the Planning Commission, Board of Adjustment, and Historic Preservation Board.
+		</p>
+</article>
+</div><div class="col-xs-12 col-m-6 col-lg-4" >
+<article>
+		<header>
+			<a href="https://www.cheyennecity.org/Your-Government/Departments/Police-Department"><h2 class="list-item-title" data-result-highlight-element="true">Police Department</h2></a>
+		</header>
+		<div class="content-details-stack">
+			<li class="contact-phone"><span class="field-label">Telephone</span><span class="field-value">Emergency Line: 9-1-1</span></li>
+      <li class="contact-phone-alternate"><span class="field-label">Alternate Phone</span><span class="field-value">Administrative Line: 307-637-6500</span></li>
+			<li class="contact-email"><span class="field-label">Email</span><span class="field-value">
+<a href="mailto:info@cheyennepd.org" title="Compose an email to info@cheyennepd.org">info@cheyennepd.org</a>
+</span></li>
+		</div>
+		<p data-result-highlight-element="true">		
+			The Cheyenne Police Department is "Protecting the Legend" of Cheyenne by working in cooperation with citizens to lead the charge in preventing crime and defending the rights of the community.
+		</p>
+</article>
+</div><div class="col-xs-12 col-m-6 col-lg-4" >
+<article>
+		<header>
+			<a href="https://www.cheyennecity.org/Your-Government/Departments/Public-Works"><h2 class="list-item-title" data-result-highlight-element="true">Public Works</h2></a>
+		</header>
+		<div class="content-details-stack">
+			<li class="contact-phone"><span class="field-label">Telephone</span><span class="field-value">307-637-6263</span></li>
+      
+			<li class="contact-email"><span class="field-label">Email</span><span class="field-value">
+<a href="mailto:vnemecek@cheyennecity.org" title="Compose an email to vnemecek@cheyennecity.org">vnemecek@cheyennecity.org</a>
+</span></li>
+		</div>
+		<p data-result-highlight-element="true">		
+			The Public Works Department supports the needs of our community and consists of the Facilities, Fleet Maintenance, Solid Waste, Street and Alley, Traffic, and Transit Divisions at the City. The Public Works Department provides oversight of the Belvoir Ranch, heads the Belvoir Ranch Steering Committee, and administers the Optional One Percent Sales Tax Fund (5th Penny Tax) and the Solid Waste Fund.
+		</p>
+</article>
+</div>
+</div></div>
+
+</div>
+</div>
+
+
+
+
+
+
+<!--normalTemplateEnd-->
+                            
+                            
+                            
+							            </div>
+						            </div>
+					            </div>
+                        <div class="col-xs-12">
+					            	<div class="share-page-container share-page-link-center share-page-link-small share-page-link-rounded share-page-link-labeled" data-item-id="14c7d156-9261-441e-be9e-2dcbdee683f5" id="share-page-container clearfix">
+                                        <section aria-labelledby="share-page-info-label">
+                                            <span id="share-page-info-label" class="share-page-info">Share</span><ul class="share-page-links no-translate"><li><a href="https://www.facebook.com/sharer/sharer.php?u=https%3a%2f%2fwww.cheyennecity.org%2fYour-Government%2fDepartments" target="{ShareTarget}" class="share-page-link share-page-link-facebook" data-channel="facebook" data-channel-id="1"><i aria-hidden="true"></i><span class="share-page-link-name share-page-link-name-facebook">Facebook</span></a></li><li><a href="https://twitter.com/share?url=https%3a%2f%2fwww.cheyennecity.org%2fYour-Government%2fDepartments" target="_blank" class="share-page-link share-page-link-x" data-channel="x" data-channel-id="2"><i aria-hidden="true"></i><span class="share-page-link-name share-page-link-name-x">X</span></a></li><li><a href="mailto:?Body=https%3a%2f%2fwww.cheyennecity.org%2fYour-Government%2fDepartments" target="_self" class="share-page-link share-page-link-email" data-channel="email" data-channel-id="3"><i aria-hidden="true"></i><span class="share-page-link-name share-page-link-name-email">Email</span></a></li><li><a href="#" target="_self" class="share-page-link share-page-link-print" data-channel="print" data-channel-id="5"><i aria-hidden="true"></i><span class="share-page-link-name share-page-link-name-print">Print</span></a></li></ul>
+                                        </section>
+                                    </div></div>
+                            </div>
+                        </div>
+                        <div class="back-to-top-container text-center">
+                            <a href="#body-top" id="back-to-top"><i aria-hidden="true"></i><span class="js-visuallyhidden">Back to top</span></a>
+                        </div>
+                </div>
+            </div><!--groupTemplateEnd-->
+            <footer>
+                
+                    <div class="footer-outer-container footer-first-row">
+                        <div class="footer-container clearfix">
+                            <div class="grid grid-pad">
+                                <div class="col-xs-12 col-s-6 col-m-4 col-lg-4 visuallyhidden" >
+	
+	<h2>Site Footer</h2>
+
+
+	
+	
+</div><div class="col-xs-12 col-s-12 col-m-6 col-lg-4" >
+	
+			<h2 class="visuallyhidden">Site Footer</h2>
+			<h3 class="footer-title">Contact</h3>
+			
+	<p>City of Cheyenne<br />
+2101 O'Neil Ave.<br />
+Cheyenne, WY 82001</p>
+<p><a href="tel:3076376200">(307) 637-6200</a> - Telephone<br />
+<a href="tel:711">7-1-1</a> or <a href="tel:18008779965">1-800-877-9965</a> - TTY to Voice</p>
+
+
+	
+	
+</div><div class="col-xs-12 col-s-12 col-m-6 col-lg-4" >
+	
+			<h2 class="visuallyhidden">Site Footer</h2>
+			<h3 class="footer-title">Social Media</h3>
+			
+	
+	<ul class="footer-links with-icons social-media-links">  <li class="footer-link-facebook">
+	<a href="https://www.facebook.com/CityOfCheyenne" target="_blank"  >
+<i aria-hidden="true"></i>Facebook
+</a>
+</li>
+          <li class="footer-link-twitter">
+	<a href="https://twitter.com/CityOfCheyenne" target="_blank"  >
+<i aria-hidden="true"></i>Twitter
+</a>
+</li>
+          <li class="footer-link-instagram">
+	<a href="https://www.instagram.com/cityofcheyenne/" target="_blank"  >
+<i aria-hidden="true"></i>Instagram
+</a>
+</li>
+          <li class="footer-link-youtube">
+	<a href="https://www.youtube.com/user/TheCityofCheyenne" target="_blank"  >
+<i aria-hidden="true"></i>YouTube
+</a>
+</li>
+          <li class="footer-link-">
+	<a href="https://www.flickr.com/people/cityofcheyenne/" target="_blank"  >
+<i aria-hidden="true"></i>Flickr
+</a>
+</li>
+          <li class="footer-link-">
+	<a href="https://www.linkedin.com/company/cityofcheyenne/" target="_blank"  >
+<i aria-hidden="true"></i>LinkedIn
+</a>
+</li>
+           </ul>
+	
+</div>
+                            </div>
+                        </div>
+                    </div>
+                
+                <div class="footer-outer-container footer-second-row">
+                    <div class="footer-container clearfix">
+                        <div class="grid grid-pad footer-secondary-links">
+                            <div class="col-xs-12 col-m-7">
+                                
+                                    <div>&nbsp;| <a href="https://www.cheyennecity.org/Site-Footer/Sub-Footer-Links/Accessibility-Statement" target="_self"  >Accessibility Statement</a>&nbsp;| &nbsp;| <a href="https://www.cheyennecity.org/Site-Footer/Sub-Footer-Links/Privacy-Statement" target="_self"  >Privacy Statement</a>&nbsp;| &nbsp;| <a href="https://www.cheyennecity.org/Site-Footer/Sub-Footer-Links/Translation-Disclaimer" target="_self"  >Translation Disclaimer</a>&nbsp;| <a href="https://www.cheyennecity.org/Site-Footer/Sub-Footer-Links/Terms-of-Use" target="_self"  >Terms of Use</a>&nbsp;| &nbsp;| <a href="https://www.cheyennecity.org/Site-Footer/Sub-Footer-Links/Social-Media-Guidelines" target="_self"  >Social Media Guidelines</a>&nbsp;| <a href="https://www.cheyennecity.org/Site-Footer/Sub-Footer-Links/Non-Discrimination-and-Title-VI-Program" target="_self"  >Non-Discrimination and Title VI Program</a>&nbsp;| &nbsp;| </div>
+                                
+                            </div>
+                            <div class="col-xs-12 col-m-5 powered-by">
+                                <div class="right">
+                                    &copy; 2026 City of Cheyenne&nbsp;|&nbsp;<span class="powered-by">Powered by <a href="https://granicus.com/solution/govaccess/opencities/" target="_blank">Granicus</a></span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </footer>
+        </div>
+    </div>
+
+    <script src="/files/oc-resources/b9015858-988c-48a4-9473-7c193df083e4/JsTextSnippets.js?ocsvclang=en-US" type="text/javascript"></script><script></script>
+    
+    
+
+<div id="COVID_TEMP-messages" style="display:none;">
+<div class="item">
+	<div class="title">COVID updates and information</div>
+	<div class="description"></div>
+	<div class="link"><p class="view-page-link"><a href="https://www.cheyennecity.org/Home/Tabs/Featured-Links/Coronavirus-COVID-19"  target="_self">Coronavirus (COVID-19)</a></p></div>
+	<div class="type">Announcement</div>
+	<div class="conditions"></div>	
+</div>
+</div>
+<script>
+	$('#COVID_TEMP-messages').children('.item').each(function(){
+		var $message = $(this);
+		var isMatch = false;
+		$message.find('.conditions a').each(function(){
+			var $a = $(this);
+			var mode = $a.text().split(' ')[0].toLowerCase();
+			var value = $a.attr('href').replace(/^https?:\/\//g, '');
+			
+			switch(mode)
+			{
+				case 'startswith':
+					if(document.location.pathname.toLowerCase().startsWith(value.toLowerCase()))
+					{
+						isMatch = true;
+						return false;//stop jquery each
+					}
+					break;
+					
+				case 'contains':
+					if(document.location.pathname.toLowerCase().indexOf(value.toLowerCase()) !== -1)
+					{
+						isMatch = true;
+						return false;//stop jquery each
+					}
+					break;
+					
+				case 'regex':
+					var re = new RegExp(value);
+					if(new RegExp(value).test(document.location.pathname))
+					{
+						isMatch = true;
+						return false;//stop jquery each
+					}
+					break;
+					
+				default:
+					if(document.location.pathname.toLowerCase() === value.toLowerCase())
+					{
+						isMatch = true;
+						return false;//stop jquery each
+					}
+					break;
+			}
+		});
+		if(isMatch)
+		{
+			var $main = $('#main-content');
+			if($main.length === 0) return false;
+			var $h1 = $main.find('h1').first();
+			
+			var title = $message.find('.title').text().trim();
+			var type = $message.find('.type').text().trim();
+			var description = $message.find('.description').html();
+			var link = $message.find('.link').html();
+			
+			var $content = $('<section>').addClass('obj-venue');//class is a hack to inherit styling
+			var $sideBox = $('<div>').addClass('side-box message-box message-type-'+type).appendTo($content);
+			
+			if(title !== '')
+			{
+				$('<h2>').addClass('side-box-title').text(title).appendTo($sideBox);
+			}
+			
+			var descriptionBox = ''
+			
+			if(description.trim() !== '')
+			{
+				//If the description contains no html tags, wrap the text in p tags
+				var noBrDesc = description.split('<br>').join('\r\n');
+				if (!/<[^>]+>/.test(noBrDesc)) {
+					description = '<p>' + noBrDesc.replace(/(\r\n|\r|\n){2}((\r\n|\r|\n)+)?/g, '$2</p><p>') + '</p>';
+					description = description.replace(/(\r\n|\r|\n)/g, '<br>');
+					description = description.replace('</p><p></p>', '</p>');					
+				}
+				descriptionBox += description;
+			}
+			
+			var hasLink = false;
+			if(link.trim() !== '')
+			{
+				hasLink = true;
+				descriptionBox += link;
+			}
+			
+			var $descriptionBox = null;
+			if(descriptionBox.trim() !== '')
+			{
+				$descriptionBox = $(descriptionBox);
+				$('<div>').addClass('side-box-content').html(descriptionBox).appendTo($sideBox);
+			}
+			
+			if($h1.length === 1)
+			{
+				$content.insertAfter($h1);
+			} 
+			else
+			{
+				$content.appendTo($main);
+			}
+			
+			if(hasLink)
+			{
+				var color = ($content.find('p').first() || $content.find('.side-box-content').first()).css('color');
+				$content.find('a').css('color', color);
+			}
+			
+			 return false;
+		}
+	});
+</script>
+
+
+
+
+
+
+    <script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-166377212-2', 'auto');
+  ga('send', 'pageview');
+</script>
+    
+    
+
+<script type="text/javascript">
+//<![CDATA[
+window.__TsmHiddenField = $get('ctl04_seamless_script_manager_TSM');//]]>
+</script>
+</form>
+</body>
+</html>

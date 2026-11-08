@@ -1,0 +1,24 @@
+{
+  "schema": "archive-status-v1",
+  "updated_at": "2026-11-08T16:29:51.015544+00:00",
+  "run_id": "42499840749",
+  "requests_this_run": 120,
+  "seen_urls": 547,
+  "pending_urls": 1766,
+  "original_object_bytes": 18974973,
+  "inventory_complete": false,
+  "historical_coverage_complete": false,
+  "partition_required": false,
+  "limitations": [
+    "workbook reconciliation",
+    "ArcaSearch",
+    "Legistar",
+    "GIS feature exports",
+    "procurement portals",
+    "planning portals",
+    "media",
+    "OCR",
+    "cross-repository partition publication"
+  ],
+  "failures": "ledger.jsonl; failed URLs require explicit retry after review"
+}
