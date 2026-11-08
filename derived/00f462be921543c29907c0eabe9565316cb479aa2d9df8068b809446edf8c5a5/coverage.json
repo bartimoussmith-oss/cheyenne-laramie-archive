@@ -1,7 +1,7 @@
 {
   "source_sha256": "00f462be921543c29907c0eabe9565316cb479aa2d9df8068b809446edf8c5a5",
   "expected_pages": 5,
-  "extracted_pages": 4,
-  "page_extraction_complete": false,
+  "extracted_pages": 5,
+  "page_extraction_complete": true,
   "ocr_accuracy_verified": false
 }
