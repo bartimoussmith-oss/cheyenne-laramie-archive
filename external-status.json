@@ -1,0 +1,28 @@
+{
+  "updated_at": "2026-11-08T16:44:45.238240+00:00",
+  "captured_this_run": 0,
+  "pending_urls": 0,
+  "failures_this_run": [
+    {
+      "url": "https://laramiecounty.legistar.com/Calendar.aspx",
+      "error": "HTTP Error 404: Not Found"
+    },
+    {
+      "url": "https://gov.arcasearch.com/uswylrc/",
+      "error": "HTTP Error 404: Not Found"
+    },
+    {
+      "url": "https://www.laramiecountywy.gov/files/assets/public/v/1/commissioners/documents/arcasearch-guide.pdf",
+      "error": "HTTP Error 403: Forbidden"
+    },
+    {
+      "url": "https://maps.laramiecounty.com/arcgis/rest/services/CountyBaseMap/MapServer?f=pjson",
+      "error": "HTTP Error 404: Not Found"
+    }
+  ],
+  "storage_pause": false,
+  "complete": false,
+  "javascript_forms_supported": false,
+  "gis_features_exported": false,
+  "repositories_created": false
+}
