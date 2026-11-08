@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-11-08T17:11:18.152469+00:00",
-  "captured_pdf_objects": 416,
-  "pdfs_attempted_this_run": 50,
-  "pages_written_this_run": 145,
+  "updated_at": "2026-11-08T17:16:32.911849+00:00",
+  "captured_pdf_objects": 526,
+  "pdfs_attempted_this_run": 46,
+  "pages_written_this_run": 200,
   "page_budget": 200,
   "derived_storage_pause": false,
   "failures": [],

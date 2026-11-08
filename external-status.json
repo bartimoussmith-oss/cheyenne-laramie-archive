@@ -1,29 +1,8 @@
 {
-  "updated_at": "2026-11-08T16:49:32.374685+00:00",
-  "captured_this_run": 41,
+  "updated_at": "2026-11-08T17:11:56.433019+00:00",
+  "captured_this_run": 3,
   "pending_urls": 0,
-  "failures_this_run": [
-    {
-      "url": "https://laramiecounty.legistar.com/MainBody.aspx",
-      "error": "HTTP Error 302: Found"
-    },
-    {
-      "url": "https://laramiecounty.legistar.com/View.ashx?M=IC&ID=1452801&GUID=99DB418E-DBE2-4317-AFD4-7744818E8442",
-      "error": "Unverified format; retained URL as gap"
-    },
-    {
-      "url": "https://laramiecounty.legistar.com/View.ashx?M=IC&ID=1462508&GUID=D54BC2DC-B3E9-4F4F-96AB-D240F9CE5151",
-      "error": "Unverified format; retained URL as gap"
-    },
-    {
-      "url": "https://laramiecounty.legistar.com/View.ashx?M=IC&ID=1462716&GUID=05E4FF18-8F43-4016-A816-62AA0B8ED8A4",
-      "error": "Unverified format; retained URL as gap"
-    },
-    {
-      "url": "https://laramiecounty.legistar.com/View.ashx?M=IC&ID=1452802&GUID=5D91DB7C-43F5-4C24-9C80-B6BD032DC2A6",
-      "error": "Unverified format; retained URL as gap"
-    }
-  ],
+  "failures_this_run": [],
   "storage_pause": false,
   "complete": false,
   "javascript_forms_supported": false,

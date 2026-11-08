@@ -1,0 +1,11 @@
+{
+  "checked_at": "2026-11-08T17:16:32.997936+00:00",
+  "pending_government_urls": 1111,
+  "pending_external_urls": 0,
+  "pending_pdf_objects": 426,
+  "working_content_bytes": 177993340,
+  "capacity_pause": false,
+  "runnable_known_backlog": true,
+  "all_sources_complete": false,
+  "rights_and_access_gaps_resolved": false
+}
