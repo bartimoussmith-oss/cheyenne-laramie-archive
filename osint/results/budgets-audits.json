@@ -1,0 +1,1419 @@
+{
+  "profile": "budgets-audits",
+  "title": "Budgets, audits and public spending",
+  "generated_at": "2026-11-08T17:28:50.972658+00:00",
+  "source_revision": "22880f4c2443b35dd5c4b53e67708302bc66f9cc",
+  "classification": "retrieval_triage_not_investigative_findings",
+  "matched_representations": 174,
+  "exported_representations": 50,
+  "result_cap": 50,
+  "results_truncated": true,
+  "results": [
+    {
+      "classification": "unreviewed_topical_match_not_a_finding",
+      "source_sha256": "14f12ee07d233cade834b0dd3cf0217b10b6b804cd50cad7805c170188217bb6",
+      "source_url": "https://www.cheyennecity.org/Your-Government/Departments/City-Treasurer",
+      "source_retrieved_at": "2026-11-08T16:26:42.511406+00:00",
+      "page": null,
+      "extraction_method": "html_text",
+      "quality_verified": false,
+      "representation_path": "text/14f12ee07d233cade834b0dd3cf0217b10b6b804cd50cad7805c170188217bb6.txt",
+      "representation_text_sha256": "578bf20ac4256a648bbf831a25026d326e30ea759e1a2f4999621a4878cd4955",
+      "representation_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/22880f4c2443b35dd5c4b53e67708302bc66f9cc/text/14f12ee07d233cade834b0dd3cf0217b10b6b804cd50cad7805c170188217bb6.txt",
+      "original_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/22880f4c2443b35dd5c4b53e67708302bc66f9cc/objects/14/14f12ee07d233cade834b0dd3cf0217b10b6b804cd50cad7805c170188217bb6",
+      "evidence": [
+        {
+          "term": "budget",
+          "match_start": 1464,
+          "match_end": 1470,
+          "passage_start": 1314,
+          "passage_end": 1720,
+          "text": "he City's financial position at all times.  Additional responsibilities of the City Treasurer's Department include the oversight of the City's annual budget, financial planning and reporting, accounting operations, payroll, and purchasing procedures.  The City Treasurer's Department employees work closely with other City Departments and the Governing Body to ensure the expenditure of City funds are comp"
+        },
+        {
+          "term": "budget",
+          "match_start": 1744,
+          "match_end": 1750,
+          "passage_start": 1594,
+          "passage_end": 2000,
+          "text": "ent employees work closely with other City Departments and the Governing Body to ensure the expenditure of City funds are compliant with the approved budget, as well as with local, state, and federal laws and Generally Accepted Accounting Principles (GAAP).\nThe City Treasurer's Department Divisions include Finance, Purchasing, and Housing & Community Development.  More information about each of these Di"
+        },
+        {
+          "term": "budget",
+          "match_start": 3450,
+          "match_end": 3456,
+          "passage_start": 3300,
+          "passage_end": 3706,
+          "text": "e resides with her husband, Rex, and she is a proud mother and grandmother of two children and three grandchildren.\nFinance Division\nFinance Division\nBudget Responsibilities\nThe Finance Division is responsible for preparing an annual operating budget for the City’s fiscal year beginning July 1 and ending June 30.  The annual operating budget includes all City funds and accounts and identifies proposed e"
+        }
+      ]
+    },
+    {
+      "classification": "unreviewed_topical_match_not_a_finding",
+      "source_sha256": "3acba0fc1d0e72a92bfd8410e0ce66716b4ac9fc5981848b580bdd151c887604",
+      "source_url": "https://www.cheyennecity.org/Your-Government/Departments",
+      "source_retrieved_at": "2026-11-08T16:26:24.790667+00:00",
+      "page": null,
+      "extraction_method": "html_text",
+      "quality_verified": false,
+      "representation_path": "text/3acba0fc1d0e72a92bfd8410e0ce66716b4ac9fc5981848b580bdd151c887604.txt",
+      "representation_text_sha256": "23296aa048c30389c8f5f9e37dbd808b2c77631869bf9f7229285a32ad460ce3",
+      "representation_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/22880f4c2443b35dd5c4b53e67708302bc66f9cc/text/3acba0fc1d0e72a92bfd8410e0ce66716b4ac9fc5981848b580bdd151c887604.txt",
+      "original_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/22880f4c2443b35dd5c4b53e67708302bc66f9cc/objects/3a/3acba0fc1d0e72a92bfd8410e0ce66716b4ac9fc5981848b580bdd151c887604",
+      "evidence": [
+        {
+          "term": "sales tax",
+          "match_start": 5075,
+          "match_end": 5084,
+          "passage_start": 4925,
+          "passage_end": 5334,
+          "text": "Public Works Department provides oversight of the Belvoir Ranch, heads the Belvoir Ranch Steering Committee, and administers the Optional One Percent Sales Tax Fund (5th Penny Tax) and the Solid Waste Fund.\nShare\nFacebook\nX\nEmail\nPrint\nBack to top\nSite Footer\nSite Footer\nContact\nCity of Cheyenne\n2101 O'Neil Ave.\nCheyenne, WY 82001\n(307) 637-6200\n- Telephone\n7-1-1\nor\n1-800-877-9965\n- TTY to Voice\nSite Foote"
+        }
+      ]
+    },
+    {
+      "classification": "unreviewed_topical_match_not_a_finding",
+      "source_sha256": "3dd70667ea5d722bea19d76073b4ffffcc05a651e4b1b3a1dd22befe7d173cfa",
+      "source_url": "https://www.cheyennecity.org/Your-Government/City-Council/Minutes-and-Agendas",
+      "source_retrieved_at": "2026-11-08T16:25:55.689212+00:00",
+      "page": null,
+      "extraction_method": "html_text",
+      "quality_verified": false,
+      "representation_path": "text/3dd70667ea5d722bea19d76073b4ffffcc05a651e4b1b3a1dd22befe7d173cfa.txt",
+      "representation_text_sha256": "2fed3f87d5b1cff9bd36ee7e36045d50bb8a3f93d6cd95eb2072dbc6150983b8",
+      "representation_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/22880f4c2443b35dd5c4b53e67708302bc66f9cc/text/3dd70667ea5d722bea19d76073b4ffffcc05a651e4b1b3a1dd22befe7d173cfa.txt",
+      "original_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/22880f4c2443b35dd5c4b53e67708302bc66f9cc/objects/3d/3dd70667ea5d722bea19d76073b4ffffcc05a651e4b1b3a1dd22befe7d173cfa",
+      "evidence": [
+        {
+          "term": "budget",
+          "match_start": 23963,
+          "match_end": 23969,
+          "passage_start": 23813,
+          "passage_end": 24219,
+          "text": "\nVideo\nJuvenile Justice Taskforce\n06/26/26\nVideo\nSafe Streets for All Presentation\n5/29/26\nVideo\nPresentatio\n(PDF, 4MB)\nn\n(PDF, 4MB)\nFiscal Year 2027 Budget - Planning & Development Department and Downtown Development Authority\n05/15/26\nVideo\nPlanning & Development Presentation\n(PDF, 3MB)\nFiscal Year 2027 Budget - City Attorney's Office, Clerk's Office, Human Resources and Youth Alternatives\n05/14/26\nVi"
+        },
+        {
+          "term": "budget",
+          "match_start": 24120,
+          "match_end": 24126,
+          "passage_start": 23970,
+          "passage_end": 24376,
+          "text": "- Planning & Development Department and Downtown Development Authority\n05/15/26\nVideo\nPlanning & Development Presentation\n(PDF, 3MB)\nFiscal Year 2027 Budget - City Attorney's Office, Clerk's Office, Human Resources and Youth Alternatives\n05/14/26\nVideo\nCity Attorney Presentation\n(PDF, 466KB)\nCity Clerk Presentation\n(PDF, 196KB)\nHuman Resources Presentation\n(PDF, 389KB)\nYouth Alternatives Presentation\n(P"
+        },
+        {
+          "term": "budget",
+          "match_start": 24404,
+          "match_end": 24410,
+          "passage_start": 24254,
+          "passage_end": 24660,
+          "text": ", 466KB)\nCity Clerk Presentation\n(PDF, 196KB)\nHuman Resources Presentation\n(PDF, 389KB)\nYouth Alternatives Presentation\n(PDF, 958KB)\nFiscal Year 2027 Budget - Community Recreation & Events\n05/13/26\nVideo\nCommunity Recreation & Events Presentation\n(PDF, 9MB)\nFiscal Year 2027 Budget - Municipal Court, Fire Department and Police Department\n05/12/26\nVideo\nMunicipal Court Presentation\n(PDF, 293KB)\nFire Depar"
+        }
+      ]
+    },
+    {
+      "classification": "unreviewed_topical_match_not_a_finding",
+      "source_sha256": "5c373ef72f5d39635a34912ae2481e359c3129fd0f27ee89624c4f50c9049e6b",
+      "source_url": "https://www.cheyennecity.org/Your-Government/Departments/City-Treasurer/City-Treasurer-Resources-Documents-Forms",
+      "source_retrieved_at": "2026-11-08T16:25:56.442521+00:00",
+      "page": null,
+      "extraction_method": "html_text",
+      "quality_verified": false,
+      "representation_path": "text/5c373ef72f5d39635a34912ae2481e359c3129fd0f27ee89624c4f50c9049e6b.txt",
+      "representation_text_sha256": "e2dfd0a14d65e5b33e6448a08791beb0025b16ee929b55d08e03e612deb114e3",
+      "representation_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/22880f4c2443b35dd5c4b53e67708302bc66f9cc/text/5c373ef72f5d39635a34912ae2481e359c3129fd0f27ee89624c4f50c9049e6b.txt",
+      "original_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/22880f4c2443b35dd5c4b53e67708302bc66f9cc/objects/5c/5c373ef72f5d39635a34912ae2481e359c3129fd0f27ee89624c4f50c9049e6b",
+      "evidence": [
+        {
+          "term": "budget",
+          "match_start": 1161,
+          "match_end": 1167,
+          "passage_start": 1011,
+          "passage_end": 1417,
+          "text": "urer Resources, Documents, & Forms\nListen\nCity Treasurer Resources, Documents, & Forms\nAdopted & Proposed Budgets\nCopies of the City's Adopted Annual Budget documents for Fiscal Years 2011-2026 are available below. For archived documents please click\nhere\n. Note: Some files are larger than others and may take several minutes to download:\nFY2027-Adopted Budget.pdf\n(PDF, 46MB)\nFY2026-Adopted-Budget.pdf\n(P"
+        },
+        {
+          "term": "budget",
+          "match_start": 1366,
+          "match_end": 1372,
+          "passage_start": 1216,
+          "passage_end": 1622,
+          "text": "le below. For archived documents please click\nhere\n. Note: Some files are larger than others and may take several minutes to download:\nFY2027-Adopted Budget.pdf\n(PDF, 46MB)\nFY2026-Adopted-Budget.pdf\n(PDF, 68MB)\nFY2025-Adopted-Budget.pdf\n(PDF, 13MB)\nFY2024-Adopted-Budget.pdf\n(PDF, 7MB)\nFY2023-Adopted-Budget.pdf\n(PDF, 15MB)\nFY2022-Adopted-Budget.pdf\n(PDF, 8MB)\nFY2021-Adopted-Budget.pdf\n(PDF, 12MB)\nAnnual "
+        },
+        {
+          "term": "budget",
+          "match_start": 1404,
+          "match_end": 1410,
+          "passage_start": 1254,
+          "passage_end": 1660,
+          "text": "e click\nhere\n. Note: Some files are larger than others and may take several minutes to download:\nFY2027-Adopted Budget.pdf\n(PDF, 46MB)\nFY2026-Adopted-Budget.pdf\n(PDF, 68MB)\nFY2025-Adopted-Budget.pdf\n(PDF, 13MB)\nFY2024-Adopted-Budget.pdf\n(PDF, 7MB)\nFY2023-Adopted-Budget.pdf\n(PDF, 15MB)\nFY2022-Adopted-Budget.pdf\n(PDF, 8MB)\nFY2021-Adopted-Budget.pdf\n(PDF, 12MB)\nAnnual Financial Reports\nThe City contracts w"
+        }
+      ]
+    },
+    {
+      "classification": "unreviewed_topical_match_not_a_finding",
+      "source_sha256": "77b33b250c26aa5b4c39100d72dc332a81fc1c0af261b50b98f49a7251582aaf",
+      "source_url": "https://www.cheyennecity.org/Home/Tabs/Featured-Links/Coronavirus-COVID-19",
+      "source_retrieved_at": "2026-11-08T17:24:28.353506+00:00",
+      "page": null,
+      "extraction_method": "html_text",
+      "quality_verified": false,
+      "representation_path": "text/77b33b250c26aa5b4c39100d72dc332a81fc1c0af261b50b98f49a7251582aaf.txt",
+      "representation_text_sha256": "b6345c9a22eb8016f2ce5fa0d3c32e691ce51d00cbbfbed12eed62c42967b98b",
+      "representation_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/22880f4c2443b35dd5c4b53e67708302bc66f9cc/text/77b33b250c26aa5b4c39100d72dc332a81fc1c0af261b50b98f49a7251582aaf.txt",
+      "original_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/22880f4c2443b35dd5c4b53e67708302bc66f9cc/objects/77/77b33b250c26aa5b4c39100d72dc332a81fc1c0af261b50b98f49a7251582aaf",
+      "evidence": [
+        {
+          "term": "budget",
+          "match_start": 5849,
+          "match_end": 5855,
+          "passage_start": 5699,
+          "passage_end": 6105,
+          "text": "ne 10 -\nIndoor gathering limits increased, parades permitted under updated health orders\nJune 4 -\nGovernor instructs state agencies to prepare deeper budget reductions\nJune 3 -\nGovernor Gordon to hold media briefing at 3 pm Thursday, June 4\nJune 1 -\nLaramie County Provides Updated Recovery Plan Document for Phase 2\n(PDF, 147KB)\nMay 2020\nMay 27 -\nOutdoor gatherings up to 250 persons to be permitted under"
+        },
+        {
+          "term": "budget",
+          "match_start": 8667,
+          "match_end": 8673,
+          "passage_start": 8517,
+          "passage_end": 8923,
+          "text": "B)\nApril 16 -\nWest Edge Zoning Workshop Available Online Through April 30\nApril 15 -\nGovernor Gordon instructs state agencies to prepare for COVID-19 budget impacts\nApril 15 -\nWyoming's Second Coronavirus-Related Death Confirmed (First in Laramie County)\nApril 15 -\nGovernor Gordon to hold media briefing on Wyoming's ongoing response to COVID-19\nApril 13 -\nGovernor Gordon issues statement on the confirma"
+        }
+      ]
+    },
+    {
+      "classification": "unreviewed_topical_match_not_a_finding",
+      "source_sha256": "85821b0bf46b99b4216d0ca8c05fac9f147fd62070eae02d32693472cb0b6850",
+      "source_url": "https://www.cheyennecity.org/Your-Government/Departments/City-Engineer",
+      "source_retrieved_at": "2026-11-08T16:26:30.536000+00:00",
+      "page": null,
+      "extraction_method": "html_text",
+      "quality_verified": false,
+      "representation_path": "text/85821b0bf46b99b4216d0ca8c05fac9f147fd62070eae02d32693472cb0b6850.txt",
+      "representation_text_sha256": "1b14fe411c56ec8ab836833ed331744ecbdd359d31329a62f6cde9c6c0f9b8a3",
+      "representation_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/22880f4c2443b35dd5c4b53e67708302bc66f9cc/text/85821b0bf46b99b4216d0ca8c05fac9f147fd62070eae02d32693472cb0b6850.txt",
+      "original_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/22880f4c2443b35dd5c4b53e67708302bc66f9cc/objects/85/85821b0bf46b99b4216d0ca8c05fac9f147fd62070eae02d32693472cb0b6850",
+      "evidence": [
+        {
+          "term": "capital improvement",
+          "match_start": 3455,
+          "match_end": 3474,
+          "passage_start": 3305,
+          "passage_end": 3724,
+          "text": "-25\n(PDF, 240KB)\nAgenda 8-11-25\nAgenda 7-14-25\n(PDF, 237KB)\nAbout the Department\nDepartment Divisions\nConstruction Management:\nAdministers all public Capital Improvement Construction Projects in the public right-of-way including administration of the City's annual Pavement Management Program.\n1%/Construction:\nReviews private land development proposals and plans for construction of associated facilities in public rig"
+        }
+      ]
+    },
+    {
+      "classification": "unreviewed_topical_match_not_a_finding",
+      "source_sha256": "9c73e7a20020ff1b57092cd649d179e5587f90f2fcda3238ff876d58251c1b16",
+      "source_url": "https://www.cheyennecity.org/Your-Government/Departments/City-Treasurer/City-Treasurer-Resources-Documents-Forms-Archives",
+      "source_retrieved_at": "2026-11-08T17:24:34.506750+00:00",
+      "page": null,
+      "extraction_method": "html_text",
+      "quality_verified": false,
+      "representation_path": "text/9c73e7a20020ff1b57092cd649d179e5587f90f2fcda3238ff876d58251c1b16.txt",
+      "representation_text_sha256": "003c6f0ef8e5e56d096e7ea495e4ae5413ae5ae5f8b235282dea59d5f449bea2",
+      "representation_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/22880f4c2443b35dd5c4b53e67708302bc66f9cc/text/9c73e7a20020ff1b57092cd649d179e5587f90f2fcda3238ff876d58251c1b16.txt",
+      "original_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/22880f4c2443b35dd5c4b53e67708302bc66f9cc/objects/9c/9c73e7a20020ff1b57092cd649d179e5587f90f2fcda3238ff876d58251c1b16",
+      "evidence": [
+        {
+          "term": "budget",
+          "match_start": 1153,
+          "match_end": 1159,
+          "passage_start": 1003,
+          "passage_end": 1409,
+          "text": "rer\n/\nCity Treasurer Resources, Documents & Forms Archives\nListen\nCity Treasurer Resources, Documents & Forms Archives\nAdopted Budgets\nFY2020-Adopted-Budget.pdf\n(PDF, 11MB)\nFY2019-Adopted-Budget.pdf\n(PDF, 2MB)\nFY2018-Adopted-Budget.pdf\n(PDF, 178KB)\nFY2017-Adopted-Budget.pdf\n(PDF, 22MB)\nFY2016-Adopted-Budget.pdf\n(PDF, 19MB)\nAnnual Financial Reports\nFY2017-Annual-Financial-Compliance-Report.pdf\n(PDF, 554K"
+        },
+        {
+          "term": "budget",
+          "match_start": 1191,
+          "match_end": 1197,
+          "passage_start": 1041,
+          "passage_end": 1447,
+          "text": "nts & Forms Archives\nListen\nCity Treasurer Resources, Documents & Forms Archives\nAdopted Budgets\nFY2020-Adopted-Budget.pdf\n(PDF, 11MB)\nFY2019-Adopted-Budget.pdf\n(PDF, 2MB)\nFY2018-Adopted-Budget.pdf\n(PDF, 178KB)\nFY2017-Adopted-Budget.pdf\n(PDF, 22MB)\nFY2016-Adopted-Budget.pdf\n(PDF, 19MB)\nAnnual Financial Reports\nFY2017-Annual-Financial-Compliance-Report.pdf\n(PDF, 554KB)\nFY2016-Annual-Financial-Compliance-"
+        },
+        {
+          "term": "budget",
+          "match_start": 1228,
+          "match_end": 1234,
+          "passage_start": 1078,
+          "passage_end": 1484,
+          "text": "surer Resources, Documents & Forms Archives\nAdopted Budgets\nFY2020-Adopted-Budget.pdf\n(PDF, 11MB)\nFY2019-Adopted-Budget.pdf\n(PDF, 2MB)\nFY2018-Adopted-Budget.pdf\n(PDF, 178KB)\nFY2017-Adopted-Budget.pdf\n(PDF, 22MB)\nFY2016-Adopted-Budget.pdf\n(PDF, 19MB)\nAnnual Financial Reports\nFY2017-Annual-Financial-Compliance-Report.pdf\n(PDF, 554KB)\nFY2016-Annual-Financial-Compliance-Report.pdf\n(PDF, 826KB)\nCapital Impro"
+        }
+      ]
+    },
+    {
+      "classification": "unreviewed_topical_match_not_a_finding",
+      "source_sha256": "9d3098d1cd836224a7a0df78cff51050bc5a99957854df4ddac5ecf188912843",
+      "source_url": "https://www.cheyennecity.org/Your-Government/Departments/Public-Works",
+      "source_retrieved_at": "2026-11-08T16:26:40.509179+00:00",
+      "page": null,
+      "extraction_method": "html_text",
+      "quality_verified": false,
+      "representation_path": "text/9d3098d1cd836224a7a0df78cff51050bc5a99957854df4ddac5ecf188912843.txt",
+      "representation_text_sha256": "b89358067e0c9efa2b8f7abb63cafdc4ba47a0c9326077b45af787df8c948523",
+      "representation_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/22880f4c2443b35dd5c4b53e67708302bc66f9cc/text/9d3098d1cd836224a7a0df78cff51050bc5a99957854df4ddac5ecf188912843.txt",
+      "original_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/22880f4c2443b35dd5c4b53e67708302bc66f9cc/objects/9d/9d3098d1cd836224a7a0df78cff51050bc5a99957854df4ddac5ecf188912843",
+      "evidence": [
+        {
+          "term": "sales tax",
+          "match_start": 1229,
+          "match_end": 1238,
+          "passage_start": 1079,
+          "passage_end": 1488,
+          "text": "nitation Division\nRecycling\nYard Waste Program\nLandfill\nCompost Facility\nStreet and Alley\nFacilities Maintenance\nFleet Maintenance\nTraffic\nTransit\n1% Sales Tax\nPublic Works also monitors and manages expenditure of one percent sales tax funding.\nDepartment Head\nVicki Nemecek\nPublic Works Director\nContact Us\nPhone\n307-637-6263\nEmail\nvnemecek@cheyennecity.org\nLocation\n2101 O'Neil Ave. Room 210\n82001\nView Map\n"
+        },
+        {
+          "term": "sales tax",
+          "match_start": 1305,
+          "match_end": 1314,
+          "passage_start": 1155,
+          "passage_end": 1564,
+          "text": "eet and Alley\nFacilities Maintenance\nFleet Maintenance\nTraffic\nTransit\n1% Sales Tax\nPublic Works also monitors and manages expenditure of one percent sales tax funding.\nDepartment Head\nVicki Nemecek\nPublic Works Director\nContact Us\nPhone\n307-637-6263\nEmail\nvnemecek@cheyennecity.org\nLocation\n2101 O'Neil Ave. Room 210\n82001\nView Map\nHours\nSunday\nClosed\nMonday\n08:00 AM–05:00 PM\nTuesday\n08:00 AM–05:00 PM\nWedne"
+        }
+      ]
+    },
+    {
+      "classification": "unreviewed_topical_match_not_a_finding",
+      "source_sha256": "d00aa211b6d805660489c2cfc29d733347787d24d6cf0845790e3aabbc7f235d",
+      "source_url": "https://www.cheyennecity.org/Services",
+      "source_retrieved_at": "2026-11-08T16:27:06.742156+00:00",
+      "page": null,
+      "extraction_method": "html_text",
+      "quality_verified": false,
+      "representation_path": "text/d00aa211b6d805660489c2cfc29d733347787d24d6cf0845790e3aabbc7f235d.txt",
+      "representation_text_sha256": "70ec60a79881ddc46fefa4b26ba53be4e3b405dded4436a504891f17109267cb",
+      "representation_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/22880f4c2443b35dd5c4b53e67708302bc66f9cc/text/d00aa211b6d805660489c2cfc29d733347787d24d6cf0845790e3aabbc7f235d.txt",
+      "original_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/22880f4c2443b35dd5c4b53e67708302bc66f9cc/objects/d0/d00aa211b6d805660489c2cfc29d733347787d24d6cf0845790e3aabbc7f235d",
+      "evidence": [
+        {
+          "term": "budget",
+          "match_start": 1011,
+          "match_end": 1017,
+          "passage_start": 861,
+          "passage_end": 1267,
+          "text": "rvices\nBuilding Safety\nExplore\nI Want To\nSearch\nHome\n/\nServices\nListen\nServices\nServices\nAnimal Control\nBid Postings\nBoard of Public Utilities (BOPU)\nBudget and Financial Reports\nBuilding Permitting and Licensing\nCemetery Complex\nCheyenne Regional Airport\nCheyenne Ice and Events Center\nConstruction Management\nCheyenne Transit Live Shuttle Tracker\nCone Zone Map\nFacility Rentals\nGrants\nJob Announcements\nM"
+        }
+      ]
+    },
+    {
+      "classification": "unreviewed_topical_match_not_a_finding",
+      "source_sha256": "d7a11bf934f9d3f289fd4af6827b18f8b266253d6bbe3aee860a10049ddc1ce0",
+      "source_url": "https://www.laramiecountywy.gov/County-Government/Elected-Officials/County-Clerk/Clerk-to-the-Board-of-County-Commissioners",
+      "source_retrieved_at": "2026-11-08T16:26:00.641275+00:00",
+      "page": null,
+      "extraction_method": "html_text",
+      "quality_verified": false,
+      "representation_path": "text/d7a11bf934f9d3f289fd4af6827b18f8b266253d6bbe3aee860a10049ddc1ce0.txt",
+      "representation_text_sha256": "203640c81a9a0eaf846f77dadf2d079e314eaf46af731936f16546e816b349e0",
+      "representation_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/22880f4c2443b35dd5c4b53e67708302bc66f9cc/text/d7a11bf934f9d3f289fd4af6827b18f8b266253d6bbe3aee860a10049ddc1ce0.txt",
+      "original_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/22880f4c2443b35dd5c4b53e67708302bc66f9cc/objects/d7/d7a11bf934f9d3f289fd4af6827b18f8b266253d6bbe3aee860a10049ddc1ce0",
+      "evidence": [
+        {
+          "term": "sales tax",
+          "match_start": 1350,
+          "match_end": 1359,
+          "passage_start": 1200,
+          "passage_end": 1609,
+          "text": "y Department\nSocial Media\nResident Services\nGIS/Maps\nParcel Viewer\nLC Interactive Map Portal\nVehicle Information\nRenew Vehicle License Online\nVehicle Sales Tax\nVehicle Titles\nProperty Information\nPay Property Tax Online\nParcel Viewer\nBuilding\nPersonal Property Reporting\nProperty Assessment\nProperty Review and Appeal\nVeteran's Exemptions\nLand Use Regulations\nElections\nRegister to Vote\nVoting in Laramie Coun"
+        }
+      ]
+    },
+    {
+      "classification": "unreviewed_topical_match_not_a_finding",
+      "source_sha256": "effa524b7580c3987c3c3d07349e937e86faabdd7a86eee9e810bcaa6697158a",
+      "source_url": "https://www.cheyennecity.org/Home",
+      "source_retrieved_at": "2026-11-08T16:26:10.546533+00:00",
+      "page": null,
+      "extraction_method": "html_text",
+      "quality_verified": false,
+      "representation_path": "text/effa524b7580c3987c3c3d07349e937e86faabdd7a86eee9e810bcaa6697158a.txt",
+      "representation_text_sha256": "b0f6332ee135bffe9bb59939ec56e92ce38d5d16c3331a111acb6e63e4f5e7f3",
+      "representation_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/22880f4c2443b35dd5c4b53e67708302bc66f9cc/text/effa524b7580c3987c3c3d07349e937e86faabdd7a86eee9e810bcaa6697158a.txt",
+      "original_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/22880f4c2443b35dd5c4b53e67708302bc66f9cc/objects/ef/effa524b7580c3987c3c3d07349e937e86faabdd7a86eee9e810bcaa6697158a",
+      "evidence": [
+        {
+          "term": "budget",
+          "match_start": 2866,
+          "match_end": 2872,
+          "passage_start": 2716,
+          "passage_end": 3122,
+          "text": "ed Links\nFeatured Links\nOversized Vehicles\nPublic Meeting Zoom Links\nMunicipal Elections\n2026 City Holiday Schedule\nCone Zone (construction projects)\nBudget and Financial Reports\nSnow & Ice Control Guide\nCommunity Links\nCity Code\nPublic Records Request\nCity Services FAQ page\nWyoming 211 - Community Resources\nVideo Tour\nWhat’s happening near me?\nEnter your street address\nAround Town\nCheyenne Botanic Gard"
+        }
+      ]
+    },
+    {
+      "classification": "unreviewed_topical_match_not_a_finding",
+      "source_sha256": "f8d5b0ec65f2535172348894c908a14c5e8d791d19b7a04cf033e1011e1d7dd9",
+      "source_url": "https://www.laramiecountywy.gov/County-Government/Elected-Officials/County-Clerk/Finance",
+      "source_retrieved_at": "2026-11-08T16:26:02.549635+00:00",
+      "page": null,
+      "extraction_method": "html_text",
+      "quality_verified": false,
+      "representation_path": "text/f8d5b0ec65f2535172348894c908a14c5e8d791d19b7a04cf033e1011e1d7dd9.txt",
+      "representation_text_sha256": "7adb382383808a33c39a755b62f050d064ddf02904fc13c48a2ebcd60f0de310",
+      "representation_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/22880f4c2443b35dd5c4b53e67708302bc66f9cc/text/f8d5b0ec65f2535172348894c908a14c5e8d791d19b7a04cf033e1011e1d7dd9.txt",
+      "original_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/22880f4c2443b35dd5c4b53e67708302bc66f9cc/objects/f8/f8d5b0ec65f2535172348894c908a14c5e8d791d19b7a04cf033e1011e1d7dd9",
+      "evidence": [
+        {
+          "term": "sales tax",
+          "match_start": 1315,
+          "match_end": 1324,
+          "passage_start": 1165,
+          "passage_end": 1574,
+          "text": "y Department\nSocial Media\nResident Services\nGIS/Maps\nParcel Viewer\nLC Interactive Map Portal\nVehicle Information\nRenew Vehicle License Online\nVehicle Sales Tax\nVehicle Titles\nProperty Information\nPay Property Tax Online\nParcel Viewer\nBuilding\nPersonal Property Reporting\nProperty Assessment\nProperty Review and Appeal\nVeteran's Exemptions\nLand Use Regulations\nElections\nRegister to Vote\nVoting in Laramie Coun"
+        },
+        {
+          "term": "budget",
+          "match_start": 2655,
+          "match_end": 2661,
+          "passage_start": 2505,
+          "passage_end": 2911,
+          "text": "chard Valley Community Park\nSocial Channels\nSearch\nHome\n/\nCounty Government\n/\nElected Officials\n/\nCounty Clerk\n/\nFinance\nFinance\nOur Responsibilities\nBudget Preparation\nFinancial, Compliance, and Tax Reporting\nGeneral Ledger, Accounts Payable, Accounts Receivable, Fixed Assets, and Payroll\nOur Mission\nThe Finance Division is the collection point for most financial transactions in the County. We interfac"
+        },
+        {
+          "term": "budget",
+          "match_start": 3252,
+          "match_end": 3258,
+          "passage_start": 3102,
+          "passage_end": 3508,
+          "text": "egrity and auditability of the County's accounting system in accordance with Generally Accepted Accounting Principles, as required by WS 16-4-120(a).\nBudget Process\nOn or before May 1st of each year, all budget requests must be submitted to the County Budget Officer\n(County Clerk);\nOn or before May 15th, the County Budget Officer presents a tentative budget to the County Commissioners;\nBudget Hearing is"
+        }
+      ]
+    },
+    {
+      "classification": "unreviewed_topical_match_not_a_finding",
+      "source_sha256": "00148b065ddd9d6d2689eb691a7abc53cb309379f50ee6e2f52cd68f90a30448",
+      "source_url": "https://www.cheyennecity.org/files/sharedassets/public/v/1/your-government/city-council/fc-2025/fc-01-22-25-agenda.pdf",
+      "source_retrieved_at": "2026-11-08T16:39:57.813058+00:00",
+      "page": 1,
+      "extraction_method": "native",
+      "quality_verified": false,
+      "representation_path": "derived/00148b065ddd9d6d2689eb691a7abc53cb309379f50ee6e2f52cd68f90a30448/page-000001.json",
+      "representation_text_sha256": "25073957e1fbef29c6251c77fd66608d8c91bc29654d0a663258af2953177f07",
+      "representation_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/22880f4c2443b35dd5c4b53e67708302bc66f9cc/derived/00148b065ddd9d6d2689eb691a7abc53cb309379f50ee6e2f52cd68f90a30448/page-000001.json",
+      "original_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/22880f4c2443b35dd5c4b53e67708302bc66f9cc/objects/00/00148b065ddd9d6d2689eb691a7abc53cb309379f50ee6e2f52cd68f90a30448",
+      "evidence": [
+        {
+          "term": "budget",
+          "match_start": 1292,
+          "match_end": 1298,
+          "passage_start": 1142,
+          "passage_end": 1548,
+          "text": " the City of Cheyenne’s web site:\n                                     Finance Committee\n\n\n14.     RESOLUTION – Re-appropriating the Fiscal Year 2025 Budget of the City of Cheyenne\n        according to the provisions of W.S. §§ 16-4-112 & 16-4-113. (SPONSOR – MR.\n        LAYBOURN)\n\nACTION:\n\n16.     LEASES/CONTRACTS/LEGAL:\n\n        c)     Human Services Agreement between the City of Cheyenne and United W"
+        },
+        {
+          "term": "sales tax",
+          "match_start": 1710,
+          "match_end": 1719,
+          "passage_start": 1560,
+          "passage_end": 1969,
+          "text": "         Laramie County to provide funding to community agencies and monitor\n               performance of community programs. (2019-2022 Optional 1% Sales Tax Fund)\n\nACTION:\n\n17.     CONSIDERATION OF BIDS/PURCHASES/REQUESTS FOR PROPOSALS:\n\n        c)     Consideration of Bid #S-10-25 for an Agreement between the City of Cheyenne\n               and Cheyenne Tile and Stone for the Kiwanis Community House – "
+        }
+      ]
+    },
+    {
+      "classification": "unreviewed_topical_match_not_a_finding",
+      "source_sha256": "00bb64666ab3c7d9e1a67a68d37e92cf43f2cc5cd78b5e2ca7328ffe96ced49b",
+      "source_url": "https://www.cheyennecity.org/files/sharedassets/public/v/1/your-government/city-council/wscow-2026/city-clerk-fy27-presentation.pdf",
+      "source_retrieved_at": "2026-11-08T17:19:20.978180+00:00",
+      "page": 1,
+      "extraction_method": "tesseract",
+      "quality_verified": false,
+      "representation_path": "derived/00bb64666ab3c7d9e1a67a68d37e92cf43f2cc5cd78b5e2ca7328ffe96ced49b/page-000001.json",
+      "representation_text_sha256": "ac73f3990ec5dacf75e4184039ee2c899c8996273d6c7db20d1afb5872bdd9e5",
+      "representation_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/22880f4c2443b35dd5c4b53e67708302bc66f9cc/derived/00bb64666ab3c7d9e1a67a68d37e92cf43f2cc5cd78b5e2ca7328ffe96ced49b/page-000001.json",
+      "original_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/22880f4c2443b35dd5c4b53e67708302bc66f9cc/objects/00/00bb64666ab3c7d9e1a67a68d37e92cf43f2cc5cd78b5e2ca7328ffe96ced49b",
+      "evidence": [
+        {
+          "term": "budget",
+          "match_start": 11,
+          "match_end": 17,
+          "passage_start": 0,
+          "passage_end": 34,
+          "text": "CITY CLERK\nBUDGET pod\nOVERVIEW a\n\n"
+        }
+      ]
+    },
+    {
+      "classification": "unreviewed_topical_match_not_a_finding",
+      "source_sha256": "00bb64666ab3c7d9e1a67a68d37e92cf43f2cc5cd78b5e2ca7328ffe96ced49b",
+      "source_url": "https://www.cheyennecity.org/files/sharedassets/public/v/1/your-government/city-council/wscow-2026/city-clerk-fy27-presentation.pdf",
+      "source_retrieved_at": "2026-11-08T17:19:20.978180+00:00",
+      "page": 5,
+      "extraction_method": "native",
+      "quality_verified": false,
+      "representation_path": "derived/00bb64666ab3c7d9e1a67a68d37e92cf43f2cc5cd78b5e2ca7328ffe96ced49b/page-000005.json",
+      "representation_text_sha256": "12aa16e4ea15edb781f89e742b08d741713442251578e0892f2e062c8c3bbb09",
+      "representation_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/22880f4c2443b35dd5c4b53e67708302bc66f9cc/derived/00bb64666ab3c7d9e1a67a68d37e92cf43f2cc5cd78b5e2ca7328ffe96ced49b/page-000005.json",
+      "original_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/22880f4c2443b35dd5c4b53e67708302bc66f9cc/objects/00/00bb64666ab3c7d9e1a67a68d37e92cf43f2cc5cd78b5e2ca7328ffe96ced49b",
+      "evidence": [
+        {
+          "term": "budget",
+          "match_start": 0,
+          "match_end": 6,
+          "passage_start": 0,
+          "passage_end": 97,
+          "text": "BUDGET SUMMARY\n\n\n\n\n    FY 2027      FY 2026\n   Proposed:     Adopted:\n   $856,024      $881,908\n\f"
+        }
+      ]
+    },
+    {
+      "classification": "unreviewed_topical_match_not_a_finding",
+      "source_sha256": "00bb64666ab3c7d9e1a67a68d37e92cf43f2cc5cd78b5e2ca7328ffe96ced49b",
+      "source_url": "https://www.cheyennecity.org/files/sharedassets/public/v/1/your-government/city-council/wscow-2026/city-clerk-fy27-presentation.pdf",
+      "source_retrieved_at": "2026-11-08T17:19:20.978180+00:00",
+      "page": 6,
+      "extraction_method": "native",
+      "quality_verified": false,
+      "representation_path": "derived/00bb64666ab3c7d9e1a67a68d37e92cf43f2cc5cd78b5e2ca7328ffe96ced49b/page-000006.json",
+      "representation_text_sha256": "cbc2ab96731ef72390abfd568b2a67f4ceb55c9391620693ae2b1006be6adc5e",
+      "representation_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/22880f4c2443b35dd5c4b53e67708302bc66f9cc/derived/00bb64666ab3c7d9e1a67a68d37e92cf43f2cc5cd78b5e2ca7328ffe96ced49b/page-000006.json",
+      "original_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/22880f4c2443b35dd5c4b53e67708302bc66f9cc/objects/00/00bb64666ab3c7d9e1a67a68d37e92cf43f2cc5cd78b5e2ca7328ffe96ced49b",
+      "evidence": [
+        {
+          "term": "budget",
+          "match_start": 25,
+          "match_end": 31,
+          "passage_start": 0,
+          "passage_end": 281,
+          "text": "             •   Overall budget decreased by $25,884\n\n             •   Professional Development increased by $1,200 to\nBUDGET           support employee training\n\n\nCHANGES:     •   Dues & subscriptions increased by $1,000, while\n                 Professional Services decreased by "
+        },
+        {
+          "term": "budget",
+          "match_start": 119,
+          "match_end": 125,
+          "passage_start": 0,
+          "passage_end": 375,
+          "text": "             •   Overall budget decreased by $25,884\n\n             •   Professional Development increased by $1,200 to\nBUDGET           support employee training\n\n\nCHANGES:     •   Dues & subscriptions increased by $1,000, while\n                 Professional Services decreased by the same amount\n\nFY 2026 TO       for anticipated LexisNexis fees\n\n             •   Profession"
+        },
+        {
+          "term": "budget",
+          "match_start": 502,
+          "match_end": 508,
+          "passage_start": 352,
+          "passage_end": 758,
+          "text": "         •   Professional Services decreased by $26,000\nFY 2027             •   $25,000 moved to temporary/part-time employee\n                        budget\n                    •   $1,000 moved to dues & subscriptions\n\n             •   Licenses & fees increased by $200 for Laramie County\n                 filing costs\n\n             •   Telecommunications decreased by $500\n\n             •   Computer softw"
+        }
+      ]
+    },
+    {
+      "classification": "unreviewed_topical_match_not_a_finding",
+      "source_sha256": "00bb64666ab3c7d9e1a67a68d37e92cf43f2cc5cd78b5e2ca7328ffe96ced49b",
+      "source_url": "https://www.cheyennecity.org/files/sharedassets/public/v/1/your-government/city-council/wscow-2026/city-clerk-fy27-presentation.pdf",
+      "source_retrieved_at": "2026-11-08T17:19:20.978180+00:00",
+      "page": 7,
+      "extraction_method": "native",
+      "quality_verified": false,
+      "representation_path": "derived/00bb64666ab3c7d9e1a67a68d37e92cf43f2cc5cd78b5e2ca7328ffe96ced49b/page-000007.json",
+      "representation_text_sha256": "7bf41689ae2093183f15c163db661e73874ebdaabf3a6de92f8d7e0b4f6b95a6",
+      "representation_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/22880f4c2443b35dd5c4b53e67708302bc66f9cc/derived/00bb64666ab3c7d9e1a67a68d37e92cf43f2cc5cd78b5e2ca7328ffe96ced49b/page-000007.json",
+      "original_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/22880f4c2443b35dd5c4b53e67708302bc66f9cc/objects/00/00bb64666ab3c7d9e1a67a68d37e92cf43f2cc5cd78b5e2ca7328ffe96ced49b",
+      "evidence": [
+        {
+          "term": "budget",
+          "match_start": 0,
+          "match_end": 6,
+          "passage_start": 0,
+          "passage_end": 256,
+          "text": "BUDGET       •   Temporary/Part-Time Employee line item\n                   •   Added $25,000 to convert a contracted position to a\nCHANGES:               part-time employee position (budget neutral)\n\nFY 2026 TO\n                   •   Added $1,097 for part-"
+        },
+        {
+          "term": "budget",
+          "match_start": 183,
+          "match_end": 189,
+          "passage_start": 33,
+          "passage_end": 439,
+          "text": "ime Employee line item\n                   •   Added $25,000 to convert a contracted position to a\nCHANGES:               part-time employee position (budget neutral)\n\nFY 2026 TO\n                   •   Added $1,097 for part-time employee shared with\n                       Human Resources\n\nFY 2027            •   Replaced full-time Operations Support Specialist\n                       position with a part-t"
+        }
+      ]
+    },
+    {
+      "classification": "unreviewed_topical_match_not_a_finding",
+      "source_sha256": "00bb64666ab3c7d9e1a67a68d37e92cf43f2cc5cd78b5e2ca7328ffe96ced49b",
+      "source_url": "https://www.cheyennecity.org/files/sharedassets/public/v/1/your-government/city-council/wscow-2026/city-clerk-fy27-presentation.pdf",
+      "source_retrieved_at": "2026-11-08T17:19:20.978180+00:00",
+      "page": 8,
+      "extraction_method": "native",
+      "quality_verified": false,
+      "representation_path": "derived/00bb64666ab3c7d9e1a67a68d37e92cf43f2cc5cd78b5e2ca7328ffe96ced49b/page-000008.json",
+      "representation_text_sha256": "c737c0c5187843393d73e591a8daa525ad9ed484181cb32c527ebafc1ad0fed1",
+      "representation_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/22880f4c2443b35dd5c4b53e67708302bc66f9cc/derived/00bb64666ab3c7d9e1a67a68d37e92cf43f2cc5cd78b5e2ca7328ffe96ced49b/page-000008.json",
+      "original_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/22880f4c2443b35dd5c4b53e67708302bc66f9cc/objects/00/00bb64666ab3c7d9e1a67a68d37e92cf43f2cc5cd78b5e2ca7328ffe96ced49b",
+      "evidence": [
+        {
+          "term": "budget",
+          "match_start": 36,
+          "match_end": 42,
+          "passage_start": 0,
+          "passage_end": 292,
+          "text": "             • The proposed FY 2027 budget maintains\n               essential services and operational\n               support functions while incorporating\nCONCLUSION\n               strategic staffing and software\n               adjustments to improve efficiency and\n               manage cos"
+        }
+      ]
+    },
+    {
+      "classification": "unreviewed_topical_match_not_a_finding",
+      "source_sha256": "00f462be921543c29907c0eabe9565316cb479aa2d9df8068b809446edf8c5a5",
+      "source_url": "https://www.cheyennecity.org/files/sharedassets/public/v/1/your-government/city-council/fc-2023/fc-02-21-23-minutes.pdf",
+      "source_retrieved_at": "2026-11-08T16:49:43.317118+00:00",
+      "page": 1,
+      "extraction_method": "tesseract",
+      "quality_verified": false,
+      "representation_path": "derived/00f462be921543c29907c0eabe9565316cb479aa2d9df8068b809446edf8c5a5/page-000001.json",
+      "representation_text_sha256": "df90bc6df2ffeb0d2d5e9bae3d75fc93a5e5959d2623e8fdfa6316841472b35c",
+      "representation_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/22880f4c2443b35dd5c4b53e67708302bc66f9cc/derived/00f462be921543c29907c0eabe9565316cb479aa2d9df8068b809446edf8c5a5/page-000001.json",
+      "original_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/22880f4c2443b35dd5c4b53e67708302bc66f9cc/objects/00/00f462be921543c29907c0eabe9565316cb479aa2d9df8068b809446edf8c5a5",
+      "evidence": [
+        {
+          "term": "budget",
+          "match_start": 1185,
+          "match_end": 1191,
+          "passage_start": 1035,
+          "passage_end": 1441,
+          "text": "for questions.\nChairman White and committee members Roybal and Esquibel commented on the item.\n\n19. RESOLUTION ~ Reappropriating the Fiscal Year 2023 Budget of the City of Cheyenne\naccording to the provisions of W.S. §§ 16-4-112 & 16-4-113. (SPONSOR — MR. WHITE)\n\nDr. Aldrich moved to adopt, seconded by Mr. Esquibel. Motion carried by unanimous voice vote.\n\nRobin Lockman, City Treasurer, provided a staff"
+        }
+      ]
+    },
+    {
+      "classification": "unreviewed_topical_match_not_a_finding",
+      "source_sha256": "00f462be921543c29907c0eabe9565316cb479aa2d9df8068b809446edf8c5a5",
+      "source_url": "https://www.cheyennecity.org/files/sharedassets/public/v/1/your-government/city-council/fc-2023/fc-02-21-23-minutes.pdf",
+      "source_retrieved_at": "2026-11-08T16:49:43.317118+00:00",
+      "page": 2,
+      "extraction_method": "tesseract",
+      "quality_verified": false,
+      "representation_path": "derived/00f462be921543c29907c0eabe9565316cb479aa2d9df8068b809446edf8c5a5/page-000002.json",
+      "representation_text_sha256": "d4c4b93a15473e05840a77474168628ef05e847be1be24c03e68265a4b7352c8",
+      "representation_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/22880f4c2443b35dd5c4b53e67708302bc66f9cc/derived/00f462be921543c29907c0eabe9565316cb479aa2d9df8068b809446edf8c5a5/page-000002.json",
+      "original_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/22880f4c2443b35dd5c4b53e67708302bc66f9cc/objects/00/00f462be921543c29907c0eabe9565316cb479aa2d9df8068b809446edf8c5a5",
+      "evidence": [
+        {
+          "term": "sales tax",
+          "match_start": 836,
+          "match_end": 845,
+          "passage_start": 686,
+          "passage_end": 1095,
+          "text": "ffice\nof Homeland Security for project scoping of the Cheyenne 18!\" Street Storm Sewer\nInterceptor Advance Assistance Project. (2019-2022 Optional 1% Sales Tax\nFunding and US Department of Homeland Security FEMA Funding)\n\nDr. Aldrich moved to approve in an amount of $270,000.00 in grant funds and $30,000.00 in city\nmatch funds for a total of $300,000.00, seconded by Mr. Roybal. Motion carried by unanimous\n"
+        }
+      ]
+    },
+    {
+      "classification": "unreviewed_topical_match_not_a_finding",
+      "source_sha256": "00f462be921543c29907c0eabe9565316cb479aa2d9df8068b809446edf8c5a5",
+      "source_url": "https://www.cheyennecity.org/files/sharedassets/public/v/1/your-government/city-council/fc-2023/fc-02-21-23-minutes.pdf",
+      "source_retrieved_at": "2026-11-08T16:49:43.317118+00:00",
+      "page": 4,
+      "extraction_method": "tesseract",
+      "quality_verified": false,
+      "representation_path": "derived/00f462be921543c29907c0eabe9565316cb479aa2d9df8068b809446edf8c5a5/page-000004.json",
+      "representation_text_sha256": "50cf413f6f7ef06b12c3f3f1b9b13fe98a18c0b2ba1b2c94b8c2aea298b2df3d",
+      "representation_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/22880f4c2443b35dd5c4b53e67708302bc66f9cc/derived/00f462be921543c29907c0eabe9565316cb479aa2d9df8068b809446edf8c5a5/page-000004.json",
+      "original_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/22880f4c2443b35dd5c4b53e67708302bc66f9cc/objects/00/00f462be921543c29907c0eabe9565316cb479aa2d9df8068b809446edf8c5a5",
+      "evidence": [
+        {
+          "term": "sales tax",
+          "match_start": 482,
+          "match_end": 491,
+          "passage_start": 332,
+          "passage_end": 741,
+          "text": "for an agreement between the City of Cheyenne and\nJTL Group Inc. d/b/a Knife River for the 2023 City Overlay Part #2 project. (2019-\n2022 Optional 1% Sales Tax Fund)\n\nDr. Aldrich moved to accept the bid from JTL Group, Inc. d/b/a Knifer River, Cheyenne, WY, in\nan amount not to exceed $2,794, 156.69, seconded by Mr. Esquibel. Motion carried by unanimous\nvoice vote.\n\nDoug Klahn, Construction Manager, provide"
+        }
+      ]
+    },
+    {
+      "classification": "unreviewed_topical_match_not_a_finding",
+      "source_sha256": "010bd83d980db77cff63d872d0af99d9ad84914af753e62bf5997fa238a50bdd",
+      "source_url": "https://www.cheyennecity.org/files/sharedassets/public/v/1/your-government/city-council/fc-2023/fc-12-04-23-agenda.pdf",
+      "source_retrieved_at": "2026-11-08T16:41:58.869663+00:00",
+      "page": 2,
+      "extraction_method": "native",
+      "quality_verified": false,
+      "representation_path": "derived/010bd83d980db77cff63d872d0af99d9ad84914af753e62bf5997fa238a50bdd/page-000002.json",
+      "representation_text_sha256": "177a072fb269994a5b789c5ea8e2f66adefa1a105f2e1b80c58c45aec19a5c04",
+      "representation_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/22880f4c2443b35dd5c4b53e67708302bc66f9cc/derived/010bd83d980db77cff63d872d0af99d9ad84914af753e62bf5997fa238a50bdd/page-000002.json",
+      "original_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/22880f4c2443b35dd5c4b53e67708302bc66f9cc/objects/01/010bd83d980db77cff63d872d0af99d9ad84914af753e62bf5997fa238a50bdd",
+      "evidence": [
+        {
+          "term": "sales tax",
+          "match_start": 947,
+          "match_end": 956,
+          "passage_start": 797,
+          "passage_end": 1206,
+          "text": "yenne and Z\n           and Z Sealcoating, Inc. for additional material required for the 2023 Crack Seal\n           #1 Project. (2019-2022 Optional 1% Sales Tax Fund)\n\nACTION:\n\n29.   CONSIDERATION OF BIDS/PURCHASES/REQUESTS FOR PROPOSALS:\n\n      a)   Consideration to Purchase between the City of Cheyenne and Dowdle Studios for\n           the Commissioned Painting and Puzzles Project. (General Fund Reserves)"
+        }
+      ]
+    },
+    {
+      "classification": "unreviewed_topical_match_not_a_finding",
+      "source_sha256": "02655cafa3b55f9938e5b154d1147bf1fb4e7dc9f116a0660656ff4ab5d3e0f4",
+      "source_url": "https://www.cheyennecity.org/files/sharedassets/public/v/1/your-government/city-council/fc-2022/fc-09-06-22-agenda-2.pdf",
+      "source_retrieved_at": "2026-11-08T16:50:48.057144+00:00",
+      "page": 2,
+      "extraction_method": "native",
+      "quality_verified": false,
+      "representation_path": "derived/02655cafa3b55f9938e5b154d1147bf1fb4e7dc9f116a0660656ff4ab5d3e0f4/page-000002.json",
+      "representation_text_sha256": "e6c850a0ec848443b097321dc27f7a172020e72d6975037618cf2b412a98e3d4",
+      "representation_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/22880f4c2443b35dd5c4b53e67708302bc66f9cc/derived/02655cafa3b55f9938e5b154d1147bf1fb4e7dc9f116a0660656ff4ab5d3e0f4/page-000002.json",
+      "original_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/22880f4c2443b35dd5c4b53e67708302bc66f9cc/objects/02/02655cafa3b55f9938e5b154d1147bf1fb4e7dc9f116a0660656ff4ab5d3e0f4",
+      "evidence": [
+        {
+          "term": "sales tax",
+          "match_start": 1832,
+          "match_end": 1841,
+          "passage_start": 1682,
+          "passage_end": 1859,
+          "text": "ams\n           to allocate remaining portion of 10% “Excess Monies” to Human Services pursuant\n           to Resolution #5607. (2015-2018 Optional 1% Sales Tax Fund)\n\n ACTION:\n\f"
+        }
+      ]
+    },
+    {
+      "classification": "unreviewed_topical_match_not_a_finding",
+      "source_sha256": "02655cafa3b55f9938e5b154d1147bf1fb4e7dc9f116a0660656ff4ab5d3e0f4",
+      "source_url": "https://www.cheyennecity.org/files/sharedassets/public/v/1/your-government/city-council/fc-2022/fc-09-06-22-agenda-2.pdf",
+      "source_retrieved_at": "2026-11-08T16:50:48.057144+00:00",
+      "page": 3,
+      "extraction_method": "native",
+      "quality_verified": false,
+      "representation_path": "derived/02655cafa3b55f9938e5b154d1147bf1fb4e7dc9f116a0660656ff4ab5d3e0f4/page-000003.json",
+      "representation_text_sha256": "26ae6a9a276f37e7e371971f58155c070e905c4362a2e975383f24b612534def",
+      "representation_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/22880f4c2443b35dd5c4b53e67708302bc66f9cc/derived/02655cafa3b55f9938e5b154d1147bf1fb4e7dc9f116a0660656ff4ab5d3e0f4/page-000003.json",
+      "original_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/22880f4c2443b35dd5c4b53e67708302bc66f9cc/objects/02/02655cafa3b55f9938e5b154d1147bf1fb4e7dc9f116a0660656ff4ab5d3e0f4",
+      "evidence": [
+        {
+          "term": "sales tax",
+          "match_start": 322,
+          "match_end": 331,
+          "passage_start": 172,
+          "passage_end": 581,
+          "text": " Laramie County to provide services to various community programs\n             to allocate funds pursuant to Resolution #5933. (2019-2022 Optional 1% Sales Tax\n             Fund)\n\n ACTION:\n\nOTHER ITEMS FOR THE AGENDA:\n\n      a) RESOLUTION – Supporting the Cheyenne Regional Airport Board in the application\n         for and acceptance of Federal Assistance from the Federal Aviation Administration\n         un"
+        }
+      ]
+    },
+    {
+      "classification": "unreviewed_topical_match_not_a_finding",
+      "source_sha256": "02742df3cbd1e799493dcf34548f5d2769c9d2158f5e6f11c571fe222ade003f",
+      "source_url": "https://www.cheyennecity.org/files/sharedassets/public/v/1/your-government/city-council/fc-2025/fc-06-17-25-agenda.pdf",
+      "source_retrieved_at": "2026-11-08T16:29:46.950485+00:00",
+      "page": 2,
+      "extraction_method": "native",
+      "quality_verified": false,
+      "representation_path": "derived/02742df3cbd1e799493dcf34548f5d2769c9d2158f5e6f11c571fe222ade003f/page-000002.json",
+      "representation_text_sha256": "4a0c6e0e1c1fed53c0a431dafd260dedf4ba8c9a5073bffda9fc127eaccdb501",
+      "representation_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/22880f4c2443b35dd5c4b53e67708302bc66f9cc/derived/02742df3cbd1e799493dcf34548f5d2769c9d2158f5e6f11c571fe222ade003f/page-000002.json",
+      "original_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/22880f4c2443b35dd5c4b53e67708302bc66f9cc/objects/02/02742df3cbd1e799493dcf34548f5d2769c9d2158f5e6f11c571fe222ade003f",
+      "evidence": [
+        {
+          "term": "sales tax",
+          "match_start": 231,
+          "match_end": 240,
+          "passage_start": 81,
+          "passage_end": 490,
+          "text": "ment between the City of Cheyenne and HDR\n           Engineering, Inc., for the 18th Street Reconstruction Project. (2023-2026 Optional\n           1% Sales Tax Fund, FEMA HMGP Grant and BOPU Funds)\n\nACTION:\n\n      j)   Right-of-Way License Agreement between the City of Cheyenne and Volunteers\n           of America Northern Rockies for connection of a storm sewer pipe from the\n           onsite detention po"
+        },
+        {
+          "term": "sales tax",
+          "match_start": 1280,
+          "match_end": 1289,
+          "passage_start": 1130,
+          "passage_end": 1539,
+          "text": "5 for furnishing Mid-Size SUVs and a Full-Size\n           SUV for the City of Cheyenne, Solid Waste and Fleet Pool. (2023-2026 Optional\n           1% Sales Tax Fund and Solid Waste Fund)\n\nACTION:\n\n      c)   Consideration of Bid #E-20-25 for furnishing five (5) new Snow Plows for the\n           City of Cheyenne, Street & Alley Division. (2019-2022 Optional 1% Sales Tax\n           Fund)\n\nACTION:\n\n      d)  "
+        },
+        {
+          "term": "sales tax",
+          "match_start": 1492,
+          "match_end": 1501,
+          "passage_start": 1342,
+          "passage_end": 1751,
+          "text": "ideration of Bid #E-20-25 for furnishing five (5) new Snow Plows for the\n           City of Cheyenne, Street & Alley Division. (2019-2022 Optional 1% Sales Tax\n           Fund)\n\nACTION:\n\n      d)   Consideration of Bid #E-21-25 for an Agreement between the City of Cheyenne\n           and Kleen-Tech Services, LLC, for Janitorial Services for the City of Cheyenne –\n           Cheyenne Public Safety Center. ("
+        }
+      ]
+    },
+    {
+      "classification": "unreviewed_topical_match_not_a_finding",
+      "source_sha256": "02742df3cbd1e799493dcf34548f5d2769c9d2158f5e6f11c571fe222ade003f",
+      "source_url": "https://www.cheyennecity.org/files/sharedassets/public/v/1/your-government/city-council/fc-2025/fc-06-17-25-agenda.pdf",
+      "source_retrieved_at": "2026-11-08T16:29:46.950485+00:00",
+      "page": 3,
+      "extraction_method": "native",
+      "quality_verified": false,
+      "representation_path": "derived/02742df3cbd1e799493dcf34548f5d2769c9d2158f5e6f11c571fe222ade003f/page-000003.json",
+      "representation_text_sha256": "99f88425ee404072fabdb59d502f56c4028d0731ee6f24ec5c01bc4fc4e7aacb",
+      "representation_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/22880f4c2443b35dd5c4b53e67708302bc66f9cc/derived/02742df3cbd1e799493dcf34548f5d2769c9d2158f5e6f11c571fe222ade003f/page-000003.json",
+      "original_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/22880f4c2443b35dd5c4b53e67708302bc66f9cc/objects/02/02742df3cbd1e799493dcf34548f5d2769c9d2158f5e6f11c571fe222ade003f",
+      "evidence": [
+        {
+          "term": "sales tax",
+          "match_start": 922,
+          "match_end": 931,
+          "passage_start": 772,
+          "passage_end": 1181,
+          "text": "ement between the City of Cheyenne\n           and Climate Control LLC, for HVAC and Mechanical Systems Maintenance.\n           (2019-2022 Optional 1% Sales Tax Fund, Civic Center Fund, Fleet Maintenance\n           Fund, General Fund, Solid Waste Fund, Ice and Events Center Fund and\n           Recreation Fund)\n\nACTION:\n\n      i)   Consideration of Bid #S-25-25 for an Agreement between the City of Cheyenne\n "
+        }
+      ]
+    },
+    {
+      "classification": "unreviewed_topical_match_not_a_finding",
+      "source_sha256": "02f6b37badfb51fa01a6646ebb0e050b3e28d45cb13f193acb1e1eaa42712793",
+      "source_url": "https://www.cheyennecity.org/files/sharedassets/public/v/1/your-government/city-council/wscow-2026/youth-alternatives-fy-2027-budget-presentation1.pdf",
+      "source_retrieved_at": "2026-11-08T17:19:25.387224+00:00",
+      "page": 4,
+      "extraction_method": "tesseract",
+      "quality_verified": false,
+      "representation_path": "derived/02f6b37badfb51fa01a6646ebb0e050b3e28d45cb13f193acb1e1eaa42712793/page-000004.json",
+      "representation_text_sha256": "5e39af34b25a68f92242fce3484567dbc46c4ee0c03cdae920a822ce885ce814",
+      "representation_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/22880f4c2443b35dd5c4b53e67708302bc66f9cc/derived/02f6b37badfb51fa01a6646ebb0e050b3e28d45cb13f193acb1e1eaa42712793/page-000004.json",
+      "original_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/22880f4c2443b35dd5c4b53e67708302bc66f9cc/objects/02/02f6b37badfb51fa01a6646ebb0e050b3e28d45cb13f193acb1e1eaa42712793",
+      "evidence": [
+        {
+          "term": "budget",
+          "match_start": 301,
+          "match_end": 307,
+          "passage_start": 151,
+          "passage_end": 557,
+          "text": "3,440 31,380 33410 6%\nParts and Supplies 1,606 1211 1935 1,925 0%\nCopital 45,000 : = = o%\nTotal Expenditures $ 518,536 $ 547,636 $ 539,382 $ 621,254\n\nBudget Changes from 2026 to 2027\n\nThe Youth Alternatives Division budget increased by $81,872 from Fiscal Year 2026 to Fiscal\nYear 2027. This change includes the following non-payroll items:\n\nm_ Professional development: Increased by $600 for continuing ed"
+        },
+        {
+          "term": "budget",
+          "match_start": 367,
+          "match_end": 373,
+          "passage_start": 217,
+          "passage_end": 623,
+          "text": "Copital 45,000 : = = o%\nTotal Expenditures $ 518,536 $ 547,636 $ 539,382 $ 621,254\n\nBudget Changes from 2026 to 2027\n\nThe Youth Alternatives Division budget increased by $81,872 from Fiscal Year 2026 to Fiscal\nYear 2027. This change includes the following non-payroll items:\n\nm_ Professional development: Increased by $600 for continuing education courses required\nfor employees to maintain their licenses."
+        }
+      ]
+    },
+    {
+      "classification": "unreviewed_topical_match_not_a_finding",
+      "source_sha256": "02f6b37badfb51fa01a6646ebb0e050b3e28d45cb13f193acb1e1eaa42712793",
+      "source_url": "https://www.cheyennecity.org/files/sharedassets/public/v/1/your-government/city-council/wscow-2026/youth-alternatives-fy-2027-budget-presentation1.pdf",
+      "source_retrieved_at": "2026-11-08T17:19:25.387224+00:00",
+      "page": 5,
+      "extraction_method": "tesseract",
+      "quality_verified": false,
+      "representation_path": "derived/02f6b37badfb51fa01a6646ebb0e050b3e28d45cb13f193acb1e1eaa42712793/page-000005.json",
+      "representation_text_sha256": "8cfbc4a5fb3e92783f5ec94959b27b8f1caa9a91d4a1423f6afd729fcfd1824f",
+      "representation_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/22880f4c2443b35dd5c4b53e67708302bc66f9cc/derived/02f6b37badfb51fa01a6646ebb0e050b3e28d45cb13f193acb1e1eaa42712793/page-000005.json",
+      "original_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/22880f4c2443b35dd5c4b53e67708302bc66f9cc/objects/02/02f6b37badfb51fa01a6646ebb0e050b3e28d45cb13f193acb1e1eaa42712793",
+      "evidence": [
+        {
+          "term": "budget",
+          "match_start": 641,
+          "match_end": 647,
+          "passage_start": 491,
+          "passage_end": 897,
+          "text": "< $7,500)\nSubtotal\n\nCAPITAL\nBuilding impr (> $40,000)\nSubtotal\n\nTOTAL\n\n2026 2027 $ Change\n\n2024 2025 Adopted Proposed —_ from 2026,\n\nActuals ‘Actuals Budget Budget to2027\n\n$ 11772 $ 107,766 $ 116931 $ 135710 $ 1879\n215,105 229,449 245,894 273575 27,682\n44,864 46,161 48,688 70,086 21,398\n24,075 25,668 27,564 30,953 3,389\n48,598 51,758 55,529 62,585 7,056\n7,052 7,102 7,645 8173 529\n3,585 3,585 3,645 4,635"
+        },
+        {
+          "term": "budget",
+          "match_start": 648,
+          "match_end": 654,
+          "passage_start": 498,
+          "passage_end": 904,
+          "text": "0)\nSubtotal\n\nCAPITAL\nBuilding impr (> $40,000)\nSubtotal\n\nTOTAL\n\n2026 2027 $ Change\n\n2024 2025 Adopted Proposed —_ from 2026,\n\nActuals ‘Actuals Budget Budget to2027\n\n$ 11772 $ 107,766 $ 116931 $ 135710 $ 1879\n215,105 229,449 245,894 273575 27,682\n44,864 46,161 48,688 70,086 21,398\n24,075 25,668 27,564 30,953 3,389\n48,598 51,758 55,529 62,585 7,056\n7,052 7,102 7,645 8173 529\n3,585 3,585 3,645 4,635 990\n\n1"
+        }
+      ]
+    },
+    {
+      "classification": "unreviewed_topical_match_not_a_finding",
+      "source_sha256": "0356098f048a1b8402a8dd070eb6fc3e62b126fb5ab9b639a0b162a634bd8860",
+      "source_url": "https://www.cheyennecity.org/files/sharedassets/public/v/1/your-government/city-council/fc-2023/fc-06-20-23-agenda.pdf",
+      "source_retrieved_at": "2026-11-08T16:42:51.270406+00:00",
+      "page": 2,
+      "extraction_method": "native",
+      "quality_verified": false,
+      "representation_path": "derived/0356098f048a1b8402a8dd070eb6fc3e62b126fb5ab9b639a0b162a634bd8860/page-000002.json",
+      "representation_text_sha256": "e960123b204a4f8c58a0fd40a4fbcd8f550a3b233823fb76bf562495b3eff802",
+      "representation_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/22880f4c2443b35dd5c4b53e67708302bc66f9cc/derived/0356098f048a1b8402a8dd070eb6fc3e62b126fb5ab9b639a0b162a634bd8860/page-000002.json",
+      "original_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/22880f4c2443b35dd5c4b53e67708302bc66f9cc/objects/03/0356098f048a1b8402a8dd070eb6fc3e62b126fb5ab9b639a0b162a634bd8860",
+      "evidence": [
+        {
+          "term": "sales tax",
+          "match_start": 1002,
+          "match_end": 1011,
+          "passage_start": 852,
+          "passage_end": 1261,
+          "text": "ty of Cheyenne and Sunrise\n             Engineering for the 7th Street Drainage and Access Improvements Project. (2019-\n             2022 Optional 1% Sales Tax Fund)\n\n ACTION:\n\n      e)     Memorandum of Understanding between the City of Cheyenne and the Wyoming\n             Department of Transportation for the City’s Childs Draw South Tributary\n             Enhancements Project. (2019-2022 Optional 1% Sal"
+        },
+        {
+          "term": "sales tax",
+          "match_start": 1258,
+          "match_end": 1267,
+          "passage_start": 1108,
+          "passage_end": 1517,
+          "text": "yoming\n             Department of Transportation for the City’s Childs Draw South Tributary\n             Enhancements Project. (2019-2022 Optional 1% Sales Tax Fund)\n\n ACTION:\n\n      f)     Cooperative Agreement between the City of Cheyenne and the Wyoming\n             Department of Transportation for setting terms and conditions for participating in\n             Federal Project No. B231031, Surface Transp"
+        },
+        {
+          "term": "sales tax",
+          "match_start": 1625,
+          "match_end": 1634,
+          "passage_start": 1475,
+          "passage_end": 1817,
+          "text": "ederal Project No. B231031, Surface Transportation Urban Program (US 30, Dell\n             Range Boulevard, and Whitney Road). (2023-2026 Optional 1% Sales Tax Fund)\n\n ACTION:\n\n      g)     Agreement between the City of Cheyenne, Laramie County, and Cheyenne Animal\n             Shelter for Animal Shelter Services. (General Fund)\n\n ACTION:\n\f"
+        }
+      ]
+    },
+    {
+      "classification": "unreviewed_topical_match_not_a_finding",
+      "source_sha256": "0356098f048a1b8402a8dd070eb6fc3e62b126fb5ab9b639a0b162a634bd8860",
+      "source_url": "https://www.cheyennecity.org/files/sharedassets/public/v/1/your-government/city-council/fc-2023/fc-06-20-23-agenda.pdf",
+      "source_retrieved_at": "2026-11-08T16:42:51.270406+00:00",
+      "page": 4,
+      "extraction_method": "native",
+      "quality_verified": false,
+      "representation_path": "derived/0356098f048a1b8402a8dd070eb6fc3e62b126fb5ab9b639a0b162a634bd8860/page-000004.json",
+      "representation_text_sha256": "6591fc974b58a08179a971b358218df7ace8d8d5ddafb8fa7df771f403b8a95f",
+      "representation_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/22880f4c2443b35dd5c4b53e67708302bc66f9cc/derived/0356098f048a1b8402a8dd070eb6fc3e62b126fb5ab9b639a0b162a634bd8860/page-000004.json",
+      "original_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/22880f4c2443b35dd5c4b53e67708302bc66f9cc/objects/03/0356098f048a1b8402a8dd070eb6fc3e62b126fb5ab9b639a0b162a634bd8860",
+      "evidence": [
+        {
+          "term": "sales tax",
+          "match_start": 877,
+          "match_end": 886,
+          "passage_start": 727,
+          "passage_end": 1136,
+          "text": "Curtis for the\n           purchase of seventy-two (72) sets of bunker gear for the Cheyenne Fire Rescue\n           Department. (2019-2022 Optional 1% Sales Tax Fund)\n\n ACTION:\n\n      f)   Consideration of Bid #E-21-23 for one (1) new emergency medical vehicle for the\n           City of Cheyenne, Cheyenne Fire Rescue Department. (2019-2022 Optional 1%\n           Sales Tax Fund, 2021 Specific Purpose Option "
+        },
+        {
+          "term": "sales tax",
+          "match_start": 1091,
+          "match_end": 1100,
+          "passage_start": 941,
+          "passage_end": 1350,
+          "text": "-23 for one (1) new emergency medical vehicle for the\n           City of Cheyenne, Cheyenne Fire Rescue Department. (2019-2022 Optional 1%\n           Sales Tax Fund, 2021 Specific Purpose Option Tax Fund and Wyoming Office of\n           Homeland Security, Assistance to Firefighters Grant)\n\n ACTION:\n\n      g)   Consideration of Bid #S-6-23 for an Agreement between the City of Cheyenne and\n           Reiman "
+        },
+        {
+          "term": "sales tax",
+          "match_start": 1435,
+          "match_end": 1444,
+          "passage_start": 1285,
+          "passage_end": 1694,
+          "text": " an Agreement between the City of Cheyenne and\n           Reiman Corp. for the Pumphouse Wetlands Dredging Project. (2019-2022\n           Optional 1% Sales Tax Fund)\n\n ACTION:\n\n      h)   Consideration of Bid #S-22-23 for an agreement between the City of Cheyenne and\n           Ameri-Tech HVAC Services, Inc., for the HVAC and Mechanical Systems\n           Maintenance Project. (2019-2022 Optional 1% Sales T"
+        }
+      ]
+    },
+    {
+      "classification": "unreviewed_topical_match_not_a_finding",
+      "source_sha256": "046c80e9030ad730d899ab2ae68aca711197ea307ddee147750141d35f43762b",
+      "source_url": "https://www.cheyennecity.org/files/sharedassets/public/v/1/your-government/city-council/fc-2024/fc-04-15-24-minutes.pdf",
+      "source_retrieved_at": "2026-11-08T16:41:20.643471+00:00",
+      "page": 1,
+      "extraction_method": "native",
+      "quality_verified": false,
+      "representation_path": "derived/046c80e9030ad730d899ab2ae68aca711197ea307ddee147750141d35f43762b/page-000001.json",
+      "representation_text_sha256": "4861cd0a57661778fe074a15ef70af22061bcb1c27e88d56365ed9e07563ad48",
+      "representation_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/22880f4c2443b35dd5c4b53e67708302bc66f9cc/derived/046c80e9030ad730d899ab2ae68aca711197ea307ddee147750141d35f43762b/page-000001.json",
+      "original_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/22880f4c2443b35dd5c4b53e67708302bc66f9cc/objects/04/046c80e9030ad730d899ab2ae68aca711197ea307ddee147750141d35f43762b",
+      "evidence": [
+        {
+          "term": "sales tax",
+          "match_start": 1792,
+          "match_end": 1801,
+          "passage_start": 1642,
+          "passage_end": 2051,
+          "text": " of Cheyenne and DHM Design\n               PC for engineering services for the 1çih Street Master Plan Project. (2019-2022\n               Optional 1% Sales Tax Fund)\n\nMr. White moved to approve in an amount not to exceed S153,055.00, seconded by Mr. Cook.\nMotion carried with Mr. Cook and Mr. White voting ‘YES” and Mr. Johnson voting “NO”.\n\nTom Cobb, City Engineer, provided a staff report and noted an alter"
+        }
+      ]
+    },
+    {
+      "classification": "unreviewed_topical_match_not_a_finding",
+      "source_sha256": "046c80e9030ad730d899ab2ae68aca711197ea307ddee147750141d35f43762b",
+      "source_url": "https://www.cheyennecity.org/files/sharedassets/public/v/1/your-government/city-council/fc-2024/fc-04-15-24-minutes.pdf",
+      "source_retrieved_at": "2026-11-08T16:41:20.643471+00:00",
+      "page": 2,
+      "extraction_method": "native",
+      "quality_verified": false,
+      "representation_path": "derived/046c80e9030ad730d899ab2ae68aca711197ea307ddee147750141d35f43762b/page-000002.json",
+      "representation_text_sha256": "7e961a7de09c979a609a1cd84e3e886a713c582f3f8b0a6bb2212f0c88004e2e",
+      "representation_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/22880f4c2443b35dd5c4b53e67708302bc66f9cc/derived/046c80e9030ad730d899ab2ae68aca711197ea307ddee147750141d35f43762b/page-000002.json",
+      "original_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/22880f4c2443b35dd5c4b53e67708302bc66f9cc/objects/04/046c80e9030ad730d899ab2ae68aca711197ea307ddee147750141d35f43762b",
+      "evidence": [
+        {
+          "term": "sales tax",
+          "match_start": 1022,
+          "match_end": 1031,
+          "passage_start": 872,
+          "passage_end": 1281,
+          "text": " between the City of Cheyenne and\n              Asphalt Preservation, LLC, for the 2024 Surftce Seal Project #1. (2019-2022\n              Optional 1% Sales Tax Fund)\n\nMr. White moved to accept the bid in an amount not to exceed $1,791,141.00, seconded by Mr.\nJohnson. Motion carried by unanimous voice vote.\n\nDoug Klahn, Construction Manager, provided a staff report and committee member Johnson\ncommented on "
+        },
+        {
+          "term": "sales tax",
+          "match_start": 1957,
+          "match_end": 1966,
+          "passage_start": 1807,
+          "passage_end": 2216,
+          "text": "ix, Tack\n              Oil, and Cold Mix on an annual basis, for the City of Cheyenne, Street & Alley\n              Division. (20 19-2022 Optional 1% Sales Tax Fund)\n\nMr. White moved to accept the bid from JTL Group Inc. d/b/a Knife River for the purchase of\nBituminous Asphalt Hot Mix in an amount not to exceed $382,500.00 and Cold Mix in an amount\nnot to exceed $56,250.00 and the bid from Simon Contractor"
+        }
+      ]
+    },
+    {
+      "classification": "unreviewed_topical_match_not_a_finding",
+      "source_sha256": "0684c08103e4baabb8116e213520091017bac8c4e5a4a68fff4872952b883942",
+      "source_url": "https://www.cheyennecity.org/files/sharedassets/public/v/1/your-government/city-council/wscow-2026/city-treasurers-department-5.6.26.pdf",
+      "source_retrieved_at": "2026-11-08T17:19:43.186166+00:00",
+      "page": 1,
+      "extraction_method": "native",
+      "quality_verified": false,
+      "representation_path": "derived/0684c08103e4baabb8116e213520091017bac8c4e5a4a68fff4872952b883942/page-000001.json",
+      "representation_text_sha256": "9957e4ea59cfe910f275f4fa0c08ddf9b4bef84b53aefef8734ad110b6f176fd",
+      "representation_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/22880f4c2443b35dd5c4b53e67708302bc66f9cc/derived/0684c08103e4baabb8116e213520091017bac8c4e5a4a68fff4872952b883942/page-000001.json",
+      "original_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/22880f4c2443b35dd5c4b53e67708302bc66f9cc/objects/06/0684c08103e4baabb8116e213520091017bac8c4e5a4a68fff4872952b883942",
+      "evidence": [
+        {
+          "term": "budget",
+          "match_start": 41,
+          "match_end": 47,
+          "passage_start": 0,
+          "passage_end": 107,
+          "text": "CITY TREASURER’S OFFICE\nFISCAL YEAR 2027\nBUDGET WORK SESSION\n\n\n\nROBIN LOCKMAN, CITY TREASURER\nMAY 6, 2026\n\f"
+        }
+      ]
+    },
+    {
+      "classification": "unreviewed_topical_match_not_a_finding",
+      "source_sha256": "0684c08103e4baabb8116e213520091017bac8c4e5a4a68fff4872952b883942",
+      "source_url": "https://www.cheyennecity.org/files/sharedassets/public/v/1/your-government/city-council/wscow-2026/city-treasurers-department-5.6.26.pdf",
+      "source_retrieved_at": "2026-11-08T17:19:43.186166+00:00",
+      "page": 4,
+      "extraction_method": "native",
+      "quality_verified": false,
+      "representation_path": "derived/0684c08103e4baabb8116e213520091017bac8c4e5a4a68fff4872952b883942/page-000004.json",
+      "representation_text_sha256": "35b41caac82a42171474345470721ec090715b44d61adb9147cc792e3af0c0fa",
+      "representation_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/22880f4c2443b35dd5c4b53e67708302bc66f9cc/derived/0684c08103e4baabb8116e213520091017bac8c4e5a4a68fff4872952b883942/page-000004.json",
+      "original_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/22880f4c2443b35dd5c4b53e67708302bc66f9cc/objects/06/0684c08103e4baabb8116e213520091017bac8c4e5a4a68fff4872952b883942",
+      "evidence": [
+        {
+          "term": "audit",
+          "match_start": 271,
+          "match_end": 276,
+          "passage_start": 121,
+          "passage_end": 436,
+          "text": "lion annually in interest revenue in FY\n  2025\n  Compliance and reimbursement requests for federal grants:\n    $10.4 million spent in FY 2025\n  Clean audit opinions with no findings for the past five years\n  Underwent a state audit of the City’s purchasing card transactions in\n  FY 2025. Received a clean opinion\n\f"
+        },
+        {
+          "term": "audit",
+          "match_start": 347,
+          "match_end": 352,
+          "passage_start": 197,
+          "passage_end": 436,
+          "text": "t requests for federal grants:\n    $10.4 million spent in FY 2025\n  Clean audit opinions with no findings for the past five years\n  Underwent a state audit of the City’s purchasing card transactions in\n  FY 2025. Received a clean opinion\n\f"
+        }
+      ]
+    },
+    {
+      "classification": "unreviewed_topical_match_not_a_finding",
+      "source_sha256": "0684c08103e4baabb8116e213520091017bac8c4e5a4a68fff4872952b883942",
+      "source_url": "https://www.cheyennecity.org/files/sharedassets/public/v/1/your-government/city-council/wscow-2026/city-treasurers-department-5.6.26.pdf",
+      "source_retrieved_at": "2026-11-08T17:19:43.186166+00:00",
+      "page": 5,
+      "extraction_method": "native",
+      "quality_verified": false,
+      "representation_path": "derived/0684c08103e4baabb8116e213520091017bac8c4e5a4a68fff4872952b883942/page-000005.json",
+      "representation_text_sha256": "9ba34aed6a7039638dfd9a5240466c17b39e8a11f90408111aa91e1f61f20e02",
+      "representation_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/22880f4c2443b35dd5c4b53e67708302bc66f9cc/derived/0684c08103e4baabb8116e213520091017bac8c4e5a4a68fff4872952b883942/page-000005.json",
+      "original_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/22880f4c2443b35dd5c4b53e67708302bc66f9cc/objects/06/0684c08103e4baabb8116e213520091017bac8c4e5a4a68fff4872952b883942",
+      "evidence": [
+        {
+          "term": "capital improvement",
+          "match_start": 215,
+          "match_end": 234,
+          "passage_start": 65,
+          "passage_end": 241,
+          "text": "iews all City purchases and travel reimbursement\n  requests\n  Solicits bids and RPF’s citywide\n  Conducts annual surplus auction\n  Prepares triennial Capital Improvement Plan\n\f"
+        }
+      ]
+    },
+    {
+      "classification": "unreviewed_topical_match_not_a_finding",
+      "source_sha256": "0684c08103e4baabb8116e213520091017bac8c4e5a4a68fff4872952b883942",
+      "source_url": "https://www.cheyennecity.org/files/sharedassets/public/v/1/your-government/city-council/wscow-2026/city-treasurers-department-5.6.26.pdf",
+      "source_retrieved_at": "2026-11-08T17:19:43.186166+00:00",
+      "page": 6,
+      "extraction_method": "native",
+      "quality_verified": false,
+      "representation_path": "derived/0684c08103e4baabb8116e213520091017bac8c4e5a4a68fff4872952b883942/page-000006.json",
+      "representation_text_sha256": "2e6a5fae9de62efb43b03b663264efbeb2aaa5bf33fe093030fb6179cd9dd30f",
+      "representation_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/22880f4c2443b35dd5c4b53e67708302bc66f9cc/derived/0684c08103e4baabb8116e213520091017bac8c4e5a4a68fff4872952b883942/page-000006.json",
+      "original_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/22880f4c2443b35dd5c4b53e67708302bc66f9cc/objects/06/0684c08103e4baabb8116e213520091017bac8c4e5a4a68fff4872952b883942",
+      "evidence": [
+        {
+          "term": "budget",
+          "match_start": 802,
+          "match_end": 808,
+          "passage_start": 652,
+          "passage_end": 1058,
+          "text": "eventis                                      Moureaux                               Barttlebort\n                                               Senior Budget/                             Deputy City\n                                          Accounting Analyst                                Treasurer                             Purchasing\n                                                                   "
+        }
+      ]
+    },
+    {
+      "classification": "unreviewed_topical_match_not_a_finding",
+      "source_sha256": "0684c08103e4baabb8116e213520091017bac8c4e5a4a68fff4872952b883942",
+      "source_url": "https://www.cheyennecity.org/files/sharedassets/public/v/1/your-government/city-council/wscow-2026/city-treasurers-department-5.6.26.pdf",
+      "source_retrieved_at": "2026-11-08T17:19:43.186166+00:00",
+      "page": 7,
+      "extraction_method": "native",
+      "quality_verified": false,
+      "representation_path": "derived/0684c08103e4baabb8116e213520091017bac8c4e5a4a68fff4872952b883942/page-000007.json",
+      "representation_text_sha256": "5eb198c7dc6a63ba99426df8e13a5e815c0fa1e3ae16cf51d1143d7390960530",
+      "representation_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/22880f4c2443b35dd5c4b53e67708302bc66f9cc/derived/0684c08103e4baabb8116e213520091017bac8c4e5a4a68fff4872952b883942/page-000007.json",
+      "original_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/22880f4c2443b35dd5c4b53e67708302bc66f9cc/objects/06/0684c08103e4baabb8116e213520091017bac8c4e5a4a68fff4872952b883942",
+      "evidence": [
+        {
+          "term": "budget",
+          "match_start": 603,
+          "match_end": 609,
+          "passage_start": 453,
+          "passage_end": 859,
+          "text": "ountant\n\n\n       TEAM                      Afton McVay , Accounts Payable Accountant\n                                 Amber Leventis         , Senior Budget/Accounting Analyst\n                                 TJ Barttelbort       , Purchasing Manager\n        Dedicated to accuracy,   Kelly Medley     , Payroll Manager\n    accountability and service\n                                 Robin Lockman          "
+        }
+      ]
+    },
+    {
+      "classification": "unreviewed_topical_match_not_a_finding",
+      "source_sha256": "0684c08103e4baabb8116e213520091017bac8c4e5a4a68fff4872952b883942",
+      "source_url": "https://www.cheyennecity.org/files/sharedassets/public/v/1/your-government/city-council/wscow-2026/city-treasurers-department-5.6.26.pdf",
+      "source_retrieved_at": "2026-11-08T17:19:43.186166+00:00",
+      "page": 8,
+      "extraction_method": "native",
+      "quality_verified": false,
+      "representation_path": "derived/0684c08103e4baabb8116e213520091017bac8c4e5a4a68fff4872952b883942/page-000008.json",
+      "representation_text_sha256": "27429f18aacfb461e227725f1c87628723c5a778d40dde534781b917af8c978d",
+      "representation_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/22880f4c2443b35dd5c4b53e67708302bc66f9cc/derived/0684c08103e4baabb8116e213520091017bac8c4e5a4a68fff4872952b883942/page-000008.json",
+      "original_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/22880f4c2443b35dd5c4b53e67708302bc66f9cc/objects/06/0684c08103e4baabb8116e213520091017bac8c4e5a4a68fff4872952b883942",
+      "evidence": [
+        {
+          "term": "budget",
+          "match_start": 17,
+          "match_end": 23,
+          "passage_start": 0,
+          "passage_end": 273,
+          "text": "FISCAL YEAR 2027\nBUDGET SUMMARY\n\n Total Budget: $1,167,033\n    Increase of 11% over Fiscal Year 2026\n    97% personnel costs\n Full-Time Employees: 9\n Budget increase primarily due to:\n   3% COLA given in January\n   3% proposed merit increase\n   Compensation scale adjustmen"
+        },
+        {
+          "term": "budget",
+          "match_start": 40,
+          "match_end": 46,
+          "passage_start": 0,
+          "passage_end": 296,
+          "text": "FISCAL YEAR 2027\nBUDGET SUMMARY\n\n Total Budget: $1,167,033\n    Increase of 11% over Fiscal Year 2026\n    97% personnel costs\n Full-Time Employees: 9\n Budget increase primarily due to:\n   3% COLA given in January\n   3% proposed merit increase\n   Compensation scale adjustment (35 to 25 years)\n   H"
+        },
+        {
+          "term": "budget",
+          "match_start": 150,
+          "match_end": 156,
+          "passage_start": 0,
+          "passage_end": 348,
+          "text": "FISCAL YEAR 2027\nBUDGET SUMMARY\n\n Total Budget: $1,167,033\n    Increase of 11% over Fiscal Year 2026\n    97% personnel costs\n Full-Time Employees: 9\n Budget increase primarily due to:\n   3% COLA given in January\n   3% proposed merit increase\n   Compensation scale adjustment (35 to 25 years)\n   Health insurance increase of 5%\n   Pension increase\n\f"
+        }
+      ]
+    },
+    {
+      "classification": "unreviewed_topical_match_not_a_finding",
+      "source_sha256": "0684c08103e4baabb8116e213520091017bac8c4e5a4a68fff4872952b883942",
+      "source_url": "https://www.cheyennecity.org/files/sharedassets/public/v/1/your-government/city-council/wscow-2026/city-treasurers-department-5.6.26.pdf",
+      "source_retrieved_at": "2026-11-08T17:19:43.186166+00:00",
+      "page": 9,
+      "extraction_method": "native",
+      "quality_verified": false,
+      "representation_path": "derived/0684c08103e4baabb8116e213520091017bac8c4e5a4a68fff4872952b883942/page-000009.json",
+      "representation_text_sha256": "8f2fd8aacfa542a47341791193fde7c1f87c65ab79f04ccbce0282258552dd77",
+      "representation_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/22880f4c2443b35dd5c4b53e67708302bc66f9cc/derived/0684c08103e4baabb8116e213520091017bac8c4e5a4a68fff4872952b883942/page-000009.json",
+      "original_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/22880f4c2443b35dd5c4b53e67708302bc66f9cc/objects/06/0684c08103e4baabb8116e213520091017bac8c4e5a4a68fff4872952b883942",
+      "evidence": [
+        {
+          "term": "budget",
+          "match_start": 17,
+          "match_end": 23,
+          "passage_start": 0,
+          "passage_end": 273,
+          "text": "FISCAL YEAR 2027\nBUDGET REQUESTS\n      DUES & SUBSCRIPTIONS\n      $120 - Wyoming Tribune-Eagle subscription to keep informed about local and state\n      affecting City finances\n\n\n      COMPUTER SOFTWARE/MAINTENANCE\n      $600 - ChatGPT subscription for the City Treasurer a"
+        }
+      ]
+    },
+    {
+      "classification": "unreviewed_topical_match_not_a_finding",
+      "source_sha256": "0684c08103e4baabb8116e213520091017bac8c4e5a4a68fff4872952b883942",
+      "source_url": "https://www.cheyennecity.org/files/sharedassets/public/v/1/your-government/city-council/wscow-2026/city-treasurers-department-5.6.26.pdf",
+      "source_retrieved_at": "2026-11-08T17:19:43.186166+00:00",
+      "page": 11,
+      "extraction_method": "native",
+      "quality_verified": false,
+      "representation_path": "derived/0684c08103e4baabb8116e213520091017bac8c4e5a4a68fff4872952b883942/page-000011.json",
+      "representation_text_sha256": "1589f6412f23a34252be90744b568a2312bff515008425e2454a4647076214e4",
+      "representation_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/22880f4c2443b35dd5c4b53e67708302bc66f9cc/derived/0684c08103e4baabb8116e213520091017bac8c4e5a4a68fff4872952b883942/page-000011.json",
+      "original_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/22880f4c2443b35dd5c4b53e67708302bc66f9cc/objects/06/0684c08103e4baabb8116e213520091017bac8c4e5a4a68fff4872952b883942",
+      "evidence": [
+        {
+          "term": "budget",
+          "match_start": 440,
+          "match_end": 446,
+          "passage_start": 290,
+          "passage_end": 654,
+          "text": "th easier access to real   -time\n     financial information\n     Increase transparency and visibility into City finances\n Goal to prepare the FY 2028 budget within OpenGov Budgeting\n Manage implementation activities, including:\n    Carefully plan implementation to minimize disruption\n    Data migration\n    Temporarily working in dual systems\n    Staff training\n\f"
+        }
+      ]
+    },
+    {
+      "classification": "unreviewed_topical_match_not_a_finding",
+      "source_sha256": "06be3b512454c07cc8fe0d5f263dd531baff8c7d348af9c829225b61e827b3a5",
+      "source_url": "https://www.cheyennecity.org/files/sharedassets/public/v/1/your-government/city-council/fc-2022/fc-06-06-22-minutes.pdf",
+      "source_retrieved_at": "2026-11-08T16:51:25.771989+00:00",
+      "page": 1,
+      "extraction_method": "tesseract",
+      "quality_verified": false,
+      "representation_path": "derived/06be3b512454c07cc8fe0d5f263dd531baff8c7d348af9c829225b61e827b3a5/page-000001.json",
+      "representation_text_sha256": "9adac61e6e64dbeff8d87c62f72af3c26aeb892ded766f8a139b704136d6ef8a",
+      "representation_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/22880f4c2443b35dd5c4b53e67708302bc66f9cc/derived/06be3b512454c07cc8fe0d5f263dd531baff8c7d348af9c829225b61e827b3a5/page-000001.json",
+      "original_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/22880f4c2443b35dd5c4b53e67708302bc66f9cc/objects/06/06be3b512454c07cc8fe0d5f263dd531baff8c7d348af9c829225b61e827b3a5",
+      "evidence": [
+        {
+          "term": "budget",
+          "match_start": 1795,
+          "match_end": 1801,
+          "passage_start": 1645,
+          "passage_end": 1940,
+          "text": "n. Motion carried\nby unanimous voice vote.\n\nBrad Brooks, Board of Public Utilities Director, provided a staff report.\n\n29. RESOLUTION — Approving the budget of the Cheyenne Downtown Development\nAuthority for the Fiscal Year beginning July 1, 2022 and ending June 30, 2023.\n(SPONSOR - MR. WHITE)\n"
+        }
+      ]
+    },
+    {
+      "classification": "unreviewed_topical_match_not_a_finding",
+      "source_sha256": "06be3b512454c07cc8fe0d5f263dd531baff8c7d348af9c829225b61e827b3a5",
+      "source_url": "https://www.cheyennecity.org/files/sharedassets/public/v/1/your-government/city-council/fc-2022/fc-06-06-22-minutes.pdf",
+      "source_retrieved_at": "2026-11-08T16:51:25.771989+00:00",
+      "page": 2,
+      "extraction_method": "tesseract",
+      "quality_verified": false,
+      "representation_path": "derived/06be3b512454c07cc8fe0d5f263dd531baff8c7d348af9c829225b61e827b3a5/page-000002.json",
+      "representation_text_sha256": "a348ca3414887aa975936878dd837296bd56f3836a3171a0463b4d609c6c3920",
+      "representation_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/22880f4c2443b35dd5c4b53e67708302bc66f9cc/derived/06be3b512454c07cc8fe0d5f263dd531baff8c7d348af9c829225b61e827b3a5/page-000002.json",
+      "original_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/22880f4c2443b35dd5c4b53e67708302bc66f9cc/objects/06/06be3b512454c07cc8fe0d5f263dd531baff8c7d348af9c829225b61e827b3a5",
+      "evidence": [
+        {
+          "term": "budget",
+          "match_start": 533,
+          "match_end": 539,
+          "passage_start": 383,
+          "passage_end": 789,
+          "text": "r. Aldrich and Mr. Esquibel. Public comments were made by Dominic Bravo,\nDowntown Development Authority Acting CEO.\n\n30. | RESOLUTION — Approving the budget of the Cheyenne Regional Airport Board for the\nFiscal Year beginning July 1, 2022 and ending June 30, 2023. (SPONSOR- MR. WHITE)\n\nDr. Aldrich moved to adopt, seconded by Mr. Johnson. Motion carried by unanimous voice vote.\n\nRobin Lockman, City Treas"
+        }
+      ]
+    },
+    {
+      "classification": "unreviewed_topical_match_not_a_finding",
+      "source_sha256": "06be3b512454c07cc8fe0d5f263dd531baff8c7d348af9c829225b61e827b3a5",
+      "source_url": "https://www.cheyennecity.org/files/sharedassets/public/v/1/your-government/city-council/fc-2022/fc-06-06-22-minutes.pdf",
+      "source_retrieved_at": "2026-11-08T16:51:25.771989+00:00",
+      "page": 3,
+      "extraction_method": "tesseract",
+      "quality_verified": false,
+      "representation_path": "derived/06be3b512454c07cc8fe0d5f263dd531baff8c7d348af9c829225b61e827b3a5/page-000003.json",
+      "representation_text_sha256": "ac8c143e94a8e48b4f143d47de697201dc33c63970572124a5e8fe3c45034484",
+      "representation_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/22880f4c2443b35dd5c4b53e67708302bc66f9cc/derived/06be3b512454c07cc8fe0d5f263dd531baff8c7d348af9c829225b61e827b3a5/page-000003.json",
+      "original_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/22880f4c2443b35dd5c4b53e67708302bc66f9cc/objects/06/06be3b512454c07cc8fe0d5f263dd531baff8c7d348af9c829225b61e827b3a5",
+      "evidence": [
+        {
+          "term": "sales tax",
+          "match_start": 298,
+          "match_end": 307,
+          "passage_start": 148,
+          "passage_end": 557,
+          "text": "ssional Services Agreement between the City of Cheyenne and Steiner\nThuesen PLLC for the Cemetery Irrigation System Design Project. (Specific\nPurpose Sales Tax)\n\nDr. Aldrich moved to approve in an amount not to exceed $144,692.00, seconded by Mr. Johnson.\nMotion carried by unanimous voice vote by Dr. Aldrich and Mr. Johnson.\n\nMr. Esquibel briefly lost audio during discussion of item #34(g) and therefore ca"
+        },
+        {
+          "term": "sales tax",
+          "match_start": 1021,
+          "match_end": 1030,
+          "passage_start": 871,
+          "passage_end": 1280,
+          "text": "ices Agreement between the City of Cheyenne and GLM Design\nGroup for the Dry Creek Master Plan Update and Drainage Code Review Project.\n(2019-2022 1% Sales Tax and Wyoming Office of Homeland Security/FEMA\nGrant)\n\nMr. Fsquibel rejoined the meeting during discussion of item #34(h) and voted on the item.\n\nDr. Aldrich moved to approve in an amount not to exceed $524,234.00, seconded by Mr. Johnson.\nMotion carr"
+        }
+      ]
+    },
+    {
+      "classification": "unreviewed_topical_match_not_a_finding",
+      "source_sha256": "08171ea34c4eefedc1f5881592f4bd80ce344b0e87a54cced86140a8092c3ee9",
+      "source_url": "https://www.cheyennecity.org/files/sharedassets/public/v/1/your-government/city-council/wscow-2023/cow-06-07-23-agenda.pdf",
+      "source_retrieved_at": "2026-11-08T17:18:17.046484+00:00",
+      "page": 1,
+      "extraction_method": "native",
+      "quality_verified": false,
+      "representation_path": "derived/08171ea34c4eefedc1f5881592f4bd80ce344b0e87a54cced86140a8092c3ee9/page-000001.json",
+      "representation_text_sha256": "0e6e2a39b68b9b42436bb833b659f42476310e2473ef7827c8b3c6d27fa2a0bb",
+      "representation_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/22880f4c2443b35dd5c4b53e67708302bc66f9cc/derived/08171ea34c4eefedc1f5881592f4bd80ce344b0e87a54cced86140a8092c3ee9/page-000001.json",
+      "original_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/22880f4c2443b35dd5c4b53e67708302bc66f9cc/objects/08/08171ea34c4eefedc1f5881592f4bd80ce344b0e87a54cced86140a8092c3ee9",
+      "evidence": [
+        {
+          "term": "appropriation",
+          "match_start": 1513,
+          "match_end": 1526,
+          "passage_start": 1363,
+          "passage_end": 1776,
+          "text": "the municipal government of\n      said City and fixing the amount of general and special taxes as part of the revenue required\n      to meet the said appropriation, all for the Fiscal Year beginning July 1, 2023 and ending\n      June 30, 2024.\n\n  ACTION:\n\n ANNOUNCEMENTS/REPORTS/MOTIONS:\n\n      Announcement of a Public Hearing for the proposed Fiscal Year 2024 budgets for the City\n      of Cheyenne and Board of"
+        }
+      ]
+    },
+    {
+      "classification": "unreviewed_topical_match_not_a_finding",
+      "source_sha256": "08a91caa4f6f5d6e105c3c433aa68d81d2c06944b080c00ae447a34e77ec1601",
+      "source_url": "https://www.cheyennecity.org/files/sharedassets/public/v/1/your-government/city-council/wscow-2025/ws-05-08-25-agenda_1.pdf",
+      "source_retrieved_at": "2026-11-08T17:21:45.655758+00:00",
+      "page": 1,
+      "extraction_method": "native",
+      "quality_verified": false,
+      "representation_path": "derived/08a91caa4f6f5d6e105c3c433aa68d81d2c06944b080c00ae447a34e77ec1601/page-000001.json",
+      "representation_text_sha256": "68947dd8b1eb2e6b968b48c79a367b224f25a783dcb51997395132bf015e0161",
+      "representation_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/22880f4c2443b35dd5c4b53e67708302bc66f9cc/derived/08a91caa4f6f5d6e105c3c433aa68d81d2c06944b080c00ae447a34e77ec1601/page-000001.json",
+      "original_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/22880f4c2443b35dd5c4b53e67708302bc66f9cc/objects/08/08a91caa4f6f5d6e105c3c433aa68d81d2c06944b080c00ae447a34e77ec1601",
+      "evidence": [
+        {
+          "term": "budget",
+          "match_start": 229,
+          "match_end": 235,
+          "passage_start": 79,
+          "passage_end": 485,
+          "text": "       City Clerk’s Office\n                                    and\n                        Fire Rescue Department\n                   Fiscal Year 2026 Budget Overview\n\n                       May 8, 2025, at 12:00 p.m.\n                 Municipal Building – Council Chambers\n                2101 O’Neil Avenue, Cheyenne, WY 82001\n\nhttps://us02web.zoom.us/j/82157077166?pwd=u8IBfZtPHmhQAxcE6CfoiO8s7DxQ9O.1\n   "
+        },
+        {
+          "term": "budget",
+          "match_start": 658,
+          "match_end": 664,
+          "passage_start": 508,
+          "passage_end": 862,
+          "text": "        Passcode: FY2026BG\n         Or Dial: 669-900-6833; Webinar ID: 821 5707 7166; Passcode: 07751272\n\n\n1.    City Clerk’s Office Fiscal Year 2026 Budget Overview – City Clerk Kylie\n      Soden\n2.    Questions/Comments\n3.    Fire Rescue Department Fiscal Year 2026 Budget Overview – Chief John\n      Kopper\n4.    Questions/Comments\n5.    Adjournment\n\f"
+        },
+        {
+          "term": "budget",
+          "match_start": 776,
+          "match_end": 782,
+          "passage_start": 626,
+          "passage_end": 862,
+          "text": "Clerk’s Office Fiscal Year 2026 Budget Overview – City Clerk Kylie\n      Soden\n2.    Questions/Comments\n3.    Fire Rescue Department Fiscal Year 2026 Budget Overview – Chief John\n      Kopper\n4.    Questions/Comments\n5.    Adjournment\n\f"
+        }
+      ]
+    },
+    {
+      "classification": "unreviewed_topical_match_not_a_finding",
+      "source_sha256": "090a8fcd47edf5a41a6a3e7cda3615b5a7edd2629b2025d1d4e2fbb2d6420a40",
+      "source_url": "https://www.cheyennecity.org/files/sharedassets/public/v/1/your-government/city-council/fc-2023/fc-05-01-23-minutes.pdf",
+      "source_retrieved_at": "2026-11-08T16:43:09.188155+00:00",
+      "page": 3,
+      "extraction_method": "tesseract",
+      "quality_verified": false,
+      "representation_path": "derived/090a8fcd47edf5a41a6a3e7cda3615b5a7edd2629b2025d1d4e2fbb2d6420a40/page-000003.json",
+      "representation_text_sha256": "8e8e0c0dd9d59ff2d4842a49304ef5b35456e165517fc7ad64c519ff06de49a3",
+      "representation_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/22880f4c2443b35dd5c4b53e67708302bc66f9cc/derived/090a8fcd47edf5a41a6a3e7cda3615b5a7edd2629b2025d1d4e2fbb2d6420a40/page-000003.json",
+      "original_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/22880f4c2443b35dd5c4b53e67708302bc66f9cc/objects/09/090a8fcd47edf5a41a6a3e7cda3615b5a7edd2629b2025d1d4e2fbb2d6420a40",
+      "evidence": [
+        {
+          "term": "sales tax",
+          "match_start": 945,
+          "match_end": 954,
+          "passage_start": 795,
+          "passage_end": 1204,
+          "text": "etween the City of Cheyenne and AVI\nProfessional Corporation for the design of the Dry Creek Dredging and\nMaintenance Project. (2019-2022 Optional 1% Sales Tax Fund)\n\nDr. Aldrich moved to approve in an amount not to exceed $199,601.50, seconded by Mr. Esquibel.\nMotion carried by unanimous voice vote.\n\nTom Cobb, City Engineer, provided a staff report and committee member Aldrich commented on\nthe item.\n\ni) P"
+        },
+        {
+          "term": "sales tax",
+          "match_start": 1363,
+          "match_end": 1372,
+          "passage_start": 1213,
+          "passage_end": 1622,
+          "text": "al Services Agreement between the City of Cheyenne and AVI\nProfessional Corporation for the Public Works Improvements Project. (2019-2022\nOptional 1% Sales Tax Fund, Solid Waste Fund and Fleet Maintenance Fund)\n\nDr. Aldrich moved to approve in an amount not to exceed $265,290.00, seconded by Mr. Esquibel.\nMotion carried by unanimous voice vote.\n\nAdele Bartel, Public Works Staff Engineer, provided a staff r"
+        }
+      ]
+    },
+    {
+      "classification": "unreviewed_topical_match_not_a_finding",
+      "source_sha256": "090a8fcd47edf5a41a6a3e7cda3615b5a7edd2629b2025d1d4e2fbb2d6420a40",
+      "source_url": "https://www.cheyennecity.org/files/sharedassets/public/v/1/your-government/city-council/fc-2023/fc-05-01-23-minutes.pdf",
+      "source_retrieved_at": "2026-11-08T16:43:09.188155+00:00",
+      "page": 4,
+      "extraction_method": "tesseract",
+      "quality_verified": false,
+      "representation_path": "derived/090a8fcd47edf5a41a6a3e7cda3615b5a7edd2629b2025d1d4e2fbb2d6420a40/page-000004.json",
+      "representation_text_sha256": "60d7fb73bfc8c75ec86965e5f41a79d1901b338b112f8b6a950984d193dccb57",
+      "representation_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/22880f4c2443b35dd5c4b53e67708302bc66f9cc/derived/090a8fcd47edf5a41a6a3e7cda3615b5a7edd2629b2025d1d4e2fbb2d6420a40/page-000004.json",
+      "original_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/22880f4c2443b35dd5c4b53e67708302bc66f9cc/objects/09/090a8fcd47edf5a41a6a3e7cda3615b5a7edd2629b2025d1d4e2fbb2d6420a40",
+      "evidence": [
+        {
+          "term": "sales tax",
+          "match_start": 2082,
+          "match_end": 2091,
+          "passage_start": 1932,
+          "passage_end": 2233,
+          "text": " between the City of Cheyenne and\nWestern EcoSystems Technology for environmental services for the Dry Creek\nDredging Project. (2019-2022 Optional 1% Sales Tax Fund)\n\nDr. Aldrich moved to approve in an amount not to exceed $72,988.00, seconded by Mr. Esquibel.\nMotion carried by unanimous voice vote.\n"
+        }
+      ]
+    },
+    {
+      "classification": "unreviewed_topical_match_not_a_finding",
+      "source_sha256": "090a8fcd47edf5a41a6a3e7cda3615b5a7edd2629b2025d1d4e2fbb2d6420a40",
+      "source_url": "https://www.cheyennecity.org/files/sharedassets/public/v/1/your-government/city-council/fc-2023/fc-05-01-23-minutes.pdf",
+      "source_retrieved_at": "2026-11-08T16:43:09.188155+00:00",
+      "page": 5,
+      "extraction_method": "tesseract",
+      "quality_verified": false,
+      "representation_path": "derived/090a8fcd47edf5a41a6a3e7cda3615b5a7edd2629b2025d1d4e2fbb2d6420a40/page-000005.json",
+      "representation_text_sha256": "adac4a57362469a0c0f960a966b78b986becdadda426c0419c4c10d06a35d45b",
+      "representation_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/22880f4c2443b35dd5c4b53e67708302bc66f9cc/derived/090a8fcd47edf5a41a6a3e7cda3615b5a7edd2629b2025d1d4e2fbb2d6420a40/page-000005.json",
+      "original_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/22880f4c2443b35dd5c4b53e67708302bc66f9cc/objects/09/090a8fcd47edf5a41a6a3e7cda3615b5a7edd2629b2025d1d4e2fbb2d6420a40",
+      "evidence": [
+        {
+          "term": "sales tax",
+          "match_start": 1172,
+          "match_end": 1181,
+          "passage_start": 1022,
+          "passage_end": 1431,
+          "text": "or an Agreement between the City of Cheyenne\nand Miller & Sons Construction, Inc. for the 2023 Miscellaneous Concrete Project.\n(2019-2022 Optional 1% Sales Tax Fund)\n\nDr. Aldrich moved to approve in an amount not to exceed $1,013,150.98, seconded by Mr.\nEsquibel. Motion carried by unanimous voice vote.\n\nDoug Klahn, 1% Construction Manager, provided a staff report. Chairman White and committee\nmembers Aldri"
+        }
+      ]
+    },
+    {
+      "classification": "unreviewed_topical_match_not_a_finding",
+      "source_sha256": "09bfca57cf4765af52220c24d9b5b59b23cf8bcbfb426c23c41165b63ac4aca9",
+      "source_url": "https://www.cheyennecity.org/files/sharedassets/public/v/1/your-government/city-council/fc-2023/fc-01-04-23-agenda.pdf",
+      "source_retrieved_at": "2026-11-08T16:49:57.070027+00:00",
+      "page": 2,
+      "extraction_method": "native",
+      "quality_verified": false,
+      "representation_path": "derived/09bfca57cf4765af52220c24d9b5b59b23cf8bcbfb426c23c41165b63ac4aca9/page-000002.json",
+      "representation_text_sha256": "d73080a29a973f224ea6f3065cf5fb052dace8a8de45f2a443b09f98b7207abb",
+      "representation_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/22880f4c2443b35dd5c4b53e67708302bc66f9cc/derived/09bfca57cf4765af52220c24d9b5b59b23cf8bcbfb426c23c41165b63ac4aca9/page-000002.json",
+      "original_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/22880f4c2443b35dd5c4b53e67708302bc66f9cc/objects/09/09bfca57cf4765af52220c24d9b5b59b23cf8bcbfb426c23c41165b63ac4aca9",
+      "evidence": [
+        {
+          "term": "sales tax",
+          "match_start": 2106,
+          "match_end": 2115,
+          "passage_start": 1956,
+          "passage_end": 2133,
+          "text": "  SUVs, and one (1) new 2023 1-ton crew cab full size pickup truck (SWAT truck)\n           for the Cheyenne Police Department. (2019-2022 Optional 1% Sales Tax Fund)\n\n ACTION:\n\f"
+        }
+      ]
+    },
+    {
+      "classification": "unreviewed_topical_match_not_a_finding",
+      "source_sha256": "0a796a9027674fbffb052c7a881e5fb4dd0f284f63789344dd319a16a15c39e9",
+      "source_url": "https://www.cheyennecity.org/files/sharedassets/public/v/1/your-government/city-council/wscow-2026/city-attorney-fy27-budget-presentation.pdf",
+      "source_retrieved_at": "2026-11-08T17:19:18.976441+00:00",
+      "page": 1,
+      "extraction_method": "native",
+      "quality_verified": false,
+      "representation_path": "derived/0a796a9027674fbffb052c7a881e5fb4dd0f284f63789344dd319a16a15c39e9/page-000001.json",
+      "representation_text_sha256": "4cc9b6324ede221c8be605e2512c823177245c3b511852889586d5bce5a958fa",
+      "representation_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/22880f4c2443b35dd5c4b53e67708302bc66f9cc/derived/0a796a9027674fbffb052c7a881e5fb4dd0f284f63789344dd319a16a15c39e9/page-000001.json",
+      "original_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/22880f4c2443b35dd5c4b53e67708302bc66f9cc/objects/0a/0a796a9027674fbffb052c7a881e5fb4dd0f284f63789344dd319a16a15c39e9",
+      "evidence": [
+        {
+          "term": "budget",
+          "match_start": 31,
+          "match_end": 37,
+          "passage_start": 0,
+          "passage_end": 48,
+          "text": "City Attorney’s\nOffice\nFY 2027 Budget Overview\n\f"
+        }
+      ]
+    }
+  ]
+}

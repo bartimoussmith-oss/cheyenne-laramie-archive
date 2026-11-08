@@ -1,0 +1,1499 @@
+{
+  "profile": "water-stormwater",
+  "title": "Water, wastewater and stormwater",
+  "generated_at": "2026-11-08T17:28:50.972658+00:00",
+  "source_revision": "22880f4c2443b35dd5c4b53e67708302bc66f9cc",
+  "classification": "retrieval_triage_not_investigative_findings",
+  "matched_representations": 71,
+  "exported_representations": 50,
+  "result_cap": 50,
+  "results_truncated": true,
+  "results": [
+    {
+      "classification": "unreviewed_topical_match_not_a_finding",
+      "source_sha256": "3dd70667ea5d722bea19d76073b4ffffcc05a651e4b1b3a1dd22befe7d173cfa",
+      "source_url": "https://www.cheyennecity.org/Your-Government/City-Council/Minutes-and-Agendas",
+      "source_retrieved_at": "2026-11-08T16:25:55.689212+00:00",
+      "page": null,
+      "extraction_method": "html_text",
+      "quality_verified": false,
+      "representation_path": "text/3dd70667ea5d722bea19d76073b4ffffcc05a651e4b1b3a1dd22befe7d173cfa.txt",
+      "representation_text_sha256": "2fed3f87d5b1cff9bd36ee7e36045d50bb8a3f93d6cd95eb2072dbc6150983b8",
+      "representation_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/22880f4c2443b35dd5c4b53e67708302bc66f9cc/text/3dd70667ea5d722bea19d76073b4ffffcc05a651e4b1b3a1dd22befe7d173cfa.txt",
+      "original_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/22880f4c2443b35dd5c4b53e67708302bc66f9cc/objects/3d/3dd70667ea5d722bea19d76073b4ffffcc05a651e4b1b3a1dd22befe7d173cfa",
+      "evidence": [
+        {
+          "term": "stormwater",
+          "match_start": 22534,
+          "match_end": 22544,
+          "passage_start": 22384,
+          "passage_end": 22794,
+          "text": "911KB)\n2024\n12/04/24\nAgenda\n(PDF, 109KB)\nMinutes\n(PDF, 81KB)\nVideo\nSubstitute #15\n(PDF, 992KB)\n11/20/24\nAgenda\n(PDF, 112KB)\nMinutes\n(PDF, 86KB)\nVideo\nStormwater Runoff Management System Presentation\n(PDF, 6MB)\nSubstitute #18\n(PDF, 1MB)\nSubstitute #19\n(PDF, 891KB)\n06/03/24\nAgenda\n(PDF, 111KB)\nMinutes\n(PDF, 34KB)\nVideo\n05/22/24\nAgenda\n(PDF, 110KB)\nMinutes\n(PDF, 61KB)\nVideo\nSubstitute #21\n(PDF, 255KB)\n2023\n06/"
+        }
+      ]
+    },
+    {
+      "classification": "unreviewed_topical_match_not_a_finding",
+      "source_sha256": "77b33b250c26aa5b4c39100d72dc332a81fc1c0af261b50b98f49a7251582aaf",
+      "source_url": "https://www.cheyennecity.org/Home/Tabs/Featured-Links/Coronavirus-COVID-19",
+      "source_retrieved_at": "2026-11-08T17:24:28.353506+00:00",
+      "page": null,
+      "extraction_method": "html_text",
+      "quality_verified": false,
+      "representation_path": "text/77b33b250c26aa5b4c39100d72dc332a81fc1c0af261b50b98f49a7251582aaf.txt",
+      "representation_text_sha256": "b6345c9a22eb8016f2ce5fa0d3c32e691ce51d00cbbfbed12eed62c42967b98b",
+      "representation_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/22880f4c2443b35dd5c4b53e67708302bc66f9cc/text/77b33b250c26aa5b4c39100d72dc332a81fc1c0af261b50b98f49a7251582aaf.txt",
+      "original_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/22880f4c2443b35dd5c4b53e67708302bc66f9cc/objects/77/77b33b250c26aa5b4c39100d72dc332a81fc1c0af261b50b98f49a7251582aaf",
+      "evidence": [
+        {
+          "term": "sewer",
+          "match_start": 11973,
+          "match_end": 11978,
+          "passage_start": 11823,
+          "passage_end": 12228,
+          "text": "ans\nMarch 20 -\nCheyenne Fire Rescue reminds residents not to mix chemicals  to make homemade cleaners\n(PDF, 61KB)\nM\narch\n20 -\nDo Your Part to Prevent Sewer Backups\n(PDF, 223KB)\nMarch 20 -\nState of Wyoming Executive Order - Emergency Exemption From Permissible Operating Time Regulations and Waiver of Allowable Size and Weight Permit Fees\nMarch 20 -\nThe City County Health Department has set up a phone nu"
+        }
+      ]
+    },
+    {
+      "classification": "unreviewed_topical_match_not_a_finding",
+      "source_sha256": "85821b0bf46b99b4216d0ca8c05fac9f147fd62070eae02d32693472cb0b6850",
+      "source_url": "https://www.cheyennecity.org/Your-Government/Departments/City-Engineer",
+      "source_retrieved_at": "2026-11-08T16:26:30.536000+00:00",
+      "page": null,
+      "extraction_method": "html_text",
+      "quality_verified": false,
+      "representation_path": "text/85821b0bf46b99b4216d0ca8c05fac9f147fd62070eae02d32693472cb0b6850.txt",
+      "representation_text_sha256": "1b14fe411c56ec8ab836833ed331744ecbdd359d31329a62f6cde9c6c0f9b8a3",
+      "representation_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/22880f4c2443b35dd5c4b53e67708302bc66f9cc/text/85821b0bf46b99b4216d0ca8c05fac9f147fd62070eae02d32693472cb0b6850.txt",
+      "original_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/22880f4c2443b35dd5c4b53e67708302bc66f9cc/objects/85/85821b0bf46b99b4216d0ca8c05fac9f147fd62070eae02d32693472cb0b6850",
+      "evidence": [
+        {
+          "term": "stormwater",
+          "match_start": 4619,
+          "match_end": 4629,
+          "passage_start": 4469,
+          "passage_end": 4879,
+          "text": "\nThe City Engineer acts as the City's floodplain administrator for both City-regulated and Federal Emergency Management Agency-regulated floodplains.\nStormwater Management:\nOversees the maintenance and improvements of the storm sewer infrastructure in Cheyenne.\nOther Engineering Services:\nThe Engineering Department is responsible for administering the public right-of-way and drainage facilities under the ju"
+        },
+        {
+          "term": "sewer",
+          "match_start": 4697,
+          "match_end": 4702,
+          "passage_start": 4547,
+          "passage_end": 4952,
+          "text": "egulated and Federal Emergency Management Agency-regulated floodplains.\nStormwater Management:\nOversees the maintenance and improvements of the storm sewer infrastructure in Cheyenne.\nOther Engineering Services:\nThe Engineering Department is responsible for administering the public right-of-way and drainage facilities under the jurisdiction of the City of Cheyenne. We perform reviews and approval of al"
+        },
+        {
+          "term": "stormwater",
+          "match_start": 6365,
+          "match_end": 6375,
+          "passage_start": 6215,
+          "passage_end": 6625,
+          "text": "sportation Master Plan\nFlood Plain Map\nStorm Basins 2024\n(PDF, 4MB)\nLaramie County Interactive Map\nUrban Roadway Functional Classification\n(PDF, 1MB)\nStormwater Impact Fee\nGeneral\nRequest for Proposals\nStatement of Qualifications (SOQ)\nLighting Request Application\n(PDF, 139KB)\n(PDF, 219KB)\nShare\nFacebook\nX\nEmail\nPrint\nBack to top\nSite Footer\nSite Footer\nContact\nCity of Cheyenne\n2101 O'Neil Ave.\nCheyenne, WY"
+        }
+      ]
+    },
+    {
+      "classification": "unreviewed_topical_match_not_a_finding",
+      "source_sha256": "dc304bcb9386c40219dbbb65adf6dd322030a9f0944eadafe55e4a670a971d17",
+      "source_url": "https://www.cheyennecity.org/Your-Government/Departments/Planning-and-Development-Department",
+      "source_retrieved_at": "2026-11-08T16:26:38.679556+00:00",
+      "page": null,
+      "extraction_method": "html_text",
+      "quality_verified": false,
+      "representation_path": "text/dc304bcb9386c40219dbbb65adf6dd322030a9f0944eadafe55e4a670a971d17.txt",
+      "representation_text_sha256": "7a9d2599eee9d44aa7afed26b3ba19d4e41d33b04003a69365a8c60a6093313b",
+      "representation_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/22880f4c2443b35dd5c4b53e67708302bc66f9cc/text/dc304bcb9386c40219dbbb65adf6dd322030a9f0944eadafe55e4a670a971d17.txt",
+      "original_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/22880f4c2443b35dd5c4b53e67708302bc66f9cc/objects/dc/dc304bcb9386c40219dbbb65adf6dd322030a9f0944eadafe55e4a670a971d17",
+      "evidence": [
+        {
+          "term": "sewer",
+          "match_start": 5527,
+          "match_end": 5532,
+          "passage_start": 5377,
+          "passage_end": 5782,
+          "text": "an (2016)\n(PDF, 25MB)\nArtspace Preliminary Feasibility Report (2014)\n(PDF, 502KB)\n201 IGA Related Documents (Area Required for Connection to Sanitary Sewer)\n201 Intergovernmental Agreement to participate in the implementation of the 201 Facilities Plan Final Report for the City of Cheyenne, the South Cheyenne Water and Sewer District, and Laramie County (1983)\n(PDF, 714KB)\n201 Boundary Map\n(Properties "
+        },
+        {
+          "term": "sewer",
+          "match_start": 5698,
+          "match_end": 5703,
+          "passage_start": 5548,
+          "passage_end": 5953,
+          "text": "nmental Agreement to participate in the implementation of the 201 Facilities Plan Final Report for the City of Cheyenne, the South Cheyenne Water and Sewer District, and Laramie County (1983)\n(PDF, 714KB)\n201 Boundary Map\n(Properties within the boundary area must connect to a water or sewer system or demonstrate a hardship to grant a variance.)\n201 Facilities Plan Final Report (1982)\n(PDF, 26MB)\nWest E"
+        },
+        {
+          "term": "sewer",
+          "match_start": 5834,
+          "match_end": 5839,
+          "passage_start": 5684,
+          "passage_end": 6089,
+          "text": "nne Water and Sewer District, and Laramie County (1983)\n(PDF, 714KB)\n201 Boundary Map\n(Properties within the boundary area must connect to a water or sewer system or demonstrate a hardship to grant a variance.)\n201 Facilities Plan Final Report (1982)\n(PDF, 26MB)\nWest Edge Related Plans\nReed Avenue Rail Corridor Plan (2018)\n(PDF, 17MB)\nWest Edge Area Wide Plan (2016)\n(PDF, 34MB)\nWest Edge Visionary Blue"
+        }
+      ]
+    },
+    {
+      "classification": "unreviewed_topical_match_not_a_finding",
+      "source_sha256": "00e07ad1ecfa714027b3361a4d7ed67396507bbb3fb5a1da739e1ecc6893453c",
+      "source_url": "https://www.cheyennecity.org/files/sharedassets/public/v/1/your-government/city-council/psc-2023/sub-res-201-agreement.pdf",
+      "source_retrieved_at": "2026-11-08T17:12:29.389943+00:00",
+      "page": 1,
+      "extraction_method": "native",
+      "quality_verified": false,
+      "representation_path": "derived/00e07ad1ecfa714027b3361a4d7ed67396507bbb3fb5a1da739e1ecc6893453c/page-000001.json",
+      "representation_text_sha256": "89766321cfb876b6ddfba250e2825e86d7578670213a9e2ea6ed2782ad293cbf",
+      "representation_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/22880f4c2443b35dd5c4b53e67708302bc66f9cc/derived/00e07ad1ecfa714027b3361a4d7ed67396507bbb3fb5a1da739e1ecc6893453c/page-000001.json",
+      "original_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/22880f4c2443b35dd5c4b53e67708302bc66f9cc/objects/00/00e07ad1ecfa714027b3361a4d7ed67396507bbb3fb5a1da739e1ecc6893453c",
+      "evidence": [
+        {
+          "term": "sewer",
+          "match_start": 644,
+          "match_end": 649,
+          "passage_start": 494,
+          "passage_end": 899,
+          "text": "ity of Cheyenne (\"City\"), the County of Laramie\n(“County”), the City of Cheyenne Board of Public Utilities (\"BOPU\"), and the South Cheyenne\nWater and Sewer District (\"District\") entered into an agreement entitled \"Memorandum of\nAgreement: Intergovernmental Contract Agreeing to Participate in the Implementation of the\nFindings of the 201 Facilities Plan Final Report for the City of Cheyenne, the South C"
+        },
+        {
+          "term": "sewer",
+          "match_start": 917,
+          "match_end": 922,
+          "passage_start": 767,
+          "passage_end": 1172,
+          "text": "g to Participate in the Implementation of the\nFindings of the 201 Facilities Plan Final Report for the City of Cheyenne, the South Cheyenne\nWater and Sewer District and Laramie County\" (f/k/a \"201 Agreement\");\n\n        WHEREAS, the 201 Agreement defines the respective responsibilities and obligations of\nthe signatory governmental entities with respect to the implementation of the \"201 Facilities Plan\"\n"
+        },
+        {
+          "term": "wastewater",
+          "match_start": 1366,
+          "match_end": 1376,
+          "passage_start": 1216,
+          "passage_end": 1626,
+          "text": "ents of Section 201 of the Federal Water Pollution\nControl Act;\n\n       WHEREAS, one of the principal purposes of the 201 Agreement is to ensure that\nwastewater (i.e. sewage) generated in the areas immediately surrounding the corporate limits of\nthe City of Cheyenne would preferentially be disposed of through the sanitary sewer systems\noperated by BOPU;\n\n        WHEREAS, the 201 Agreement defines the \"servi"
+        }
+      ]
+    },
+    {
+      "classification": "unreviewed_topical_match_not_a_finding",
+      "source_sha256": "00e07ad1ecfa714027b3361a4d7ed67396507bbb3fb5a1da739e1ecc6893453c",
+      "source_url": "https://www.cheyennecity.org/files/sharedassets/public/v/1/your-government/city-council/psc-2023/sub-res-201-agreement.pdf",
+      "source_retrieved_at": "2026-11-08T17:12:29.389943+00:00",
+      "page": 2,
+      "extraction_method": "native",
+      "quality_verified": false,
+      "representation_path": "derived/00e07ad1ecfa714027b3361a4d7ed67396507bbb3fb5a1da739e1ecc6893453c/page-000002.json",
+      "representation_text_sha256": "28c975f7b40b9d7afa9418742e07d12bf3cb6d086fb14c90b809c743cd8bf01c",
+      "representation_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/22880f4c2443b35dd5c4b53e67708302bc66f9cc/derived/00e07ad1ecfa714027b3361a4d7ed67396507bbb3fb5a1da739e1ecc6893453c/page-000002.json",
+      "original_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/22880f4c2443b35dd5c4b53e67708302bc66f9cc/objects/00/00e07ad1ecfa714027b3361a4d7ed67396507bbb3fb5a1da739e1ecc6893453c",
+      "evidence": [
+        {
+          "term": "wastewater",
+          "match_start": 181,
+          "match_end": 191,
+          "passage_start": 31,
+          "passage_end": 441,
+          "text": "tion 3.4.(d) of the 201 Agreement, Laramie County\ngovernment agreed to work with the City-County Health Unit to \"ensure that no new permits for\nsmall wastewater treatment systems [septic systems] within the service area boundary that are\ninconsistent with the Facility Plan are issued\";\n\n       WHEREAS, exceptions for the installation of small wastewater treatment systems (septic\nsystems) may be granted purs"
+        },
+        {
+          "term": "wastewater",
+          "match_start": 376,
+          "match_end": 386,
+          "passage_start": 226,
+          "passage_end": 636,
+          "text": " within the service area boundary that are\ninconsistent with the Facility Plan are issued\";\n\n       WHEREAS, exceptions for the installation of small wastewater treatment systems (septic\nsystems) may be granted pursuant to Section 4.1 of the 201 Agreement;\n\n       WHEREAS, the Applicants have applied for an exception pursuant to Section 4.1.(c) of\nthe 201 Agreement which provides as follows:\n\n       4.1 Exc"
+        },
+        {
+          "term": "sewer",
+          "match_start": 910,
+          "match_end": 915,
+          "passage_start": 760,
+          "passage_end": 1165,
+          "text": "ip and compliance with the Facility Plan will exacerbate this\n       hardship. A hardship will be determined based upon a cost/effectiveness study of sewer\n       service provision to the property seeking the exception;\n\n       WHEREAS, on November 6, 2023, the City Planning Commission recommended that the\nGoverning Body grant the 201 Exception based on a finding that the exception demonstrates\nsubstan"
+        }
+      ]
+    },
+    {
+      "classification": "unreviewed_topical_match_not_a_finding",
+      "source_sha256": "00f462be921543c29907c0eabe9565316cb479aa2d9df8068b809446edf8c5a5",
+      "source_url": "https://www.cheyennecity.org/files/sharedassets/public/v/1/your-government/city-council/fc-2023/fc-02-21-23-minutes.pdf",
+      "source_retrieved_at": "2026-11-08T16:49:43.317118+00:00",
+      "page": 2,
+      "extraction_method": "tesseract",
+      "quality_verified": false,
+      "representation_path": "derived/00f462be921543c29907c0eabe9565316cb479aa2d9df8068b809446edf8c5a5/page-000002.json",
+      "representation_text_sha256": "d4c4b93a15473e05840a77474168628ef05e847be1be24c03e68265a4b7352c8",
+      "representation_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/22880f4c2443b35dd5c4b53e67708302bc66f9cc/derived/00f462be921543c29907c0eabe9565316cb479aa2d9df8068b809446edf8c5a5/page-000002.json",
+      "original_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/22880f4c2443b35dd5c4b53e67708302bc66f9cc/objects/00/00f462be921543c29907c0eabe9565316cb479aa2d9df8068b809446edf8c5a5",
+      "evidence": [
+        {
+          "term": "sewer",
+          "match_start": 767,
+          "match_end": 772,
+          "passage_start": 617,
+          "passage_end": 1022,
+          "text": " Grant Award Agreement between the City of Cheyenne and the Wyoming Office\nof Homeland Security for project scoping of the Cheyenne 18!\" Street Storm Sewer\nInterceptor Advance Assistance Project. (2019-2022 Optional 1% Sales Tax\nFunding and US Department of Homeland Security FEMA Funding)\n\nDr. Aldrich moved to approve in an amount of $270,000.00 in grant funds and $30,000.00 in city\nmatch funds for a t"
+        }
+      ]
+    },
+    {
+      "classification": "unreviewed_topical_match_not_a_finding",
+      "source_sha256": "00f5dceb4ed5b8c3bb7783c9f42eec1d3540fb83ce3f83dbb227d341a6b4a05a",
+      "source_url": "https://www.cheyennecity.org/files/sharedassets/public/v/1/your-government/city-council/psc-2022/psc-06-07-22-agenda.pdf",
+      "source_retrieved_at": "2026-11-08T17:15:35.808339+00:00",
+      "page": 2,
+      "extraction_method": "native",
+      "quality_verified": false,
+      "representation_path": "derived/00f5dceb4ed5b8c3bb7783c9f42eec1d3540fb83ce3f83dbb227d341a6b4a05a/page-000002.json",
+      "representation_text_sha256": "97b57ecf6b8d6ba3dd754642a83c279b40556d2d34e2689863c1273b135175e7",
+      "representation_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/22880f4c2443b35dd5c4b53e67708302bc66f9cc/derived/00f5dceb4ed5b8c3bb7783c9f42eec1d3540fb83ce3f83dbb227d341a6b4a05a/page-000002.json",
+      "original_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/22880f4c2443b35dd5c4b53e67708302bc66f9cc/objects/00/00f5dceb4ed5b8c3bb7783c9f42eec1d3540fb83ce3f83dbb227d341a6b4a05a",
+      "evidence": [
+        {
+          "term": "stormwater",
+          "match_start": 1613,
+          "match_end": 1623,
+          "passage_start": 1463,
+          "passage_end": 1752,
+          "text": "ocated along\n      Sweetgrass Drive, Between College Drive and Murray Road).\n\n ACTION:\n\n20.   ORDINANCE – 3rd READING – Creating Chapter 13.28, Urban Stormwater Quality\n      Management and Discharge Control, Public Services, of the Code of the City of Cheyenne,\n      Wyoming.\n\n ACTION:\n\f"
+        }
+      ]
+    },
+    {
+      "classification": "unreviewed_topical_match_not_a_finding",
+      "source_sha256": "02742df3cbd1e799493dcf34548f5d2769c9d2158f5e6f11c571fe222ade003f",
+      "source_url": "https://www.cheyennecity.org/files/sharedassets/public/v/1/your-government/city-council/fc-2025/fc-06-17-25-agenda.pdf",
+      "source_retrieved_at": "2026-11-08T16:29:46.950485+00:00",
+      "page": 2,
+      "extraction_method": "native",
+      "quality_verified": false,
+      "representation_path": "derived/02742df3cbd1e799493dcf34548f5d2769c9d2158f5e6f11c571fe222ade003f/page-000002.json",
+      "representation_text_sha256": "4a0c6e0e1c1fed53c0a431dafd260dedf4ba8c9a5073bffda9fc127eaccdb501",
+      "representation_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/22880f4c2443b35dd5c4b53e67708302bc66f9cc/derived/02742df3cbd1e799493dcf34548f5d2769c9d2158f5e6f11c571fe222ade003f/page-000002.json",
+      "original_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/22880f4c2443b35dd5c4b53e67708302bc66f9cc/objects/02/02742df3cbd1e799493dcf34548f5d2769c9d2158f5e6f11c571fe222ade003f",
+      "evidence": [
+        {
+          "term": "sewer",
+          "match_start": 440,
+          "match_end": 445,
+          "passage_start": 290,
+          "passage_end": 695,
+          "text": "     j)   Right-of-Way License Agreement between the City of Cheyenne and Volunteers\n           of America Northern Rockies for connection of a storm sewer pipe from the\n           onsite detention pond to the storm sewer network in Seymour Avenue near East\n           25th Street.\n\nACTION:\n\n      k)   Memorandum of Understanding between the City of Cheyenne and Cheyenne\n           Frontier Days, Inc. f"
+        },
+        {
+          "term": "sewer",
+          "match_start": 506,
+          "match_end": 511,
+          "passage_start": 356,
+          "passage_end": 761,
+          "text": "nne and Volunteers\n           of America Northern Rockies for connection of a storm sewer pipe from the\n           onsite detention pond to the storm sewer network in Seymour Avenue near East\n           25th Street.\n\nACTION:\n\n      k)   Memorandum of Understanding between the City of Cheyenne and Cheyenne\n           Frontier Days, Inc. for the use of city-owned land and buildings for parking,\n         "
+        }
+      ]
+    },
+    {
+      "classification": "unreviewed_topical_match_not_a_finding",
+      "source_sha256": "02742df3cbd1e799493dcf34548f5d2769c9d2158f5e6f11c571fe222ade003f",
+      "source_url": "https://www.cheyennecity.org/files/sharedassets/public/v/1/your-government/city-council/fc-2025/fc-06-17-25-agenda.pdf",
+      "source_retrieved_at": "2026-11-08T16:29:46.950485+00:00",
+      "page": 3,
+      "extraction_method": "native",
+      "quality_verified": false,
+      "representation_path": "derived/02742df3cbd1e799493dcf34548f5d2769c9d2158f5e6f11c571fe222ade003f/page-000003.json",
+      "representation_text_sha256": "99f88425ee404072fabdb59d502f56c4028d0731ee6f24ec5c01bc4fc4e7aacb",
+      "representation_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/22880f4c2443b35dd5c4b53e67708302bc66f9cc/derived/02742df3cbd1e799493dcf34548f5d2769c9d2158f5e6f11c571fe222ade003f/page-000003.json",
+      "original_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/22880f4c2443b35dd5c4b53e67708302bc66f9cc/objects/02/02742df3cbd1e799493dcf34548f5d2769c9d2158f5e6f11c571fe222ade003f",
+      "evidence": [
+        {
+          "term": "wastewater",
+          "match_start": 1378,
+          "match_end": 1388,
+          "passage_start": 1228,
+          "passage_end": 1638,
+          "text": "r Garage Interior Painting Project. (2021\n           Specific Purpose Option Tax Fund)\n\nACTION:\n\n27.   OTHER BUSINESS:\n\n      a)   Combined Water and Wastewater Agreement between the City of Cheyenne,\n           Cheyenne Board of Public Utilities and South Cheyenne Water and Sewer\n           District.\n\nACTION:\n\nOTHER ITEMS FOR THE AGENDA:\n_____________________________________________________________________"
+        },
+        {
+          "term": "sewer",
+          "match_start": 1504,
+          "match_end": 1509,
+          "passage_start": 1354,
+          "passage_end": 1759,
+          "text": "a)   Combined Water and Wastewater Agreement between the City of Cheyenne,\n           Cheyenne Board of Public Utilities and South Cheyenne Water and Sewer\n           District.\n\nACTION:\n\nOTHER ITEMS FOR THE AGENDA:\n______________________________________________________________________________\n______________________________________________________________________________\n________________________________"
+        }
+      ]
+    },
+    {
+      "classification": "unreviewed_topical_match_not_a_finding",
+      "source_sha256": "0356098f048a1b8402a8dd070eb6fc3e62b126fb5ab9b639a0b162a634bd8860",
+      "source_url": "https://www.cheyennecity.org/files/sharedassets/public/v/1/your-government/city-council/fc-2023/fc-06-20-23-agenda.pdf",
+      "source_retrieved_at": "2026-11-08T16:42:51.270406+00:00",
+      "page": 1,
+      "extraction_method": "native",
+      "quality_verified": false,
+      "representation_path": "derived/0356098f048a1b8402a8dd070eb6fc3e62b126fb5ab9b639a0b162a634bd8860/page-000001.json",
+      "representation_text_sha256": "afba01df0fc11938809e0277e402b928537095c1d3212f31d12ab3afdca45835",
+      "representation_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/22880f4c2443b35dd5c4b53e67708302bc66f9cc/derived/0356098f048a1b8402a8dd070eb6fc3e62b126fb5ab9b639a0b162a634bd8860/page-000001.json",
+      "original_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/22880f4c2443b35dd5c4b53e67708302bc66f9cc/objects/03/0356098f048a1b8402a8dd070eb6fc3e62b126fb5ab9b639a0b162a634bd8860",
+      "evidence": [
+        {
+          "term": "drinking water",
+          "match_start": 1882,
+          "match_end": 1896,
+          "passage_start": 1732,
+          "passage_end": 2146,
+          "text": "    RESOLUTION – Authorizing submission of an application to the Wyoming State Loan\n       and Investment Board to amend the amount received from the Drinking Water State\n       Revolving Loan #229 from $3,960,000 to $4,785,000 for the North City Zone\n       Improvements Project and authorizing the Mayor, the City Clerk and the Director of the\n       Board of Public Utilities to execute the application and all "
+        }
+      ]
+    },
+    {
+      "classification": "unreviewed_topical_match_not_a_finding",
+      "source_sha256": "03bf84b9bd7dc81d689b8ec05d996f50b6112caad73a1a7367837c659218caa1",
+      "source_url": "https://www.cheyennecity.org/files/sharedassets/public/v/1/your-government/city-council/psc-2025/psc-05-19-25-agenda-2.pdf",
+      "source_retrieved_at": "2026-11-08T17:08:29.156334+00:00",
+      "page": 2,
+      "extraction_method": "native",
+      "quality_verified": false,
+      "representation_path": "derived/03bf84b9bd7dc81d689b8ec05d996f50b6112caad73a1a7367837c659218caa1/page-000002.json",
+      "representation_text_sha256": "deaa1bf6a0e9c83b66071daaee48feafad7ad150dec6a996967449df321b1f00",
+      "representation_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/22880f4c2443b35dd5c4b53e67708302bc66f9cc/derived/03bf84b9bd7dc81d689b8ec05d996f50b6112caad73a1a7367837c659218caa1/page-000002.json",
+      "original_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/22880f4c2443b35dd5c4b53e67708302bc66f9cc/objects/03/03bf84b9bd7dc81d689b8ec05d996f50b6112caad73a1a7367837c659218caa1",
+      "evidence": [
+        {
+          "term": "sewer",
+          "match_start": 38,
+          "match_end": 43,
+          "passage_start": 0,
+          "passage_end": 293,
+          "text": "22.   RESOLUTION – Approving sanitary sewer services, by Outside User Agreement for\n      Sutherland's Fun Family Fitness, LLC, for land at 2611 and 2607 Whitney Road (located\n      east of Whitney Road south of Pershing Boulevard). (SPONSOR – MR. SEGRAVE)\n\nACTION:\n\n23.   RESOLUTION – Approvi"
+        },
+        {
+          "term": "sewer",
+          "match_start": 305,
+          "match_end": 310,
+          "passage_start": 155,
+          "passage_end": 560,
+          "text": "hitney Road (located\n      east of Whitney Road south of Pershing Boulevard). (SPONSOR – MR. SEGRAVE)\n\nACTION:\n\n23.   RESOLUTION – Approving sanitary sewer and water services, by Outside User\n      Agreement, for Icerock Wyoming, LLC, for land located east of Clear Creek Parkway\n      south of High Plains Road. (SPONSOR – MR. SEGRAVE)\n\nACTION:\n\nOTHER ITEMS FOR THE AGENDA:\n\n      a)     RESOLUTION - Mod"
+        }
+      ]
+    },
+    {
+      "classification": "unreviewed_topical_match_not_a_finding",
+      "source_sha256": "05f38df3b9020029fd1f5e4d70cd4e0e0896939bb95aba6f97f8eabd07776299",
+      "source_url": "https://www.cheyennecity.org/files/sharedassets/public/v/1/your-government/city-council/wscow-2024/cow-12-04-24-agenda.pdf",
+      "source_retrieved_at": "2026-11-08T17:17:50.437612+00:00",
+      "page": 1,
+      "extraction_method": "native",
+      "quality_verified": false,
+      "representation_path": "derived/05f38df3b9020029fd1f5e4d70cd4e0e0896939bb95aba6f97f8eabd07776299/page-000001.json",
+      "representation_text_sha256": "357d6bab6a9ef3e35ec152cfe614a8396954673f0eba2c061c6ed6b514c5b4ea",
+      "representation_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/22880f4c2443b35dd5c4b53e67708302bc66f9cc/derived/05f38df3b9020029fd1f5e4d70cd4e0e0896939bb95aba6f97f8eabd07776299/page-000001.json",
+      "original_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/22880f4c2443b35dd5c4b53e67708302bc66f9cc/objects/05/05f38df3b9020029fd1f5e4d70cd4e0e0896939bb95aba6f97f8eabd07776299",
+      "evidence": [
+        {
+          "term": "stormwater",
+          "match_start": 1622,
+          "match_end": 1632,
+          "passage_start": 1472,
+          "passage_end": 1882,
+          "text": "ir regulation, clarifying provisions and making\n         conforming amendments.\n\n  ACTION:\n\n 15.     ORDINANCE –3rd READING – Creating Chapter 13.32, Stormwater Runoff Management\n         System, of Title 13, Public Services, of the Municipal Code of the City of Cheyenne,\n         Wyoming, establishing the Stormwater Runoff Management System, imposing a user fee\n         for necessary funding and repealing "
+        },
+        {
+          "term": "stormwater",
+          "match_start": 1780,
+          "match_end": 1790,
+          "passage_start": 1630,
+          "passage_end": 2040,
+          "text": "er Runoff Management\n         System, of Title 13, Public Services, of the Municipal Code of the City of Cheyenne,\n         Wyoming, establishing the Stormwater Runoff Management System, imposing a user fee\n         for necessary funding and repealing obsolete provisions.\n\n  ACTION:\n\n 16.     ORDINANCE –3rd READING – Specifying the monthly Stormwater Runoff Management\n         System User Fee in accordance "
+        },
+        {
+          "term": "stormwater",
+          "match_start": 1972,
+          "match_end": 1982,
+          "passage_start": 1822,
+          "passage_end": 2232,
+          "text": "ing a user fee\n         for necessary funding and repealing obsolete provisions.\n\n  ACTION:\n\n 16.     ORDINANCE –3rd READING – Specifying the monthly Stormwater Runoff Management\n         System User Fee in accordance with Section 13.32.050 of the Municipal Code of the City\n         of Cheyenne, Wyoming.\n\n  ACTION:\n\n OTHER ITEMS FOR THE AGENDA:\n ______________________________________________________________"
+        }
+      ]
+    },
+    {
+      "classification": "unreviewed_topical_match_not_a_finding",
+      "source_sha256": "06be3b512454c07cc8fe0d5f263dd531baff8c7d348af9c829225b61e827b3a5",
+      "source_url": "https://www.cheyennecity.org/files/sharedassets/public/v/1/your-government/city-council/fc-2022/fc-06-06-22-minutes.pdf",
+      "source_retrieved_at": "2026-11-08T16:51:25.771989+00:00",
+      "page": 1,
+      "extraction_method": "tesseract",
+      "quality_verified": false,
+      "representation_path": "derived/06be3b512454c07cc8fe0d5f263dd531baff8c7d348af9c829225b61e827b3a5/page-000001.json",
+      "representation_text_sha256": "9adac61e6e64dbeff8d87c62f72af3c26aeb892ded766f8a139b704136d6ef8a",
+      "representation_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/22880f4c2443b35dd5c4b53e67708302bc66f9cc/derived/06be3b512454c07cc8fe0d5f263dd531baff8c7d348af9c829225b61e827b3a5/page-000001.json",
+      "original_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/22880f4c2443b35dd5c4b53e67708302bc66f9cc/objects/06/06be3b512454c07cc8fe0d5f263dd531baff8c7d348af9c829225b61e827b3a5",
+      "evidence": [
+        {
+          "term": "sewer",
+          "match_start": 1377,
+          "match_end": 1382,
+          "passage_start": 1227,
+          "passage_end": 1632,
+          "text": "and Misha Westby,\nowners of Westby Edge LLC, were available for questions.\n\n21. ORDINANCE - 3\" READING ~ Approving and establishing revised water and sewer\nrates, tap and system development fees, administrative fees, service charges and penalties,\nand septic and commercial waste dump rates, as recommended by the Board of Public\nUtilities,\n\nDr. Aldrich moved to approve on 3\" and final reading, seconded "
+        }
+      ]
+    },
+    {
+      "classification": "unreviewed_topical_match_not_a_finding",
+      "source_sha256": "090cfbec55548ada575053632aaa0d7b4114f023fc65c69c7c5c7ecddf13b0da",
+      "source_url": "https://www.cheyennecity.org/files/sharedassets/public/v/1/your-government/city-council/psc-2023/sub-sweetgrass-pud-amendment.pdf",
+      "source_retrieved_at": "2026-11-08T17:13:02.534477+00:00",
+      "page": 19,
+      "extraction_method": "native",
+      "quality_verified": false,
+      "representation_path": "derived/090cfbec55548ada575053632aaa0d7b4114f023fc65c69c7c5c7ecddf13b0da/page-000019.json",
+      "representation_text_sha256": "6247fdc09404fbdbfc2b9fe2c1e3f15887d8cbb0b1420d857d33fa9d5445c7fc",
+      "representation_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/22880f4c2443b35dd5c4b53e67708302bc66f9cc/derived/090cfbec55548ada575053632aaa0d7b4114f023fc65c69c7c5c7ecddf13b0da/page-000019.json",
+      "original_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/22880f4c2443b35dd5c4b53e67708302bc66f9cc/objects/09/090cfbec55548ada575053632aaa0d7b4114f023fc65c69c7c5c7ecddf13b0da",
+      "evidence": [
+        {
+          "term": "wastewater",
+          "match_start": 1679,
+          "match_end": 1689,
+          "passage_start": 1529,
+          "passage_end": 1939,
+          "text": " and rain detection devices with\n         automatic shutoff switches.\n    ii. It shall be assumed for the purposes of irrigation design that recycled wastewater is, or will become,\n         available; therefore, irrigation systems shall be designed to accommodate recycled water.\ne. Recommended Groundcover for all New & Restored Landscape Areas\n    i. Native grass seed mixture(s) per the City of Cheyenne Gre"
+        }
+      ]
+    },
+    {
+      "classification": "unreviewed_topical_match_not_a_finding",
+      "source_sha256": "090cfbec55548ada575053632aaa0d7b4114f023fc65c69c7c5c7ecddf13b0da",
+      "source_url": "https://www.cheyennecity.org/files/sharedassets/public/v/1/your-government/city-council/psc-2023/sub-sweetgrass-pud-amendment.pdf",
+      "source_retrieved_at": "2026-11-08T17:13:02.534477+00:00",
+      "page": 28,
+      "extraction_method": "native",
+      "quality_verified": false,
+      "representation_path": "derived/090cfbec55548ada575053632aaa0d7b4114f023fc65c69c7c5c7ecddf13b0da/page-000028.json",
+      "representation_text_sha256": "35f53b9b26e9595c9e59066ddd0d7fcad49da4e0beffb6e14d18b652474d3a27",
+      "representation_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/22880f4c2443b35dd5c4b53e67708302bc66f9cc/derived/090cfbec55548ada575053632aaa0d7b4114f023fc65c69c7c5c7ecddf13b0da/page-000028.json",
+      "original_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/22880f4c2443b35dd5c4b53e67708302bc66f9cc/objects/09/090cfbec55548ada575053632aaa0d7b4114f023fc65c69c7c5c7ecddf13b0da",
+      "evidence": [
+        {
+          "term": "stormwater",
+          "match_start": 2018,
+          "match_end": 2028,
+          "passage_start": 1868,
+          "passage_end": 2278,
+          "text": "    A      E\n\n     Mixed-Use Building or Live/Work Units in a Principal Structure (see Note 5)                                  E     E        E\n     Stormwater Detention Ponds, including Regional Ponds                         P     P                         P     P        P\n     Utility Conveyance                                                           P     P                         P     P        P\n   "
+        }
+      ]
+    },
+    {
+      "classification": "unreviewed_topical_match_not_a_finding",
+      "source_sha256": "090cfbec55548ada575053632aaa0d7b4114f023fc65c69c7c5c7ecddf13b0da",
+      "source_url": "https://www.cheyennecity.org/files/sharedassets/public/v/1/your-government/city-council/psc-2023/sub-sweetgrass-pud-amendment.pdf",
+      "source_retrieved_at": "2026-11-08T17:13:02.534477+00:00",
+      "page": 31,
+      "extraction_method": "native",
+      "quality_verified": false,
+      "representation_path": "derived/090cfbec55548ada575053632aaa0d7b4114f023fc65c69c7c5c7ecddf13b0da/page-000031.json",
+      "representation_text_sha256": "4a7529effaa1d6006b7fa1f2bc4c4fda7ce2b0b33b8b2dd02f9b9e4d99f6a654",
+      "representation_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/22880f4c2443b35dd5c4b53e67708302bc66f9cc/derived/090cfbec55548ada575053632aaa0d7b4114f023fc65c69c7c5c7ecddf13b0da/page-000031.json",
+      "original_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/22880f4c2443b35dd5c4b53e67708302bc66f9cc/objects/09/090cfbec55548ada575053632aaa0d7b4114f023fc65c69c7c5c7ecddf13b0da",
+      "evidence": [
+        {
+          "term": "stormwater",
+          "match_start": 2228,
+          "match_end": 2238,
+          "passage_start": 2078,
+          "passage_end": 2488,
+          "text": "ly dedicated to the City of Cheyenne to be developed by the City as a public\n     park with to serve south Cheyenne. The park should include regional stormwater detention facilities and\n     trails to serve the PUD and connect to LCCC. Detailed program and design will be determined by the City.\n  b. General Standards:\n      i. All provisions of Section 3.B.1 through 3.B.3 above.\n      ii. Table 9 AND the fo"
+        }
+      ]
+    },
+    {
+      "classification": "unreviewed_topical_match_not_a_finding",
+      "source_sha256": "090cfbec55548ada575053632aaa0d7b4114f023fc65c69c7c5c7ecddf13b0da",
+      "source_url": "https://www.cheyennecity.org/files/sharedassets/public/v/1/your-government/city-council/psc-2023/sub-sweetgrass-pud-amendment.pdf",
+      "source_retrieved_at": "2026-11-08T17:13:02.534477+00:00",
+      "page": 32,
+      "extraction_method": "native",
+      "quality_verified": false,
+      "representation_path": "derived/090cfbec55548ada575053632aaa0d7b4114f023fc65c69c7c5c7ecddf13b0da/page-000032.json",
+      "representation_text_sha256": "c5bcdc94c0d5d0b30008b3ee8fb54e6675959f8d148d4768553e025619531c98",
+      "representation_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/22880f4c2443b35dd5c4b53e67708302bc66f9cc/derived/090cfbec55548ada575053632aaa0d7b4114f023fc65c69c7c5c7ecddf13b0da/page-000032.json",
+      "original_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/22880f4c2443b35dd5c4b53e67708302bc66f9cc/objects/09/090cfbec55548ada575053632aaa0d7b4114f023fc65c69c7c5c7ecddf13b0da",
+      "evidence": [
+        {
+          "term": "stormwater",
+          "match_start": 1292,
+          "match_end": 1302,
+          "passage_start": 1142,
+          "passage_end": 1552,
+          "text": "f Open Space tracts is to provide expanses of native prairie grasses, public trails, the\n           continuation of existing ranching operations, and stormwater conveyance and detention facilities, and\n           recreation opportunities.\n       ii. The O/S-G use designation is not necessarily a specific PUD Zone, but applies to any land within any zone\n           which is identified on a plat or other inst"
+        }
+      ]
+    },
+    {
+      "classification": "unreviewed_topical_match_not_a_finding",
+      "source_sha256": "090cfbec55548ada575053632aaa0d7b4114f023fc65c69c7c5c7ecddf13b0da",
+      "source_url": "https://www.cheyennecity.org/files/sharedassets/public/v/1/your-government/city-council/psc-2023/sub-sweetgrass-pud-amendment.pdf",
+      "source_retrieved_at": "2026-11-08T17:13:02.534477+00:00",
+      "page": 35,
+      "extraction_method": "native",
+      "quality_verified": false,
+      "representation_path": "derived/090cfbec55548ada575053632aaa0d7b4114f023fc65c69c7c5c7ecddf13b0da/page-000035.json",
+      "representation_text_sha256": "bc1b00796eff620639d68cce51f3baf98d260e1cd4a0000f82884a1d32c9e575",
+      "representation_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/22880f4c2443b35dd5c4b53e67708302bc66f9cc/derived/090cfbec55548ada575053632aaa0d7b4114f023fc65c69c7c5c7ecddf13b0da/page-000035.json",
+      "original_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/22880f4c2443b35dd5c4b53e67708302bc66f9cc/objects/09/090cfbec55548ada575053632aaa0d7b4114f023fc65c69c7c5c7ecddf13b0da",
+      "evidence": [
+        {
+          "term": "stormwater",
+          "match_start": 5457,
+          "match_end": 5467,
+          "passage_start": 5307,
+          "passage_end": 5717,
+          "text": "        P                       P                   P                                                                   A               P          P\n Stormwater Detention Ponds, Including Regional Ponds                      P                    P                  P                          P                       P                   P                                                                   A      "
+        }
+      ]
+    },
+    {
+      "classification": "unreviewed_topical_match_not_a_finding",
+      "source_sha256": "090cfbec55548ada575053632aaa0d7b4114f023fc65c69c7c5c7ecddf13b0da",
+      "source_url": "https://www.cheyennecity.org/files/sharedassets/public/v/1/your-government/city-council/psc-2023/sub-sweetgrass-pud-amendment.pdf",
+      "source_retrieved_at": "2026-11-08T17:13:02.534477+00:00",
+      "page": 48,
+      "extraction_method": "native",
+      "quality_verified": false,
+      "representation_path": "derived/090cfbec55548ada575053632aaa0d7b4114f023fc65c69c7c5c7ecddf13b0da/page-000048.json",
+      "representation_text_sha256": "8a309a5350b3e31ed358e1ca2f541205d09ac53ff6ceba6ac5d7223efb2720ce",
+      "representation_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/22880f4c2443b35dd5c4b53e67708302bc66f9cc/derived/090cfbec55548ada575053632aaa0d7b4114f023fc65c69c7c5c7ecddf13b0da/page-000048.json",
+      "original_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/22880f4c2443b35dd5c4b53e67708302bc66f9cc/objects/09/090cfbec55548ada575053632aaa0d7b4114f023fc65c69c7c5c7ecddf13b0da",
+      "evidence": [
+        {
+          "term": "sewer",
+          "match_start": 2513,
+          "match_end": 2518,
+          "passage_start": 2363,
+          "passage_end": 2768,
+          "text": "s sole discretion.\n   3. The Green shall include a paved and ADA accessible walkway system and allows maintenance vehicular\n       access to sanitary sewer manholes and connectivity between the Greenway trail, the Green, and\n       associated parking areas.\n   4. Pedestrian seating areas, such as benches, planters, seat walls, or other similar features that are not\n       associated with a specific bus"
+        }
+      ]
+    },
+    {
+      "classification": "unreviewed_topical_match_not_a_finding",
+      "source_sha256": "090cfbec55548ada575053632aaa0d7b4114f023fc65c69c7c5c7ecddf13b0da",
+      "source_url": "https://www.cheyennecity.org/files/sharedassets/public/v/1/your-government/city-council/psc-2023/sub-sweetgrass-pud-amendment.pdf",
+      "source_retrieved_at": "2026-11-08T17:13:02.534477+00:00",
+      "page": 69,
+      "extraction_method": "native",
+      "quality_verified": false,
+      "representation_path": "derived/090cfbec55548ada575053632aaa0d7b4114f023fc65c69c7c5c7ecddf13b0da/page-000069.json",
+      "representation_text_sha256": "997e97d7cc3ad203759678fcdacba98e1c671f6a9de781a1fe15b66e30692d7e",
+      "representation_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/22880f4c2443b35dd5c4b53e67708302bc66f9cc/derived/090cfbec55548ada575053632aaa0d7b4114f023fc65c69c7c5c7ecddf13b0da/page-000069.json",
+      "original_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/22880f4c2443b35dd5c4b53e67708302bc66f9cc/objects/09/090cfbec55548ada575053632aaa0d7b4114f023fc65c69c7c5c7ecddf13b0da",
+      "evidence": [
+        {
+          "term": "wastewater",
+          "match_start": 898,
+          "match_end": 908,
+          "passage_start": 748,
+          "passage_end": 1158,
+          "text": " and rain detection devices with\n         automatic shutoff switches.\n    ii. It shall be assumed for the purposes of irrigation design that recycled wastewater is, or will become,\n         available; therefore, irrigation systems shall be designed to accommodate recycled water.\ne. Recommended Groundcover for all New & Restored Landscape Areas\n    i. Native grass seed mixture(s) per the City of Cheyenne Gre"
+        }
+      ]
+    },
+    {
+      "classification": "unreviewed_topical_match_not_a_finding",
+      "source_sha256": "090cfbec55548ada575053632aaa0d7b4114f023fc65c69c7c5c7ecddf13b0da",
+      "source_url": "https://www.cheyennecity.org/files/sharedassets/public/v/1/your-government/city-council/psc-2023/sub-sweetgrass-pud-amendment.pdf",
+      "source_retrieved_at": "2026-11-08T17:13:02.534477+00:00",
+      "page": 78,
+      "extraction_method": "native",
+      "quality_verified": false,
+      "representation_path": "derived/090cfbec55548ada575053632aaa0d7b4114f023fc65c69c7c5c7ecddf13b0da/page-000078.json",
+      "representation_text_sha256": "2e3c55429cc4f96e4d50768ab7e9bb6dc6dad8d3146289ac9230739665f754bd",
+      "representation_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/22880f4c2443b35dd5c4b53e67708302bc66f9cc/derived/090cfbec55548ada575053632aaa0d7b4114f023fc65c69c7c5c7ecddf13b0da/page-000078.json",
+      "original_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/22880f4c2443b35dd5c4b53e67708302bc66f9cc/objects/09/090cfbec55548ada575053632aaa0d7b4114f023fc65c69c7c5c7ecddf13b0da",
+      "evidence": [
+        {
+          "term": "stormwater",
+          "match_start": 2066,
+          "match_end": 2076,
+          "passage_start": 1916,
+          "passage_end": 2326,
+          "text": "       E\n\n      Mixed-Use Building or Live/Work Units in a Principal Structure (see Note 5)                                    E     E        E\n      Stormwater Detention Ponds, including Regional Ponds                         P     P                           P     P        P\n      Utility Conveyance                                                           P     P                           P     P        "
+        }
+      ]
+    },
+    {
+      "classification": "unreviewed_topical_match_not_a_finding",
+      "source_sha256": "090cfbec55548ada575053632aaa0d7b4114f023fc65c69c7c5c7ecddf13b0da",
+      "source_url": "https://www.cheyennecity.org/files/sharedassets/public/v/1/your-government/city-council/psc-2023/sub-sweetgrass-pud-amendment.pdf",
+      "source_retrieved_at": "2026-11-08T17:13:02.534477+00:00",
+      "page": 81,
+      "extraction_method": "native",
+      "quality_verified": false,
+      "representation_path": "derived/090cfbec55548ada575053632aaa0d7b4114f023fc65c69c7c5c7ecddf13b0da/page-000081.json",
+      "representation_text_sha256": "cb511aa7767cad32da5edfd2f6cf97198b93a17b5da29d89e5b8dea874197d9a",
+      "representation_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/22880f4c2443b35dd5c4b53e67708302bc66f9cc/derived/090cfbec55548ada575053632aaa0d7b4114f023fc65c69c7c5c7ecddf13b0da/page-000081.json",
+      "original_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/22880f4c2443b35dd5c4b53e67708302bc66f9cc/objects/09/090cfbec55548ada575053632aaa0d7b4114f023fc65c69c7c5c7ecddf13b0da",
+      "evidence": [
+        {
+          "term": "stormwater",
+          "match_start": 2228,
+          "match_end": 2238,
+          "passage_start": 2078,
+          "passage_end": 2488,
+          "text": "ly dedicated to the City of Cheyenne to be developed by the City as a public\n     park with to serve south Cheyenne. The park should include regional stormwater detention facilities and\n     trails to serve the PUD and connect to LCCC. Detailed program and design will be determined by the City.\n  b. General Standards:\n      i. All provisions of Section 3.B.1 through 3.B.3 above.\n      ii. Table 9 AND the fo"
+        }
+      ]
+    },
+    {
+      "classification": "unreviewed_topical_match_not_a_finding",
+      "source_sha256": "090cfbec55548ada575053632aaa0d7b4114f023fc65c69c7c5c7ecddf13b0da",
+      "source_url": "https://www.cheyennecity.org/files/sharedassets/public/v/1/your-government/city-council/psc-2023/sub-sweetgrass-pud-amendment.pdf",
+      "source_retrieved_at": "2026-11-08T17:13:02.534477+00:00",
+      "page": 82,
+      "extraction_method": "native",
+      "quality_verified": false,
+      "representation_path": "derived/090cfbec55548ada575053632aaa0d7b4114f023fc65c69c7c5c7ecddf13b0da/page-000082.json",
+      "representation_text_sha256": "02d9e04e116bd896db2025649993527dc0bb6cde5977d11930e566545c96fbac",
+      "representation_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/22880f4c2443b35dd5c4b53e67708302bc66f9cc/derived/090cfbec55548ada575053632aaa0d7b4114f023fc65c69c7c5c7ecddf13b0da/page-000082.json",
+      "original_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/22880f4c2443b35dd5c4b53e67708302bc66f9cc/objects/09/090cfbec55548ada575053632aaa0d7b4114f023fc65c69c7c5c7ecddf13b0da",
+      "evidence": [
+        {
+          "term": "stormwater",
+          "match_start": 1292,
+          "match_end": 1302,
+          "passage_start": 1142,
+          "passage_end": 1552,
+          "text": "f Open Space tracts is to provide expanses of native prairie grasses, public trails, the\n           continuation of existing ranching operations, and stormwater conveyance and detention facilities, and\n           recreation opportunities.\n       ii. The O/S-G use designation is not necessarily a specific PUD Zone, but applies to any land within any zone\n           which is identified on a plat or other inst"
+        }
+      ]
+    },
+    {
+      "classification": "unreviewed_topical_match_not_a_finding",
+      "source_sha256": "090cfbec55548ada575053632aaa0d7b4114f023fc65c69c7c5c7ecddf13b0da",
+      "source_url": "https://www.cheyennecity.org/files/sharedassets/public/v/1/your-government/city-council/psc-2023/sub-sweetgrass-pud-amendment.pdf",
+      "source_retrieved_at": "2026-11-08T17:13:02.534477+00:00",
+      "page": 85,
+      "extraction_method": "native",
+      "quality_verified": false,
+      "representation_path": "derived/090cfbec55548ada575053632aaa0d7b4114f023fc65c69c7c5c7ecddf13b0da/page-000085.json",
+      "representation_text_sha256": "8b275099d2653e9f2d3c84ec4939bd73656821ee8d76cbf581bc9e4f5d6a3409",
+      "representation_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/22880f4c2443b35dd5c4b53e67708302bc66f9cc/derived/090cfbec55548ada575053632aaa0d7b4114f023fc65c69c7c5c7ecddf13b0da/page-000085.json",
+      "original_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/22880f4c2443b35dd5c4b53e67708302bc66f9cc/objects/09/090cfbec55548ada575053632aaa0d7b4114f023fc65c69c7c5c7ecddf13b0da",
+      "evidence": [
+        {
+          "term": "stormwater",
+          "match_start": 5542,
+          "match_end": 5552,
+          "passage_start": 5392,
+          "passage_end": 5802,
+          "text": "       P                    P                     P                                                                    A             P            P\n  Stormwater Detention Ponds, Including Regional Ponds                          P                   P                    P                        P                    P                     P                                                                    A   "
+        }
+      ]
+    },
+    {
+      "classification": "unreviewed_topical_match_not_a_finding",
+      "source_sha256": "090cfbec55548ada575053632aaa0d7b4114f023fc65c69c7c5c7ecddf13b0da",
+      "source_url": "https://www.cheyennecity.org/files/sharedassets/public/v/1/your-government/city-council/psc-2023/sub-sweetgrass-pud-amendment.pdf",
+      "source_retrieved_at": "2026-11-08T17:13:02.534477+00:00",
+      "page": 97,
+      "extraction_method": "native",
+      "quality_verified": false,
+      "representation_path": "derived/090cfbec55548ada575053632aaa0d7b4114f023fc65c69c7c5c7ecddf13b0da/page-000097.json",
+      "representation_text_sha256": "8a309a5350b3e31ed358e1ca2f541205d09ac53ff6ceba6ac5d7223efb2720ce",
+      "representation_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/22880f4c2443b35dd5c4b53e67708302bc66f9cc/derived/090cfbec55548ada575053632aaa0d7b4114f023fc65c69c7c5c7ecddf13b0da/page-000097.json",
+      "original_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/22880f4c2443b35dd5c4b53e67708302bc66f9cc/objects/09/090cfbec55548ada575053632aaa0d7b4114f023fc65c69c7c5c7ecddf13b0da",
+      "evidence": [
+        {
+          "term": "sewer",
+          "match_start": 2513,
+          "match_end": 2518,
+          "passage_start": 2363,
+          "passage_end": 2768,
+          "text": "s sole discretion.\n   3. The Green shall include a paved and ADA accessible walkway system and allows maintenance vehicular\n       access to sanitary sewer manholes and connectivity between the Greenway trail, the Green, and\n       associated parking areas.\n   4. Pedestrian seating areas, such as benches, planters, seat walls, or other similar features that are not\n       associated with a specific bus"
+        }
+      ]
+    },
+    {
+      "classification": "unreviewed_topical_match_not_a_finding",
+      "source_sha256": "0bf31a6f962d66bd5fbd6404393373aa55db87cb9ada5d3486fdc0ef68c903f9",
+      "source_url": "https://www.cheyennecity.org/files/sharedassets/public/v/1/your-government/city-council/psc-2022/psc-07-19-22-agenda.pdf",
+      "source_retrieved_at": "2026-11-08T17:15:21.712609+00:00",
+      "page": 1,
+      "extraction_method": "native",
+      "quality_verified": false,
+      "representation_path": "derived/0bf31a6f962d66bd5fbd6404393373aa55db87cb9ada5d3486fdc0ef68c903f9/page-000001.json",
+      "representation_text_sha256": "8e0c5e0a0f0bce049915bbfdc2db09ce7ca07a22ab0c8aea18e4c6a59e510fc6",
+      "representation_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/22880f4c2443b35dd5c4b53e67708302bc66f9cc/derived/0bf31a6f962d66bd5fbd6404393373aa55db87cb9ada5d3486fdc0ef68c903f9/page-000001.json",
+      "original_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/22880f4c2443b35dd5c4b53e67708302bc66f9cc/objects/0b/0bf31a6f962d66bd5fbd6404393373aa55db87cb9ada5d3486fdc0ef68c903f9",
+      "evidence": [
+        {
+          "term": "sewer",
+          "match_start": 1516,
+          "match_end": 1521,
+          "passage_start": 1366,
+          "passage_end": 1771,
+          "text": "      Personnel, of the Code of the City of Cheyenne, Wyoming.\n\nACTION:\n\n11.    ORDINANCE – 2nd READING – Amending various sections of Chapter 13.12, Sewer\n       System, of Title 13, Public Services, of the Municipal Code of the City of Cheyenne,\n       Wyoming, to allow for exceptions to sewage disposal requirements. (SPONSOR – MR.\n       COOK)\n\nACTION:\n\n13.    RESOLUTION – Acknowledging receipt of t"
+        }
+      ]
+    },
+    {
+      "classification": "unreviewed_topical_match_not_a_finding",
+      "source_sha256": "10804ccc56cfd4dbf3eda3a48dd09d00c38901ed995803b3ea688cdb5d11ca9c",
+      "source_url": "https://www.cheyennecity.org/files/sharedassets/public/v/1/your-government/city-council/psc-2022/substitute-8.16.22-ord.-13.12-amendments-ca-redline.pdf",
+      "source_retrieved_at": "2026-11-08T17:15:11.672199+00:00",
+      "page": 1,
+      "extraction_method": "native",
+      "quality_verified": false,
+      "representation_path": "derived/10804ccc56cfd4dbf3eda3a48dd09d00c38901ed995803b3ea688cdb5d11ca9c/page-000001.json",
+      "representation_text_sha256": "8aa630dbd215c330f6861ff6178d007cd734572364dbecb87b954fe8f876a0b5",
+      "representation_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/22880f4c2443b35dd5c4b53e67708302bc66f9cc/derived/10804ccc56cfd4dbf3eda3a48dd09d00c38901ed995803b3ea688cdb5d11ca9c/page-000001.json",
+      "original_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/22880f4c2443b35dd5c4b53e67708302bc66f9cc/objects/10/10804ccc56cfd4dbf3eda3a48dd09d00c38901ed995803b3ea688cdb5d11ca9c",
+      "evidence": [
+        {
+          "term": "sewer",
+          "match_start": 250,
+          "match_end": 255,
+          "passage_start": 100,
+          "passage_end": 505,
+          "text": " 16, 2022\n\n\n\n\n                                 ORDINANCE NO. _________\n\nENTITLED: “AN ORDINANCE AMENDING VARIOUS SECTIONS OF CHAPTER\n          13.12, SEWER SYSTEM, OF TITLE 13, PUBLIC SERVICES, OF THE\n          MUNICIPAL CODE OF THE CITY OF CHEYENNE, WYOMING, TO\n          ALLOW      FOR   EXCEPTIONS     TO    SEWAGE     DISPOSAL\n          REQUIREMENTS.”\n\n    BE IT ORDAINED BY THE GOVERNING BODY OF THE "
+        },
+        {
+          "term": "sewer",
+          "match_start": 589,
+          "match_end": 594,
+          "passage_start": 439,
+          "passage_end": 844,
+          "text": "  REQUIREMENTS.”\n\n    BE IT ORDAINED BY THE GOVERNING BODY OF THE CITY OF CHEYENNE,\nWYOMING:\n\n        Section 1. That various sections of Chapter 13, Sewer System of Title 13, Public Services,\nof the code of the City of Cheyenne, Wyoming, are hereby amended as set out in this ordinance.\nSections currently existing in Chapter 13 not set out within this ordinance remain unchanged.\n\n13.12.020 - Sewer conn"
+        },
+        {
+          "term": "sewer",
+          "match_start": 834,
+          "match_end": 839,
+          "passage_start": 684,
+          "passage_end": 1089,
+          "text": "reby amended as set out in this ordinance.\nSections currently existing in Chapter 13 not set out within this ordinance remain unchanged.\n\n13.12.020 - Sewer connection required.\n\n        All occupied property in the city which that is capable of being served by the sanitary sewer\nsystem shall be connected with the system. A written or printed notice to connect with the system\nshall be given by the city "
+        }
+      ]
+    },
+    {
+      "classification": "unreviewed_topical_match_not_a_finding",
+      "source_sha256": "108f3972b4fd26886fcb4c3ee89bb61fef1e1c64a7e5d90eae2a20c665b1feb4",
+      "source_url": "https://www.cheyennecity.org/files/sharedassets/public/v/1/your-government/city-council/fc-2025/fc-06-17-25-minutes.pdf",
+      "source_retrieved_at": "2026-11-08T16:29:49.106378+00:00",
+      "page": 2,
+      "extraction_method": "native",
+      "quality_verified": false,
+      "representation_path": "derived/108f3972b4fd26886fcb4c3ee89bb61fef1e1c64a7e5d90eae2a20c665b1feb4/page-000002.json",
+      "representation_text_sha256": "34d9553c5a3704df2a2738e7dafcfb56ff54543df39777c5e18f21cb542153b8",
+      "representation_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/22880f4c2443b35dd5c4b53e67708302bc66f9cc/derived/108f3972b4fd26886fcb4c3ee89bb61fef1e1c64a7e5d90eae2a20c665b1feb4/page-000002.json",
+      "original_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/22880f4c2443b35dd5c4b53e67708302bc66f9cc/objects/10/108f3972b4fd26886fcb4c3ee89bb61fef1e1c64a7e5d90eae2a20c665b1feb4",
+      "evidence": [
+        {
+          "term": "sewer",
+          "match_start": 1066,
+          "match_end": 1071,
+          "passage_start": 916,
+          "passage_end": 1321,
+          "text": ")      Right-of-Way License Agreement between the City of Cheyenne and Volunteers\n              of America Northern Rockies for connection of a storm sewer pipe from the onsite\n              detention pond to the storm sewer network in Seymour Avenue near East 25th\n              Street.\n\nMr. Moody moved to approve, seconded by Mr. Esquibel. Motion carried by unanimous voice\nvote.\n\nErin Gates, Staff Eng"
+        },
+        {
+          "term": "sewer",
+          "match_start": 1135,
+          "match_end": 1140,
+          "passage_start": 985,
+          "passage_end": 1390,
+          "text": "d Volunteers\n              of America Northern Rockies for connection of a storm sewer pipe from the onsite\n              detention pond to the storm sewer network in Seymour Avenue near East 25th\n              Street.\n\nMr. Moody moved to approve, seconded by Mr. Esquibel. Motion carried by unanimous voice\nvote.\n\nErin Gates, Staff Engineer, provided a staff report and committee member Roybal commented "
+        }
+      ]
+    },
+    {
+      "classification": "unreviewed_topical_match_not_a_finding",
+      "source_sha256": "108f3972b4fd26886fcb4c3ee89bb61fef1e1c64a7e5d90eae2a20c665b1feb4",
+      "source_url": "https://www.cheyennecity.org/files/sharedassets/public/v/1/your-government/city-council/fc-2025/fc-06-17-25-minutes.pdf",
+      "source_retrieved_at": "2026-11-08T16:29:49.106378+00:00",
+      "page": 4,
+      "extraction_method": "native",
+      "quality_verified": false,
+      "representation_path": "derived/108f3972b4fd26886fcb4c3ee89bb61fef1e1c64a7e5d90eae2a20c665b1feb4/page-000004.json",
+      "representation_text_sha256": "edfd7b04f08d989e8fe90f1e57df27f73a597418bbda0cf8b6a9f20c7a890e1f",
+      "representation_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/22880f4c2443b35dd5c4b53e67708302bc66f9cc/derived/108f3972b4fd26886fcb4c3ee89bb61fef1e1c64a7e5d90eae2a20c665b1feb4/page-000004.json",
+      "original_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/22880f4c2443b35dd5c4b53e67708302bc66f9cc/objects/10/108f3972b4fd26886fcb4c3ee89bb61fef1e1c64a7e5d90eae2a20c665b1feb4",
+      "evidence": [
+        {
+          "term": "wastewater",
+          "match_start": 2092,
+          "match_end": 2102,
+          "passage_start": 1942,
+          "passage_end": 2238,
+          "text": "f report. Chairman\nLaybourn and committee members Esquibel and Moody commented on the item.\n\n27.    OTHER BUSINESS:\n\n       a)     Combined Water and Wastewater Agreement between the City of Cheyenne,\n              Cheyenne Board of Public Utilities and South Cheyenne Water and Sewer District.\n\f"
+        },
+        {
+          "term": "sewer",
+          "match_start": 2221,
+          "match_end": 2226,
+          "passage_start": 2071,
+          "passage_end": 2238,
+          "text": "  Combined Water and Wastewater Agreement between the City of Cheyenne,\n              Cheyenne Board of Public Utilities and South Cheyenne Water and Sewer District.\n\f"
+        }
+      ]
+    },
+    {
+      "classification": "unreviewed_topical_match_not_a_finding",
+      "source_sha256": "10e647a301957538b009a471177553cb3aa82fffe2bbeb3b8cd675cc40faf2ed",
+      "source_url": "https://www.cheyennecity.org/files/sharedassets/public/v/1/your-government/city-council/fc-2024/fc-07-15-24-minutes.pdf",
+      "source_retrieved_at": "2026-11-08T16:40:54.755177+00:00",
+      "page": 2,
+      "extraction_method": "native",
+      "quality_verified": false,
+      "representation_path": "derived/10e647a301957538b009a471177553cb3aa82fffe2bbeb3b8cd675cc40faf2ed/page-000002.json",
+      "representation_text_sha256": "d79910161188a7240b6aa57da4419ae8ecc3cd9287cf3cca38abc208461583a2",
+      "representation_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/22880f4c2443b35dd5c4b53e67708302bc66f9cc/derived/10e647a301957538b009a471177553cb3aa82fffe2bbeb3b8cd675cc40faf2ed/page-000002.json",
+      "original_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/22880f4c2443b35dd5c4b53e67708302bc66f9cc/objects/10/10e647a301957538b009a471177553cb3aa82fffe2bbeb3b8cd675cc40faf2ed",
+      "evidence": [
+        {
+          "term": "drinking water",
+          "match_start": 975,
+          "match_end": 989,
+          "passage_start": 825,
+          "passage_end": 1239,
+          "text": "TRACT MODIFICATIONS:\n\n       a)    Contract Modification #1 for the Cheyenne Transmission, Pump Station and Tank\n            2020 Project Agreement. (Drinking Water SRF and Wyoming Water Development\n            and ARPA Grants)\n\nMr. Cook moved to approve, seconded by Mr. White. Motion carried by unanimous voice vote.\n\nBrent Davis, Board of Public Utilities, provided a staff report.\n\n15.    CONSIDERATION OF BIDS"
+        }
+      ]
+    },
+    {
+      "classification": "unreviewed_topical_match_not_a_finding",
+      "source_sha256": "13372b8db5b35b8cd829e97ecc04a21ca24d23e8b8f551c2dc28d2f907aa59e9",
+      "source_url": "https://www.cheyennecity.org/files/sharedassets/public/v/1/your-government/city-council/psc-2024/psc-05-07-24-agenda.pdf",
+      "source_retrieved_at": "2026-11-08T17:10:30.693901+00:00",
+      "page": 3,
+      "extraction_method": "native",
+      "quality_verified": false,
+      "representation_path": "derived/13372b8db5b35b8cd829e97ecc04a21ca24d23e8b8f551c2dc28d2f907aa59e9/page-000003.json",
+      "representation_text_sha256": "1beb71607b4986fd72a0365295504a51e1a0c5ff4d26fd3766da70eae9e0f4ae",
+      "representation_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/22880f4c2443b35dd5c4b53e67708302bc66f9cc/derived/13372b8db5b35b8cd829e97ecc04a21ca24d23e8b8f551c2dc28d2f907aa59e9/page-000003.json",
+      "original_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/22880f4c2443b35dd5c4b53e67708302bc66f9cc/objects/13/13372b8db5b35b8cd829e97ecc04a21ca24d23e8b8f551c2dc28d2f907aa59e9",
+      "evidence": [
+        {
+          "term": "sewer",
+          "match_start": 288,
+          "match_end": 293,
+          "passage_start": 138,
+          "passage_end": 543,
+          "text": "dwellings, semi-attached dwellings, and\n      attached dwellings. (SPONSOR – MR. ROYBAL)\n\nACTION:\n\n24.   RESOLUTION – Approving water and/or sanitary sewer service, by Outside User\n      Agreement, for Robert GrandPre, for the property at Lot 1, Block 1, Green Subdivision,\n      4th Filing, Laramie County, Wyoming (east of Ridge Road and north of and adjacent to\n      Green Court). (SPONSOR – MR. ROYBA"
+        }
+      ]
+    },
+    {
+      "classification": "unreviewed_topical_match_not_a_finding",
+      "source_sha256": "17830ea84cd5047dba39ebbb1127d868dc67ab7e6fb4d6fcf1b4e413756bf804",
+      "source_url": "https://www.cheyennecity.org/files/sharedassets/public/v/1/your-government/city-council/fc-2026/fc-06-16-26.pdf",
+      "source_retrieved_at": "2026-11-08T16:28:04.753082+00:00",
+      "page": 1,
+      "extraction_method": "native",
+      "quality_verified": false,
+      "representation_path": "derived/17830ea84cd5047dba39ebbb1127d868dc67ab7e6fb4d6fcf1b4e413756bf804/page-000001.json",
+      "representation_text_sha256": "fff59cc07c2d11f8d532a022f773df6969f6068f513c7e85ec084f0ce7f94c64",
+      "representation_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/22880f4c2443b35dd5c4b53e67708302bc66f9cc/derived/17830ea84cd5047dba39ebbb1127d868dc67ab7e6fb4d6fcf1b4e413756bf804/page-000001.json",
+      "original_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/22880f4c2443b35dd5c4b53e67708302bc66f9cc/objects/17/17830ea84cd5047dba39ebbb1127d868dc67ab7e6fb4d6fcf1b4e413756bf804",
+      "evidence": [
+        {
+          "term": "drinking water",
+          "match_start": 1028,
+          "match_end": 1042,
+          "passage_start": 878,
+          "passage_end": 1292,
+          "text": "horizing submission of an application to the Wyoming State Loan\n                        —\n\n\n\n\n       and Investment Board for a loan from the Wyoming Drinking Water State Revolving Fund\n       for an amount not to exceed $20,000,000.00 for the Lead Service Line Investigation and\n       Replacement Project and authorizing the Mayor, City Clerk, and Director of the Board of\n       Public Utilities to execute the "
+        },
+        {
+          "term": "lead service line",
+          "match_start": 1122,
+          "match_end": 1139,
+          "passage_start": 972,
+          "passage_end": 1389,
+          "text": "       and Investment Board for a loan from the Wyoming Drinking Water State Revolving Fund\n       for an amount not to exceed $20,000,000.00 for the Lead Service Line Investigation and\n       Replacement Project and authorizing the Mayor, City Clerk, and Director of the Board of\n       Public Utilities to execute the application and all related documents. (SPONSOR MR.—\n\n\n\n\n       ESQUIBEL)\n\nMr. Moody moved to ado"
+        }
+      ]
+    },
+    {
+      "classification": "unreviewed_topical_match_not_a_finding",
+      "source_sha256": "1b8d658ddb8ed22b06c606f3cf74272844420aae49d7ffbb7f5c5b6deadc3e7a",
+      "source_url": "https://www.cheyennecity.org/files/sharedassets/public/v/1/your-government/city-council/psc-2023/substitute-v0.2_bopu-chapter-13.20_wastewater_treatment_and_disposal-2023.10.13-ca-redline-stamped.pdf",
+      "source_retrieved_at": "2026-11-08T17:12:39.825911+00:00",
+      "page": 1,
+      "extraction_method": "native",
+      "quality_verified": false,
+      "representation_path": "derived/1b8d658ddb8ed22b06c606f3cf74272844420aae49d7ffbb7f5c5b6deadc3e7a/page-000001.json",
+      "representation_text_sha256": "d205752e288859dc75e8490783d4cb09c69c4071b96a976ee1b42e0ce281187e",
+      "representation_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/22880f4c2443b35dd5c4b53e67708302bc66f9cc/derived/1b8d658ddb8ed22b06c606f3cf74272844420aae49d7ffbb7f5c5b6deadc3e7a/page-000001.json",
+      "original_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/22880f4c2443b35dd5c4b53e67708302bc66f9cc/objects/1b/1b8d658ddb8ed22b06c606f3cf74272844420aae49d7ffbb7f5c5b6deadc3e7a",
+      "evidence": [
+        {
+          "term": "wastewater",
+          "match_start": 241,
+          "match_end": 251,
+          "passage_start": 91,
+          "passage_end": 501,
+          "text": "Oct 13, 2023\n\n\n                                 ORDINANCE NO. ________\n\nENTITLED: \"AN ORDINANCE AMENDING CERTAIN SECTIONS OF CHAPTER\n          13.20, WASTEWATER TREATMENT AND DISPOSAL OF TITLE 13,\n          PUBLIC SERVICES OF THE MUNICIPAL CODE OF THE CITY OF\n          CHEYENNE, WYOMING, REGARDING WASTEWATER TREATMENT\n          AND DISPOSAL.\"\n\n    BE IT ORDAINED BY THE GOVERNING BODY OF THE CITY OF CHEYENNE"
+        },
+        {
+          "term": "wastewater",
+          "match_start": 390,
+          "match_end": 400,
+          "passage_start": 240,
+          "passage_end": 650,
+          "text": " WASTEWATER TREATMENT AND DISPOSAL OF TITLE 13,\n          PUBLIC SERVICES OF THE MUNICIPAL CODE OF THE CITY OF\n          CHEYENNE, WYOMING, REGARDING WASTEWATER TREATMENT\n          AND DISPOSAL.\"\n\n    BE IT ORDAINED BY THE GOVERNING BODY OF THE CITY OF CHEYENNE,\nWYOMING:\n\n       Section 1. That Section 13.20.050, General Prohibitions; Section 13.20.545, Sector control\nprogram; Section 13.20.560, Industrial "
+        },
+        {
+          "term": "sewer",
+          "match_start": 682,
+          "match_end": 687,
+          "passage_start": 532,
+          "passage_end": 937,
+          "text": "hat Section 13.20.050, General Prohibitions; Section 13.20.545, Sector control\nprogram; Section 13.20.560, Industrial user’s fees, Section 13.20.590, sewer use surcharge;\nSection 13.20.610, payment; Section 13.20.700, cease and desist orders; Section 13.20.730,\nTermination, suspension, or disconnection of water and/or sewer services; Section 13.20.740,\nProcedure for suspending or revoking permits or te"
+        }
+      ]
+    },
+    {
+      "classification": "unreviewed_topical_match_not_a_finding",
+      "source_sha256": "1b8d658ddb8ed22b06c606f3cf74272844420aae49d7ffbb7f5c5b6deadc3e7a",
+      "source_url": "https://www.cheyennecity.org/files/sharedassets/public/v/1/your-government/city-council/psc-2023/substitute-v0.2_bopu-chapter-13.20_wastewater_treatment_and_disposal-2023.10.13-ca-redline-stamped.pdf",
+      "source_retrieved_at": "2026-11-08T17:12:39.825911+00:00",
+      "page": 2,
+      "extraction_method": "native",
+      "quality_verified": false,
+      "representation_path": "derived/1b8d658ddb8ed22b06c606f3cf74272844420aae49d7ffbb7f5c5b6deadc3e7a/page-000002.json",
+      "representation_text_sha256": "54ea229bbfe2f6ffefdde31515341c1fb293862b642127f877c785adc0b64772",
+      "representation_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/22880f4c2443b35dd5c4b53e67708302bc66f9cc/derived/1b8d658ddb8ed22b06c606f3cf74272844420aae49d7ffbb7f5c5b6deadc3e7a/page-000002.json",
+      "original_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/22880f4c2443b35dd5c4b53e67708302bc66f9cc/objects/1b/1b8d658ddb8ed22b06c606f3cf74272844420aae49d7ffbb7f5c5b6deadc3e7a",
+      "evidence": [
+        {
+          "term": "wastewater",
+          "match_start": 150,
+          "match_end": 160,
+          "passage_start": 0,
+          "passage_end": 410,
+          "text": "4. Petroleum oil, nonbiodegradable cutting oil, or products of mineral oil origin in\n   amounts that will cause pass through or interference;\n\n5. Any wastewater having a pH less than five (5) or greater than eleven (11), or having\n   any other corrosive property capable of causing damage or hazard to structures,\n   equipment or personnel of the POTW;\n\n6. Any substance which may cause a public nuisance, caus"
+        },
+        {
+          "term": "sewer",
+          "match_start": 558,
+          "match_end": 563,
+          "passage_start": 408,
+          "passage_end": 813,
+          "text": "use hazard to life or prevent entry\n   into the sewers for maintenance and repair;\n\n7. Heated substances in amounts which will prevent entry into the sewer system of\n   authorized personnel or will inhibit biological activity in the POTW resulting in\n   interference, but in no case heat in such quantities that the temperature at the POTW\n   treatment plant exceeds one hundred four (104) degrees Fahrenh"
+        },
+        {
+          "term": "wastewater",
+          "match_start": 1547,
+          "match_end": 1557,
+          "passage_start": 1397,
+          "passage_end": 1807,
+          "text": "ts, released in a discharge at a flow\n    rate and/or concentration (including any slug load) which may will cause interference\n    to the POTW;\n\n11. Wastewater which imparts color which cannot be removed by the treatment process,\n    such as, but not limited to, dye wastes and vegetable tanning solutions, which\n    consequently imparts color to the treatment plant's effluent, thereby violating the\n    BOPU"
+        }
+      ]
+    },
+    {
+      "classification": "unreviewed_topical_match_not_a_finding",
+      "source_sha256": "1b8d658ddb8ed22b06c606f3cf74272844420aae49d7ffbb7f5c5b6deadc3e7a",
+      "source_url": "https://www.cheyennecity.org/files/sharedassets/public/v/1/your-government/city-council/psc-2023/substitute-v0.2_bopu-chapter-13.20_wastewater_treatment_and_disposal-2023.10.13-ca-redline-stamped.pdf",
+      "source_retrieved_at": "2026-11-08T17:12:39.825911+00:00",
+      "page": 3,
+      "extraction_method": "native",
+      "quality_verified": false,
+      "representation_path": "derived/1b8d658ddb8ed22b06c606f3cf74272844420aae49d7ffbb7f5c5b6deadc3e7a/page-000003.json",
+      "representation_text_sha256": "972d27e9a4681395608259b8a5b3bb8f9c3fbaced5fbffd16b299d28de4c09e8",
+      "representation_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/22880f4c2443b35dd5c4b53e67708302bc66f9cc/derived/1b8d658ddb8ed22b06c606f3cf74272844420aae49d7ffbb7f5c5b6deadc3e7a/page-000003.json",
+      "original_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/22880f4c2443b35dd5c4b53e67708302bc66f9cc/objects/1b/1b8d658ddb8ed22b06c606f3cf74272844420aae49d7ffbb7f5c5b6deadc3e7a",
+      "evidence": [
+        {
+          "term": "sewer",
+          "match_start": 388,
+          "match_end": 393,
+          "passage_start": 238,
+          "passage_end": 643,
+          "text": "ints, solvents, boiler or water\n      treatment chemicals, sludges, chemicals, or wastes shall be stored in proximity to a floor\n      drain or other sewer openings unless secondary containment is provided or there are\n      physical barriers to entry to the wastewater collection system. The storage of any\n      chemicals, materials, substances, or wastes that leak or have potential to leak or discharg"
+        },
+        {
+          "term": "wastewater",
+          "match_start": 497,
+          "match_end": 507,
+          "passage_start": 347,
+          "passage_end": 757,
+          "text": "roximity to a floor\n      drain or other sewer openings unless secondary containment is provided or there are\n      physical barriers to entry to the wastewater collection system. The storage of any\n      chemicals, materials, substances, or wastes that leak or have potential to leak or discharge\n      into the POTW which may create an explosion hazard or in any way have a deleterious\n      effect to the PO"
+        },
+        {
+          "term": "wastewater",
+          "match_start": 1429,
+          "match_end": 1439,
+          "passage_start": 1279,
+          "passage_end": 1689,
+          "text": "        using best management practices (BMPs).\n\n          b. The BOPU may implement these sector control programs through an individual\n             wastewater discharge permit, by letter, an authorization to discharge, or other\n             control mechanisms or by directly enforcing this chapter. All industrial users that\n             are covered by these sector control programs shall comply with this se"
+        }
+      ]
+    },
+    {
+      "classification": "unreviewed_topical_match_not_a_finding",
+      "source_sha256": "1b8d658ddb8ed22b06c606f3cf74272844420aae49d7ffbb7f5c5b6deadc3e7a",
+      "source_url": "https://www.cheyennecity.org/files/sharedassets/public/v/1/your-government/city-council/psc-2023/substitute-v0.2_bopu-chapter-13.20_wastewater_treatment_and_disposal-2023.10.13-ca-redline-stamped.pdf",
+      "source_retrieved_at": "2026-11-08T17:12:39.825911+00:00",
+      "page": 5,
+      "extraction_method": "native",
+      "quality_verified": false,
+      "representation_path": "derived/1b8d658ddb8ed22b06c606f3cf74272844420aae49d7ffbb7f5c5b6deadc3e7a/page-000005.json",
+      "representation_text_sha256": "e32fcf014dbbad08ce409a106f1692d6d456dd3138789f8ceabf6fb8b7463445",
+      "representation_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/22880f4c2443b35dd5c4b53e67708302bc66f9cc/derived/1b8d658ddb8ed22b06c606f3cf74272844420aae49d7ffbb7f5c5b6deadc3e7a/page-000005.json",
+      "original_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/22880f4c2443b35dd5c4b53e67708302bc66f9cc/objects/1b/1b8d658ddb8ed22b06c606f3cf74272844420aae49d7ffbb7f5c5b6deadc3e7a",
+      "evidence": [
+        {
+          "term": "wastewater",
+          "match_start": 659,
+          "match_end": 669,
+          "passage_start": 509,
+          "passage_end": 919,
+          "text": "ity grease interceptor, hydromechanical grease\n       interceptor or other mechanism, device, or process, which attaches to, or is applied\n       to, wastewater plumbing fixtures and lines, the purpose of which is to trap or collect\n       FOG prior to it being discharged into the sewer system. Grease interceptors may\n       also include any other proven physical method to reduce FOG subject to approval\n   "
+        },
+        {
+          "term": "sewer",
+          "match_start": 791,
+          "match_end": 796,
+          "passage_start": 641,
+          "passage_end": 1046,
+          "text": "pplied\n       to, wastewater plumbing fixtures and lines, the purpose of which is to trap or collect\n       FOG prior to it being discharged into the sewer system. Grease interceptors may\n       also include any other proven physical method to reduce FOG subject to approval\n       of the BOPU.\n\n       \"Gravity grease interceptor\" or \"GGI\" is means a multi-compartmental plumbing\n       apparatus or appl"
+        },
+        {
+          "term": "wastewater",
+          "match_start": 1156,
+          "match_end": 1166,
+          "passage_start": 1006,
+          "passage_end": 1416,
+          "text": "mental plumbing\n       apparatus or appliance, constructed in differing sizes, connected to a sanitary\n       drainage system to intercept FOG from a wastewater discharge and is identified by\n       liquid volume, thirty-minute retention time, baffle(s), a minimum of two\n       compartments, and gravity separation.\n\n       \"Hydromechanical grease interceptor\" or \"HMGI\" is means a plumbing apparatus\n       o"
+        }
+      ]
+    },
+    {
+      "classification": "unreviewed_topical_match_not_a_finding",
+      "source_sha256": "1b8d658ddb8ed22b06c606f3cf74272844420aae49d7ffbb7f5c5b6deadc3e7a",
+      "source_url": "https://www.cheyennecity.org/files/sharedassets/public/v/1/your-government/city-council/psc-2023/substitute-v0.2_bopu-chapter-13.20_wastewater_treatment_and_disposal-2023.10.13-ca-redline-stamped.pdf",
+      "source_retrieved_at": "2026-11-08T17:12:39.825911+00:00",
+      "page": 6,
+      "extraction_method": "native",
+      "quality_verified": false,
+      "representation_path": "derived/1b8d658ddb8ed22b06c606f3cf74272844420aae49d7ffbb7f5c5b6deadc3e7a/page-000006.json",
+      "representation_text_sha256": "43d1a70febc664692abfbe593316e5526ed46db8d6922b2a8b69ad4be71db822",
+      "representation_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/22880f4c2443b35dd5c4b53e67708302bc66f9cc/derived/1b8d658ddb8ed22b06c606f3cf74272844420aae49d7ffbb7f5c5b6deadc3e7a/page-000006.json",
+      "original_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/22880f4c2443b35dd5c4b53e67708302bc66f9cc/objects/1b/1b8d658ddb8ed22b06c606f3cf74272844420aae49d7ffbb7f5c5b6deadc3e7a",
+      "evidence": [
+        {
+          "term": "wastewater",
+          "match_start": 340,
+          "match_end": 350,
+          "passage_start": 190,
+          "passage_end": 600,
+          "text": "r as specified by the BOPU.\n\n3. No industrial user covered by subsection B.2, above, shall discharge or cause to be\n   discharged or pass through any wastewater containing free or floating oil and grease,\n   or any discharge containing animal fat or grease by-product. Methods to determine pass\n   through of fats, oils, and grease can include visual observation, mathematical\n   calculations, or laboratory an"
+        }
+      ]
+    },
+    {
+      "classification": "unreviewed_topical_match_not_a_finding",
+      "source_sha256": "1b8d658ddb8ed22b06c606f3cf74272844420aae49d7ffbb7f5c5b6deadc3e7a",
+      "source_url": "https://www.cheyennecity.org/files/sharedassets/public/v/1/your-government/city-council/psc-2023/substitute-v0.2_bopu-chapter-13.20_wastewater_treatment_and_disposal-2023.10.13-ca-redline-stamped.pdf",
+      "source_retrieved_at": "2026-11-08T17:12:39.825911+00:00",
+      "page": 7,
+      "extraction_method": "native",
+      "quality_verified": false,
+      "representation_path": "derived/1b8d658ddb8ed22b06c606f3cf74272844420aae49d7ffbb7f5c5b6deadc3e7a/page-000007.json",
+      "representation_text_sha256": "56d568e9162b8f8dbf03cce166acf883b43f4611db8393841ec661c34eeced0d",
+      "representation_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/22880f4c2443b35dd5c4b53e67708302bc66f9cc/derived/1b8d658ddb8ed22b06c606f3cf74272844420aae49d7ffbb7f5c5b6deadc3e7a/page-000007.json",
+      "original_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/22880f4c2443b35dd5c4b53e67708302bc66f9cc/objects/1b/1b8d658ddb8ed22b06c606f3cf74272844420aae49d7ffbb7f5c5b6deadc3e7a",
+      "evidence": [
+        {
+          "term": "wastewater",
+          "match_start": 907,
+          "match_end": 917,
+          "passage_start": 757,
+          "passage_end": 1167,
+          "text": "ts.\n\n   a. A grease interceptor shall be required for the proper handling of liquid wastes which\n      may be harmful to, or cause obstruction in the wastewater collection system POTW\n      or cause or contribute to pass through or interference.\n\n   b. It shall be the responsibility of the industrial user and/or owner of the property to\n      contact the city for obtaining and obtain the necessary permits f"
+        },
+        {
+          "term": "wastewater",
+          "match_start": 2311,
+          "match_end": 2321,
+          "passage_start": 2161,
+          "passage_end": 2571,
+          "text": "or shall be sized, installed, maintained, and operated to accomplish the\n      intended purpose of intercepting pollutants from the industrial user's wastewater\n      and preventing the discharge of such pollutants to the BOPU's wastewater\n      collection system POTW, including pollutants that result in toxic, noxious, or\n      malodorous conditions that create a public nuisance or unsafe working condition"
+        },
+        {
+          "term": "wastewater",
+          "match_start": 2390,
+          "match_end": 2400,
+          "passage_start": 2240,
+          "passage_end": 2650,
+          "text": "intended purpose of intercepting pollutants from the industrial user's wastewater\n      and preventing the discharge of such pollutants to the BOPU's wastewater\n      collection system POTW, including pollutants that result in toxic, noxious, or\n      malodorous conditions that create a public nuisance or unsafe working conditions,\n      which endanger life or the environment.\n\n   d. Waste discharged from f"
+        }
+      ]
+    },
+    {
+      "classification": "unreviewed_topical_match_not_a_finding",
+      "source_sha256": "1b8d658ddb8ed22b06c606f3cf74272844420aae49d7ffbb7f5c5b6deadc3e7a",
+      "source_url": "https://www.cheyennecity.org/files/sharedassets/public/v/1/your-government/city-council/psc-2023/substitute-v0.2_bopu-chapter-13.20_wastewater_treatment_and_disposal-2023.10.13-ca-redline-stamped.pdf",
+      "source_retrieved_at": "2026-11-08T17:12:39.825911+00:00",
+      "page": 8,
+      "extraction_method": "native",
+      "quality_verified": false,
+      "representation_path": "derived/1b8d658ddb8ed22b06c606f3cf74272844420aae49d7ffbb7f5c5b6deadc3e7a/page-000008.json",
+      "representation_text_sha256": "15f98c2ebbc0854c9e735b3807764d73da1e797b8090a7986a2269d31dc7f5a0",
+      "representation_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/22880f4c2443b35dd5c4b53e67708302bc66f9cc/derived/1b8d658ddb8ed22b06c606f3cf74272844420aae49d7ffbb7f5c5b6deadc3e7a/page-000008.json",
+      "original_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/22880f4c2443b35dd5c4b53e67708302bc66f9cc/objects/1b/1b8d658ddb8ed22b06c606f3cf74272844420aae49d7ffbb7f5c5b6deadc3e7a",
+      "evidence": [
+        {
+          "term": "sewer",
+          "match_start": 150,
+          "match_end": 155,
+          "passage_start": 0,
+          "passage_end": 405,
+          "text": "e. Upon change of ownership of any existing facility which would be required to have\n   an interceptor under this section, the applicant for sanitary sewer service shall have\n   the burden to demonstrate that a properly sized and functioning grease interceptor\n   is installed. Upon application for sanitary sewer service, or application for a\n   building permit or business license, every food service es"
+        },
+        {
+          "term": "sewer",
+          "match_start": 308,
+          "match_end": 313,
+          "passage_start": 158,
+          "passage_end": 563,
+          "text": "rvice shall have\n   the burden to demonstrate that a properly sized and functioning grease interceptor\n   is installed. Upon application for sanitary sewer service, or application for a\n   building permit or business license, every food service establishment, as defined in\n   Paragraph B.2 of this section, shall coordinate with the BOPU so that a properly\n   sized and functioning grease interceptor wil"
+        },
+        {
+          "term": "sewer",
+          "match_start": 2412,
+          "match_end": 2417,
+          "passage_start": 2262,
+          "passage_end": 2667,
+          "text": "emoval of accumulated FOG.\n\nl. Pay The industrial user may be required to pay the costs incurred by the BOPU or\n   other jurisdiction for accelerated sewer line cleaning on the sewer line providing\n   service between the facility and the POTW, costs to the BOPU for treating the\n   excess strength waste and any costs for sampling and analysis.\n\nm. Each industrial user that is required to use and maintai"
+        }
+      ]
+    },
+    {
+      "classification": "unreviewed_topical_match_not_a_finding",
+      "source_sha256": "1b8d658ddb8ed22b06c606f3cf74272844420aae49d7ffbb7f5c5b6deadc3e7a",
+      "source_url": "https://www.cheyennecity.org/files/sharedassets/public/v/1/your-government/city-council/psc-2023/substitute-v0.2_bopu-chapter-13.20_wastewater_treatment_and_disposal-2023.10.13-ca-redline-stamped.pdf",
+      "source_retrieved_at": "2026-11-08T17:12:39.825911+00:00",
+      "page": 9,
+      "extraction_method": "native",
+      "quality_verified": false,
+      "representation_path": "derived/1b8d658ddb8ed22b06c606f3cf74272844420aae49d7ffbb7f5c5b6deadc3e7a/page-000009.json",
+      "representation_text_sha256": "5c10afb5157e158e57974d7bf8713569132ed0a0fd857df0bb0308ac7e2a25e0",
+      "representation_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/22880f4c2443b35dd5c4b53e67708302bc66f9cc/derived/1b8d658ddb8ed22b06c606f3cf74272844420aae49d7ffbb7f5c5b6deadc3e7a/page-000009.json",
+      "original_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/22880f4c2443b35dd5c4b53e67708302bc66f9cc/objects/1b/1b8d658ddb8ed22b06c606f3cf74272844420aae49d7ffbb7f5c5b6deadc3e7a",
+      "evidence": [
+        {
+          "term": "wastewater",
+          "match_start": 2828,
+          "match_end": 2838,
+          "passage_start": 2678,
+          "passage_end": 3088,
+          "text": "y scheduled cleaning so that they\n      will properly operate as intended to efficiently intercept the fats, oil and grease from\n      the facility's wastewater and prevent the discharge of said materials into the BOPU's\n      wastewater collection system POTW. A grease interceptor shall be serviced at a\n      minimum of every ninety (90) days, or at an increased frequency specified by the\n      BOPU, when "
+        },
+        {
+          "term": "wastewater",
+          "match_start": 2905,
+          "match_end": 2915,
+          "passage_start": 2755,
+          "passage_end": 3165,
+          "text": "efficiently intercept the fats, oil and grease from\n      the facility's wastewater and prevent the discharge of said materials into the BOPU's\n      wastewater collection system POTW. A grease interceptor shall be serviced at a\n      minimum of every ninety (90) days, or at an increased frequency specified by the\n      BOPU, when pass through of FOG is indicated through visual observation,\n      mathematic"
+        }
+      ]
+    },
+    {
+      "classification": "unreviewed_topical_match_not_a_finding",
+      "source_sha256": "1b8d658ddb8ed22b06c606f3cf74272844420aae49d7ffbb7f5c5b6deadc3e7a",
+      "source_url": "https://www.cheyennecity.org/files/sharedassets/public/v/1/your-government/city-council/psc-2023/substitute-v0.2_bopu-chapter-13.20_wastewater_treatment_and_disposal-2023.10.13-ca-redline-stamped.pdf",
+      "source_retrieved_at": "2026-11-08T17:12:39.825911+00:00",
+      "page": 11,
+      "extraction_method": "native",
+      "quality_verified": false,
+      "representation_path": "derived/1b8d658ddb8ed22b06c606f3cf74272844420aae49d7ffbb7f5c5b6deadc3e7a/page-000011.json",
+      "representation_text_sha256": "3b2966f0ea9a7dcdb00e6e40000ff3be4a60464619b0b3795da277ea66405b71",
+      "representation_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/22880f4c2443b35dd5c4b53e67708302bc66f9cc/derived/1b8d658ddb8ed22b06c606f3cf74272844420aae49d7ffbb7f5c5b6deadc3e7a/page-000011.json",
+      "original_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/22880f4c2443b35dd5c4b53e67708302bc66f9cc/objects/1b/1b8d658ddb8ed22b06c606f3cf74272844420aae49d7ffbb7f5c5b6deadc3e7a",
+      "evidence": [
+        {
+          "term": "sewer",
+          "match_start": 966,
+          "match_end": 971,
+          "passage_start": 816,
+          "passage_end": 1221,
+          "text": ", and sludge removed.\n\n          viii. Any material removed from the trap grease interceptor shall not be introduced\n               into any sanitary sewer or storm sewer.\n\n          ix. Any material accidentally spilled on the floor during cleaning, transporting of\n              equipment or removing grease shall be cleaned up prior to departure from the\n              site.\n\n      b. If a grease trap "
+        },
+        {
+          "term": "sewer",
+          "match_start": 981,
+          "match_end": 986,
+          "passage_start": 831,
+          "passage_end": 1236,
+          "text": "moved.\n\n          viii. Any material removed from the trap grease interceptor shall not be introduced\n               into any sanitary sewer or storm sewer.\n\n          ix. Any material accidentally spilled on the floor during cleaning, transporting of\n              equipment or removing grease shall be cleaned up prior to departure from the\n              site.\n\n      b. If a grease trap interceptor is "
+        }
+      ]
+    },
+    {
+      "classification": "unreviewed_topical_match_not_a_finding",
+      "source_sha256": "1b8d658ddb8ed22b06c606f3cf74272844420aae49d7ffbb7f5c5b6deadc3e7a",
+      "source_url": "https://www.cheyennecity.org/files/sharedassets/public/v/1/your-government/city-council/psc-2023/substitute-v0.2_bopu-chapter-13.20_wastewater_treatment_and_disposal-2023.10.13-ca-redline-stamped.pdf",
+      "source_retrieved_at": "2026-11-08T17:12:39.825911+00:00",
+      "page": 12,
+      "extraction_method": "native",
+      "quality_verified": false,
+      "representation_path": "derived/1b8d658ddb8ed22b06c606f3cf74272844420aae49d7ffbb7f5c5b6deadc3e7a/page-000012.json",
+      "representation_text_sha256": "293645b35d83ff59c822ca7596f26c140899c5572b5e8143fc2e138ffbd2d1cd",
+      "representation_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/22880f4c2443b35dd5c4b53e67708302bc66f9cc/derived/1b8d658ddb8ed22b06c606f3cf74272844420aae49d7ffbb7f5c5b6deadc3e7a/page-000012.json",
+      "original_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/22880f4c2443b35dd5c4b53e67708302bc66f9cc/objects/1b/1b8d658ddb8ed22b06c606f3cf74272844420aae49d7ffbb7f5c5b6deadc3e7a",
+      "evidence": [
+        {
+          "term": "wastewater",
+          "match_start": 1379,
+          "match_end": 1389,
+          "passage_start": 1229,
+          "passage_end": 1639,
+          "text": " or oil water separator shall be required\n       for the proper handling of liquid wastes which may be harmful to, or cause\n       obstruction in the wastewater collection system POTW or cause or contribute to\n       pass through or interference.\n\n    b. It shall be the responsibility of the industrial user, and owner of the property,\n       business or industry or an authorized representative of the indust"
+        }
+      ]
+    },
+    {
+      "classification": "unreviewed_topical_match_not_a_finding",
+      "source_sha256": "1b8d658ddb8ed22b06c606f3cf74272844420aae49d7ffbb7f5c5b6deadc3e7a",
+      "source_url": "https://www.cheyennecity.org/files/sharedassets/public/v/1/your-government/city-council/psc-2023/substitute-v0.2_bopu-chapter-13.20_wastewater_treatment_and_disposal-2023.10.13-ca-redline-stamped.pdf",
+      "source_retrieved_at": "2026-11-08T17:12:39.825911+00:00",
+      "page": 13,
+      "extraction_method": "native",
+      "quality_verified": false,
+      "representation_path": "derived/1b8d658ddb8ed22b06c606f3cf74272844420aae49d7ffbb7f5c5b6deadc3e7a/page-000013.json",
+      "representation_text_sha256": "9ed06326ea84afd10bdfca880cb92010539109a6f7d67238ad03b32974d64f8d",
+      "representation_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/22880f4c2443b35dd5c4b53e67708302bc66f9cc/derived/1b8d658ddb8ed22b06c606f3cf74272844420aae49d7ffbb7f5c5b6deadc3e7a/page-000013.json",
+      "original_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/22880f4c2443b35dd5c4b53e67708302bc66f9cc/objects/1b/1b8d658ddb8ed22b06c606f3cf74272844420aae49d7ffbb7f5c5b6deadc3e7a",
+      "evidence": [
+        {
+          "term": "sewer",
+          "match_start": 147,
+          "match_end": 152,
+          "passage_start": 0,
+          "passage_end": 402,
+          "text": "d. Upon change of ownership of any existing facility which would be required to have\n   a separator under this chapter, the applicant for sanitary sewer service shall have\n   the burden to demonstrate that a properly sized and functioning sand/oil/water\n   separator is installed. Upon application for sanitary sewer service, or application\n   for a building permit or business license, all facilities "
+        },
+        {
+          "term": "sewer",
+          "match_start": 311,
+          "match_end": 316,
+          "passage_start": 161,
+          "passage_end": 566,
+          "text": "shall have\n   the burden to demonstrate that a properly sized and functioning sand/oil/water\n   separator is installed. Upon application for sanitary sewer service, or application\n   for a building permit or business license, all facilities that have the potential to\n   discharge petroleum oil, mineral oil, cutting oils, non-food grease, and solids, shall\n   coordinate with the BOPU so that a properly "
+        },
+        {
+          "term": "sewer",
+          "match_start": 919,
+          "match_end": 924,
+          "passage_start": 769,
+          "passage_end": 1174,
+          "text": "e plumbed through a sand/oil/water\n   separator sand interceptor or oil water separator. Such fixtures shall be plumbed\n   directly into the building sewer and waste system.\n\nf. Separators or interceptors in all facilities used for cleaning vehicles, equipment or\n   machine parts shall be constructed to prevent the entrance of storm or surface runoff\n   water or the intrusion of groundwater into the PO"
+        }
+      ]
+    },
+    {
+      "classification": "unreviewed_topical_match_not_a_finding",
+      "source_sha256": "1b8d658ddb8ed22b06c606f3cf74272844420aae49d7ffbb7f5c5b6deadc3e7a",
+      "source_url": "https://www.cheyennecity.org/files/sharedassets/public/v/1/your-government/city-council/psc-2023/substitute-v0.2_bopu-chapter-13.20_wastewater_treatment_and_disposal-2023.10.13-ca-redline-stamped.pdf",
+      "source_retrieved_at": "2026-11-08T17:12:39.825911+00:00",
+      "page": 14,
+      "extraction_method": "native",
+      "quality_verified": false,
+      "representation_path": "derived/1b8d658ddb8ed22b06c606f3cf74272844420aae49d7ffbb7f5c5b6deadc3e7a/page-000014.json",
+      "representation_text_sha256": "4ca063d02e02b7692222fe8df491fe293231be3ce46754802f9331589602609a",
+      "representation_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/22880f4c2443b35dd5c4b53e67708302bc66f9cc/derived/1b8d658ddb8ed22b06c606f3cf74272844420aae49d7ffbb7f5c5b6deadc3e7a/page-000014.json",
+      "original_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/22880f4c2443b35dd5c4b53e67708302bc66f9cc/objects/1b/1b8d658ddb8ed22b06c606f3cf74272844420aae49d7ffbb7f5c5b6deadc3e7a",
+      "evidence": [
+        {
+          "term": "sewer",
+          "match_start": 617,
+          "match_end": 622,
+          "passage_start": 467,
+          "passage_end": 872,
+          "text": "             oil/water separator or sand interceptor or oil water separator shall not be\n                  introduced back into the sanitary or storm sewer systems of the city of\n                  Cheyenne.\n\n               iv. In the event a separator or interceptor is not properly maintained by the\n                   industrial user, owner, or lessee, the BOPU may authorize such maintenance\n          "
+        },
+        {
+          "term": "wastewater",
+          "match_start": 3063,
+          "match_end": 3073,
+          "passage_start": 2913,
+          "passage_end": 3308,
+          "text": "he protection of the public health, safety, and welfare, and\nnecessary for the effectiveness of the BOPU, to collect fees from anyone who contributes\nwastewater to the BOPU's treatment works POTW. The proceeds of these charges shall be used\nfor the operation, maintenance, and other related costs of the wastewater treatment systems as\ndetermined by the BOPU.\n\n13.20.590 - Sewer use surcharge.\n\f"
+        },
+        {
+          "term": "wastewater",
+          "match_start": 3217,
+          "match_end": 3227,
+          "passage_start": 3067,
+          "passage_end": 3308,
+          "text": "ewater to the BOPU's treatment works POTW. The proceeds of these charges shall be used\nfor the operation, maintenance, and other related costs of the wastewater treatment systems as\ndetermined by the BOPU.\n\n13.20.590 - Sewer use surcharge.\n\f"
+        }
+      ]
+    },
+    {
+      "classification": "unreviewed_topical_match_not_a_finding",
+      "source_sha256": "1b8d658ddb8ed22b06c606f3cf74272844420aae49d7ffbb7f5c5b6deadc3e7a",
+      "source_url": "https://www.cheyennecity.org/files/sharedassets/public/v/1/your-government/city-council/psc-2023/substitute-v0.2_bopu-chapter-13.20_wastewater_treatment_and_disposal-2023.10.13-ca-redline-stamped.pdf",
+      "source_retrieved_at": "2026-11-08T17:12:39.825911+00:00",
+      "page": 15,
+      "extraction_method": "native",
+      "quality_verified": false,
+      "representation_path": "derived/1b8d658ddb8ed22b06c606f3cf74272844420aae49d7ffbb7f5c5b6deadc3e7a/page-000015.json",
+      "representation_text_sha256": "b9fc50fb5c260c9e7c63dea16fa42a62012acbc163be75d69a1c8d9fb94d907a",
+      "representation_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/22880f4c2443b35dd5c4b53e67708302bc66f9cc/derived/1b8d658ddb8ed22b06c606f3cf74272844420aae49d7ffbb7f5c5b6deadc3e7a/page-000015.json",
+      "original_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/22880f4c2443b35dd5c4b53e67708302bc66f9cc/objects/1b/1b8d658ddb8ed22b06c606f3cf74272844420aae49d7ffbb7f5c5b6deadc3e7a",
+      "evidence": [
+        {
+          "term": "sewer",
+          "match_start": 37,
+          "match_end": 42,
+          "passage_start": 0,
+          "passage_end": 292,
+          "text": "   A. Rate Determination.\n\n       1. Sewer use surcharges shall may be determined for industrial users and commercial\n          users contributing wastewater with strength in excess of normal domestic\n          concentrations established by a method adopted and approved by the BOPU based on\n"
+        },
+        {
+          "term": "wastewater",
+          "match_start": 147,
+          "match_end": 157,
+          "passage_start": 0,
+          "passage_end": 407,
+          "text": "   A. Rate Determination.\n\n       1. Sewer use surcharges shall may be determined for industrial users and commercial\n          users contributing wastewater with strength in excess of normal domestic\n          concentrations established by a method adopted and approved by the BOPU based on\n          applicable waste strength and volume. Rates shall be established by a current schedule\n          of charg"
+        },
+        {
+          "term": "wastewater",
+          "match_start": 620,
+          "match_end": 630,
+          "passage_start": 470,
+          "passage_end": 880,
+          "text": "e city of\n          Cheyenne.\n\n13.20.610 - Payment.\n\n    Each industrial user shall pay for the services provided by the BOPU based on its use of the\nwastewater treatment system as determined by a flow measurement device and in accordance with\nthe industrial user’s sewer usage determination.\n\n13.20.700 - Cease and desist orders.\n\n   A. When the BOPU finds determines that an industrial user has violated, or "
+        }
+      ]
+    },
+    {
+      "classification": "unreviewed_topical_match_not_a_finding",
+      "source_sha256": "1b8d658ddb8ed22b06c606f3cf74272844420aae49d7ffbb7f5c5b6deadc3e7a",
+      "source_url": "https://www.cheyennecity.org/files/sharedassets/public/v/1/your-government/city-council/psc-2023/substitute-v0.2_bopu-chapter-13.20_wastewater_treatment_and_disposal-2023.10.13-ca-redline-stamped.pdf",
+      "source_retrieved_at": "2026-11-08T17:12:39.825911+00:00",
+      "page": 16,
+      "extraction_method": "native",
+      "quality_verified": false,
+      "representation_path": "derived/1b8d658ddb8ed22b06c606f3cf74272844420aae49d7ffbb7f5c5b6deadc3e7a/page-000016.json",
+      "representation_text_sha256": "c1ea70d2c0e5440cf40f4e44091556f158999e471cd7f45a7e63342aaa4fff9e",
+      "representation_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/22880f4c2443b35dd5c4b53e67708302bc66f9cc/derived/1b8d658ddb8ed22b06c606f3cf74272844420aae49d7ffbb7f5c5b6deadc3e7a/page-000016.json",
+      "original_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/22880f4c2443b35dd5c4b53e67708302bc66f9cc/objects/1b/1b8d658ddb8ed22b06c606f3cf74272844420aae49d7ffbb7f5c5b6deadc3e7a",
+      "evidence": [
+        {
+          "term": "wastewater",
+          "match_start": 61,
+          "match_end": 71,
+          "passage_start": 0,
+          "passage_end": 321,
+          "text": "   3. Failure to report significant changes in operations or wastewater volume, constituents,\n      and characteristics prior to discharge;\n\n   4. Failure to comply with the requirements of Chapter 13.20.545, Sector Control Program;\n      or\n\n   5. Violation or continued violation of any part of this Chapter 13.20, Wast"
+        },
+        {
+          "term": "wastewater",
+          "match_start": 317,
+          "match_end": 327,
+          "passage_start": 167,
+          "passage_end": 577,
+          "text": "th the requirements of Chapter 13.20.545, Sector Control Program;\n      or\n\n   5. Violation or continued violation of any part of this Chapter 13.20, Wastewater\n      Treatment and Disposal.\n\n   5. Refusal of reasonable access to the industrial user's premises for the purpose of\n      inspection, monitoring, or sampling; or\n\n   6. Violation or continued violation of any part of this chapter 13.20.\n\nB. Autho"
+        },
+        {
+          "term": "sewer",
+          "match_start": 628,
+          "match_end": 633,
+          "passage_start": 478,
+          "passage_end": 883,
+          "text": "r sampling; or\n\n   6. Violation or continued violation of any part of this chapter 13.20.\n\nB. Authority to Terminate, Suspend, or Disconnect Water or Sewer Service.\n\n   1. If the BOPU finds that a grease interceptor, or lack of a grease interceptor, is causing a\n      failure interference of the POTW or a private or public sanitary sewer, the BOPU may\n      have the water and/or sewer service of the of"
+        }
+      ]
+    },
+    {
+      "classification": "unreviewed_topical_match_not_a_finding",
+      "source_sha256": "1b8d658ddb8ed22b06c606f3cf74272844420aae49d7ffbb7f5c5b6deadc3e7a",
+      "source_url": "https://www.cheyennecity.org/files/sharedassets/public/v/1/your-government/city-council/psc-2023/substitute-v0.2_bopu-chapter-13.20_wastewater_treatment_and_disposal-2023.10.13-ca-redline-stamped.pdf",
+      "source_retrieved_at": "2026-11-08T17:12:39.825911+00:00",
+      "page": 17,
+      "extraction_method": "native",
+      "quality_verified": false,
+      "representation_path": "derived/1b8d658ddb8ed22b06c606f3cf74272844420aae49d7ffbb7f5c5b6deadc3e7a/page-000017.json",
+      "representation_text_sha256": "993be22004206ea81c8e85087b03e3385116f0ed20cd716772ba972f7faaf37a",
+      "representation_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/22880f4c2443b35dd5c4b53e67708302bc66f9cc/derived/1b8d658ddb8ed22b06c606f3cf74272844420aae49d7ffbb7f5c5b6deadc3e7a/page-000017.json",
+      "original_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/22880f4c2443b35dd5c4b53e67708302bc66f9cc/objects/1b/1b8d658ddb8ed22b06c606f3cf74272844420aae49d7ffbb7f5c5b6deadc3e7a",
+      "evidence": [
+        {
+          "term": "sewer",
+          "match_start": 305,
+          "match_end": 310,
+          "passage_start": 155,
+          "passage_end": 560,
+          "text": "tion against the industrial user.\n\n13.20.740 - Procedure for suspending or revoking permits or terminating, suspending, or\ndisconnecting water and/or sewer service.\n\n   A. The BOPU may terminate, suspend, or disconnect water and/or sewer services or revoke\n      an industrial user's permit, when such industrial user violates federal or state laws or\n      regulations relating to wastewater discharge, a"
+        },
+        {
+          "term": "sewer",
+          "match_start": 387,
+          "match_end": 392,
+          "passage_start": 237,
+          "passage_end": 642,
+          "text": "g permits or terminating, suspending, or\ndisconnecting water and/or sewer service.\n\n   A. The BOPU may terminate, suspend, or disconnect water and/or sewer services or revoke\n      an industrial user's permit, when such industrial user violates federal or state laws or\n      regulations relating to wastewater discharge, any provision of this chapter, or any permit\n      or order issued hereunder. Suspe"
+        },
+        {
+          "term": "wastewater",
+          "match_start": 537,
+          "match_end": 547,
+          "passage_start": 387,
+          "passage_end": 797,
+          "text": "sewer services or revoke\n      an industrial user's permit, when such industrial user violates federal or state laws or\n      regulations relating to wastewater discharge, any provision of this chapter, or any permit\n      or order issued hereunder. Suspensions or revocations of permits, and terminations,\n      suspensions, or disconnections of water and/or sewer service, shall be made according to\n      th"
+        }
+      ]
+    },
+    {
+      "classification": "unreviewed_topical_match_not_a_finding",
+      "source_sha256": "1b8d658ddb8ed22b06c606f3cf74272844420aae49d7ffbb7f5c5b6deadc3e7a",
+      "source_url": "https://www.cheyennecity.org/files/sharedassets/public/v/1/your-government/city-council/psc-2023/substitute-v0.2_bopu-chapter-13.20_wastewater_treatment_and_disposal-2023.10.13-ca-redline-stamped.pdf",
+      "source_retrieved_at": "2026-11-08T17:12:39.825911+00:00",
+      "page": 18,
+      "extraction_method": "native",
+      "quality_verified": false,
+      "representation_path": "derived/1b8d658ddb8ed22b06c606f3cf74272844420aae49d7ffbb7f5c5b6deadc3e7a/page-000018.json",
+      "representation_text_sha256": "2752f789c12eb038b459438b14f5c20164eb3476916dfefbac74378c6f324e16",
+      "representation_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/22880f4c2443b35dd5c4b53e67708302bc66f9cc/derived/1b8d658ddb8ed22b06c606f3cf74272844420aae49d7ffbb7f5c5b6deadc3e7a/page-000018.json",
+      "original_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/22880f4c2443b35dd5c4b53e67708302bc66f9cc/objects/1b/1b8d658ddb8ed22b06c606f3cf74272844420aae49d7ffbb7f5c5b6deadc3e7a",
+      "evidence": [
+        {
+          "term": "sewer",
+          "match_start": 210,
+          "match_end": 215,
+          "passage_start": 60,
+          "passage_end": 465,
+          "text": "hearing shall be conducted within\n          two (2) city business days. Emergency termination, suspension, or disconnection of\n          water and/or sewer services may commence regardless of whether an industrial user\n          has requested a hearing.\n\n13.20.830 - Prohibited discharge standards.\n\n   A. A An industrial user shall have an affirmative defense to an enforcement action brought\n      again"
+        }
+      ]
+    },
+    {
+      "classification": "unreviewed_topical_match_not_a_finding",
+      "source_sha256": "1c56f0c35aa75b20d1d414a23b5705d2525bf9162889b086f897aa64deb6b444",
+      "source_url": "https://www.cheyennecity.org/files/sharedassets/public/v/1/your-government/city-council/fc-2026/fc-04-21-26-minutes.pdf",
+      "source_retrieved_at": "2026-11-08T16:28:26.794416+00:00",
+      "page": 2,
+      "extraction_method": "native",
+      "quality_verified": false,
+      "representation_path": "derived/1c56f0c35aa75b20d1d414a23b5705d2525bf9162889b086f897aa64deb6b444/page-000002.json",
+      "representation_text_sha256": "6f4f1f80ffa9b5bce0674f2ab38f36332a773ed3519314e180f7ebeeb7c22476",
+      "representation_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/22880f4c2443b35dd5c4b53e67708302bc66f9cc/derived/1c56f0c35aa75b20d1d414a23b5705d2525bf9162889b086f897aa64deb6b444/page-000002.json",
+      "original_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/22880f4c2443b35dd5c4b53e67708302bc66f9cc/objects/1c/1c56f0c35aa75b20d1d414a23b5705d2525bf9162889b086f897aa64deb6b444",
+      "evidence": [
+        {
+          "term": "stormwater",
+          "match_start": 1944,
+          "match_end": 1954,
+          "passage_start": 1794,
+          "passage_end": 2204,
+          "text": " of Cheyenne and Christopher C.\n              Post and Deborah L. Post, Trustees of the Post Revocable Trust for a recently\n              constructed stormwater detention pond.\n\nMr. Wolfe moved to approve, seconded by Mr. Moody. Motion carried by unanimous voice vote.\n\nErin Gates, Ph, Staff Engineer, provided a staff report and committee member Wolfe commented\non the item.\n\n       f)     Professional Servic"
+        }
+      ]
+    }
+  ]
+}

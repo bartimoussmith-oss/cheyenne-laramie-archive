@@ -1,0 +1,53 @@
+{
+  "generated_at": "2026-11-08T17:28:50.972658+00:00",
+  "source_revision": "22880f4c2443b35dd5c4b53e67708302bc66f9cc",
+  "available_representation_files": 802,
+  "scanned_files": 802,
+  "scan_truncated": false,
+  "unique_source_objects_with_indexed_text": 206,
+  "captured_source_objects_in_ledger": 785,
+  "errors_first_50": [],
+  "full_historical_coverage": false,
+  "profiles": [
+    {
+      "profile": "budgets-audits",
+      "matches": 174,
+      "exported": 50
+    },
+    {
+      "profile": "contracts-procurement",
+      "matches": 111,
+      "exported": 50
+    },
+    {
+      "profile": "annexation-land-use",
+      "matches": 131,
+      "exported": 50
+    },
+    {
+      "profile": "water-stormwater",
+      "matches": 71,
+      "exported": 50
+    },
+    {
+      "profile": "roads-transit",
+      "matches": 259,
+      "exported": 50
+    },
+    {
+      "profile": "council-decisions",
+      "matches": 371,
+      "exported": 50
+    },
+    {
+      "profile": "public-safety-resources",
+      "matches": 38,
+      "exported": 38
+    },
+    {
+      "profile": "election-administration",
+      "matches": 13,
+      "exported": 13
+    }
+  ]
+}

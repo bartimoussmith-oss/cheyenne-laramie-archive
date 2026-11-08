@@ -1,0 +1,1659 @@
+{
+  "profile": "annexation-land-use",
+  "title": "Annexation, zoning and development",
+  "generated_at": "2026-11-08T17:28:50.972658+00:00",
+  "source_revision": "22880f4c2443b35dd5c4b53e67708302bc66f9cc",
+  "classification": "retrieval_triage_not_investigative_findings",
+  "matched_representations": 131,
+  "exported_representations": 50,
+  "result_cap": 50,
+  "results_truncated": true,
+  "results": [
+    {
+      "classification": "unreviewed_topical_match_not_a_finding",
+      "source_sha256": "3dd70667ea5d722bea19d76073b4ffffcc05a651e4b1b3a1dd22befe7d173cfa",
+      "source_url": "https://www.cheyennecity.org/Your-Government/City-Council/Minutes-and-Agendas",
+      "source_retrieved_at": "2026-11-08T16:25:55.689212+00:00",
+      "page": null,
+      "extraction_method": "html_text",
+      "quality_verified": false,
+      "representation_path": "text/3dd70667ea5d722bea19d76073b4ffffcc05a651e4b1b3a1dd22befe7d173cfa.txt",
+      "representation_text_sha256": "2fed3f87d5b1cff9bd36ee7e36045d50bb8a3f93d6cd95eb2072dbc6150983b8",
+      "representation_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/22880f4c2443b35dd5c4b53e67708302bc66f9cc/text/3dd70667ea5d722bea19d76073b4ffffcc05a651e4b1b3a1dd22befe7d173cfa.txt",
+      "original_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/22880f4c2443b35dd5c4b53e67708302bc66f9cc/objects/3d/3dd70667ea5d722bea19d76073b4ffffcc05a651e4b1b3a1dd22befe7d173cfa",
+      "evidence": [
+        {
+          "term": "annexation",
+          "match_start": 23640,
+          "match_end": 23650,
+          "passage_start": 23490,
+          "passage_end": 23900,
+          "text": "l Building's Council Chambers (2101 O'Neil Ave.)\n2026\nHanwha Energy Presentation\n09/25/26\nAgenda\n(PDF, 346KB)\nVideo\nPresentation\n(PDF, 3MB)\nCox Ranch Annexation Updates\n08/28/26\nAgenda\n(PDF, 341KB)\nVideo\nUrban Farm UDC Changes\n08/21/26\nAgenda\n(PDF, 341KB)\nVideo\nPresentation\n(PDF, 1MB)\nCouncil Goal Setting Updates\n07/29/26\nVideo\nJuvenile Justice Taskforce\n06/26/26\nVideo\nSafe Streets for All Presentation\n5/29"
+        },
+        {
+          "term": "zoning",
+          "match_start": 32968,
+          "match_end": 32974,
+          "passage_start": 32818,
+          "passage_end": 33224,
+          "text": "52KB)\nVideo\nGoal Setting Review 2022\n08/29/22\nVideo\n6th Penny Downtown Improvements Proposed Projects/Expenditures\n07/11/22\nAgenda\n(PDF, 146KB)\nVideo\nZoning Code Enforcement & County Pocket Annexation\n06/24/22\nAgenda\n(PDF, 143KB)\nDRAFT Ordinance Change\n(PDF, 182KB)\nVideo\nOpenGov Software\n06/01/22\nAgenda\n(PDF, 132KB)\nVideo\nBarriers to Housing Development\n05/20/22\nAgenda\n(PDF, 168KB)\nVideo\nBudget - Police"
+        },
+        {
+          "term": "annexation",
+          "match_start": 33008,
+          "match_end": 33018,
+          "passage_start": 32858,
+          "passage_end": 33268,
+          "text": "29/22\nVideo\n6th Penny Downtown Improvements Proposed Projects/Expenditures\n07/11/22\nAgenda\n(PDF, 146KB)\nVideo\nZoning Code Enforcement & County Pocket Annexation\n06/24/22\nAgenda\n(PDF, 143KB)\nDRAFT Ordinance Change\n(PDF, 182KB)\nVideo\nOpenGov Software\n06/01/22\nAgenda\n(PDF, 132KB)\nVideo\nBarriers to Housing Development\n05/20/22\nAgenda\n(PDF, 168KB)\nVideo\nBudget - Police and Fire Departments\n05/13/22\nAgenda\n(PDF, "
+        }
+      ]
+    },
+    {
+      "classification": "unreviewed_topical_match_not_a_finding",
+      "source_sha256": "77b33b250c26aa5b4c39100d72dc332a81fc1c0af261b50b98f49a7251582aaf",
+      "source_url": "https://www.cheyennecity.org/Home/Tabs/Featured-Links/Coronavirus-COVID-19",
+      "source_retrieved_at": "2026-11-08T17:24:28.353506+00:00",
+      "page": null,
+      "extraction_method": "html_text",
+      "quality_verified": false,
+      "representation_path": "text/77b33b250c26aa5b4c39100d72dc332a81fc1c0af261b50b98f49a7251582aaf.txt",
+      "representation_text_sha256": "b6345c9a22eb8016f2ce5fa0d3c32e691ce51d00cbbfbed12eed62c42967b98b",
+      "representation_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/22880f4c2443b35dd5c4b53e67708302bc66f9cc/text/77b33b250c26aa5b4c39100d72dc332a81fc1c0af261b50b98f49a7251582aaf.txt",
+      "original_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/22880f4c2443b35dd5c4b53e67708302bc66f9cc/objects/77/77b33b250c26aa5b4c39100d72dc332a81fc1c0af261b50b98f49a7251582aaf",
+      "evidence": [
+        {
+          "term": "zoning",
+          "match_start": 8541,
+          "match_end": 8547,
+          "passage_start": 8391,
+          "passage_end": 8797,
+          "text": "ms COVID-19 Public Health Orders will remain in place through April 30\nApril 17 -\nPositive COVID-19 Cases Now at 69\n(PDF, 166KB)\nApril 16 -\nWest Edge Zoning Workshop Available Online Through April 30\nApril 15 -\nGovernor Gordon instructs state agencies to prepare for COVID-19 budget impacts\nApril 15 -\nWyoming's Second Coronavirus-Related Death Confirmed (First in Laramie County)\nApril 15 -\nGovernor Gordo"
+        }
+      ]
+    },
+    {
+      "classification": "unreviewed_topical_match_not_a_finding",
+      "source_sha256": "dc304bcb9386c40219dbbb65adf6dd322030a9f0944eadafe55e4a670a971d17",
+      "source_url": "https://www.cheyennecity.org/Your-Government/Departments/Planning-and-Development-Department",
+      "source_retrieved_at": "2026-11-08T16:26:38.679556+00:00",
+      "page": null,
+      "extraction_method": "html_text",
+      "quality_verified": false,
+      "representation_path": "text/dc304bcb9386c40219dbbb65adf6dd322030a9f0944eadafe55e4a670a971d17.txt",
+      "representation_text_sha256": "7a9d2599eee9d44aa7afed26b3ba19d4e41d33b04003a69365a8c60a6093313b",
+      "representation_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/22880f4c2443b35dd5c4b53e67708302bc66f9cc/text/dc304bcb9386c40219dbbb65adf6dd322030a9f0944eadafe55e4a670a971d17.txt",
+      "original_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/22880f4c2443b35dd5c4b53e67708302bc66f9cc/objects/dc/dc304bcb9386c40219dbbb65adf6dd322030a9f0944eadafe55e4a670a971d17",
+      "evidence": [
+        {
+          "term": "annexation",
+          "match_start": 1976,
+          "match_end": 1986,
+          "passage_start": 1826,
+          "passage_end": 2236,
+          "text": "timely manner.\nApplications, Fees, and Review Schedules\nPre-Application / Office Hours Meeting Request\nAgent/Contractor Project Portal\nCounty Pockets Annexation\nUnified Development Code\nUnified Development Code Annual Review Portal\nMetropolitan Planning Organization (MPO)\nGreater Cheyenne Greenway\nZoning Verification Request\nStaff Directory\nFAQ Page\nDevelopment Projects Map\nBoards and Commissions\nThe Depart"
+        },
+        {
+          "term": "zoning",
+          "match_start": 2125,
+          "match_end": 2131,
+          "passage_start": 1975,
+          "passage_end": 2381,
+          "text": " Annexation\nUnified Development Code\nUnified Development Code Annual Review Portal\nMetropolitan Planning Organization (MPO)\nGreater Cheyenne Greenway\nZoning Verification Request\nStaff Directory\nFAQ Page\nDevelopment Projects Map\nBoards and Commissions\nThe Department provides support and/or assistance to the following Boards and Commissions:\nBoard of Adjustment\nHistoric Preservation Board\nBrownfield Revol"
+        },
+        {
+          "term": "zoning",
+          "match_start": 2623,
+          "match_end": 2629,
+          "passage_start": 2473,
+          "passage_end": 2879,
+          "text": "Planning Commission\nGreenway Advisory Committee\nUrban Renewal Authority\nInformational Maps\nGeneral\nInformation Map\nInformation regarding a property's zoning; inclusion in special districts such as the Downtown Development Authority (DDA), a Historic District, or the Core Permit Fee Waiver Area; as well as general zoning and addressing information.\nDevelopment Projects Map\nProvides access to development "
+        }
+      ]
+    },
+    {
+      "classification": "unreviewed_topical_match_not_a_finding",
+      "source_sha256": "00e07ad1ecfa714027b3361a4d7ed67396507bbb3fb5a1da739e1ecc6893453c",
+      "source_url": "https://www.cheyennecity.org/files/sharedassets/public/v/1/your-government/city-council/psc-2023/sub-res-201-agreement.pdf",
+      "source_retrieved_at": "2026-11-08T17:12:29.389943+00:00",
+      "page": 2,
+      "extraction_method": "native",
+      "quality_verified": false,
+      "representation_path": "derived/00e07ad1ecfa714027b3361a4d7ed67396507bbb3fb5a1da739e1ecc6893453c/page-000002.json",
+      "representation_text_sha256": "28c975f7b40b9d7afa9418742e07d12bf3cb6d086fb14c90b809c743cd8bf01c",
+      "representation_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/22880f4c2443b35dd5c4b53e67708302bc66f9cc/derived/00e07ad1ecfa714027b3361a4d7ed67396507bbb3fb5a1da739e1ecc6893453c/page-000002.json",
+      "original_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/22880f4c2443b35dd5c4b53e67708302bc66f9cc/objects/00/00e07ad1ecfa714027b3361a4d7ed67396507bbb3fb5a1da739e1ecc6893453c",
+      "evidence": [
+        {
+          "term": "annexation",
+          "match_start": 2793,
+          "match_end": 2803,
+          "passage_start": 2643,
+          "passage_end": 2848,
+          "text": "property) the proposed\n               future office building will be required to connect into the city sanitary sewer system\n               by way of annexation or by seeking an outside user’s agreement.\n\f"
+        }
+      ]
+    },
+    {
+      "classification": "unreviewed_topical_match_not_a_finding",
+      "source_sha256": "00f5dceb4ed5b8c3bb7783c9f42eec1d3540fb83ce3f83dbb227d341a6b4a05a",
+      "source_url": "https://www.cheyennecity.org/files/sharedassets/public/v/1/your-government/city-council/psc-2022/psc-06-07-22-agenda.pdf",
+      "source_retrieved_at": "2026-11-08T17:15:35.808339+00:00",
+      "page": 1,
+      "extraction_method": "native",
+      "quality_verified": false,
+      "representation_path": "derived/00f5dceb4ed5b8c3bb7783c9f42eec1d3540fb83ce3f83dbb227d341a6b4a05a/page-000001.json",
+      "representation_text_sha256": "833a3c909a67ca9ca93d64c203b00e54b2f042231f6a0ef865bb49c33310cda3",
+      "representation_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/22880f4c2443b35dd5c4b53e67708302bc66f9cc/derived/00f5dceb4ed5b8c3bb7783c9f42eec1d3540fb83ce3f83dbb227d341a6b4a05a/page-000001.json",
+      "original_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/22880f4c2443b35dd5c4b53e67708302bc66f9cc/objects/00/00f5dceb4ed5b8c3bb7783c9f42eec1d3540fb83ce3f83dbb227d341a6b4a05a",
+      "evidence": [
+        {
+          "term": "zoning",
+          "match_start": 1424,
+          "match_end": 1430,
+          "passage_start": 1274,
+          "passage_end": 1680,
+          "text": "   located northwest of the intersection of Christensen Road and Pershing Boulevard.\n\n ACTION:\n\n11.   ORDINANCE – 3rd READING – Amending the Official Zoning Map of the City of\n      Cheyenne changing the zoning classification from County A1 Agricultural and Rural\n      Residential to MR Medium-Density Residential for land located northwest of the\n      intersection of Christensen Road and Pershing Boule"
+        },
+        {
+          "term": "zoning",
+          "match_start": 1478,
+          "match_end": 1484,
+          "passage_start": 1328,
+          "passage_end": 1734,
+          "text": "n Road and Pershing Boulevard.\n\n ACTION:\n\n11.   ORDINANCE – 3rd READING – Amending the Official Zoning Map of the City of\n      Cheyenne changing the zoning classification from County A1 Agricultural and Rural\n      Residential to MR Medium-Density Residential for land located northwest of the\n      intersection of Christensen Road and Pershing Boulevard.\n\n ACTION:\n\n12.   ORDINANCE – 3rd READING – Annex"
+        },
+        {
+          "term": "zoning",
+          "match_start": 1894,
+          "match_end": 1900,
+          "passage_start": 1744,
+          "passage_end": 2097,
+          "text": " City of Cheyenne, Wyoming, land\n      located north of Missile Drive, east of I-25.\n\n ACTION:\n\n13.   ORDINANCE – 3rd READING – Amending the Official Zoning Map of the City of\n      Cheyenne changing the zoning classification from County LI Light Industrial to LI Light\n      Industrial for land located north of Missile Drive, east of I-25.\n\n ACTION:\n\f"
+        }
+      ]
+    },
+    {
+      "classification": "unreviewed_topical_match_not_a_finding",
+      "source_sha256": "00f5dceb4ed5b8c3bb7783c9f42eec1d3540fb83ce3f83dbb227d341a6b4a05a",
+      "source_url": "https://www.cheyennecity.org/files/sharedassets/public/v/1/your-government/city-council/psc-2022/psc-06-07-22-agenda.pdf",
+      "source_retrieved_at": "2026-11-08T17:15:35.808339+00:00",
+      "page": 2,
+      "extraction_method": "native",
+      "quality_verified": false,
+      "representation_path": "derived/00f5dceb4ed5b8c3bb7783c9f42eec1d3540fb83ce3f83dbb227d341a6b4a05a/page-000002.json",
+      "representation_text_sha256": "97b57ecf6b8d6ba3dd754642a83c279b40556d2d34e2689863c1273b135175e7",
+      "representation_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/22880f4c2443b35dd5c4b53e67708302bc66f9cc/derived/00f5dceb4ed5b8c3bb7783c9f42eec1d3540fb83ce3f83dbb227d341a6b4a05a/page-000002.json",
+      "original_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/22880f4c2443b35dd5c4b53e67708302bc66f9cc/objects/00/00f5dceb4ed5b8c3bb7783c9f42eec1d3540fb83ce3f83dbb227d341a6b4a05a",
+      "evidence": [
+        {
+          "term": "zoning",
+          "match_start": 200,
+          "match_end": 206,
+          "passage_start": 50,
+          "passage_end": 456,
+          "text": "ty of Cheyenne, Wyoming, land\n      located north of High Plains Road, west of I-25.\n\n ACTION:\n\n15.   ORDINANCE – 3rd READING – Amending the Official Zoning Map of the City of\n      Cheyenne changing the zoning classification from Swan Ranch PUD Unit Development to\n      City Swan Ranch PUD Planned Unit Development (Ordinance No. 3989) for land located\n      north of High Plains Road, west of I-25.\n\n AC"
+        },
+        {
+          "term": "zoning",
+          "match_start": 254,
+          "match_end": 260,
+          "passage_start": 104,
+          "passage_end": 510,
+          "text": "igh Plains Road, west of I-25.\n\n ACTION:\n\n15.   ORDINANCE – 3rd READING – Amending the Official Zoning Map of the City of\n      Cheyenne changing the zoning classification from Swan Ranch PUD Unit Development to\n      City Swan Ranch PUD Planned Unit Development (Ordinance No. 3989) for land located\n      north of High Plains Road, west of I-25.\n\n ACTION:\n\n16.   ORDINANCE – 3rd READING – Amending the Of"
+        },
+        {
+          "term": "zoning",
+          "match_start": 517,
+          "match_end": 523,
+          "passage_start": 367,
+          "passage_end": 773,
+          "text": "(Ordinance No. 3989) for land located\n      north of High Plains Road, west of I-25.\n\n ACTION:\n\n16.   ORDINANCE – 3rd READING – Amending the Official Zoning Map of the City of\n      Cheyenne changing the zoning classification from MUB Mixed-Use Business Emphasis to\n      CB Community Business for land located northeast of the intersection of Dell Range\n      Boulevard and Ridge Road.\n\n ACTION:\n\n17.   OR"
+        }
+      ]
+    },
+    {
+      "classification": "unreviewed_topical_match_not_a_finding",
+      "source_sha256": "00f5dceb4ed5b8c3bb7783c9f42eec1d3540fb83ce3f83dbb227d341a6b4a05a",
+      "source_url": "https://www.cheyennecity.org/files/sharedassets/public/v/1/your-government/city-council/psc-2022/psc-06-07-22-agenda.pdf",
+      "source_retrieved_at": "2026-11-08T17:15:35.808339+00:00",
+      "page": 3,
+      "extraction_method": "native",
+      "quality_verified": false,
+      "representation_path": "derived/00f5dceb4ed5b8c3bb7783c9f42eec1d3540fb83ce3f83dbb227d341a6b4a05a/page-000003.json",
+      "representation_text_sha256": "767ad157b9de45a2840d77a70aa46a8475060aeb1d512129ffc6c75ca16bcbe1",
+      "representation_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/22880f4c2443b35dd5c4b53e67708302bc66f9cc/derived/00f5dceb4ed5b8c3bb7783c9f42eec1d3540fb83ce3f83dbb227d341a6b4a05a/page-000003.json",
+      "original_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/22880f4c2443b35dd5c4b53e67708302bc66f9cc/objects/00/00f5dceb4ed5b8c3bb7783c9f42eec1d3540fb83ce3f83dbb227d341a6b4a05a",
+      "evidence": [
+        {
+          "term": "zoning",
+          "match_start": 54,
+          "match_end": 60,
+          "passage_start": 0,
+          "passage_end": 310,
+          "text": "23.   ORDINANCE – 2nd READING – Amending the Official Zoning Map of the City of\n      Cheyenne changing the zoning classification from MUB, MUR, LI, and CB to MUB with\n      the UU Overlay for land located in the West Edge District. (SPONSOR – MR. COOK)\n\n ACTION:\n\n27.   RESOLUTION – Authorizing the Mayor and "
+        },
+        {
+          "term": "zoning",
+          "match_start": 108,
+          "match_end": 114,
+          "passage_start": 0,
+          "passage_end": 364,
+          "text": "23.   ORDINANCE – 2nd READING – Amending the Official Zoning Map of the City of\n      Cheyenne changing the zoning classification from MUB, MUR, LI, and CB to MUB with\n      the UU Overlay for land located in the West Edge District. (SPONSOR – MR. COOK)\n\n ACTION:\n\n27.   RESOLUTION – Authorizing the Mayor and the City Clerk to sign a final plat for Saddle\n      R"
+        }
+      ]
+    },
+    {
+      "classification": "unreviewed_topical_match_not_a_finding",
+      "source_sha256": "01a150e0b3a34a66feb9c8466f7fa61ff72e481d429be3796e4d9ff86879a963",
+      "source_url": "https://www.cheyennecity.org/files/sharedassets/public/v/1/your-government/city-council/psc-2024/psc-07-16-24-minutes.pdf",
+      "source_retrieved_at": "2026-11-08T17:10:04.388887+00:00",
+      "page": 1,
+      "extraction_method": "native",
+      "quality_verified": false,
+      "representation_path": "derived/01a150e0b3a34a66feb9c8466f7fa61ff72e481d429be3796e4d9ff86879a963/page-000001.json",
+      "representation_text_sha256": "315d42a6c50da769879ede9ab6d12dd4a55fcb1ea799e9bd982c780de6a33597",
+      "representation_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/22880f4c2443b35dd5c4b53e67708302bc66f9cc/derived/01a150e0b3a34a66feb9c8466f7fa61ff72e481d429be3796e4d9ff86879a963/page-000001.json",
+      "original_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/22880f4c2443b35dd5c4b53e67708302bc66f9cc/objects/01/01a150e0b3a34a66feb9c8466f7fa61ff72e481d429be3796e4d9ff86879a963",
+      "evidence": [
+        {
+          "term": "annexation",
+          "match_start": 2005,
+          "match_end": 2015,
+          "passage_start": 1855,
+          "passage_end": 2265,
+          "text": "ted on the\nitem.\n\nIl.    RESOLUTION Certifying compliance with Wyoming Statute § 15-1-402 for the City-\n                       —\n\n\n\n\n       initiated annexation of tracts of land situate in portions of Sections 4 and 5, T13N, R67W,\n       6th\n           P.M., Laramie County, Wyoming (also known as ‘North Range Business Park’, located\n       northwest of the 1-80 and Roundtop Road interchange). (SPONSOR MR. "
+        }
+      ]
+    },
+    {
+      "classification": "unreviewed_topical_match_not_a_finding",
+      "source_sha256": "01a5d77bfaeb54d0057fe869e727fc80b1d205ab95df55daa928446e5aaa97d6",
+      "source_url": "https://www.cheyennecity.org/files/sharedassets/public/v/1/your-government/city-council/psc-2022/psc-02-23-22-minutes.pdf",
+      "source_retrieved_at": "2026-11-08T17:17:08.681533+00:00",
+      "page": 1,
+      "extraction_method": "tesseract",
+      "quality_verified": false,
+      "representation_path": "derived/01a5d77bfaeb54d0057fe869e727fc80b1d205ab95df55daa928446e5aaa97d6/page-000001.json",
+      "representation_text_sha256": "83a272e309ad9bd5a12606fc5bef06dc96eeec5d9e747b98c500047e1f202931",
+      "representation_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/22880f4c2443b35dd5c4b53e67708302bc66f9cc/derived/01a5d77bfaeb54d0057fe869e727fc80b1d205ab95df55daa928446e5aaa97d6/page-000001.json",
+      "original_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/22880f4c2443b35dd5c4b53e67708302bc66f9cc/objects/01/01a5d77bfaeb54d0057fe869e727fc80b1d205ab95df55daa928446e5aaa97d6",
+      "evidence": [
+        {
+          "term": "zoning",
+          "match_start": 1054,
+          "match_end": 1060,
+          "passage_start": 904,
+          "passage_end": 1310,
+          "text": " Properties.\n\nAGENDA ITEMS\n\n10. | ORDINANCE -2\" READING — Amending the Unified Development Code (UDC) of the\nCity of Cheyenne, Wyoming, to Table 5-1: Zoning District Uses in UDC Section 5.1.4,\nDistricts and Uses, amending the Permi: ty of Various Uses. (SPONSOR ~ MR.\nCOOK)\n\nMr. Laybourn moved to approve on 2 reading, seconded by Mr. Segrave. Motion carried with\nMr. Laybourn and Mr. Segrave voting “YES” "
+        },
+        {
+          "term": "zoning",
+          "match_start": 1493,
+          "match_end": 1499,
+          "passage_start": 1343,
+          "passage_end": 1749,
+          "text": "SSION: Charles Bloom, Planning & Development Department Director, provided a staff\nreport and advised the proposed amendment will clean up and modify zoning types to incentivize\nmixed uses in one zone. Mr. Bloom provided an overview of the use table and provided examples\nrelated to the Community Business (CB) zone type which allows mixed uses including residential\nwith Board of Adjustment (BOA) approval"
+        },
+        {
+          "term": "conditional use",
+          "match_start": 2230,
+          "match_end": 2245,
+          "passage_start": 2080,
+          "passage_end": 2495,
+          "text": "opping center area and the area around Frontier Mall. Brad Emmons, AVI Engineering, spoke\nin support of the amendment and provided examples where the conditional use allowance would\nbedesirable. Seth Lloyd, Planning & Development, spoke in favor of the amendment noting trends\naround the county prove that mixed uses work in areas which need revitalization. Dr. Rinne voiced\nconcerns with residential uses in a CB z"
+        }
+      ]
+    },
+    {
+      "classification": "unreviewed_topical_match_not_a_finding",
+      "source_sha256": "01a5d77bfaeb54d0057fe869e727fc80b1d205ab95df55daa928446e5aaa97d6",
+      "source_url": "https://www.cheyennecity.org/files/sharedassets/public/v/1/your-government/city-council/psc-2022/psc-02-23-22-minutes.pdf",
+      "source_retrieved_at": "2026-11-08T17:17:08.681533+00:00",
+      "page": 2,
+      "extraction_method": "tesseract",
+      "quality_verified": false,
+      "representation_path": "derived/01a5d77bfaeb54d0057fe869e727fc80b1d205ab95df55daa928446e5aaa97d6/page-000002.json",
+      "representation_text_sha256": "ea108744cf216a1f0479fc59094d35ee0e15c0e17ec219df7a88650a777c2bfe",
+      "representation_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/22880f4c2443b35dd5c4b53e67708302bc66f9cc/derived/01a5d77bfaeb54d0057fe869e727fc80b1d205ab95df55daa928446e5aaa97d6/page-000002.json",
+      "original_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/22880f4c2443b35dd5c4b53e67708302bc66f9cc/objects/01/01a5d77bfaeb54d0057fe869e727fc80b1d205ab95df55daa928446e5aaa97d6",
+      "evidence": [
+        {
+          "term": "annexation",
+          "match_start": 1917,
+          "match_end": 1927,
+          "passage_start": 1767,
+          "passage_end": 2177,
+          "text": " Motion carried by\nunanimous voice vote.\n\nDISCUSSION: Seth Lloyd, Planning & Development Department, provided a staff report and\nadvised the proposed annexation is for 48.6 acres of land surrounded by city limits noting the area\nis considered a county pocket. Kelly Hafner and Shane Boyles, Civilworx, supported the\nannexation and made themselves available for questions.\n\n13. ORDINANCE -2\" READING - Amending "
+        },
+        {
+          "term": "annexation",
+          "match_start": 2083,
+          "match_end": 2093,
+          "passage_start": 1933,
+          "passage_end": 2343,
+          "text": "r 48.6 acres of land surrounded by city limits noting the area\nis considered a county pocket. Kelly Hafner and Shane Boyles, Civilworx, supported the\nannexation and made themselves available for questions.\n\n13. ORDINANCE -2\" READING - Amending the Official Zoning Map of the City of\nCheyenne changing the zoning classification from County MU Mixed Use to AG\nAgricultural for land located east of Southwest Driv"
+        },
+        {
+          "term": "zoning",
+          "match_start": 2190,
+          "match_end": 2196,
+          "passage_start": 2040,
+          "passage_end": 2446,
+          "text": "and Shane Boyles, Civilworx, supported the\nannexation and made themselves available for questions.\n\n13. ORDINANCE -2\" READING - Amending the Official Zoning Map of the City of\nCheyenne changing the zoning classification from County MU Mixed Use to AG\nAgricultural for land located east of Southwest Drive, south of I-80. (SPONSOR - MR.\nCOOK)\n\nDr. Rinne moved to approve on 2 reading, seconded by Mr. Segrav"
+        }
+      ]
+    },
+    {
+      "classification": "unreviewed_topical_match_not_a_finding",
+      "source_sha256": "01a5d77bfaeb54d0057fe869e727fc80b1d205ab95df55daa928446e5aaa97d6",
+      "source_url": "https://www.cheyennecity.org/files/sharedassets/public/v/1/your-government/city-council/psc-2022/psc-02-23-22-minutes.pdf",
+      "source_retrieved_at": "2026-11-08T17:17:08.681533+00:00",
+      "page": 3,
+      "extraction_method": "tesseract",
+      "quality_verified": false,
+      "representation_path": "derived/01a5d77bfaeb54d0057fe869e727fc80b1d205ab95df55daa928446e5aaa97d6/page-000003.json",
+      "representation_text_sha256": "bda765097371cc1726ba0888cb82580b2ddabebfce9915cb402c178d8872747b",
+      "representation_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/22880f4c2443b35dd5c4b53e67708302bc66f9cc/derived/01a5d77bfaeb54d0057fe869e727fc80b1d205ab95df55daa928446e5aaa97d6/page-000003.json",
+      "original_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/22880f4c2443b35dd5c4b53e67708302bc66f9cc/objects/01/01a5d77bfaeb54d0057fe869e727fc80b1d205ab95df55daa928446e5aaa97d6",
+      "evidence": [
+        {
+          "term": "subdivision",
+          "match_start": 1610,
+          "match_end": 1621,
+          "passage_start": 1460,
+          "passage_end": 1871,
+          "text": "lma Land Planning, provided information on the proposed open area and fees to\nbe paid in-lieu toward the community park to be built in the Sweetgrass subdivision. Upon inquiry,\nMr. Palma advised a Sub-Homeowner’s Association will be responsible for upkeep of the area and\nnoted the project is proposed as a single owner however, the individual lots would allow for future\nsale of properties. Mr. Segrave voiced "
+        }
+      ]
+    },
+    {
+      "classification": "unreviewed_topical_match_not_a_finding",
+      "source_sha256": "01dbe8848e39f4f05964f7fb2eef0bbe290b0c2abab6144998436784920e0bb3",
+      "source_url": "https://www.cheyennecity.org/files/sharedassets/public/v/1/your-government/city-council/psc-2024/psc-08-20-24-minutes.pdf",
+      "source_retrieved_at": "2026-11-08T17:09:56.353300+00:00",
+      "page": 1,
+      "extraction_method": "native",
+      "quality_verified": false,
+      "representation_path": "derived/01dbe8848e39f4f05964f7fb2eef0bbe290b0c2abab6144998436784920e0bb3/page-000001.json",
+      "representation_text_sha256": "6cd2a8a6981bd62840a1647bf1ee7b948ad40f074e833e0e8abb5290f97dc68a",
+      "representation_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/22880f4c2443b35dd5c4b53e67708302bc66f9cc/derived/01dbe8848e39f4f05964f7fb2eef0bbe290b0c2abab6144998436784920e0bb3/page-000001.json",
+      "original_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/22880f4c2443b35dd5c4b53e67708302bc66f9cc/objects/01/01dbe8848e39f4f05964f7fb2eef0bbe290b0c2abab6144998436784920e0bb3",
+      "evidence": [
+        {
+          "term": "zoning",
+          "match_start": 981,
+          "match_end": 987,
+          "passage_start": 831,
+          "passage_end": 1237,
+          "text": "\nunanimous voice vote.\n\nConnor White, Planning & Development Department, provided a staff report.\n\n8.     ORDINANCE -2” READING Amending the Official Zoning Map of the City of\n                                          -\n\n\n\n       Cheyenne establishing the zoning classification of AG Agricultural for land annexed to the\n       City of Cheyenne located west of Converse Avenue and north of Dell Range Boule"
+        },
+        {
+          "term": "zoning",
+          "match_start": 1087,
+          "match_end": 1093,
+          "passage_start": 937,
+          "passage_end": 1343,
+          "text": "ORDINANCE -2” READING Amending the Official Zoning Map of the City of\n                                          -\n\n\n\n       Cheyenne establishing the zoning classification of AG Agricultural for land annexed to the\n       City of Cheyenne located west of Converse Avenue and north of Dell Range Boulevard.\n       (SPONSOR MR. ROYBAL)\n                     -\n\n\n\n\nDr. Rinne moved to approve on 2” reading, sec"
+        },
+        {
+          "term": "zoning",
+          "match_start": 1532,
+          "match_end": 1538,
+          "passage_start": 1382,
+          "passage_end": 1788,
+          "text": "\nunanimous voice vote.\n\nConnor White, Planning & Development Department, provided a staff report.\n\n9.     ORDINANCE —2” READING Amending the Official Zoning Map of the City of\n                                          —\n\n       Cheyenne changing the zoning classification from AG Agricultural to NR-3 Neighborhood\n       Residential High Density for land located west of Converse Avenue and north of Dell\n "
+        }
+      ]
+    },
+    {
+      "classification": "unreviewed_topical_match_not_a_finding",
+      "source_sha256": "01dbe8848e39f4f05964f7fb2eef0bbe290b0c2abab6144998436784920e0bb3",
+      "source_url": "https://www.cheyennecity.org/files/sharedassets/public/v/1/your-government/city-council/psc-2024/psc-08-20-24-minutes.pdf",
+      "source_retrieved_at": "2026-11-08T17:09:56.353300+00:00",
+      "page": 2,
+      "extraction_method": "native",
+      "quality_verified": false,
+      "representation_path": "derived/01dbe8848e39f4f05964f7fb2eef0bbe290b0c2abab6144998436784920e0bb3/page-000002.json",
+      "representation_text_sha256": "f304ae5ce122d4b36095c94dd18d62f56e527b017f0b6e9312d9dcdbe16c7c27",
+      "representation_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/22880f4c2443b35dd5c4b53e67708302bc66f9cc/derived/01dbe8848e39f4f05964f7fb2eef0bbe290b0c2abab6144998436784920e0bb3/page-000002.json",
+      "original_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/22880f4c2443b35dd5c4b53e67708302bc66f9cc/objects/01/01dbe8848e39f4f05964f7fb2eef0bbe290b0c2abab6144998436784920e0bb3",
+      "evidence": [
+        {
+          "term": "zoning",
+          "match_start": 402,
+          "match_end": 408,
+          "passage_start": 252,
+          "passage_end": 658,
+          "text": "ovided additional information. Chairman\nRoybal and committee member Segrave commented on the item.\n\n11.    ORDINANCE -2 READING Amending the Official Zoning Map of the City of\n                                         -\n\n\n\n       Cheyenne establishing the zoning classification of MUR Mixed-Use Residential for land\n       annexed to the City of Cheyenne located east of US-30 and north of and adjacent to E"
+        },
+        {
+          "term": "zoning",
+          "match_start": 507,
+          "match_end": 513,
+          "passage_start": 357,
+          "passage_end": 763,
+          "text": "  ORDINANCE -2 READING Amending the Official Zoning Map of the City of\n                                         -\n\n\n\n       Cheyenne establishing the zoning classification of MUR Mixed-Use Residential for land\n       annexed to the City of Cheyenne located east of US-30 and north of and adjacent to East\n       Pershing Boulevard. (SPONSOR MR. ROYBAL)\n                                         —\n\n\n\n\nDr. Ri"
+        },
+        {
+          "term": "zoning",
+          "match_start": 991,
+          "match_end": 997,
+          "passage_start": 841,
+          "passage_end": 1247,
+          "text": "\nunanimous voice vote.\n\nConnor White, Planning & Development Department, provided a staff report.\n\n12.    ORDINANCE -2” READING Amending the Official Zoning Map of the City of\n                                         -\n\n\n\n       Cheyenne changing the zoning classification from LI Light Industrial to CB Community\n       Business for land located northeast of the intersection of Hutchins Drive and Industr"
+        }
+      ]
+    },
+    {
+      "classification": "unreviewed_topical_match_not_a_finding",
+      "source_sha256": "03858dbaca270db28253d4133e9b36a7aa9d2aa841851b01a35635e5a1e05580",
+      "source_url": "https://www.cheyennecity.org/files/sharedassets/public/v/1/your-government/city-council/psc-2024/psc-10-22-24-agenda.pdf",
+      "source_retrieved_at": "2026-11-08T17:09:36.324584+00:00",
+      "page": 1,
+      "extraction_method": "native",
+      "quality_verified": false,
+      "representation_path": "derived/03858dbaca270db28253d4133e9b36a7aa9d2aa841851b01a35635e5a1e05580/page-000001.json",
+      "representation_text_sha256": "4607a0a3899c1fca5464a070d21973829498f01b9a3fddbf2790e4b4ca21a32d",
+      "representation_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/22880f4c2443b35dd5c4b53e67708302bc66f9cc/derived/03858dbaca270db28253d4133e9b36a7aa9d2aa841851b01a35635e5a1e05580/page-000001.json",
+      "original_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/22880f4c2443b35dd5c4b53e67708302bc66f9cc/objects/03/03858dbaca270db28253d4133e9b36a7aa9d2aa841851b01a35635e5a1e05580",
+      "evidence": [
+        {
+          "term": "zoning",
+          "match_start": 1284,
+          "match_end": 1290,
+          "passage_start": 1134,
+          "passage_end": 1540,
+          "text": "ty of Cheyenne’s web site:\n                         Public Services Committee (granicus.com)\n\n\n7.      ORDINANCE –2nd READING – Amending the Official Zoning Map of the City of\n        Cheyenne adding the Urban Use Overlay District to land located north of East 21st Street\n        and east of and adjacent to Warren Avenue. (SPONSOR – MR. ROYBAL)\n\nACTION:\n\n12.     RESOLUTION – Authorizing the Mayor and th"
+        },
+        {
+          "term": "annexation",
+          "match_start": 1894,
+          "match_end": 1904,
+          "passage_start": 1744,
+          "passage_end": 2154,
+          "text": ". (SPONSOR –\n        MR. ROYBAL)\n\nACTION:\n\n13.     RESOLUTION – Certifying compliance with Wyoming Statute § 15-1-402 for the City-\n        initiated annexation of various tracts of land completely surrounded by current City limits\n        situate in northeast Cheyenne generally located north of Bevans Street, west of College\n        Drive, and south of Dell Range Boulevard. (SPONSOR – MR. ROYBAL)\n\nACTION:\n"
+        }
+      ]
+    },
+    {
+      "classification": "unreviewed_topical_match_not_a_finding",
+      "source_sha256": "03858dbaca270db28253d4133e9b36a7aa9d2aa841851b01a35635e5a1e05580",
+      "source_url": "https://www.cheyennecity.org/files/sharedassets/public/v/1/your-government/city-council/psc-2024/psc-10-22-24-agenda.pdf",
+      "source_retrieved_at": "2026-11-08T17:09:36.324584+00:00",
+      "page": 2,
+      "extraction_method": "native",
+      "quality_verified": false,
+      "representation_path": "derived/03858dbaca270db28253d4133e9b36a7aa9d2aa841851b01a35635e5a1e05580/page-000002.json",
+      "representation_text_sha256": "b97cf757e269b24f35d3d1d4617a178a839c3bbf1145f1f850ec84b549bd404f",
+      "representation_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/22880f4c2443b35dd5c4b53e67708302bc66f9cc/derived/03858dbaca270db28253d4133e9b36a7aa9d2aa841851b01a35635e5a1e05580/page-000002.json",
+      "original_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/22880f4c2443b35dd5c4b53e67708302bc66f9cc/objects/03/03858dbaca270db28253d4133e9b36a7aa9d2aa841851b01a35635e5a1e05580",
+      "evidence": [
+        {
+          "term": "annexation",
+          "match_start": 103,
+          "match_end": 113,
+          "passage_start": 0,
+          "passage_end": 363,
+          "text": "14.   RESOLUTION – Certifying compliance with Wyoming Statute § 15-1-402 for the City-\n      initiated annexation of various tracts of land completely surrounded by current City limits\n      situate in northeast Cheyenne generally located east of Ridge Road, west of Whitney\n      Road and along Dell Range Boulevard. (SPONSOR – MR. ROYBAL)\n\nACTION:\n\n15.   RESOLU"
+        },
+        {
+          "term": "development agreement",
+          "match_start": 840,
+          "match_end": 861,
+          "passage_start": 690,
+          "passage_end": 1111,
+          "text": "ittees, Commissions and Councils due to inactivity. (SPONSOR - MR.\n      JOHNSON)\n\nACTION:\n\n18.   LEASES/CONTRACTS/LEGAL:\n\n      e)     Urban Renewal Development Agreement to award Tax Increment Financing\n             (TIF) for a development in the West Downtown Plan and Project urban renewal\n             area.\n\nACTION:\n\n      f)     Urban Renewal Development Agreement to award Tax Increment Financing\n             (TI"
+        },
+        {
+          "term": "development agreement",
+          "match_start": 1040,
+          "match_end": 1061,
+          "passage_start": 890,
+          "passage_end": 1311,
+          "text": "cing\n             (TIF) for a development in the West Downtown Plan and Project urban renewal\n             area.\n\nACTION:\n\n      f)     Urban Renewal Development Agreement to award Tax Increment Financing\n             (TIF) for a development in the Jolly Rogers Plan and Project urban renewal area.\n\nACTION:\n\nOTHER ITEMS FOR THE AGENDA:\n______________________________________________________________________________\n_____"
+        }
+      ]
+    },
+    {
+      "classification": "unreviewed_topical_match_not_a_finding",
+      "source_sha256": "03bf84b9bd7dc81d689b8ec05d996f50b6112caad73a1a7367837c659218caa1",
+      "source_url": "https://www.cheyennecity.org/files/sharedassets/public/v/1/your-government/city-council/psc-2025/psc-05-19-25-agenda-2.pdf",
+      "source_retrieved_at": "2026-11-08T17:08:29.156334+00:00",
+      "page": 1,
+      "extraction_method": "native",
+      "quality_verified": false,
+      "representation_path": "derived/03bf84b9bd7dc81d689b8ec05d996f50b6112caad73a1a7367837c659218caa1/page-000001.json",
+      "representation_text_sha256": "119f54c5b35c5b53fd75c14f7e6711d93b48010d9c7b417103e7cdd24036e36b",
+      "representation_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/22880f4c2443b35dd5c4b53e67708302bc66f9cc/derived/03bf84b9bd7dc81d689b8ec05d996f50b6112caad73a1a7367837c659218caa1/page-000001.json",
+      "original_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/22880f4c2443b35dd5c4b53e67708302bc66f9cc/objects/03/03bf84b9bd7dc81d689b8ec05d996f50b6112caad73a1a7367837c659218caa1",
+      "evidence": [
+        {
+          "term": "annexation",
+          "match_start": 1789,
+          "match_end": 1799,
+          "passage_start": 1639,
+          "passage_end": 2049,
+          "text": "ane. (POSTPONED FROM MAY 12, 2025)\n\nACTION:\n\n19.    RESOLUTION – Certifying compliance with Wyoming Statute § 15-1-402 for the City-\n       initiated annexation of various tracts of land completely surrounded by current city limits\n       situate in east Cheyenne generally located south of Dell Range Boulevard, east of Dry\n       Creek, west of Whitney Road, and north of Charles Street. (SPONSOR – MR.\n     "
+        }
+      ]
+    },
+    {
+      "classification": "unreviewed_topical_match_not_a_finding",
+      "source_sha256": "05a7f6238c76c5e1f30efb3e6ef179709ad77e8a7aaf4398bf4a32cd493fc4b3",
+      "source_url": "https://www.cheyennecity.org/files/sharedassets/public/v/1/your-government/city-council/psc-2026/psc-10-05-26-minutes.pdf",
+      "source_retrieved_at": "2026-11-08T16:52:32.257922+00:00",
+      "page": 1,
+      "extraction_method": "native",
+      "quality_verified": false,
+      "representation_path": "derived/05a7f6238c76c5e1f30efb3e6ef179709ad77e8a7aaf4398bf4a32cd493fc4b3/page-000001.json",
+      "representation_text_sha256": "0527e2f3d19bce3f3186fad517b17b28ea4e618df68ff138a3b6103a943fb50d",
+      "representation_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/22880f4c2443b35dd5c4b53e67708302bc66f9cc/derived/05a7f6238c76c5e1f30efb3e6ef179709ad77e8a7aaf4398bf4a32cd493fc4b3/page-000001.json",
+      "original_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/22880f4c2443b35dd5c4b53e67708302bc66f9cc/objects/05/05a7f6238c76c5e1f30efb3e6ef179709ad77e8a7aaf4398bf4a32cd493fc4b3",
+      "evidence": [
+        {
+          "term": "zoning",
+          "match_start": 1261,
+          "match_end": 1267,
+          "passage_start": 1111,
+          "passage_end": 1517,
+          "text": " changes since approval on 2 reading. Committee member Rinne\ncommented on the item.\n\n10.    ORDINANCE      —  3”’ READING       Amending the Official Zoning Map of the City of\n                                              —\n\n\n\n\n       Cheyenne establishing the zoning classification of AG Agricultural and LI Light Industrial\n       for land annexed to the City of Cheyenne located south of Interstate 80, "
+        },
+        {
+          "term": "zoning",
+          "match_start": 1372,
+          "match_end": 1378,
+          "passage_start": 1222,
+          "passage_end": 1628,
+          "text": "”’ READING       Amending the Official Zoning Map of the City of\n                                              —\n\n\n\n\n       Cheyenne establishing the zoning classification of AG Agricultural and LI Light Industrial\n       for land annexed to the City of Cheyenne located south of Interstate 80, southeast of Otto\n       Road, and west of Interstate 25.\n\nMr. Esquihel moved to approve on 31 and final readin"
+        },
+        {
+          "term": "zoning",
+          "match_start": 2103,
+          "match_end": 2109,
+          "passage_start": 1953,
+          "passage_end": 2359,
+          "text": "ee member\nRinne commented on the item and public comment was made by’ Charles Miller.\n\n                         3J READING      Amending the Official Zoning Map of the City of\nII.    ORDINANCE      —\n\n\n                                              —\n\n\n\n\n       Cheyenne, changing the zoning classification for land located south of Interstate 80,\n       southeast of Otto Road, and west of Interstate 25 fr"
+        }
+      ]
+    },
+    {
+      "classification": "unreviewed_topical_match_not_a_finding",
+      "source_sha256": "05a7f6238c76c5e1f30efb3e6ef179709ad77e8a7aaf4398bf4a32cd493fc4b3",
+      "source_url": "https://www.cheyennecity.org/files/sharedassets/public/v/1/your-government/city-council/psc-2026/psc-10-05-26-minutes.pdf",
+      "source_retrieved_at": "2026-11-08T16:52:32.257922+00:00",
+      "page": 2,
+      "extraction_method": "native",
+      "quality_verified": false,
+      "representation_path": "derived/05a7f6238c76c5e1f30efb3e6ef179709ad77e8a7aaf4398bf4a32cd493fc4b3/page-000002.json",
+      "representation_text_sha256": "86254eaf2e507dfcdd32d2256ff2a1acc2dde28a68ac1cf0a151262b305a287f",
+      "representation_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/22880f4c2443b35dd5c4b53e67708302bc66f9cc/derived/05a7f6238c76c5e1f30efb3e6ef179709ad77e8a7aaf4398bf4a32cd493fc4b3/page-000002.json",
+      "original_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/22880f4c2443b35dd5c4b53e67708302bc66f9cc/objects/05/05a7f6238c76c5e1f30efb3e6ef179709ad77e8a7aaf4398bf4a32cd493fc4b3",
+      "evidence": [
+        {
+          "term": "zoning",
+          "match_start": 987,
+          "match_end": 993,
+          "passage_start": 837,
+          "passage_end": 1243,
+          "text": "iller, Jeff Nakashima, Trammell Crow Company and\nWard 1 Councilmember Larry Wolfe.\n\n14.    ORDINANCE         3”’ READING        Amending the Official Zoning Map of the City of\n                                           -.\n\n\n\n\n       Cheyenne, establishing the zoning  classification AG Agricultural for land annexed to the\n                                                          —\n\n\n\n\n       City of Chey"
+        },
+        {
+          "term": "zoning",
+          "match_start": 1097,
+          "match_end": 1103,
+          "passage_start": 947,
+          "passage_end": 1353,
+          "text": "”’ READING        Amending the Official Zoning Map of the City of\n                                           -.\n\n\n\n\n       Cheyenne, establishing the zoning  classification AG Agricultural for land annexed to the\n                                                          —\n\n\n\n\n       City of Cheyenne. located west of South Greeley Highway, south of West College Drive,\n       and southwest of and adjacent"
+        },
+        {
+          "term": "zoning",
+          "match_start": 1882,
+          "match_end": 1888,
+          "passage_start": 1732,
+          "passage_end": 2138,
+          "text": "n the item. Public comment was made by Charles Miller.\n\n15.    ORDINANCE      —  3111\n                              READING     Amending the Official Zoning Map of the City of\n                                           —\n\n\n\n\n       Cheyenne, changing the zoning classification for land located west of South Greeley\n       Highway, south of West College Drive. and southwest of and adjacent to the intersec"
+        }
+      ]
+    },
+    {
+      "classification": "unreviewed_topical_match_not_a_finding",
+      "source_sha256": "07277df638f24aee0e5c27068eb8c33ad23fe04de5f5485f5d575d2a001c9273",
+      "source_url": "https://www.cheyennecity.org/files/sharedassets/public/v/1/your-government/city-council/psc-2025/psc-12-01-25-agenda.pdf",
+      "source_retrieved_at": "2026-11-08T17:07:30.859086+00:00",
+      "page": 1,
+      "extraction_method": "native",
+      "quality_verified": false,
+      "representation_path": "derived/07277df638f24aee0e5c27068eb8c33ad23fe04de5f5485f5d575d2a001c9273/page-000001.json",
+      "representation_text_sha256": "9b356f6a476b94644f1a4e2a44a2d439e0098d93b0a817c3bebda64510872a8e",
+      "representation_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/22880f4c2443b35dd5c4b53e67708302bc66f9cc/derived/07277df638f24aee0e5c27068eb8c33ad23fe04de5f5485f5d575d2a001c9273/page-000001.json",
+      "original_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/22880f4c2443b35dd5c4b53e67708302bc66f9cc/objects/07/07277df638f24aee0e5c27068eb8c33ad23fe04de5f5485f5d575d2a001c9273",
+      "evidence": [
+        {
+          "term": "zoning",
+          "match_start": 1696,
+          "match_end": 1702,
+          "passage_start": 1546,
+          "passage_end": 1952,
+          "text": "T-Bird Drive, north of East Lincolnway\n        and US 30, and west of Parsons Place.\n\nACTION:\n\n8.      ORDINANCE –3rd READING – Amending the Official Zoning Map of the City of\n        Cheyenne, establishing the zoning classifications of: MR – Medium-Density Residential;\n        MUB – Mixed-Use Business; and CB – Community Business, for land annexed to the\n        City of Cheyenne generally located south"
+        },
+        {
+          "term": "zoning",
+          "match_start": 1757,
+          "match_end": 1763,
+          "passage_start": 1607,
+          "passage_end": 2013,
+          "text": " west of Parsons Place.\n\nACTION:\n\n8.      ORDINANCE –3rd READING – Amending the Official Zoning Map of the City of\n        Cheyenne, establishing the zoning classifications of: MR – Medium-Density Residential;\n        MUB – Mixed-Use Business; and CB – Community Business, for land annexed to the\n        City of Cheyenne generally located south of Laramie Street, east of T-Bird Drive, north\n        of Ea"
+        }
+      ]
+    },
+    {
+      "classification": "unreviewed_topical_match_not_a_finding",
+      "source_sha256": "07277df638f24aee0e5c27068eb8c33ad23fe04de5f5485f5d575d2a001c9273",
+      "source_url": "https://www.cheyennecity.org/files/sharedassets/public/v/1/your-government/city-council/psc-2025/psc-12-01-25-agenda.pdf",
+      "source_retrieved_at": "2026-11-08T17:07:30.859086+00:00",
+      "page": 2,
+      "extraction_method": "native",
+      "quality_verified": false,
+      "representation_path": "derived/07277df638f24aee0e5c27068eb8c33ad23fe04de5f5485f5d575d2a001c9273/page-000002.json",
+      "representation_text_sha256": "a6c483431684755ed64720ea5dbff4f272a5b63c2ccf06702086d94375b5aec8",
+      "representation_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/22880f4c2443b35dd5c4b53e67708302bc66f9cc/derived/07277df638f24aee0e5c27068eb8c33ad23fe04de5f5485f5d575d2a001c9273/page-000002.json",
+      "original_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/22880f4c2443b35dd5c4b53e67708302bc66f9cc/objects/07/07277df638f24aee0e5c27068eb8c33ad23fe04de5f5485f5d575d2a001c9273",
+      "evidence": [
+        {
+          "term": "zoning",
+          "match_start": 53,
+          "match_end": 59,
+          "passage_start": 0,
+          "passage_end": 309,
+          "text": "10.   ORDINANCE –3rd READING – Amending the Official Zoning Map of the City of\n      Cheyenne establishing the zoning classification of AG – Agricultural for land annexed to\n      the City of Cheyenne located south of Storey Boulevard, west of Converse Avenue, and\n      north of East Carlson Street.\n\nACTION:"
+        },
+        {
+          "term": "zoning",
+          "match_start": 111,
+          "match_end": 117,
+          "passage_start": 0,
+          "passage_end": 367,
+          "text": "10.   ORDINANCE –3rd READING – Amending the Official Zoning Map of the City of\n      Cheyenne establishing the zoning classification of AG – Agricultural for land annexed to\n      the City of Cheyenne located south of Storey Boulevard, west of Converse Avenue, and\n      north of East Carlson Street.\n\nACTION:\n\n11.   ORDINANCE –3rd READING – Amending the Official Zon"
+        },
+        {
+          "term": "zoning",
+          "match_start": 364,
+          "match_end": 370,
+          "passage_start": 214,
+          "passage_end": 620,
+          "text": " of Storey Boulevard, west of Converse Avenue, and\n      north of East Carlson Street.\n\nACTION:\n\n11.   ORDINANCE –3rd READING – Amending the Official Zoning Map of the City of\n      Cheyenne, changing the zoning classification for land located south of Storey Boulevard,\n      west of Converse Avenue, and north of East Carlson Street from AG – Agricultural and\n      CB – Community Business to NR–3 – Neig"
+        }
+      ]
+    },
+    {
+      "classification": "unreviewed_topical_match_not_a_finding",
+      "source_sha256": "090cfbec55548ada575053632aaa0d7b4114f023fc65c69c7c5c7ecddf13b0da",
+      "source_url": "https://www.cheyennecity.org/files/sharedassets/public/v/1/your-government/city-council/psc-2023/sub-sweetgrass-pud-amendment.pdf",
+      "source_retrieved_at": "2026-11-08T17:13:02.534477+00:00",
+      "page": 2,
+      "extraction_method": "native",
+      "quality_verified": false,
+      "representation_path": "derived/090cfbec55548ada575053632aaa0d7b4114f023fc65c69c7c5c7ecddf13b0da/page-000002.json",
+      "representation_text_sha256": "d212a7e2e4861612def58a84316c93244c6227e0db8e0708abfa99b6e715c5f1",
+      "representation_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/22880f4c2443b35dd5c4b53e67708302bc66f9cc/derived/090cfbec55548ada575053632aaa0d7b4114f023fc65c69c7c5c7ecddf13b0da/page-000002.json",
+      "original_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/22880f4c2443b35dd5c4b53e67708302bc66f9cc/objects/09/090cfbec55548ada575053632aaa0d7b4114f023fc65c69c7c5c7ecddf13b0da",
+      "evidence": [
+        {
+          "term": "subdivision",
+          "match_start": 676,
+          "match_end": 687,
+          "passage_start": 526,
+          "passage_end": 937,
+          "text": "                                  PALMA\n                                            Land Planning\n                                             SITE & SUBDIVISION DESIGN\n                                            ZONING | LANDSCAPE ARCHITECTURE\n\n                                                1775 Goodnight Trail, Suite 210\n                                            (307) 996-8281 | Cheyenne, WY 82007\n     "
+        },
+        {
+          "term": "zoning",
+          "match_start": 739,
+          "match_end": 745,
+          "passage_start": 589,
+          "passage_end": 995,
+          "text": "                     Land Planning\n                                             SITE & SUBDIVISION DESIGN\n                                            ZONING | LANDSCAPE ARCHITECTURE\n\n                                                1775 Goodnight Trail, Suite 210\n                                            (307) 996-8281 | Cheyenne, WY 82007\n                                                 www.PlanDesign"
+        }
+      ]
+    },
+    {
+      "classification": "unreviewed_topical_match_not_a_finding",
+      "source_sha256": "090cfbec55548ada575053632aaa0d7b4114f023fc65c69c7c5c7ecddf13b0da",
+      "source_url": "https://www.cheyennecity.org/files/sharedassets/public/v/1/your-government/city-council/psc-2023/sub-sweetgrass-pud-amendment.pdf",
+      "source_retrieved_at": "2026-11-08T17:13:02.534477+00:00",
+      "page": 11,
+      "extraction_method": "native",
+      "quality_verified": false,
+      "representation_path": "derived/090cfbec55548ada575053632aaa0d7b4114f023fc65c69c7c5c7ecddf13b0da/page-000011.json",
+      "representation_text_sha256": "387c41827a62aa819e18b0d9ed8f4e27ce16c769b690cdb3f7976e59f44cf8af",
+      "representation_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/22880f4c2443b35dd5c4b53e67708302bc66f9cc/derived/090cfbec55548ada575053632aaa0d7b4114f023fc65c69c7c5c7ecddf13b0da/page-000011.json",
+      "original_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/22880f4c2443b35dd5c4b53e67708302bc66f9cc/objects/09/090cfbec55548ada575053632aaa0d7b4114f023fc65c69c7c5c7ecddf13b0da",
+      "evidence": [
+        {
+          "term": "subdivision",
+          "match_start": 777,
+          "match_end": 788,
+          "passage_start": 627,
+          "passage_end": 1038,
+          "text": "ctions may be adjusted slightly with concurrence from a Wyoming licensed\n      engineer without amending this PUD or necessitating a formal Waiver to Subdivision Standards.\n 2. General Access and Street Standards:\n   a. All parcels shall provide access sufficient for emergency vehicles (per International Fire Code, as adopted\n       by the City when the final plat for the parcel is submitted), with a minimum"
+        }
+      ]
+    },
+    {
+      "classification": "unreviewed_topical_match_not_a_finding",
+      "source_sha256": "090cfbec55548ada575053632aaa0d7b4114f023fc65c69c7c5c7ecddf13b0da",
+      "source_url": "https://www.cheyennecity.org/files/sharedassets/public/v/1/your-government/city-council/psc-2023/sub-sweetgrass-pud-amendment.pdf",
+      "source_retrieved_at": "2026-11-08T17:13:02.534477+00:00",
+      "page": 41,
+      "extraction_method": "native",
+      "quality_verified": false,
+      "representation_path": "derived/090cfbec55548ada575053632aaa0d7b4114f023fc65c69c7c5c7ecddf13b0da/page-000041.json",
+      "representation_text_sha256": "237f4981823ace8637aed1fcd489be12b1b5bb59d7432e6f1d0ca2ec678092c5",
+      "representation_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/22880f4c2443b35dd5c4b53e67708302bc66f9cc/derived/090cfbec55548ada575053632aaa0d7b4114f023fc65c69c7c5c7ecddf13b0da/page-000041.json",
+      "original_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/22880f4c2443b35dd5c4b53e67708302bc66f9cc/objects/09/090cfbec55548ada575053632aaa0d7b4114f023fc65c69c7c5c7ecddf13b0da",
+      "evidence": [
+        {
+          "term": "subdivision",
+          "match_start": 8940,
+          "match_end": 8951,
+          "passage_start": 8790,
+          "passage_end": 9201,
+          "text": "gutter, depressed for drainage, or no median.\n                                                          (5) a) If an attached sidewalk is allowed via subdivision waiver, then a minimum 6’ wide sidewalk is required (8’ @ Collector & Arterial). b) sidewalk both sides optional\n                                                          (6) “Rural” areas defined as any LDR/VLDR area having lot frontage ≥85 feet an"
+        }
+      ]
+    },
+    {
+      "classification": "unreviewed_topical_match_not_a_finding",
+      "source_sha256": "090cfbec55548ada575053632aaa0d7b4114f023fc65c69c7c5c7ecddf13b0da",
+      "source_url": "https://www.cheyennecity.org/files/sharedassets/public/v/1/your-government/city-council/psc-2023/sub-sweetgrass-pud-amendment.pdf",
+      "source_retrieved_at": "2026-11-08T17:13:02.534477+00:00",
+      "page": 52,
+      "extraction_method": "native",
+      "quality_verified": false,
+      "representation_path": "derived/090cfbec55548ada575053632aaa0d7b4114f023fc65c69c7c5c7ecddf13b0da/page-000052.json",
+      "representation_text_sha256": "527394cee20dfd6f5f7fe8bce06e2d713bd44d637a2434ef0369f72422a66ef9",
+      "representation_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/22880f4c2443b35dd5c4b53e67708302bc66f9cc/derived/090cfbec55548ada575053632aaa0d7b4114f023fc65c69c7c5c7ecddf13b0da/page-000052.json",
+      "original_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/22880f4c2443b35dd5c4b53e67708302bc66f9cc/objects/09/090cfbec55548ada575053632aaa0d7b4114f023fc65c69c7c5c7ecddf13b0da",
+      "evidence": [
+        {
+          "term": "subdivision",
+          "match_start": 774,
+          "match_end": 785,
+          "passage_start": 624,
+          "passage_end": 1035,
+          "text": "                                  PALMA\n                                            Land Planning\n                                             SITE & SUBDIVISION DESIGN\n                                            ZONING | LANDSCAPE ARCHITECTURE\n\n                                                1775 Goodnight Trail, Suite 210\n                                            (307) 996-8281 | Cheyenne, WY 82007\n     "
+        },
+        {
+          "term": "zoning",
+          "match_start": 837,
+          "match_end": 843,
+          "passage_start": 687,
+          "passage_end": 1093,
+          "text": "                     Land Planning\n                                             SITE & SUBDIVISION DESIGN\n                                            ZONING | LANDSCAPE ARCHITECTURE\n\n                                                1775 Goodnight Trail, Suite 210\n                                            (307) 996-8281 | Cheyenne, WY 82007\n                                                 www.PlanDesign"
+        }
+      ]
+    },
+    {
+      "classification": "unreviewed_topical_match_not_a_finding",
+      "source_sha256": "090cfbec55548ada575053632aaa0d7b4114f023fc65c69c7c5c7ecddf13b0da",
+      "source_url": "https://www.cheyennecity.org/files/sharedassets/public/v/1/your-government/city-council/psc-2023/sub-sweetgrass-pud-amendment.pdf",
+      "source_retrieved_at": "2026-11-08T17:13:02.534477+00:00",
+      "page": 61,
+      "extraction_method": "native",
+      "quality_verified": false,
+      "representation_path": "derived/090cfbec55548ada575053632aaa0d7b4114f023fc65c69c7c5c7ecddf13b0da/page-000061.json",
+      "representation_text_sha256": "97898d14b678718dce2baee3c231f67765db03868c7ab3a68459e7a97d22ca7c",
+      "representation_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/22880f4c2443b35dd5c4b53e67708302bc66f9cc/derived/090cfbec55548ada575053632aaa0d7b4114f023fc65c69c7c5c7ecddf13b0da/page-000061.json",
+      "original_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/22880f4c2443b35dd5c4b53e67708302bc66f9cc/objects/09/090cfbec55548ada575053632aaa0d7b4114f023fc65c69c7c5c7ecddf13b0da",
+      "evidence": [
+        {
+          "term": "subdivision",
+          "match_start": 775,
+          "match_end": 786,
+          "passage_start": 625,
+          "passage_end": 1036,
+          "text": "ctions may be adjusted slightly with concurrence from a Wyoming licensed\n      engineer without amending this PUD or necessitating a formal Waiver to Subdivision Standards.\n 2. General Access and Street Standards:\n   a. All parcels shall provide access sufficient for emergency vehicles (per International Fire Code, as adopted\n       by the City when the final plat for the parcel is submitted), with a minimum"
+        }
+      ]
+    },
+    {
+      "classification": "unreviewed_topical_match_not_a_finding",
+      "source_sha256": "090cfbec55548ada575053632aaa0d7b4114f023fc65c69c7c5c7ecddf13b0da",
+      "source_url": "https://www.cheyennecity.org/files/sharedassets/public/v/1/your-government/city-council/psc-2023/sub-sweetgrass-pud-amendment.pdf",
+      "source_retrieved_at": "2026-11-08T17:13:02.534477+00:00",
+      "page": 90,
+      "extraction_method": "native",
+      "quality_verified": false,
+      "representation_path": "derived/090cfbec55548ada575053632aaa0d7b4114f023fc65c69c7c5c7ecddf13b0da/page-000090.json",
+      "representation_text_sha256": "ad88a9bc80c1a61a9950422b66df88227f66b197a2df636f5d3db02c7e3892b4",
+      "representation_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/22880f4c2443b35dd5c4b53e67708302bc66f9cc/derived/090cfbec55548ada575053632aaa0d7b4114f023fc65c69c7c5c7ecddf13b0da/page-000090.json",
+      "original_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/22880f4c2443b35dd5c4b53e67708302bc66f9cc/objects/09/090cfbec55548ada575053632aaa0d7b4114f023fc65c69c7c5c7ecddf13b0da",
+      "evidence": [
+        {
+          "term": "subdivision",
+          "match_start": 8940,
+          "match_end": 8951,
+          "passage_start": 8790,
+          "passage_end": 9201,
+          "text": "gutter, depressed for drainage, or no median.\n                                                          (5) a) If an attached sidewalk is allowed via subdivision waiver, then a minimum 6’ wide sidewalk is required (8’ @ Collector & Arterial). b) sidewalk both sides optional\n                                                          (6) “Rural” areas defined as any LDR/VLDR area having lot frontage ≥85 feet an"
+        }
+      ]
+    },
+    {
+      "classification": "unreviewed_topical_match_not_a_finding",
+      "source_sha256": "0bb3abd198646b6ec8bc53dd8dd965b3bbe154f458209cf4e0f54c53fc05291a",
+      "source_url": "https://www.cheyennecity.org/files/sharedassets/public/v/1/your-government/city-council/psc-2024/psc-11-19-24-agenda.pdf",
+      "source_retrieved_at": "2026-11-08T17:09:25.947805+00:00",
+      "page": 1,
+      "extraction_method": "native",
+      "quality_verified": false,
+      "representation_path": "derived/0bb3abd198646b6ec8bc53dd8dd965b3bbe154f458209cf4e0f54c53fc05291a/page-000001.json",
+      "representation_text_sha256": "4f8856a34826102ba8ca2a411d6c6e2a962439a3710eec715ae92712d580f933",
+      "representation_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/22880f4c2443b35dd5c4b53e67708302bc66f9cc/derived/0bb3abd198646b6ec8bc53dd8dd965b3bbe154f458209cf4e0f54c53fc05291a/page-000001.json",
+      "original_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/22880f4c2443b35dd5c4b53e67708302bc66f9cc/objects/0b/0bb3abd198646b6ec8bc53dd8dd965b3bbe154f458209cf4e0f54c53fc05291a",
+      "evidence": [
+        {
+          "term": "zoning",
+          "match_start": 1618,
+          "match_end": 1624,
+          "passage_start": 1468,
+          "passage_end": 1874,
+          "text": "northwest of the I-80 and\n        Roundtop Road interchange). (SPONSOR – MR. ROYBAL)\n\nACTION:\n\n10.     ORDINANCE –2nd READING – Amending the Official Zoning Map of the City of\n        Cheyenne establishing the zoning classification of LI Light Industrial and BP Business\n        Park for tracts of land being annexed to the City situate in portions of Sections 4 and 5,\n        T13N, R67W, 6th P.M., Larami"
+        },
+        {
+          "term": "zoning",
+          "match_start": 1678,
+          "match_end": 1684,
+          "passage_start": 1528,
+          "passage_end": 1934,
+          "text": ". (SPONSOR – MR. ROYBAL)\n\nACTION:\n\n10.     ORDINANCE –2nd READING – Amending the Official Zoning Map of the City of\n        Cheyenne establishing the zoning classification of LI Light Industrial and BP Business\n        Park for tracts of land being annexed to the City situate in portions of Sections 4 and 5,\n        T13N, R67W, 6th P.M., Laramie County, Wyoming (also known as ‘North Range\n        Busine"
+        },
+        {
+          "term": "zoning",
+          "match_start": 2102,
+          "match_end": 2108,
+          "passage_start": 1952,
+          "passage_end": 2358,
+          "text": "northwest of the I-80 and Roundtop Road interchange).\n        (SPONSOR – MR. ROYBAL)\n\nACTION:\n\n11.     ORDINANCE –2nd READING – Amending the Official Zoning Map of the City of\n        Cheyenne changing the zoning classification from AG Agricultural and HI Heavy\n        Industrial to AG Agricultural for land located south of Campstool Rd and north of\n        Interstate 80. (SPONSOR – MR. ROYBAL)\n\nACTION:"
+        }
+      ]
+    },
+    {
+      "classification": "unreviewed_topical_match_not_a_finding",
+      "source_sha256": "0bb3abd198646b6ec8bc53dd8dd965b3bbe154f458209cf4e0f54c53fc05291a",
+      "source_url": "https://www.cheyennecity.org/files/sharedassets/public/v/1/your-government/city-council/psc-2024/psc-11-19-24-agenda.pdf",
+      "source_retrieved_at": "2026-11-08T17:09:25.947805+00:00",
+      "page": 2,
+      "extraction_method": "native",
+      "quality_verified": false,
+      "representation_path": "derived/0bb3abd198646b6ec8bc53dd8dd965b3bbe154f458209cf4e0f54c53fc05291a/page-000002.json",
+      "representation_text_sha256": "4b30e6d695be5e7dcdbb3ec14fa03d6b470143b58fd9eaffa231640a9ae5663f",
+      "representation_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/22880f4c2443b35dd5c4b53e67708302bc66f9cc/derived/0bb3abd198646b6ec8bc53dd8dd965b3bbe154f458209cf4e0f54c53fc05291a/page-000002.json",
+      "original_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/22880f4c2443b35dd5c4b53e67708302bc66f9cc/objects/0b/0bb3abd198646b6ec8bc53dd8dd965b3bbe154f458209cf4e0f54c53fc05291a",
+      "evidence": [
+        {
+          "term": "zoning",
+          "match_start": 375,
+          "match_end": 381,
+          "passage_start": 225,
+          "passage_end": 631,
+          "text": " west of College Drive and south of Dell Range\n      Boulevard. (SPONSOR – MR. ROYBAL)\n\nACTION:\n\n13.   ORDINANCE –2nd READING – Amending the Official Zoning Map of the City of\n      Cheyenne establishing the zoning classification of MR - Medium-Density Residential,\n      HR - High Density Residential, and CB - Community Business for land annexed to the\n      City of Cheyenne generally located north of B"
+        },
+        {
+          "term": "zoning",
+          "match_start": 433,
+          "match_end": 439,
+          "passage_start": 283,
+          "passage_end": 689,
+          "text": "vard. (SPONSOR – MR. ROYBAL)\n\nACTION:\n\n13.   ORDINANCE –2nd READING – Amending the Official Zoning Map of the City of\n      Cheyenne establishing the zoning classification of MR - Medium-Density Residential,\n      HR - High Density Residential, and CB - Community Business for land annexed to the\n      City of Cheyenne generally located north of Bevans Street, west of College Drive, and\n      south of De"
+        },
+        {
+          "term": "zoning",
+          "match_start": 1109,
+          "match_end": 1115,
+          "passage_start": 959,
+          "passage_end": 1365,
+          "text": "oad, west of Whitney Road and along Dell Range\n      Boulevard. (SPONSOR – MR. ROYBAL)\n\nACTION:\n\n15.   ORDINANCE –2nd READING – Amending the Official Zoning Map of the City of\n      Cheyenne establishing the zoning classification of AR - Agricultural Residential, LR\n      Low-Density Residential, MR - Medium-Density Residential, and MUR Mixed-Use\n      Residential for land annexed to the City of Cheyenn"
+        }
+      ]
+    },
+    {
+      "classification": "unreviewed_topical_match_not_a_finding",
+      "source_sha256": "0bd721963916cf91cfa38b5a4a0dc3bc56745a28d50d266e68c8d61e8b8a444b",
+      "source_url": "https://www.cheyennecity.org/files/sharedassets/public/v/1/your-government/city-council/psc-2022/psc-11-22-22-agenda.pdf",
+      "source_retrieved_at": "2026-11-08T17:14:31.514692+00:00",
+      "page": 1,
+      "extraction_method": "native",
+      "quality_verified": false,
+      "representation_path": "derived/0bd721963916cf91cfa38b5a4a0dc3bc56745a28d50d266e68c8d61e8b8a444b/page-000001.json",
+      "representation_text_sha256": "b7b90ac3591ea553a01185fd007c7baa4ff927b10ea8e3ee9fc02041093cdf37",
+      "representation_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/22880f4c2443b35dd5c4b53e67708302bc66f9cc/derived/0bd721963916cf91cfa38b5a4a0dc3bc56745a28d50d266e68c8d61e8b8a444b/page-000001.json",
+      "original_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/22880f4c2443b35dd5c4b53e67708302bc66f9cc/objects/0b/0bd721963916cf91cfa38b5a4a0dc3bc56745a28d50d266e68c8d61e8b8a444b",
+      "evidence": [
+        {
+          "term": "zoning",
+          "match_start": 1654,
+          "match_end": 1660,
+          "passage_start": 1504,
+          "passage_end": 1910,
+          "text": "ession of alcoholic liquor or malt\n      beverages in an open container as specified.\n\n ACTION:\n\n12.   ORDINANCE –2nd READING – Amending the Official Zoning Map of the City of\n      Cheyenne changing the zoning classification from P Public to CB Community Business\n      for land located south of Missile Drive, east of I-25. (SPONSOR – MR. COOK)\n\n ACTION:\n\nOTHER ITEMS FOR THE AGENDA:\n____________________"
+        },
+        {
+          "term": "zoning",
+          "match_start": 1708,
+          "match_end": 1714,
+          "passage_start": 1558,
+          "passage_end": 1964,
+          "text": "an open container as specified.\n\n ACTION:\n\n12.   ORDINANCE –2nd READING – Amending the Official Zoning Map of the City of\n      Cheyenne changing the zoning classification from P Public to CB Community Business\n      for land located south of Missile Drive, east of I-25. (SPONSOR – MR. COOK)\n\n ACTION:\n\nOTHER ITEMS FOR THE AGENDA:\n__________________________________________________________________________"
+        }
+      ]
+    },
+    {
+      "classification": "unreviewed_topical_match_not_a_finding",
+      "source_sha256": "0d8b85f718b7d567a358e64aa117a746052de4ed7f69d5cb65daf121ef7f0af5",
+      "source_url": "https://www.cheyennecity.org/files/sharedassets/public/v/1/your-government/city-council/psc-2026/psc-11-02-26-agenda-final.pdf",
+      "source_retrieved_at": "2026-11-08T16:52:20.182912+00:00",
+      "page": 1,
+      "extraction_method": "native",
+      "quality_verified": false,
+      "representation_path": "derived/0d8b85f718b7d567a358e64aa117a746052de4ed7f69d5cb65daf121ef7f0af5/page-000001.json",
+      "representation_text_sha256": "b7d4f0e51223ee7073a22f9122d1a7bdb1c35b18ade1fbb812fd33b65e760a11",
+      "representation_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/22880f4c2443b35dd5c4b53e67708302bc66f9cc/derived/0d8b85f718b7d567a358e64aa117a746052de4ed7f69d5cb65daf121ef7f0af5/page-000001.json",
+      "original_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/22880f4c2443b35dd5c4b53e67708302bc66f9cc/objects/0d/0d8b85f718b7d567a358e64aa117a746052de4ed7f69d5cb65daf121ef7f0af5",
+      "evidence": [
+        {
+          "term": "zoning",
+          "match_start": 1482,
+          "match_end": 1488,
+          "passage_start": 1332,
+          "passage_end": 1738,
+          "text": "ty of Cheyenne, Wyoming, land south\n        of US-30 and north of Commerce Circle.\n\n ACTION:\n\n7.      ORDINANCE – 3rd READING – Amending the Official Zoning Map of the City of\n        Cheyenne, establishing the zoning classification of BP – Business Park for land annexed\n        to the City of Cheyenne, located south of Tate Road, north of Commerce Circle, and west\n        of and adjacent to Christensen"
+        },
+        {
+          "term": "zoning",
+          "match_start": 1543,
+          "match_end": 1549,
+          "passage_start": 1393,
+          "passage_end": 1799,
+          "text": "h of Commerce Circle.\n\n ACTION:\n\n7.      ORDINANCE – 3rd READING – Amending the Official Zoning Map of the City of\n        Cheyenne, establishing the zoning classification of BP – Business Park for land annexed\n        to the City of Cheyenne, located south of Tate Road, north of Commerce Circle, and west\n        of and adjacent to Christensen Road.\n\n ACTION:\n\n8.      ORDINANCE – 3rd READING – Annexing "
+        }
+      ]
+    },
+    {
+      "classification": "unreviewed_topical_match_not_a_finding",
+      "source_sha256": "0d8b85f718b7d567a358e64aa117a746052de4ed7f69d5cb65daf121ef7f0af5",
+      "source_url": "https://www.cheyennecity.org/files/sharedassets/public/v/1/your-government/city-council/psc-2026/psc-11-02-26-agenda-final.pdf",
+      "source_retrieved_at": "2026-11-08T16:52:20.182912+00:00",
+      "page": 2,
+      "extraction_method": "native",
+      "quality_verified": false,
+      "representation_path": "derived/0d8b85f718b7d567a358e64aa117a746052de4ed7f69d5cb65daf121ef7f0af5/page-000002.json",
+      "representation_text_sha256": "43024446eed219b64a7e80bb0397ad6a39c89fe328acca967649eaeb46e65491",
+      "representation_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/22880f4c2443b35dd5c4b53e67708302bc66f9cc/derived/0d8b85f718b7d567a358e64aa117a746052de4ed7f69d5cb65daf121ef7f0af5/page-000002.json",
+      "original_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/22880f4c2443b35dd5c4b53e67708302bc66f9cc/objects/0d/0d8b85f718b7d567a358e64aa117a746052de4ed7f69d5cb65daf121ef7f0af5",
+      "evidence": [
+        {
+          "term": "zoning",
+          "match_start": 54,
+          "match_end": 60,
+          "passage_start": 0,
+          "passage_end": 310,
+          "text": "9.    ORDINANCE – 3rd READING – Amending the Official Zoning Map of the City of\n      Cheyenne, establishing the zoning classification of AG - Agricultural for land annexed to\n      the City of Cheyenne, located south of East Fox Farm Road, north of East Allison Road\n      and east of and adjacent to South Co"
+        },
+        {
+          "term": "zoning",
+          "match_start": 113,
+          "match_end": 119,
+          "passage_start": 0,
+          "passage_end": 369,
+          "text": "9.    ORDINANCE – 3rd READING – Amending the Official Zoning Map of the City of\n      Cheyenne, establishing the zoning classification of AG - Agricultural for land annexed to\n      the City of Cheyenne, located south of East Fox Farm Road, north of East Allison Road\n      and east of and adjacent to South College Drive.\n\n ACTION:\n\n10.   ORDINANCE – 3rd READING – Ame"
+        },
+        {
+          "term": "zoning",
+          "match_start": 388,
+          "match_end": 394,
+          "passage_start": 238,
+          "passage_end": 644,
+          "text": "d, north of East Allison Road\n      and east of and adjacent to South College Drive.\n\n ACTION:\n\n10.   ORDINANCE – 3rd READING – Amending the Official Zoning Map of the City of\n      Cheyenne, changing the zoning classification for land located south of East Fox Farm\n      Road, north of East Allison Road and east of and adjacent to South College Drive from AG\n      – Agricultural to BP – Business Park.\n"
+        }
+      ]
+    },
+    {
+      "classification": "unreviewed_topical_match_not_a_finding",
+      "source_sha256": "0d8b85f718b7d567a358e64aa117a746052de4ed7f69d5cb65daf121ef7f0af5",
+      "source_url": "https://www.cheyennecity.org/files/sharedassets/public/v/1/your-government/city-council/psc-2026/psc-11-02-26-agenda-final.pdf",
+      "source_retrieved_at": "2026-11-08T16:52:20.182912+00:00",
+      "page": 3,
+      "extraction_method": "native",
+      "quality_verified": false,
+      "representation_path": "derived/0d8b85f718b7d567a358e64aa117a746052de4ed7f69d5cb65daf121ef7f0af5/page-000003.json",
+      "representation_text_sha256": "c57eabe6a332f43cc456e42a1d901afe093b0d93ebd2a2d6f1c59055ea3e989c",
+      "representation_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/22880f4c2443b35dd5c4b53e67708302bc66f9cc/derived/0d8b85f718b7d567a358e64aa117a746052de4ed7f69d5cb65daf121ef7f0af5/page-000003.json",
+      "original_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/22880f4c2443b35dd5c4b53e67708302bc66f9cc/objects/0d/0d8b85f718b7d567a358e64aa117a746052de4ed7f69d5cb65daf121ef7f0af5",
+      "evidence": [
+        {
+          "term": "zoning",
+          "match_start": 539,
+          "match_end": 545,
+          "passage_start": 389,
+          "passage_end": 795,
+          "text": "f and adjacent to North College Drive. (POSTPONED FROM\n           MARCH 9, 2026)\n\nACTION:\n\n     b)    ORDINANCE – 3rd READING – Amending the Official Zoning Map of the City\n           of Cheyenne, establishing the zoning classifications of AG – Agricultural, MR –\n           Medium- Density Residential, CB – Community Business, and LI – Light\n           Industrial, for land annexed to the City of Cheyenn"
+        },
+        {
+          "term": "zoning",
+          "match_start": 603,
+          "match_end": 609,
+          "passage_start": 453,
+          "passage_end": 859,
+          "text": "  MARCH 9, 2026)\n\nACTION:\n\n     b)    ORDINANCE – 3rd READING – Amending the Official Zoning Map of the City\n           of Cheyenne, establishing the zoning classifications of AG – Agricultural, MR –\n           Medium- Density Residential, CB – Community Business, and LI – Light\n           Industrial, for land annexed to the City of Cheyenne generally located east of I-25,\n           south of the inters"
+        }
+      ]
+    },
+    {
+      "classification": "unreviewed_topical_match_not_a_finding",
+      "source_sha256": "0df07234872927cfeffcc2b4864f6db09d04c07ca41e6d015302fe49ac1c10d2",
+      "source_url": "https://www.cheyennecity.org/files/sharedassets/public/v/1/your-government/city-council/psc-2023/psc-02-22-23-minutes.pdf",
+      "source_retrieved_at": "2026-11-08T17:14:08.024554+00:00",
+      "page": 1,
+      "extraction_method": "tesseract",
+      "quality_verified": false,
+      "representation_path": "derived/0df07234872927cfeffcc2b4864f6db09d04c07ca41e6d015302fe49ac1c10d2/page-000001.json",
+      "representation_text_sha256": "a5a281fa814fc0d8f775af6ed5f319347904e43198397a5199ca55e7407bb3c5",
+      "representation_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/22880f4c2443b35dd5c4b53e67708302bc66f9cc/derived/0df07234872927cfeffcc2b4864f6db09d04c07ca41e6d015302fe49ac1c10d2/page-000001.json",
+      "original_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/22880f4c2443b35dd5c4b53e67708302bc66f9cc/objects/0d/0df07234872927cfeffcc2b4864f6db09d04c07ca41e6d015302fe49ac1c10d2",
+      "evidence": [
+        {
+          "term": "annexation",
+          "match_start": 906,
+          "match_end": 916,
+          "passage_start": 756,
+          "passage_end": 1166,
+          "text": "ed a staff report and Brad Emmons, AVI\nP.C., provided additional information. Committee member Rinne provided clarification regarding\napproval of the annexation ordinance and the zoning ordinance. Councilwoman Aldrich, Ward\nIII, commented on the item. Public comments on the item were made by Peggy Escamilla, Charles\nMarsh, and Wendy Volk.\n\n9. ORDINANCE -3\" READING — Amending the Official Zoning Map of the C"
+        },
+        {
+          "term": "zoning",
+          "match_start": 935,
+          "match_end": 941,
+          "passage_start": 785,
+          "passage_end": 1191,
+          "text": "mons, AVI\nP.C., provided additional information. Committee member Rinne provided clarification regarding\napproval of the annexation ordinance and the zoning ordinance. Councilwoman Aldrich, Ward\nIII, commented on the item. Public comments on the item were made by Peggy Escamilla, Charles\nMarsh, and Wendy Volk.\n\n9. ORDINANCE -3\" READING — Amending the Official Zoning Map of the City of\nCheyenne changing "
+        },
+        {
+          "term": "zoning",
+          "match_start": 1147,
+          "match_end": 1153,
+          "passage_start": 997,
+          "passage_end": 1403,
+          "text": " the item. Public comments on the item were made by Peggy Escamilla, Charles\nMarsh, and Wendy Volk.\n\n9. ORDINANCE -3\" READING — Amending the Official Zoning Map of the City of\nCheyenne changing the zoning classification from County A-1 Agriculture and Rural\nResidential to NR-3 Neighborhood Residential-High Density for land located southwest of\nthe intersection of Ridge Road and Holland Court. (POSTPONED"
+        }
+      ]
+    },
+    {
+      "classification": "unreviewed_topical_match_not_a_finding",
+      "source_sha256": "0df07234872927cfeffcc2b4864f6db09d04c07ca41e6d015302fe49ac1c10d2",
+      "source_url": "https://www.cheyennecity.org/files/sharedassets/public/v/1/your-government/city-council/psc-2023/psc-02-22-23-minutes.pdf",
+      "source_retrieved_at": "2026-11-08T17:14:08.024554+00:00",
+      "page": 2,
+      "extraction_method": "tesseract",
+      "quality_verified": false,
+      "representation_path": "derived/0df07234872927cfeffcc2b4864f6db09d04c07ca41e6d015302fe49ac1c10d2/page-000002.json",
+      "representation_text_sha256": "2cf1be35e4f30700c839d2a18f989f140e49488e3d3726cef3d4d881518614fe",
+      "representation_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/22880f4c2443b35dd5c4b53e67708302bc66f9cc/derived/0df07234872927cfeffcc2b4864f6db09d04c07ca41e6d015302fe49ac1c10d2/page-000002.json",
+      "original_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/22880f4c2443b35dd5c4b53e67708302bc66f9cc/objects/0d/0df07234872927cfeffcc2b4864f6db09d04c07ca41e6d015302fe49ac1c10d2",
+      "evidence": [
+        {
+          "term": "zoning",
+          "match_start": 432,
+          "match_end": 438,
+          "passage_start": 282,
+          "passage_end": 688,
+          "text": ", provided a staff report and committee\nmembers Laybourn, Rinne, and Segrave commented on the item.\n\n14. ORDINANCE -2 READING ~ Amending the Official Zoning Map of the City of\nCheyenne changing the zoning classification from MUB Mixed-Use Business and CB\nCommunity Business to CB Community Business for land located between Old Happy\nJack Road and Lincolnway, west of Missile Drive. (SPONSOR - MR. COOK)\n\nM"
+        },
+        {
+          "term": "zoning",
+          "match_start": 480,
+          "match_end": 486,
+          "passage_start": 330,
+          "passage_end": 736,
+          "text": "Laybourn, Rinne, and Segrave commented on the item.\n\n14. ORDINANCE -2 READING ~ Amending the Official Zoning Map of the City of\nCheyenne changing the zoning classification from MUB Mixed-Use Business and CB\nCommunity Business to CB Community Business for land located between Old Happy\nJack Road and Lincolnway, west of Missile Drive. (SPONSOR - MR. COOK)\n\nMr. Laybourn moved to approve on 2™ reading, seco"
+        }
+      ]
+    },
+    {
+      "classification": "unreviewed_topical_match_not_a_finding",
+      "source_sha256": "0df07234872927cfeffcc2b4864f6db09d04c07ca41e6d015302fe49ac1c10d2",
+      "source_url": "https://www.cheyennecity.org/files/sharedassets/public/v/1/your-government/city-council/psc-2023/psc-02-22-23-minutes.pdf",
+      "source_retrieved_at": "2026-11-08T17:14:08.024554+00:00",
+      "page": 3,
+      "extraction_method": "tesseract",
+      "quality_verified": false,
+      "representation_path": "derived/0df07234872927cfeffcc2b4864f6db09d04c07ca41e6d015302fe49ac1c10d2/page-000003.json",
+      "representation_text_sha256": "7b9433b0c74d1bd65047bda8973461427a72fe34a543d60faaa16907845f06e7",
+      "representation_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/22880f4c2443b35dd5c4b53e67708302bc66f9cc/derived/0df07234872927cfeffcc2b4864f6db09d04c07ca41e6d015302fe49ac1c10d2/page-000003.json",
+      "original_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/22880f4c2443b35dd5c4b53e67708302bc66f9cc/objects/0d/0df07234872927cfeffcc2b4864f6db09d04c07ca41e6d015302fe49ac1c10d2",
+      "evidence": [
+        {
+          "term": "subdivision",
+          "match_start": 93,
+          "match_end": 104,
+          "passage_start": 0,
+          "passage_end": 354,
+          "text": "22, _ RESOLUTION ~ Authorizing the Mayor and the City Clerk to sign a Final Plat for Back\n40 Subdivision, third filing, a replat of a portion of Lot 1, Block I Back 40 Subdivision\nFirst Filing, Lot 1, Block 2 and Lot 1, Block 3 Back 40 Subdivision Second Filing, and Lot\n1 Block 1 Cheyenne Ice & Events Center 4\" Filing being situated in a portion of Sec"
+        },
+        {
+          "term": "subdivision",
+          "match_start": 168,
+          "match_end": 179,
+          "passage_start": 18,
+          "passage_end": 429,
+          "text": " Authorizing the Mayor and the City Clerk to sign a Final Plat for Back\n40 Subdivision, third filing, a replat of a portion of Lot 1, Block I Back 40 Subdivision\nFirst Filing, Lot 1, Block 2 and Lot 1, Block 3 Back 40 Subdivision Second Filing, and Lot\n1 Block 1 Cheyenne Ice & Events Center 4\" Filing being situated in a portion of Section\n1, Township 13 North, Range 67 West of the 6\" P.M., City of Cheyenne, "
+        },
+        {
+          "term": "subdivision",
+          "match_start": 236,
+          "match_end": 247,
+          "passage_start": 86,
+          "passage_end": 497,
+          "text": "ack\n40 Subdivision, third filing, a replat of a portion of Lot 1, Block I Back 40 Subdivision\nFirst Filing, Lot 1, Block 2 and Lot 1, Block 3 Back 40 Subdivision Second Filing, and Lot\n1 Block 1 Cheyenne Ice & Events Center 4\" Filing being situated in a portion of Section\n1, Township 13 North, Range 67 West of the 6\" P.M., City of Cheyenne, Laramie County,\nWyoming (located north of the intersection of Grant "
+        }
+      ]
+    },
+    {
+      "classification": "unreviewed_topical_match_not_a_finding",
+      "source_sha256": "1256ce020cf80743a9d2534c0ab61a0f5168e31218a8618aa4140bf271299278",
+      "source_url": "https://www.cheyennecity.org/files/sharedassets/public/v/1/your-government/city-council/wscow-2024/ws-08-23-24-agenda.pdf",
+      "source_retrieved_at": "2026-11-08T17:22:19.515860+00:00",
+      "page": 1,
+      "extraction_method": "native",
+      "quality_verified": false,
+      "representation_path": "derived/1256ce020cf80743a9d2534c0ab61a0f5168e31218a8618aa4140bf271299278/page-000001.json",
+      "representation_text_sha256": "0994bf211b97e449d391d9aada8827a84140dbfff11d0b49dd998abf698c6d23",
+      "representation_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/22880f4c2443b35dd5c4b53e67708302bc66f9cc/derived/1256ce020cf80743a9d2534c0ab61a0f5168e31218a8618aa4140bf271299278/page-000001.json",
+      "original_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/22880f4c2443b35dd5c4b53e67708302bc66f9cc/objects/12/1256ce020cf80743a9d2534c0ab61a0f5168e31218a8618aa4140bf271299278",
+      "evidence": [
+        {
+          "term": "zoning",
+          "match_start": 98,
+          "match_end": 104,
+          "passage_start": 0,
+          "passage_end": 354,
+          "text": "          CITY OF CHEYENNE CITY COUNCIL WORK SESSION AGENDA\n                        Business Park Zoning District\n                               August 23, 2024\n                   Municipal Building – Council Chambers\n                  2101 O’Neil Avenue, Cheyenne, WY 82001\n     https://us02web.zoom.us/j/81285269576?pwd=HdsfCIkWQBonF7kKAUbbJzxzOVxAMA.1"
+        },
+        {
+          "term": "zoning",
+          "match_start": 595,
+          "match_end": 601,
+          "passage_start": 445,
+          "passage_end": 851,
+          "text": "ID: 812 8526 9576; Passcode: 3214239258\n\n\n1.      Introduction – Charles Bloom, Planning and Development Director\n2.      Creation of a Business Park Zoning District\n        a. Purpose\n        b. Proposed allowed uses\n        c. Proposed specific design principles\n        d. Locations for application\n        e. Adding zone references (including SS’s references)\n        f. Discussion and questions\n3.    "
+        }
+      ]
+    },
+    {
+      "classification": "unreviewed_topical_match_not_a_finding",
+      "source_sha256": "13372b8db5b35b8cd829e97ecc04a21ca24d23e8b8f551c2dc28d2f907aa59e9",
+      "source_url": "https://www.cheyennecity.org/files/sharedassets/public/v/1/your-government/city-council/psc-2024/psc-05-07-24-agenda.pdf",
+      "source_retrieved_at": "2026-11-08T17:10:30.693901+00:00",
+      "page": 1,
+      "extraction_method": "native",
+      "quality_verified": false,
+      "representation_path": "derived/13372b8db5b35b8cd829e97ecc04a21ca24d23e8b8f551c2dc28d2f907aa59e9/page-000001.json",
+      "representation_text_sha256": "d66245b45f3596a59fe0d4b8bc7eca9d9c6861686e1d55e381c98ed1d1e1d260",
+      "representation_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/22880f4c2443b35dd5c4b53e67708302bc66f9cc/derived/13372b8db5b35b8cd829e97ecc04a21ca24d23e8b8f551c2dc28d2f907aa59e9/page-000001.json",
+      "original_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/22880f4c2443b35dd5c4b53e67708302bc66f9cc/objects/13/13372b8db5b35b8cd829e97ecc04a21ca24d23e8b8f551c2dc28d2f907aa59e9",
+      "evidence": [
+        {
+          "term": "zoning",
+          "match_start": 1238,
+          "match_end": 1244,
+          "passage_start": 1088,
+          "passage_end": 1494,
+          "text": "e City of Cheyenne’s web site:\n                       Public Services Committee (granicus.com)\n\n\n7.    ORDINANCE –3rd READING – Amending the Official Zoning Map of the City of\n      Cheyenne changing the zoning classification from MUB Mixed-Use Business Emphasis\n      to CB Community Business for land located at Lot 2, Block 1, Q-B Subdivision.\n\nACTION:\n\n8.    ORDINANCE –3rd READING – Annexing to the Ci"
+        },
+        {
+          "term": "zoning",
+          "match_start": 1292,
+          "match_end": 1298,
+          "passage_start": 1142,
+          "passage_end": 1548,
+          "text": "Public Services Committee (granicus.com)\n\n\n7.    ORDINANCE –3rd READING – Amending the Official Zoning Map of the City of\n      Cheyenne changing the zoning classification from MUB Mixed-Use Business Emphasis\n      to CB Community Business for land located at Lot 2, Block 1, Q-B Subdivision.\n\nACTION:\n\n8.    ORDINANCE –3rd READING – Annexing to the City of Cheyenne, Wyoming, High\n      Plains Road beginn"
+        },
+        {
+          "term": "subdivision",
+          "match_start": 1422,
+          "match_end": 1433,
+          "passage_start": 1272,
+          "passage_end": 1683,
+          "text": "eyenne changing the zoning classification from MUB Mixed-Use Business Emphasis\n      to CB Community Business for land located at Lot 2, Block 1, Q-B Subdivision.\n\nACTION:\n\n8.    ORDINANCE –3rd READING – Annexing to the City of Cheyenne, Wyoming, High\n      Plains Road beginning at South Greeley Highway and terminating at Division Avenue.\n\nACTION:\n\n9.    ORDINANCE –3rd READING – Annexing to the City of Cheye"
+        }
+      ]
+    },
+    {
+      "classification": "unreviewed_topical_match_not_a_finding",
+      "source_sha256": "13372b8db5b35b8cd829e97ecc04a21ca24d23e8b8f551c2dc28d2f907aa59e9",
+      "source_url": "https://www.cheyennecity.org/files/sharedassets/public/v/1/your-government/city-council/psc-2024/psc-05-07-24-agenda.pdf",
+      "source_retrieved_at": "2026-11-08T17:10:30.693901+00:00",
+      "page": 2,
+      "extraction_method": "native",
+      "quality_verified": false,
+      "representation_path": "derived/13372b8db5b35b8cd829e97ecc04a21ca24d23e8b8f551c2dc28d2f907aa59e9/page-000002.json",
+      "representation_text_sha256": "77531486a1078c54ab7c8701ebb14bc905f11fc69d216e64e2830c72a9006711",
+      "representation_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/22880f4c2443b35dd5c4b53e67708302bc66f9cc/derived/13372b8db5b35b8cd829e97ecc04a21ca24d23e8b8f551c2dc28d2f907aa59e9/page-000002.json",
+      "original_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/22880f4c2443b35dd5c4b53e67708302bc66f9cc/objects/13/13372b8db5b35b8cd829e97ecc04a21ca24d23e8b8f551c2dc28d2f907aa59e9",
+      "evidence": [
+        {
+          "term": "zoning",
+          "match_start": 186,
+          "match_end": 192,
+          "passage_start": 36,
+          "passage_end": 442,
+          "text": "ing to the City of Cheyenne, Wyoming, land\n      located at 4204 Dell Range Boulevard.\n\nACTION:\n\n12.   ORDINANCE –3rd READING – Amending the Official Zoning Map of the City of\n      Cheyenne establishing the zoning classification of City MR Medium Density Residential\n      for land annexed to the City of Cheyenne located at 4204 Dell Range Boulevard.\n\nACTION:\n\n13.   ORDINANCE –3rd READING – Amending the"
+        },
+        {
+          "term": "zoning",
+          "match_start": 244,
+          "match_end": 250,
+          "passage_start": 94,
+          "passage_end": 500,
+          "text": "t 4204 Dell Range Boulevard.\n\nACTION:\n\n12.   ORDINANCE –3rd READING – Amending the Official Zoning Map of the City of\n      Cheyenne establishing the zoning classification of City MR Medium Density Residential\n      for land annexed to the City of Cheyenne located at 4204 Dell Range Boulevard.\n\nACTION:\n\n13.   ORDINANCE –3rd READING – Amending the Official Zoning Map of the City of\n      Cheyenne changin"
+        },
+        {
+          "term": "zoning",
+          "match_start": 452,
+          "match_end": 458,
+          "passage_start": 302,
+          "passage_end": 708,
+          "text": "l\n      for land annexed to the City of Cheyenne located at 4204 Dell Range Boulevard.\n\nACTION:\n\n13.   ORDINANCE –3rd READING – Amending the Official Zoning Map of the City of\n      Cheyenne changing the zoning classification from CB Community Business to P Public\n      District for land located at Lot 1, Cheyenne Ice & Events Center, 2nd Filing located at\n      1530 West Lincolnway.\n\nACTION:\n\n14.   ORD"
+        }
+      ]
+    },
+    {
+      "classification": "unreviewed_topical_match_not_a_finding",
+      "source_sha256": "13372b8db5b35b8cd829e97ecc04a21ca24d23e8b8f551c2dc28d2f907aa59e9",
+      "source_url": "https://www.cheyennecity.org/files/sharedassets/public/v/1/your-government/city-council/psc-2024/psc-05-07-24-agenda.pdf",
+      "source_retrieved_at": "2026-11-08T17:10:30.693901+00:00",
+      "page": 3,
+      "extraction_method": "native",
+      "quality_verified": false,
+      "representation_path": "derived/13372b8db5b35b8cd829e97ecc04a21ca24d23e8b8f551c2dc28d2f907aa59e9/page-000003.json",
+      "representation_text_sha256": "1beb71607b4986fd72a0365295504a51e1a0c5ff4d26fd3766da70eae9e0f4ae",
+      "representation_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/22880f4c2443b35dd5c4b53e67708302bc66f9cc/derived/13372b8db5b35b8cd829e97ecc04a21ca24d23e8b8f551c2dc28d2f907aa59e9/page-000003.json",
+      "original_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/22880f4c2443b35dd5c4b53e67708302bc66f9cc/objects/13/13372b8db5b35b8cd829e97ecc04a21ca24d23e8b8f551c2dc28d2f907aa59e9",
+      "evidence": [
+        {
+          "term": "subdivision",
+          "match_start": 399,
+          "match_end": 410,
+          "passage_start": 249,
+          "passage_end": 660,
+          "text": "TION – Approving water and/or sanitary sewer service, by Outside User\n      Agreement, for Robert GrandPre, for the property at Lot 1, Block 1, Green Subdivision,\n      4th Filing, Laramie County, Wyoming (east of Ridge Road and north of and adjacent to\n      Green Court). (SPONSOR – MR. ROYBAL)\n\nACTION:\n\nOTHER ITEMS FOR THE AGENDA:\n____________________________________________________________________________"
+        }
+      ]
+    },
+    {
+      "classification": "unreviewed_topical_match_not_a_finding",
+      "source_sha256": "13b2d990c28910b65bc2f3e594987f2e2f9bd367e66975915c948ea8571c16ba",
+      "source_url": "https://www.cheyennecity.org/files/sharedassets/public/v/1/your-government/city-council/psc-2026/psc-03-02-26-agenda.pdf",
+      "source_retrieved_at": "2026-11-08T17:07:02.896617+00:00",
+      "page": 1,
+      "extraction_method": "native",
+      "quality_verified": false,
+      "representation_path": "derived/13b2d990c28910b65bc2f3e594987f2e2f9bd367e66975915c948ea8571c16ba/page-000001.json",
+      "representation_text_sha256": "ff4d2f2ea6ec2fab37c42f7b865b20d6a596342a4b6f71ea09691e2203c8f8b0",
+      "representation_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/22880f4c2443b35dd5c4b53e67708302bc66f9cc/derived/13b2d990c28910b65bc2f3e594987f2e2f9bd367e66975915c948ea8571c16ba/page-000001.json",
+      "original_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/22880f4c2443b35dd5c4b53e67708302bc66f9cc/objects/13/13b2d990c28910b65bc2f3e594987f2e2f9bd367e66975915c948ea8571c16ba",
+      "evidence": [
+        {
+          "term": "zoning",
+          "match_start": 1493,
+          "match_end": 1499,
+          "passage_start": 1343,
+          "passage_end": 1749,
+          "text": "prohibit the unauthorized use of public property for specified private\n      displays.\n\nACTION:\n\n8.    ORDINANCE –3rd READING – Amending the Official Zoning Map of the City of\n      Cheyenne, changing the zoning classification for certain land located north of Prairie\n      Avenue, east of Powderhouse Road, west of Rue Terre, and south of Storey Boulevard\n      from AG – Agricultural to NR-3 – Neighborh"
+        },
+        {
+          "term": "zoning",
+          "match_start": 1548,
+          "match_end": 1554,
+          "passage_start": 1398,
+          "passage_end": 1804,
+          "text": "ecified private\n      displays.\n\nACTION:\n\n8.    ORDINANCE –3rd READING – Amending the Official Zoning Map of the City of\n      Cheyenne, changing the zoning classification for certain land located north of Prairie\n      Avenue, east of Powderhouse Road, west of Rue Terre, and south of Storey Boulevard\n      from AG – Agricultural to NR-3 – Neighborhood Residential High Density.\n\nACTION:\n\n9.    ORDINANCE"
+        },
+        {
+          "term": "zoning",
+          "match_start": 1842,
+          "match_end": 1848,
+          "passage_start": 1692,
+          "passage_end": 2081,
+          "text": "oulevard\n      from AG – Agricultural to NR-3 – Neighborhood Residential High Density.\n\nACTION:\n\n9.    ORDINANCE –3rd READING – Amending the Official Zoning Map of the City of\n      Cheyenne, changing the zoning classification for land located southeast of the\n      intersection of South Greeley Highway and East Dayshia Lane from AG – Agricultural to\n      BP – Business Park.\n\nACTION:\n\f"
+        }
+      ]
+    },
+    {
+      "classification": "unreviewed_topical_match_not_a_finding",
+      "source_sha256": "13b2d990c28910b65bc2f3e594987f2e2f9bd367e66975915c948ea8571c16ba",
+      "source_url": "https://www.cheyennecity.org/files/sharedassets/public/v/1/your-government/city-council/psc-2026/psc-03-02-26-agenda.pdf",
+      "source_retrieved_at": "2026-11-08T17:07:02.896617+00:00",
+      "page": 2,
+      "extraction_method": "native",
+      "quality_verified": false,
+      "representation_path": "derived/13b2d990c28910b65bc2f3e594987f2e2f9bd367e66975915c948ea8571c16ba/page-000002.json",
+      "representation_text_sha256": "2879df9c3d638fe24c938620d93604eb8e21fa2fa09fb5a10c4e4a0bd3efa569",
+      "representation_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/22880f4c2443b35dd5c4b53e67708302bc66f9cc/derived/13b2d990c28910b65bc2f3e594987f2e2f9bd367e66975915c948ea8571c16ba/page-000002.json",
+      "original_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/22880f4c2443b35dd5c4b53e67708302bc66f9cc/objects/13/13b2d990c28910b65bc2f3e594987f2e2f9bd367e66975915c948ea8571c16ba",
+      "evidence": [
+        {
+          "term": "zoning",
+          "match_start": 451,
+          "match_end": 457,
+          "passage_start": 301,
+          "passage_end": 707,
+          "text": " of West and East Allison Road, and east of and adjacent to\n      North College Drive.\n\nACTION:\n\n11.   ORDINANCE –3rd READING – Amending the Official Zoning Map of the City of\n      Cheyenne, establishing the zoning classifications of AG – Agricultural, MR – Medium-\n      Density Residential, CB – Community Business, and LI – Light Industrial, for land\n      annexed to the City of Cheyenne generally loc"
+        },
+        {
+          "term": "zoning",
+          "match_start": 510,
+          "match_end": 516,
+          "passage_start": 360,
+          "passage_end": 766,
+          "text": "\n      North College Drive.\n\nACTION:\n\n11.   ORDINANCE –3rd READING – Amending the Official Zoning Map of the City of\n      Cheyenne, establishing the zoning classifications of AG – Agricultural, MR – Medium-\n      Density Residential, CB – Community Business, and LI – Light Industrial, for land\n      annexed to the City of Cheyenne generally located east of I-25, south of the intersection\n      of Westl"
+        }
+      ]
+    },
+    {
+      "classification": "unreviewed_topical_match_not_a_finding",
+      "source_sha256": "1579600b83e8f0f79325de4164790e68f28ea22379b9cb216b9d9f5aee6dc265",
+      "source_url": "https://www.cheyennecity.org/files/sharedassets/public/v/1/your-government/city-council/psc-2023/agreement-swan-ranch-amendment-3.6.23.pdf",
+      "source_retrieved_at": "2026-11-08T17:14:03.371484+00:00",
+      "page": 1,
+      "extraction_method": "native",
+      "quality_verified": false,
+      "representation_path": "derived/1579600b83e8f0f79325de4164790e68f28ea22379b9cb216b9d9f5aee6dc265/page-000001.json",
+      "representation_text_sha256": "9cc11c3122ece0e2844aa65eddd6b1a3c6e1960ae18e404b1c690d01ee3571ee",
+      "representation_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/22880f4c2443b35dd5c4b53e67708302bc66f9cc/derived/1579600b83e8f0f79325de4164790e68f28ea22379b9cb216b9d9f5aee6dc265/page-000001.json",
+      "original_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/22880f4c2443b35dd5c4b53e67708302bc66f9cc/objects/15/1579600b83e8f0f79325de4164790e68f28ea22379b9cb216b9d9f5aee6dc265",
+      "evidence": [
+        {
+          "term": "development agreement",
+          "match_start": 594,
+          "match_end": 615,
+          "passage_start": 444,
+          "passage_end": 865,
+          "text": "ate as follows:\n\n       1.     The City of Cheyenne, Granite Peak Development, LP, Clear Creek Land Company\nLLC, and Swan Ranch LLC were parties to a Development Agreement, which was recorded on\nMay 27, 2011, in Book 2221, Page 1156, and an Amended and Restated Development Agreement,\nwhich was recorded September 3, 2013, in Book 2356, Page 707. (collectively “Development\nAgreements”). The Laramie Land Holdings, LLC an"
+        },
+        {
+          "term": "development agreement",
+          "match_start": 706,
+          "match_end": 727,
+          "passage_start": 556,
+          "passage_end": 977,
+          "text": " and Swan Ranch LLC were parties to a Development Agreement, which was recorded on\nMay 27, 2011, in Book 2221, Page 1156, and an Amended and Restated Development Agreement,\nwhich was recorded September 3, 2013, in Book 2356, Page 707. (collectively “Development\nAgreements”). The Laramie Land Holdings, LLC and Cheyenne Logistics Hub, LLC are affiliates\nof Granite Peak Development, LP.\n\n         2.     The Development A"
+        },
+        {
+          "term": "development agreement",
+          "match_start": 1349,
+          "match_end": 1370,
+          "passage_start": 1199,
+          "passage_end": 1620,
+          "text": "ees were set at One Thousand\nDollar ($1,000.00) per acre and set to increase with an inflationary adjustment. See pp. 6-7 of the\nAmended and Restated Development Agreement recorded on September 3, 2013.\n\n       3.     The Parties have met and conferred and desire to resolve the payment of all\noutstanding Public Infrastructure Fees pursuant to the Development Agreements to date.\n\n        4.     The Parties stipulate an"
+        }
+      ]
+    },
+    {
+      "classification": "unreviewed_topical_match_not_a_finding",
+      "source_sha256": "1579600b83e8f0f79325de4164790e68f28ea22379b9cb216b9d9f5aee6dc265",
+      "source_url": "https://www.cheyennecity.org/files/sharedassets/public/v/1/your-government/city-council/psc-2023/agreement-swan-ranch-amendment-3.6.23.pdf",
+      "source_retrieved_at": "2026-11-08T17:14:03.371484+00:00",
+      "page": 3,
+      "extraction_method": "tesseract",
+      "quality_verified": false,
+      "representation_path": "derived/1579600b83e8f0f79325de4164790e68f28ea22379b9cb216b9d9f5aee6dc265/page-000003.json",
+      "representation_text_sha256": "f5bff630330c61ecb4425d06ab2c926eb934e7ae13e46fa68329dc3fbe7ee748",
+      "representation_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/22880f4c2443b35dd5c4b53e67708302bc66f9cc/derived/1579600b83e8f0f79325de4164790e68f28ea22379b9cb216b9d9f5aee6dc265/page-000003.json",
+      "original_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/22880f4c2443b35dd5c4b53e67708302bc66f9cc/objects/15/1579600b83e8f0f79325de4164790e68f28ea22379b9cb216b9d9f5aee6dc265",
+      "evidence": [
+        {
+          "term": "subdivision",
+          "match_start": 80,
+          "match_end": 91,
+          "passage_start": 0,
+          "passage_end": 341,
+          "text": "Attachment A - Time-of-Sale rate\n\n‘Non-exempt parcels with fees due\nResponsible\nSubdivision Block _Lot Current Owner (as of 2/9/2023) Acres Rate atsale_Fee atsale entity\n‘Swan Ranch Rall Park, 3rd Fling 4 ELSEY FAM LEGACY TRI 3541 2018 «1158.77 $38,712.50 Granite\n‘Swan Ranch Rall Park, 9th Flag 1. 2 LONGHAUL ENTERPRISES LIC 2015 2022 «1362"
+        },
+        {
+          "term": "subdivision",
+          "match_start": 2752,
+          "match_end": 2763,
+          "passage_start": 2602,
+          "passage_end": 3013,
+          "text": "R\nHO Pancnnide, T.__1 GHEVENNE FRONTIER DAYS FOUNDATIONING __27.69 Swan Ranch\n$6.00,\n‘GRAND TOTAL: $145,222.02\n‘Nor-exempt parcels previously pad for\nSubdivision Block Lot Current Owner (as of 2/9/2023) eres\n‘Swan Ranch Rail Park, 1st ing TAA BRENNTAG PACIFICINC 3\n‘Swan Ranch Rail Park, 1st Filing 41.18 BRENNTAG PACIFIC INC 621\n‘Swan Ranch Rall park, 3d Filing 1 3 ICEROCK WYOMING LLC 5.98\n‘Swan Ranch Rail Pa"
+        }
+      ]
+    },
+    {
+      "classification": "unreviewed_topical_match_not_a_finding",
+      "source_sha256": "18c8e73a199b2d3bf9139cd06b929d13c2c3b233b965201c6b71167ff058797a",
+      "source_url": "https://www.cheyennecity.org/files/sharedassets/public/v/1/your-government/city-council/psc-2023/psc-07-05-23-agenda.pdf",
+      "source_retrieved_at": "2026-11-08T17:13:21.734300+00:00",
+      "page": 2,
+      "extraction_method": "native",
+      "quality_verified": false,
+      "representation_path": "derived/18c8e73a199b2d3bf9139cd06b929d13c2c3b233b965201c6b71167ff058797a/page-000002.json",
+      "representation_text_sha256": "19d59f5fe6f0068588ec713c96fe6883623fcd564b944688c4ed076b6f4004c4",
+      "representation_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/22880f4c2443b35dd5c4b53e67708302bc66f9cc/derived/18c8e73a199b2d3bf9139cd06b929d13c2c3b233b965201c6b71167ff058797a/page-000002.json",
+      "original_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/22880f4c2443b35dd5c4b53e67708302bc66f9cc/objects/18/18c8e73a199b2d3bf9139cd06b929d13c2c3b233b965201c6b71167ff058797a",
+      "evidence": [
+        {
+          "term": "zoning",
+          "match_start": 53,
+          "match_end": 59,
+          "passage_start": 0,
+          "passage_end": 309,
+          "text": "11.   ORDINANCE –3rd READING – Amending the Official Zoning Map of the City of\n      Cheyenne establishing the zoning classification of MR Medium-Density Residential for\n      land being annexed to the City of Cheyenne located northwest of and adjacent to the\n      intersection of Thomas Road and Ridge Road."
+        },
+        {
+          "term": "zoning",
+          "match_start": 111,
+          "match_end": 117,
+          "passage_start": 0,
+          "passage_end": 367,
+          "text": "11.   ORDINANCE –3rd READING – Amending the Official Zoning Map of the City of\n      Cheyenne establishing the zoning classification of MR Medium-Density Residential for\n      land being annexed to the City of Cheyenne located northwest of and adjacent to the\n      intersection of Thomas Road and Ridge Road.\n\n ACTION:\n\n12.   ORDINANCE –3rd READING – Annexing to the"
+        },
+        {
+          "term": "zoning",
+          "match_start": 545,
+          "match_end": 551,
+          "passage_start": 395,
+          "passage_end": 801,
+          "text": "land\n      located south of and adjacent to Rawlins Street, east of Cleveland Avenue.\n\n ACTION:\n\n13.   ORDINANCE –3rd READING – Amending the Official Zoning Map of the City of\n      Cheyenne establishing the zoning classification of MR Medium-Density Residential for\n      land being annexed to the City of Cheyenne located south of and adjacent to Rawlins Street,\n      east of Cleveland Avenue.\n\n ACTION:"
+        }
+      ]
+    },
+    {
+      "classification": "unreviewed_topical_match_not_a_finding",
+      "source_sha256": "18c8e73a199b2d3bf9139cd06b929d13c2c3b233b965201c6b71167ff058797a",
+      "source_url": "https://www.cheyennecity.org/files/sharedassets/public/v/1/your-government/city-council/psc-2023/psc-07-05-23-agenda.pdf",
+      "source_retrieved_at": "2026-11-08T17:13:21.734300+00:00",
+      "page": 3,
+      "extraction_method": "native",
+      "quality_verified": false,
+      "representation_path": "derived/18c8e73a199b2d3bf9139cd06b929d13c2c3b233b965201c6b71167ff058797a/page-000003.json",
+      "representation_text_sha256": "457ba6cd10078d0865162d9e094aeaa0c18d0167711e768ca5b14568663c9f8a",
+      "representation_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/22880f4c2443b35dd5c4b53e67708302bc66f9cc/derived/18c8e73a199b2d3bf9139cd06b929d13c2c3b233b965201c6b71167ff058797a/page-000003.json",
+      "original_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/22880f4c2443b35dd5c4b53e67708302bc66f9cc/objects/18/18c8e73a199b2d3bf9139cd06b929d13c2c3b233b965201c6b71167ff058797a",
+      "evidence": [
+        {
+          "term": "subdivision",
+          "match_start": 941,
+          "match_end": 952,
+          "passage_start": 791,
+          "passage_end": 1202,
+          "text": " MR. JOHNSON AND MR. WHITE)\n\n ACTION:\n\n25.   RESOLUTION – Authorizing the Mayor and the City Clerk to sign a Final Plat for Sunrise\n      Hills North Subdivision, a replat of a portion of Tract 25, Dell Range Addition, Laramie\n      County, Wyoming (located northwest of and adjacent to the intersection of Thomas Road\n      and Ridge Road) (SPONSOR – MR. COOK)\n\n ACTION:\n\n26.   RESOLUTION – Authorizing the May"
+        },
+        {
+          "term": "annexation",
+          "match_start": 1512,
+          "match_end": 1522,
+          "passage_start": 1362,
+          "passage_end": 1772,
+          "text": " Wyoming (located northwest of the intersection of Cribbon Avenue and\n      Dodge Ct.) (SPONSOR – MR. COOK)\n\n ACTION:\n\n27.   RESOLUTION – To initiate annexation proceedings by the City of Cheyenne for an area\n      generally located west of Interstate 25, north of State Highway 210, east of Roundtop\n      Road, and south of Horsecreek Road, commonly known as Francis E. Warren Air Force\n      Base, Wyoming. "
+        }
+      ]
+    },
+    {
+      "classification": "unreviewed_topical_match_not_a_finding",
+      "source_sha256": "19a536540906bcead58dc7c3dcacc6d1220bf4d7013b71b3f2aa668adc0873ad",
+      "source_url": "https://www.cheyennecity.org/files/sharedassets/public/v/1/your-government/city-council/fc-2024/fc-01-02-24-minutes.pdf",
+      "source_retrieved_at": "2026-11-08T16:41:50.855706+00:00",
+      "page": 1,
+      "extraction_method": "native",
+      "quality_verified": false,
+      "representation_path": "derived/19a536540906bcead58dc7c3dcacc6d1220bf4d7013b71b3f2aa668adc0873ad/page-000001.json",
+      "representation_text_sha256": "7772ccafcbdc9e54085c044e5b83b7a974ea2960861c32a3b2d0d2b1f9ee6253",
+      "representation_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/22880f4c2443b35dd5c4b53e67708302bc66f9cc/derived/19a536540906bcead58dc7c3dcacc6d1220bf4d7013b71b3f2aa668adc0873ad/page-000001.json",
+      "original_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/22880f4c2443b35dd5c4b53e67708302bc66f9cc/objects/19/19a536540906bcead58dc7c3dcacc6d1220bf4d7013b71b3f2aa668adc0873ad",
+      "evidence": [
+        {
+          "term": "subdivision",
+          "match_start": 1337,
+          "match_end": 1348,
+          "passage_start": 1187,
+          "passage_end": 1598,
+          "text": "   and Joyce Stone and Dean and Jayne Fertig to resolve a lawsuit regarding increased\n       flooding following the development of the Thomas Heights Subdivision. (SPONSOR          —\n\n\n\n\n       MR. WHITE)\n\nDr. Aldrich moved to adopt, seconded by Mr. Esquibel. Motion carried by unanimous voice vote.\n\nStefanie Boster, City Attorney, provided a staff report and Tom Cobb, City Engineer, provided\nadditional infor"
+        }
+      ]
+    },
+    {
+      "classification": "unreviewed_topical_match_not_a_finding",
+      "source_sha256": "1a7b16258bc9e38bc1657ee0cc2225c37246fb2597ae15311fb7dba6eb18a312",
+      "source_url": "https://www.cheyennecity.org/files/sharedassets/public/v/1/your-government/city-council/psc-2023/psc-01-18-23-minutes.pdf",
+      "source_retrieved_at": "2026-11-08T17:14:16.035330+00:00",
+      "page": 1,
+      "extraction_method": "tesseract",
+      "quality_verified": false,
+      "representation_path": "derived/1a7b16258bc9e38bc1657ee0cc2225c37246fb2597ae15311fb7dba6eb18a312/page-000001.json",
+      "representation_text_sha256": "d079e161c41557a18d0e03689d3b80419a04fe1f629cffe06dc5dcb656264421",
+      "representation_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/22880f4c2443b35dd5c4b53e67708302bc66f9cc/derived/1a7b16258bc9e38bc1657ee0cc2225c37246fb2597ae15311fb7dba6eb18a312/page-000001.json",
+      "original_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/22880f4c2443b35dd5c4b53e67708302bc66f9cc/objects/1a/1a7b16258bc9e38bc1657ee0cc2225c37246fb2597ae15311fb7dba6eb18a312",
+      "evidence": [
+        {
+          "term": "zoning",
+          "match_start": 1054,
+          "match_end": 1060,
+          "passage_start": 904,
+          "passage_end": 1310,
+          "text": "n the item. Public comments on the item were made by Roger Alexander, John Cecil,\nand Alex Sutton.\n\n19. ORDINANCE -2\" READING ~ Amending the Official Zoning Map of the City of\nCheyenne changing the zoning classification from County A-I Agriculture and Rural\nResidential to NR-3 Neighborhood Residential-High Density for land located southwest of\nthe intersection of Ridge Road and Holland Court. (SPONSOR -"
+        },
+        {
+          "term": "zoning",
+          "match_start": 1102,
+          "match_end": 1108,
+          "passage_start": 952,
+          "passage_end": 1358,
+          "text": "e by Roger Alexander, John Cecil,\nand Alex Sutton.\n\n19. ORDINANCE -2\" READING ~ Amending the Official Zoning Map of the City of\nCheyenne changing the zoning classification from County A-I Agriculture and Rural\nResidential to NR-3 Neighborhood Residential-High Density for land located southwest of\nthe intersection of Ridge Road and Holland Court. (SPONSOR - MR. COOK)\n\nDr. Rinne excused himself from the m"
+        }
+      ]
+    },
+    {
+      "classification": "unreviewed_topical_match_not_a_finding",
+      "source_sha256": "1a7b16258bc9e38bc1657ee0cc2225c37246fb2597ae15311fb7dba6eb18a312",
+      "source_url": "https://www.cheyennecity.org/files/sharedassets/public/v/1/your-government/city-council/psc-2023/psc-01-18-23-minutes.pdf",
+      "source_retrieved_at": "2026-11-08T17:14:16.035330+00:00",
+      "page": 2,
+      "extraction_method": "tesseract",
+      "quality_verified": false,
+      "representation_path": "derived/1a7b16258bc9e38bc1657ee0cc2225c37246fb2597ae15311fb7dba6eb18a312/page-000002.json",
+      "representation_text_sha256": "488034acc10b10848ca0efc6a860d4b89b659fa480a4fad0db244ebd354efc53",
+      "representation_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/22880f4c2443b35dd5c4b53e67708302bc66f9cc/derived/1a7b16258bc9e38bc1657ee0cc2225c37246fb2597ae15311fb7dba6eb18a312/page-000002.json",
+      "original_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/22880f4c2443b35dd5c4b53e67708302bc66f9cc/objects/1a/1a7b16258bc9e38bc1657ee0cc2225c37246fb2597ae15311fb7dba6eb18a312",
+      "evidence": [
+        {
+          "term": "zoning",
+          "match_start": 300,
+          "match_end": 306,
+          "passage_start": 150,
+          "passage_end": 556,
+          "text": "partment, provided a staff report and Shane Hanson,\nSteil Surveying, was available for questions.\n\n21, ORDINANCE ~2°! READING ~ Amending the Official Zoning Map of the City of\nCheyenne changing the zoning classification from County LI Light Industrial to LI Light\nIndustrial for land located east of Southwest Drive north of I-80. (SPONSOR - MR.\nCOOK)\n\nMr. Laybourn moved to approve on 2” reading, seconded"
+        },
+        {
+          "term": "zoning",
+          "match_start": 348,
+          "match_end": 354,
+          "passage_start": 198,
+          "passage_end": 604,
+          "text": "on,\nSteil Surveying, was available for questions.\n\n21, ORDINANCE ~2°! READING ~ Amending the Official Zoning Map of the City of\nCheyenne changing the zoning classification from County LI Light Industrial to LI Light\nIndustrial for land located east of Southwest Drive north of I-80. (SPONSOR - MR.\nCOOK)\n\nMr. Laybourn moved to approve on 2” reading, seconded by Mr. Segrave. Motion carried by\nunanimous voi"
+        }
+      ]
+    },
+    {
+      "classification": "unreviewed_topical_match_not_a_finding",
+      "source_sha256": "1b49a1c8a34588905ec4538821e47baa88a307341e0230ab8b328b7a5f67a102",
+      "source_url": "https://www.cheyennecity.org/files/sharedassets/public/v/1/your-government/city-council/psc-2025/psc-01-06-25-agenda.pdf",
+      "source_retrieved_at": "2026-11-08T17:09:13.719765+00:00",
+      "page": 1,
+      "extraction_method": "native",
+      "quality_verified": false,
+      "representation_path": "derived/1b49a1c8a34588905ec4538821e47baa88a307341e0230ab8b328b7a5f67a102/page-000001.json",
+      "representation_text_sha256": "12d954580cc3f7a5eea030c9f1ae180b5a461f20c048ffbb7ed96a9799c2538b",
+      "representation_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/22880f4c2443b35dd5c4b53e67708302bc66f9cc/derived/1b49a1c8a34588905ec4538821e47baa88a307341e0230ab8b328b7a5f67a102/page-000001.json",
+      "original_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/22880f4c2443b35dd5c4b53e67708302bc66f9cc/objects/1b/1b49a1c8a34588905ec4538821e47baa88a307341e0230ab8b328b7a5f67a102",
+      "evidence": [
+        {
+          "term": "zoning",
+          "match_start": 1417,
+          "match_end": 1423,
+          "passage_start": 1267,
+          "passage_end": 1673,
+          "text": "and\n        located north of Cheyenne Street and west of and adjacent to Ridge Road.\n\nACTION:\n\n10.     ORDINANCE –3rd READING – Amending the Official Zoning Map of the City of\n        Cheyenne establishing the zoning classification of MR Medium-Density Residential for\n        land annexed to the City of Cheyenne located north of Cheyenne Street and west of and\n        adjacent to Ridge Road.\n\nACTION:\n\n1"
+        },
+        {
+          "term": "zoning",
+          "match_start": 1477,
+          "match_end": 1483,
+          "passage_start": 1327,
+          "passage_end": 1733,
+          "text": " adjacent to Ridge Road.\n\nACTION:\n\n10.     ORDINANCE –3rd READING – Amending the Official Zoning Map of the City of\n        Cheyenne establishing the zoning classification of MR Medium-Density Residential for\n        land annexed to the City of Cheyenne located north of Cheyenne Street and west of and\n        adjacent to Ridge Road.\n\nACTION:\n\n11.     ORDINANCE –3rd READING – Amending the Official Zoning"
+        },
+        {
+          "term": "zoning",
+          "match_start": 1727,
+          "match_end": 1733,
+          "passage_start": 1577,
+          "passage_end": 1983,
+          "text": "nne located north of Cheyenne Street and west of and\n        adjacent to Ridge Road.\n\nACTION:\n\n11.     ORDINANCE –3rd READING – Amending the Official Zoning Map of the City of\n        Cheyenne establishing the zoning classification of AG Agricultural for land being\n        annexed to the City at Lot 1, Block 1, North Range Substation, Laramie County,\n        Wyoming (located south of Happy Jack Road, we"
+        }
+      ]
+    },
+    {
+      "classification": "unreviewed_topical_match_not_a_finding",
+      "source_sha256": "1b49a1c8a34588905ec4538821e47baa88a307341e0230ab8b328b7a5f67a102",
+      "source_url": "https://www.cheyennecity.org/files/sharedassets/public/v/1/your-government/city-council/psc-2025/psc-01-06-25-agenda.pdf",
+      "source_retrieved_at": "2026-11-08T17:09:13.719765+00:00",
+      "page": 2,
+      "extraction_method": "native",
+      "quality_verified": false,
+      "representation_path": "derived/1b49a1c8a34588905ec4538821e47baa88a307341e0230ab8b328b7a5f67a102/page-000002.json",
+      "representation_text_sha256": "77bb4ba428a21f1af3b5f3e6c961a8486a1f767b3246868a66f4f9d4027406a8",
+      "representation_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/22880f4c2443b35dd5c4b53e67708302bc66f9cc/derived/1b49a1c8a34588905ec4538821e47baa88a307341e0230ab8b328b7a5f67a102/page-000002.json",
+      "original_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/22880f4c2443b35dd5c4b53e67708302bc66f9cc/objects/1b/1b49a1c8a34588905ec4538821e47baa88a307341e0230ab8b328b7a5f67a102",
+      "evidence": [
+        {
+          "term": "zoning",
+          "match_start": 53,
+          "match_end": 59,
+          "passage_start": 0,
+          "passage_end": 309,
+          "text": "13.   ORDINANCE –3rd READING – Amending the Official Zoning Map of the City of\n      Cheyenne changing the zoning classification from Planned Unit Development (PUD)\n      (Ordinance #4274) to NR-3 Neighborhood Residential – High Density for land located\n      north of West College Drive, south of West Alliso"
+        },
+        {
+          "term": "zoning",
+          "match_start": 107,
+          "match_end": 113,
+          "passage_start": 0,
+          "passage_end": 363,
+          "text": "13.   ORDINANCE –3rd READING – Amending the Official Zoning Map of the City of\n      Cheyenne changing the zoning classification from Planned Unit Development (PUD)\n      (Ordinance #4274) to NR-3 Neighborhood Residential – High Density for land located\n      north of West College Drive, south of West Allison Road, and west of Walterscheid\n      Boulevard.\n\nACT"
+        }
+      ]
+    }
+  ]
+}

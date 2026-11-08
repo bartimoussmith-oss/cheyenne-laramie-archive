@@ -1,0 +1,344 @@
+{
+  "profile": "election-administration",
+  "title": "Election administration and official processes",
+  "generated_at": "2026-11-08T17:28:50.972658+00:00",
+  "source_revision": "22880f4c2443b35dd5c4b53e67708302bc66f9cc",
+  "classification": "retrieval_triage_not_investigative_findings",
+  "matched_representations": 13,
+  "exported_representations": 13,
+  "result_cap": 50,
+  "results_truncated": false,
+  "results": [
+    {
+      "classification": "unreviewed_topical_match_not_a_finding",
+      "source_sha256": "34c2c94e914d583858e803f379f87beab4375394bf97e2b05857f84e410e1400",
+      "source_url": "https://www.cheyennecity.org/Your-Government/City-Council",
+      "source_retrieved_at": "2026-11-08T16:26:18.367802+00:00",
+      "page": null,
+      "extraction_method": "html_text",
+      "quality_verified": false,
+      "representation_path": "text/34c2c94e914d583858e803f379f87beab4375394bf97e2b05857f84e410e1400.txt",
+      "representation_text_sha256": "593b04e322a8aeefb1b6462f9d9a667198e5c8192cac03d54f2129b698be3c63",
+      "representation_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/22880f4c2443b35dd5c4b53e67708302bc66f9cc/text/34c2c94e914d583858e803f379f87beab4375394bf97e2b05857f84e410e1400.txt",
+      "original_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/22880f4c2443b35dd5c4b53e67708302bc66f9cc/objects/34/34c2c94e914d583858e803f379f87beab4375394bf97e2b05857f84e410e1400",
+      "evidence": [
+        {
+          "term": "ballot",
+          "match_start": 5372,
+          "match_end": 5378,
+          "passage_start": 5222,
+          "passage_end": 5628,
+          "text": " within the next 18 months (as of February 2025). Council plans to identify a list of City projects to submit for consideration on the next 6th Penny ballot that will go to voters. This goal includes:\nIdentifying a list of projects by the end of Summer 2025, and\nEncouraging public feedback on the proposed list.\n2026 Council Priorities\n2026 City Council Priorities\n6th Penny Education and Public Outreach:"
+        },
+        {
+          "term": "ballot",
+          "match_start": 5708,
+          "match_end": 5714,
+          "passage_start": 5558,
+          "passage_end": 5964,
+          "text": "\n2026 City Council Priorities\n6th Penny Education and Public Outreach:\nCouncil members will develop a plan to educate voters about upcoming 6th Penny ballot initiatives.\nImprove the City’s public information strategy:\nCouncil will work with City staff to identify ways to improve public engagement and outreach and develop a plan to execute that strategy.\nComplete previous projects and goals:\nCouncil will"
+        }
+      ]
+    },
+    {
+      "classification": "unreviewed_topical_match_not_a_finding",
+      "source_sha256": "d5fd7d1575e0c08c8ed2d3d4dcfe54374e28df3213afc00b0613bf25067e3e62",
+      "source_url": "https://www.cheyennecity.org/Your-Government/Departments/City-Clerk",
+      "source_retrieved_at": "2026-11-08T16:26:28.408704+00:00",
+      "page": null,
+      "extraction_method": "html_text",
+      "quality_verified": false,
+      "representation_path": "text/d5fd7d1575e0c08c8ed2d3d4dcfe54374e28df3213afc00b0613bf25067e3e62.txt",
+      "representation_text_sha256": "5059c351f2c55db2c80003e1a9daf8447be46cc4fa6ad512c4b810ce45118719",
+      "representation_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/22880f4c2443b35dd5c4b53e67708302bc66f9cc/text/d5fd7d1575e0c08c8ed2d3d4dcfe54374e28df3213afc00b0613bf25067e3e62.txt",
+      "original_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/22880f4c2443b35dd5c4b53e67708302bc66f9cc/objects/d5/d5fd7d1575e0c08c8ed2d3d4dcfe54374e28df3213afc00b0613bf25067e3e62",
+      "evidence": [
+        {
+          "term": "election",
+          "match_start": 2546,
+          "match_end": 2554,
+          "passage_start": 2396,
+          "passage_end": 2804,
+          "text": "k license/permit types\nWhat are the qualifications for individuals interested in running for the elected offices of Mayor and City Council?\nMunicipal Election Information\nShare\nFacebook\nX\nEmail\nPrint\nBack to top\nSite Footer\nSite Footer\nContact\nCity of Cheyenne\n2101 O'Neil Ave.\nCheyenne, WY 82001\n(307) 637-6200\n- Telephone\n7-1-1\nor\n1-800-877-9965\n- TTY to Voice\nSite Footer\nSocial Media\nFacebook\nTwitter\nIns"
+        }
+      ]
+    },
+    {
+      "classification": "unreviewed_topical_match_not_a_finding",
+      "source_sha256": "d7a11bf934f9d3f289fd4af6827b18f8b266253d6bbe3aee860a10049ddc1ce0",
+      "source_url": "https://www.laramiecountywy.gov/County-Government/Elected-Officials/County-Clerk/Clerk-to-the-Board-of-County-Commissioners",
+      "source_retrieved_at": "2026-11-08T16:26:00.641275+00:00",
+      "page": null,
+      "extraction_method": "html_text",
+      "quality_verified": false,
+      "representation_path": "text/d7a11bf934f9d3f289fd4af6827b18f8b266253d6bbe3aee860a10049ddc1ce0.txt",
+      "representation_text_sha256": "203640c81a9a0eaf846f77dadf2d079e314eaf46af731936f16546e816b349e0",
+      "representation_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/22880f4c2443b35dd5c4b53e67708302bc66f9cc/text/d7a11bf934f9d3f289fd4af6827b18f8b266253d6bbe3aee860a10049ddc1ce0.txt",
+      "original_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/22880f4c2443b35dd5c4b53e67708302bc66f9cc/objects/d7/d7a11bf934f9d3f289fd4af6827b18f8b266253d6bbe3aee860a10049ddc1ce0",
+      "evidence": [
+        {
+          "term": "ballot",
+          "match_start": 1612,
+          "match_end": 1618,
+          "passage_start": 1462,
+          "passage_end": 1868,
+          "text": "eporting\nProperty Assessment\nProperty Review and Appeal\nVeteran's Exemptions\nLand Use Regulations\nElections\nRegister to Vote\nVoting in Laramie County\nBallot Lookup\nElection Day Polling Places\nCommunity Safety & Justice\nCombined Communications 911\nFire Warden\nSheriff\nLand Use Nuisance/Violations\nInspections Restaurant / Pool / Daycare\nPublic Works\nEmergency Management\nCommunity Partners\nMPO\nLibrary\nHealt"
+        },
+        {
+          "term": "election",
+          "match_start": 1626,
+          "match_end": 1634,
+          "passage_start": 1476,
+          "passage_end": 1884,
+          "text": "rty Assessment\nProperty Review and Appeal\nVeteran's Exemptions\nLand Use Regulations\nElections\nRegister to Vote\nVoting in Laramie County\nBallot Lookup\nElection Day Polling Places\nCommunity Safety & Justice\nCombined Communications 911\nFire Warden\nSheriff\nLand Use Nuisance/Violations\nInspections Restaurant / Pool / Daycare\nPublic Works\nEmergency Management\nCommunity Partners\nMPO\nLibrary\nHealth Department\nCit"
+        }
+      ]
+    },
+    {
+      "classification": "unreviewed_topical_match_not_a_finding",
+      "source_sha256": "effa524b7580c3987c3c3d07349e937e86faabdd7a86eee9e810bcaa6697158a",
+      "source_url": "https://www.cheyennecity.org/Home",
+      "source_retrieved_at": "2026-11-08T16:26:10.546533+00:00",
+      "page": null,
+      "extraction_method": "html_text",
+      "quality_verified": false,
+      "representation_path": "text/effa524b7580c3987c3c3d07349e937e86faabdd7a86eee9e810bcaa6697158a.txt",
+      "representation_text_sha256": "b0f6332ee135bffe9bb59939ec56e92ce38d5d16c3331a111acb6e63e4f5e7f3",
+      "representation_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/22880f4c2443b35dd5c4b53e67708302bc66f9cc/text/effa524b7580c3987c3c3d07349e937e86faabdd7a86eee9e810bcaa6697158a.txt",
+      "original_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/22880f4c2443b35dd5c4b53e67708302bc66f9cc/objects/ef/effa524b7580c3987c3c3d07349e937e86faabdd7a86eee9e810bcaa6697158a",
+      "evidence": [
+        {
+          "term": "election",
+          "match_start": 1634,
+          "match_end": 1642,
+          "passage_start": 1484,
+          "passage_end": 1892,
+          "text": "Boards and Commissions\nA list of City of Cheyenne Boards and Commissions.\n2026 5th Penny\nInformation about the 5th Penny on the November 2026 general election ballot.\nConnect Cheyenne\nSee City projects and public input opportunities on Connect Cheyenne!\nDevelopment Projects\nSee development projects under review by the Planning & Development Department at Connect Cheyenne.\nNews\nOpen house scheduled for Par"
+        },
+        {
+          "term": "ballot",
+          "match_start": 1643,
+          "match_end": 1649,
+          "passage_start": 1493,
+          "passage_end": 1899,
+          "text": "d Commissions\nA list of City of Cheyenne Boards and Commissions.\n2026 5th Penny\nInformation about the 5th Penny on the November 2026 general election ballot.\nConnect Cheyenne\nSee City projects and public input opportunities on Connect Cheyenne!\nDevelopment Projects\nSee development projects under review by the Planning & Development Department at Connect Cheyenne.\nNews\nOpen house scheduled for Parsley an"
+        }
+      ]
+    },
+    {
+      "classification": "unreviewed_topical_match_not_a_finding",
+      "source_sha256": "f8d5b0ec65f2535172348894c908a14c5e8d791d19b7a04cf033e1011e1d7dd9",
+      "source_url": "https://www.laramiecountywy.gov/County-Government/Elected-Officials/County-Clerk/Finance",
+      "source_retrieved_at": "2026-11-08T16:26:02.549635+00:00",
+      "page": null,
+      "extraction_method": "html_text",
+      "quality_verified": false,
+      "representation_path": "text/f8d5b0ec65f2535172348894c908a14c5e8d791d19b7a04cf033e1011e1d7dd9.txt",
+      "representation_text_sha256": "7adb382383808a33c39a755b62f050d064ddf02904fc13c48a2ebcd60f0de310",
+      "representation_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/22880f4c2443b35dd5c4b53e67708302bc66f9cc/text/f8d5b0ec65f2535172348894c908a14c5e8d791d19b7a04cf033e1011e1d7dd9.txt",
+      "original_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/22880f4c2443b35dd5c4b53e67708302bc66f9cc/objects/f8/f8d5b0ec65f2535172348894c908a14c5e8d791d19b7a04cf033e1011e1d7dd9",
+      "evidence": [
+        {
+          "term": "ballot",
+          "match_start": 1577,
+          "match_end": 1583,
+          "passage_start": 1427,
+          "passage_end": 1833,
+          "text": "eporting\nProperty Assessment\nProperty Review and Appeal\nVeteran's Exemptions\nLand Use Regulations\nElections\nRegister to Vote\nVoting in Laramie County\nBallot Lookup\nElection Day Polling Places\nCommunity Safety & Justice\nCombined Communications 911\nFire Warden\nSheriff\nLand Use Nuisance/Violations\nInspections Restaurant / Pool / Daycare\nPublic Works\nEmergency Management\nCommunity Partners\nMPO\nLibrary\nHealt"
+        },
+        {
+          "term": "election",
+          "match_start": 1591,
+          "match_end": 1599,
+          "passage_start": 1441,
+          "passage_end": 1849,
+          "text": "rty Assessment\nProperty Review and Appeal\nVeteran's Exemptions\nLand Use Regulations\nElections\nRegister to Vote\nVoting in Laramie County\nBallot Lookup\nElection Day Polling Places\nCommunity Safety & Justice\nCombined Communications 911\nFire Warden\nSheriff\nLand Use Nuisance/Violations\nInspections Restaurant / Pool / Daycare\nPublic Works\nEmergency Management\nCommunity Partners\nMPO\nLibrary\nHealth Department\nCit"
+        }
+      ]
+    },
+    {
+      "classification": "unreviewed_topical_match_not_a_finding",
+      "source_sha256": "00bb64666ab3c7d9e1a67a68d37e92cf43f2cc5cd78b5e2ca7328ffe96ced49b",
+      "source_url": "https://www.cheyennecity.org/files/sharedassets/public/v/1/your-government/city-council/wscow-2026/city-clerk-fy27-presentation.pdf",
+      "source_retrieved_at": "2026-11-08T17:19:20.978180+00:00",
+      "page": 4,
+      "extraction_method": "native",
+      "quality_verified": false,
+      "representation_path": "derived/00bb64666ab3c7d9e1a67a68d37e92cf43f2cc5cd78b5e2ca7328ffe96ced49b/page-000004.json",
+      "representation_text_sha256": "ca3e429c473ef1a41ae07abeda33e5d8dbb2bb71df85e1d066776c853f183164",
+      "representation_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/22880f4c2443b35dd5c4b53e67708302bc66f9cc/derived/00bb64666ab3c7d9e1a67a68d37e92cf43f2cc5cd78b5e2ca7328ffe96ced49b/page-000004.json",
+      "original_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/22880f4c2443b35dd5c4b53e67708302bc66f9cc/objects/00/00bb64666ab3c7d9e1a67a68d37e92cf43f2cc5cd78b5e2ca7328ffe96ced49b",
+      "evidence": [
+        {
+          "term": "election",
+          "match_start": 257,
+          "match_end": 265,
+          "passage_start": 107,
+          "passage_end": 515,
+          "text": "program\n\n- Oversees business and liquor licensing and permitting\n\n- Maintains City-owned property files and affiliated database\n\n- Provides municipal election assistance\n\n- Serves as clerk to certain City boards and commissions\n\n- Processes payments and receipts for the City\n\n- Provides administrative services and maintains records for the Cemetery Complex\n\n- Oversees City Codebook supplementation\n\n- Over"
+        }
+      ]
+    },
+    {
+      "classification": "unreviewed_topical_match_not_a_finding",
+      "source_sha256": "035c78d18e589bd3c5d247fd92e9f23c959005947230f4a7eba88b46569a0f76",
+      "source_url": "https://www.cheyennecity.org/files/sharedassets/public/v/1/your-government/city-council/fc-2024/fc-11-18-24-agenda.pdf",
+      "source_retrieved_at": "2026-11-08T16:40:16.205598+00:00",
+      "page": 2,
+      "extraction_method": "native",
+      "quality_verified": false,
+      "representation_path": "derived/035c78d18e589bd3c5d247fd92e9f23c959005947230f4a7eba88b46569a0f76/page-000002.json",
+      "representation_text_sha256": "8b70fd8e4b42b88b6a8ad1015e8656666828271905c11ea439f737cae086da61",
+      "representation_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/22880f4c2443b35dd5c4b53e67708302bc66f9cc/derived/035c78d18e589bd3c5d247fd92e9f23c959005947230f4a7eba88b46569a0f76/page-000002.json",
+      "original_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/22880f4c2443b35dd5c4b53e67708302bc66f9cc/objects/03/035c78d18e589bd3c5d247fd92e9f23c959005947230f4a7eba88b46569a0f76",
+      "evidence": [
+        {
+          "term": "ballot",
+          "match_start": 204,
+          "match_end": 210,
+          "passage_start": 54,
+          "passage_end": 460,
+          "text": "POSALS:\n\n      b)   Consideration of Bid #E-4-25 for (3) Fire Apparatus for the City of Cheyenne,\n           Cheyenne Fire Rescue Department. (Future Ballot Specific Purpose Option Tax\n           Fund)\n\nACTION:\n\n      c)   Consideration to Purchase between the City of Cheyenne and Flock Group Inc.,\n           d/b/a Flock Safety, for the purchase of Flock Safety License Plate Readers and\n           Flock"
+        }
+      ]
+    },
+    {
+      "classification": "unreviewed_topical_match_not_a_finding",
+      "source_sha256": "1a9943703f0b7c6c21e355902a3caa40208262f0782b10ff1267437db70586fc",
+      "source_url": "https://www.cheyennecity.org/files/sharedassets/public/v/1/your-government/city-council/fc-2023/fc-08-21-23-minutes.pdf",
+      "source_retrieved_at": "2026-11-08T16:42:33.075129+00:00",
+      "page": 1,
+      "extraction_method": "tesseract",
+      "quality_verified": false,
+      "representation_path": "derived/1a9943703f0b7c6c21e355902a3caa40208262f0782b10ff1267437db70586fc/page-000001.json",
+      "representation_text_sha256": "1443b1e2018fbe856abc78160c3b33e2174b248a519b58a3c5a91ede1af890e3",
+      "representation_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/22880f4c2443b35dd5c4b53e67708302bc66f9cc/derived/1a9943703f0b7c6c21e355902a3caa40208262f0782b10ff1267437db70586fc/page-000001.json",
+      "original_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/22880f4c2443b35dd5c4b53e67708302bc66f9cc/objects/1a/1a9943703f0b7c6c21e355902a3caa40208262f0782b10ff1267437db70586fc",
+      "evidence": [
+        {
+          "term": "election",
+          "match_start": 1015,
+          "match_end": 1023,
+          "passage_start": 865,
+          "passage_end": 1273,
+          "text": "heyenne Downtown Development Authority\nDistrict of Cheyenne, Wyoming, excluding real property used exclusively for residential\npurposes, at a Special Election on Wednesday, October 18, 2023, the following question:\n“Shall a Special Assessment of twenty (20) mills be levied upon the assessed value of real\nproperty within the boundaries of the Cheyenne Downtown Development Authority\nDistrict, excluding real"
+        }
+      ]
+    },
+    {
+      "classification": "unreviewed_topical_match_not_a_finding",
+      "source_sha256": "1c56f0c35aa75b20d1d414a23b5705d2525bf9162889b086f897aa64deb6b444",
+      "source_url": "https://www.cheyennecity.org/files/sharedassets/public/v/1/your-government/city-council/fc-2026/fc-04-21-26-minutes.pdf",
+      "source_retrieved_at": "2026-11-08T16:28:26.794416+00:00",
+      "page": 1,
+      "extraction_method": "native",
+      "quality_verified": false,
+      "representation_path": "derived/1c56f0c35aa75b20d1d414a23b5705d2525bf9162889b086f897aa64deb6b444/page-000001.json",
+      "representation_text_sha256": "a515d871797192d65bf4ee49e9be30582adb99121c1cac706d1b56f6e7df0d2a",
+      "representation_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/22880f4c2443b35dd5c4b53e67708302bc66f9cc/derived/1c56f0c35aa75b20d1d414a23b5705d2525bf9162889b086f897aa64deb6b444/page-000001.json",
+      "original_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/22880f4c2443b35dd5c4b53e67708302bc66f9cc/objects/1c/1c56f0c35aa75b20d1d414a23b5705d2525bf9162889b086f897aa64deb6b444",
+      "evidence": [
+        {
+          "term": "election",
+          "match_start": 1065,
+          "match_end": 1073,
+          "passage_start": 915,
+          "passage_end": 1323,
+          "text": " County, State of Wyoming, for the exclusive purpose of funding\n       specific purposes for specific amounts; the propositions to be voted on at the election to be\n       held on August 18, 2026. (SPONSOR MR. ESQUIBEL)\n                                               —\n\n\n\n\nMr. Wolfe moved to adopt, seconded by Mr. White. Motion carried by unanimous voice vote.\n\nAmber Ash, Mayor’s Chief of Staff, provided a"
+        }
+      ]
+    },
+    {
+      "classification": "unreviewed_topical_match_not_a_finding",
+      "source_sha256": "2cb9ac5ac9945b2883a47e222e6fe4e6a52f2c09bdd0ab9a359b22faba7767c8",
+      "source_url": "https://www.cheyennecity.org/files/sharedassets/public/v/1/your-government/city-council/fc-2022/fc-08-15-22-minutes.pdf",
+      "source_retrieved_at": "2026-11-08T16:50:53.672511+00:00",
+      "page": 1,
+      "extraction_method": "tesseract",
+      "quality_verified": false,
+      "representation_path": "derived/2cb9ac5ac9945b2883a47e222e6fe4e6a52f2c09bdd0ab9a359b22faba7767c8/page-000001.json",
+      "representation_text_sha256": "778119a2488cf1aaedffba1a0a4ed8a3680d8d3df553b5ec98aa74e9c4d56001",
+      "representation_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/22880f4c2443b35dd5c4b53e67708302bc66f9cc/derived/2cb9ac5ac9945b2883a47e222e6fe4e6a52f2c09bdd0ab9a359b22faba7767c8/page-000001.json",
+      "original_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/22880f4c2443b35dd5c4b53e67708302bc66f9cc/objects/2c/2cb9ac5ac9945b2883a47e222e6fe4e6a52f2c09bdd0ab9a359b22faba7767c8",
+      "evidence": [
+        {
+          "term": "election",
+          "match_start": 2043,
+          "match_end": 2051,
+          "passage_start": 1893,
+          "passage_end": 2075,
+          "text": "mmented on the item.\n\n19, | RESOLUTION — Designating the use of excess 1% Specific Purpose Sales and Use Taxes\ncollected from the May 2, 2017 Special Election. (SPONSOR — MR. WHITE)\n"
+        }
+      ]
+    },
+    {
+      "classification": "unreviewed_topical_match_not_a_finding",
+      "source_sha256": "2f4963bd7945805c8abc49b463d3aa1d515515658d04e2226bbf5c0a34fc7f60",
+      "source_url": "https://www.cheyennecity.org/files/sharedassets/public/v/1/your-government/city-council/wscow-2024/committee-of-the-whole-presentation.pdf",
+      "source_retrieved_at": "2026-11-08T17:18:01.378307+00:00",
+      "page": 20,
+      "extraction_method": "tesseract",
+      "quality_verified": false,
+      "representation_path": "derived/2f4963bd7945805c8abc49b463d3aa1d515515658d04e2226bbf5c0a34fc7f60/page-000020.json",
+      "representation_text_sha256": "6ca70ed6f635b2b092c481a733a0a021d376baa74dca953d8a4693e3a99f4264",
+      "representation_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/22880f4c2443b35dd5c4b53e67708302bc66f9cc/derived/2f4963bd7945805c8abc49b463d3aa1d515515658d04e2226bbf5c0a34fc7f60/page-000020.json",
+      "original_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/22880f4c2443b35dd5c4b53e67708302bc66f9cc/objects/2f/2f4963bd7945805c8abc49b463d3aa1d515515658d04e2226bbf5c0a34fc7f60",
+      "evidence": [
+        {
+          "term": "ballot",
+          "match_start": 219,
+          "match_end": 225,
+          "passage_start": 69,
+          "passage_end": 306,
+          "text": "ce and\nImprovement Projects\n\n* $250 k Personnel and Equipment\n* Minor System Maintenance\n\n* Priority 5% Penny Projects\n* 3 Projects listed in 5 penny ballot\n* Potential 6 Penny Funding\n* Supplemented by Grants\n* Proposed Stormwater Fee\n\n"
+        }
+      ]
+    },
+    {
+      "classification": "unreviewed_topical_match_not_a_finding",
+      "source_sha256": "3105bb585026393ad577f774b1d0436d7b144a2834cf6de1b2ac70e02adbe242",
+      "source_url": "https://www.cheyennecity.org/files/sharedassets/public/v/1/departments/city-treasurer/adopted-budgets/fy2022-adopted-budget.pdf",
+      "source_retrieved_at": "2026-11-08T17:24:47.669632+00:00",
+      "page": 14,
+      "extraction_method": "native",
+      "quality_verified": false,
+      "representation_path": "derived/3105bb585026393ad577f774b1d0436d7b144a2834cf6de1b2ac70e02adbe242/page-000014.json",
+      "representation_text_sha256": "ec0c91331f789745cf7751e45e66dc4559cb28caa96a6146acd63c421760a94c",
+      "representation_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/22880f4c2443b35dd5c4b53e67708302bc66f9cc/derived/3105bb585026393ad577f774b1d0436d7b144a2834cf6de1b2ac70e02adbe242/page-000014.json",
+      "original_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/22880f4c2443b35dd5c4b53e67708302bc66f9cc/objects/31/3105bb585026393ad577f774b1d0436d7b144a2834cf6de1b2ac70e02adbe242",
+      "evidence": [
+        {
+          "term": "ballot",
+          "match_start": 2671,
+          "match_end": 2677,
+          "passage_start": 2521,
+          "passage_end": 2927,
+          "text": " municipalities within the county to\n    an analysis on the feasibility of changing the cur-               determine priorities for the 6th Penny tax ballot.\n    rent TIF or creating a new one. Ideas discussed:                ◼ Estimate the funds that would be needed for ne-\n\n    expand the DDA district; fund the DDA until the                   cessities and quality of life projects.\n    TIF conditions "
+        }
+      ]
+    },
+    {
+      "classification": "unreviewed_topical_match_not_a_finding",
+      "source_sha256": "3105bb585026393ad577f774b1d0436d7b144a2834cf6de1b2ac70e02adbe242",
+      "source_url": "https://www.cheyennecity.org/files/sharedassets/public/v/1/departments/city-treasurer/adopted-budgets/fy2022-adopted-budget.pdf",
+      "source_retrieved_at": "2026-11-08T17:24:47.669632+00:00",
+      "page": 41,
+      "extraction_method": "native",
+      "quality_verified": false,
+      "representation_path": "derived/3105bb585026393ad577f774b1d0436d7b144a2834cf6de1b2ac70e02adbe242/page-000041.json",
+      "representation_text_sha256": "a21fedf1ef146151f6ae0499ce5a4113e82d96e231fbe8ff8cd22acf7e3b5ae8",
+      "representation_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/22880f4c2443b35dd5c4b53e67708302bc66f9cc/derived/3105bb585026393ad577f774b1d0436d7b144a2834cf6de1b2ac70e02adbe242/page-000041.json",
+      "original_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/22880f4c2443b35dd5c4b53e67708302bc66f9cc/objects/31/3105bb585026393ad577f774b1d0436d7b144a2834cf6de1b2ac70e02adbe242",
+      "evidence": [
+        {
+          "term": "election",
+          "match_start": 2543,
+          "match_end": 2551,
+          "passage_start": 2393,
+          "passage_end": 2714,
+          "text": "oan is re-       will most likely be required.\nstricted to a claim on revenues generated. Such bor-\nrowed funds shall not be considered a bond and no\nelection shall be required (W.S. 15-7-102(c)).\n\n\n\n\n                                                          City of Cheyenne’s ADOPTED FISCAL YEAR 2022 BUDGET  Page 41\n\f"
+        }
+      ]
+    }
+  ]
+}

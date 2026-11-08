@@ -1,0 +1,1563 @@
+{
+  "profile": "contracts-procurement",
+  "title": "Contracts and procurement",
+  "generated_at": "2026-11-08T17:28:50.972658+00:00",
+  "source_revision": "22880f4c2443b35dd5c4b53e67708302bc66f9cc",
+  "classification": "retrieval_triage_not_investigative_findings",
+  "matched_representations": 111,
+  "exported_representations": 50,
+  "result_cap": 50,
+  "results_truncated": true,
+  "results": [
+    {
+      "classification": "unreviewed_topical_match_not_a_finding",
+      "source_sha256": "34c2c94e914d583858e803f379f87beab4375394bf97e2b05857f84e410e1400",
+      "source_url": "https://www.cheyennecity.org/Your-Government/City-Council",
+      "source_retrieved_at": "2026-11-08T16:26:18.367802+00:00",
+      "page": null,
+      "extraction_method": "html_text",
+      "quality_verified": false,
+      "representation_path": "text/34c2c94e914d583858e803f379f87beab4375394bf97e2b05857f84e410e1400.txt",
+      "representation_text_sha256": "593b04e322a8aeefb1b6462f9d9a667198e5c8192cac03d54f2129b698be3c63",
+      "representation_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/22880f4c2443b35dd5c4b53e67708302bc66f9cc/text/34c2c94e914d583858e803f379f87beab4375394bf97e2b05857f84e410e1400.txt",
+      "original_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/22880f4c2443b35dd5c4b53e67708302bc66f9cc/objects/34/34c2c94e914d583858e803f379f87beab4375394bf97e2b05857f84e410e1400",
+      "evidence": [
+        {
+          "term": "contract",
+          "match_start": 2465,
+          "match_end": 2473,
+          "passage_start": 2315,
+          "passage_end": 2723,
+          "text": " website:\nwww.cheyennecity.org/pumphouse\n15th Street Project\nCouncil Champion: White\nSpecific Goals:\n- Support current project to move railcars\n- Get contract in place\n- Schedule work session\nMeasures of Success:\n- Specific plan in place for placing railcars\n- Review of current plans\n- Work session held\nProject website: TBA\nBelvoir Ranch\nCouncil Champion: Roybal\nSpecific Goals:\n- Trail system established\n"
+        }
+      ]
+    },
+    {
+      "classification": "unreviewed_topical_match_not_a_finding",
+      "source_sha256": "d00aa211b6d805660489c2cfc29d733347787d24d6cf0845790e3aabbc7f235d",
+      "source_url": "https://www.cheyennecity.org/Services",
+      "source_retrieved_at": "2026-11-08T16:27:06.742156+00:00",
+      "page": null,
+      "extraction_method": "html_text",
+      "quality_verified": false,
+      "representation_path": "text/d00aa211b6d805660489c2cfc29d733347787d24d6cf0845790e3aabbc7f235d.txt",
+      "representation_text_sha256": "70ec60a79881ddc46fefa4b26ba53be4e3b405dded4436a504891f17109267cb",
+      "representation_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/22880f4c2443b35dd5c4b53e67708302bc66f9cc/text/d00aa211b6d805660489c2cfc29d733347787d24d6cf0845790e3aabbc7f235d.txt",
+      "original_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/22880f4c2443b35dd5c4b53e67708302bc66f9cc/objects/d0/d00aa211b6d805660489c2cfc29d733347787d24d6cf0845790e3aabbc7f235d",
+      "evidence": [
+        {
+          "term": "bid",
+          "match_start": 965,
+          "match_end": 968,
+          "passage_start": 815,
+          "passage_end": 1218,
+          "text": "nne: Engage, Explore, and Discover\nBusiness\nServices\nBuilding Safety\nExplore\nI Want To\nSearch\nHome\n/\nServices\nListen\nServices\nServices\nAnimal Control\nBid Postings\nBoard of Public Utilities (BOPU)\nBudget and Financial Reports\nBuilding Permitting and Licensing\nCemetery Complex\nCheyenne Regional Airport\nCheyenne Ice and Events Center\nConstruction Management\nCheyenne Transit Live Shuttle Tracker\nCone Zon"
+        }
+      ]
+    },
+    {
+      "classification": "unreviewed_topical_match_not_a_finding",
+      "source_sha256": "00148b065ddd9d6d2689eb691a7abc53cb309379f50ee6e2f52cd68f90a30448",
+      "source_url": "https://www.cheyennecity.org/files/sharedassets/public/v/1/your-government/city-council/fc-2025/fc-01-22-25-agenda.pdf",
+      "source_retrieved_at": "2026-11-08T16:39:57.813058+00:00",
+      "page": 1,
+      "extraction_method": "native",
+      "quality_verified": false,
+      "representation_path": "derived/00148b065ddd9d6d2689eb691a7abc53cb309379f50ee6e2f52cd68f90a30448/page-000001.json",
+      "representation_text_sha256": "25073957e1fbef29c6251c77fd66608d8c91bc29654d0a663258af2953177f07",
+      "representation_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/22880f4c2443b35dd5c4b53e67708302bc66f9cc/derived/00148b065ddd9d6d2689eb691a7abc53cb309379f50ee6e2f52cd68f90a30448/page-000001.json",
+      "original_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/22880f4c2443b35dd5c4b53e67708302bc66f9cc/objects/00/00148b065ddd9d6d2689eb691a7abc53cb309379f50ee6e2f52cd68f90a30448",
+      "evidence": [
+        {
+          "term": "bid",
+          "match_start": 1833,
+          "match_end": 1836,
+          "passage_start": 1683,
+          "passage_end": 2066,
+          "text": "ms. (2019-2022 Optional 1% Sales Tax Fund)\n\nACTION:\n\n17.     CONSIDERATION OF BIDS/PURCHASES/REQUESTS FOR PROPOSALS:\n\n        c)     Consideration of Bid #S-10-25 for an Agreement between the City of Cheyenne\n               and Cheyenne Tile and Stone for the Kiwanis Community House – Hardwood\n               Floor Replacement Project. (One Time State Distribution Funds)\n\nACTION:\n\f"
+        }
+      ]
+    },
+    {
+      "classification": "unreviewed_topical_match_not_a_finding",
+      "source_sha256": "00148b065ddd9d6d2689eb691a7abc53cb309379f50ee6e2f52cd68f90a30448",
+      "source_url": "https://www.cheyennecity.org/files/sharedassets/public/v/1/your-government/city-council/fc-2025/fc-01-22-25-agenda.pdf",
+      "source_retrieved_at": "2026-11-08T16:39:57.813058+00:00",
+      "page": 2,
+      "extraction_method": "native",
+      "quality_verified": false,
+      "representation_path": "derived/00148b065ddd9d6d2689eb691a7abc53cb309379f50ee6e2f52cd68f90a30448/page-000002.json",
+      "representation_text_sha256": "f89762354c88082a9f17125f2434a3b00714b7a0ee7b9d373ff52b00168e7dba",
+      "representation_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/22880f4c2443b35dd5c4b53e67708302bc66f9cc/derived/00148b065ddd9d6d2689eb691a7abc53cb309379f50ee6e2f52cd68f90a30448/page-000002.json",
+      "original_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/22880f4c2443b35dd5c4b53e67708302bc66f9cc/objects/00/00148b065ddd9d6d2689eb691a7abc53cb309379f50ee6e2f52cd68f90a30448",
+      "evidence": [
+        {
+          "term": "bid",
+          "match_start": 103,
+          "match_end": 106,
+          "passage_start": 0,
+          "passage_end": 356,
+          "text": "17.   CONSIDERATION OF BIDS/PURCHASES/REQUESTS FOR PROPOSALS (continued):\n\n      d)   Consideration of Bid #E-8-25 for a 15,000 GVWR, Gasoline Powered, 4-Wheel\n           Drive Regular Cab and Chassis Truck With a 14-Foot Stake Bed for the\n           Sanitation Division. (Solid Waste Fund)\n\nACTION:\n\n      e)   Consideration of Bid #E-10-25 for One (1) Fr"
+        },
+        {
+          "term": "bid",
+          "match_start": 329,
+          "match_end": 332,
+          "passage_start": 179,
+          "passage_end": 582,
+          "text": "gular Cab and Chassis Truck With a 14-Foot Stake Bed for the\n           Sanitation Division. (Solid Waste Fund)\n\nACTION:\n\n      e)   Consideration of Bid #E-10-25 for One (1) Front Load Refuse Truck, and Three\n           (3) Dual Arm Refuse Trucks for the Sanitation Division. (Solid Waste Fund)\n\nACTION:\n\n      f)   Consideration of Bid #E-11-25 for Two (2) Solid Waste Transfer Trailers\n           (Wa"
+        },
+        {
+          "term": "bid",
+          "match_start": 513,
+          "match_end": 516,
+          "passage_start": 363,
+          "passage_end": 682,
+          "text": "d Refuse Truck, and Three\n           (3) Dual Arm Refuse Trucks for the Sanitation Division. (Solid Waste Fund)\n\nACTION:\n\n      f)   Consideration of Bid #E-11-25 for Two (2) Solid Waste Transfer Trailers\n           (Walking Floor) for the Sanitation Division. (Solid Waste Fund)\n\nACTION:\n\nOTHER ITEMS FOR THE AGENDA:\n\f"
+        }
+      ]
+    },
+    {
+      "classification": "unreviewed_topical_match_not_a_finding",
+      "source_sha256": "00e07ad1ecfa714027b3361a4d7ed67396507bbb3fb5a1da739e1ecc6893453c",
+      "source_url": "https://www.cheyennecity.org/files/sharedassets/public/v/1/your-government/city-council/psc-2023/sub-res-201-agreement.pdf",
+      "source_retrieved_at": "2026-11-08T17:12:29.389943+00:00",
+      "page": 1,
+      "extraction_method": "native",
+      "quality_verified": false,
+      "representation_path": "derived/00e07ad1ecfa714027b3361a4d7ed67396507bbb3fb5a1da739e1ecc6893453c/page-000001.json",
+      "representation_text_sha256": "89766321cfb876b6ddfba250e2825e86d7578670213a9e2ea6ed2782ad293cbf",
+      "representation_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/22880f4c2443b35dd5c4b53e67708302bc66f9cc/derived/00e07ad1ecfa714027b3361a4d7ed67396507bbb3fb5a1da739e1ecc6893453c/page-000001.json",
+      "original_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/22880f4c2443b35dd5c4b53e67708302bc66f9cc/objects/00/00e07ad1ecfa714027b3361a4d7ed67396507bbb3fb5a1da739e1ecc6893453c",
+      "evidence": [
+        {
+          "term": "contract",
+          "match_start": 751,
+          "match_end": 759,
+          "passage_start": 601,
+          "passage_end": 1009,
+          "text": "(\"BOPU\"), and the South Cheyenne\nWater and Sewer District (\"District\") entered into an agreement entitled \"Memorandum of\nAgreement: Intergovernmental Contract Agreeing to Participate in the Implementation of the\nFindings of the 201 Facilities Plan Final Report for the City of Cheyenne, the South Cheyenne\nWater and Sewer District and Laramie County\" (f/k/a \"201 Agreement\");\n\n        WHEREAS, the 201 Agreem"
+        }
+      ]
+    },
+    {
+      "classification": "unreviewed_topical_match_not_a_finding",
+      "source_sha256": "00f462be921543c29907c0eabe9565316cb479aa2d9df8068b809446edf8c5a5",
+      "source_url": "https://www.cheyennecity.org/files/sharedassets/public/v/1/your-government/city-council/fc-2023/fc-02-21-23-minutes.pdf",
+      "source_retrieved_at": "2026-11-08T16:49:43.317118+00:00",
+      "page": 3,
+      "extraction_method": "tesseract",
+      "quality_verified": false,
+      "representation_path": "derived/00f462be921543c29907c0eabe9565316cb479aa2d9df8068b809446edf8c5a5/page-000003.json",
+      "representation_text_sha256": "aade19a9a0daef12af488c939b49c1271ce078c1d7930596e5f4968bdd81d120",
+      "representation_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/22880f4c2443b35dd5c4b53e67708302bc66f9cc/derived/00f462be921543c29907c0eabe9565316cb479aa2d9df8068b809446edf8c5a5/page-000003.json",
+      "original_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/22880f4c2443b35dd5c4b53e67708302bc66f9cc/objects/00/00f462be921543c29907c0eabe9565316cb479aa2d9df8068b809446edf8c5a5",
+      "evidence": [
+        {
+          "term": "contract",
+          "match_start": 422,
+          "match_end": 430,
+          "passage_start": 272,
+          "passage_end": 680,
+          "text": "oom, Planning & Development Department Director, provided a staff report and\ncommittee member Roybal commented on the item.\n\n8) Professional Services Contract between the City of Cheyenne and Overstreet\nHomar & Kuker for legal services for the Contractor Licensing Board. (General\nFund)\n\nDr. Aldrich moved to approve in an amount not to exceed $199,999.99, seconded by Mr. Esquibel.\nMotion carried by unanimo"
+        },
+        {
+          "term": "contract",
+          "match_start": 910,
+          "match_end": 918,
+          "passage_start": 760,
+          "passage_end": 1168,
+          "text": "Fountain, Compliance Director,\nprovided additional information. Committee members Aldrich and Roybal commented on the item.\n\nh) Professional Services Contract between the City of Cheyenne and Overstreet\nHomar & Kuker for legal services for the Board of Adjustment. (General Fund)\n\nDr. Aldrich moved to approve in an amount not to exceed $7,200.00, seconded by Mr. Roybal.\nMotion carried by unanimous voice vo"
+        },
+        {
+          "term": "bid",
+          "match_start": 1968,
+          "match_end": 1971,
+          "passage_start": 1818,
+          "passage_end": 2086,
+          "text": "port. Committee members Aldrich and\nRoybal commended on the item.\n\n29. | CONSIDERATION OF BIDS/PURCHASES/REQUESTS FOR PROPOSALS:\n\nd) Consideration of Bid #E-12-23 for lift-equipped Transit vehicles for the City of\nCheyenne, Transit Division. (Transit Program Funding)\n"
+        }
+      ]
+    },
+    {
+      "classification": "unreviewed_topical_match_not_a_finding",
+      "source_sha256": "00f462be921543c29907c0eabe9565316cb479aa2d9df8068b809446edf8c5a5",
+      "source_url": "https://www.cheyennecity.org/files/sharedassets/public/v/1/your-government/city-council/fc-2023/fc-02-21-23-minutes.pdf",
+      "source_retrieved_at": "2026-11-08T16:49:43.317118+00:00",
+      "page": 4,
+      "extraction_method": "tesseract",
+      "quality_verified": false,
+      "representation_path": "derived/00f462be921543c29907c0eabe9565316cb479aa2d9df8068b809446edf8c5a5/page-000004.json",
+      "representation_text_sha256": "50cf413f6f7ef06b12c3f3f1b9b13fe98a18c0b2ba1b2c94b8c2aea298b2df3d",
+      "representation_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/22880f4c2443b35dd5c4b53e67708302bc66f9cc/derived/00f462be921543c29907c0eabe9565316cb479aa2d9df8068b809446edf8c5a5/page-000004.json",
+      "original_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/22880f4c2443b35dd5c4b53e67708302bc66f9cc/objects/00/00f462be921543c29907c0eabe9565316cb479aa2d9df8068b809446edf8c5a5",
+      "evidence": [
+        {
+          "term": "bid",
+          "match_start": 32,
+          "match_end": 35,
+          "passage_start": 0,
+          "passage_end": 285,
+          "text": "Dr. Aldrich moved to accept the bid from Davey Coach, Sedalia, CO, in an amount not to exceed\n$1,282,573.99, seconded by Mr. Esquibel. Motion carried by unanimous voice vote.\n\nRenee Jording, Transit Director, provided a staff report and committee members Aldrich and\nRoybal commented o"
+        },
+        {
+          "term": "bid",
+          "match_start": 318,
+          "match_end": 321,
+          "passage_start": 168,
+          "passage_end": 571,
+          "text": " vote.\n\nRenee Jording, Transit Director, provided a staff report and committee members Aldrich and\nRoybal commented on the item.\n\ne) Consideration of Bid #S-1 1-23 for an agreement between the City of Cheyenne and\nJTL Group Inc. d/b/a Knife River for the 2023 City Overlay Part #2 project. (2019-\n2022 Optional 1% Sales Tax Fund)\n\nDr. Aldrich moved to accept the bid from JTL Group, Inc. d/b/a Knifer Ri"
+        },
+        {
+          "term": "bid",
+          "match_start": 531,
+          "match_end": 534,
+          "passage_start": 381,
+          "passage_end": 784,
+          "text": "\nJTL Group Inc. d/b/a Knife River for the 2023 City Overlay Part #2 project. (2019-\n2022 Optional 1% Sales Tax Fund)\n\nDr. Aldrich moved to accept the bid from JTL Group, Inc. d/b/a Knifer River, Cheyenne, WY, in\nan amount not to exceed $2,794, 156.69, seconded by Mr. Esquibel. Motion carried by unanimous\nvoice vote.\n\nDoug Klahn, Construction Manager, provided a staff report.\n\nf) Consideration of Bid "
+        }
+      ]
+    },
+    {
+      "classification": "unreviewed_topical_match_not_a_finding",
+      "source_sha256": "010bd83d980db77cff63d872d0af99d9ad84914af753e62bf5997fa238a50bdd",
+      "source_url": "https://www.cheyennecity.org/files/sharedassets/public/v/1/your-government/city-council/fc-2023/fc-12-04-23-agenda.pdf",
+      "source_retrieved_at": "2026-11-08T16:41:58.869663+00:00",
+      "page": 2,
+      "extraction_method": "native",
+      "quality_verified": false,
+      "representation_path": "derived/010bd83d980db77cff63d872d0af99d9ad84914af753e62bf5997fa238a50bdd/page-000002.json",
+      "representation_text_sha256": "177a072fb269994a5b789c5ea8e2f66adefa1a105f2e1b80c58c45aec19a5c04",
+      "representation_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/22880f4c2443b35dd5c4b53e67708302bc66f9cc/derived/010bd83d980db77cff63d872d0af99d9ad84914af753e62bf5997fa238a50bdd/page-000002.json",
+      "original_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/22880f4c2443b35dd5c4b53e67708302bc66f9cc/objects/01/010bd83d980db77cff63d872d0af99d9ad84914af753e62bf5997fa238a50bdd",
+      "evidence": [
+        {
+          "term": "contract",
+          "match_start": 695,
+          "match_end": 703,
+          "passage_start": 545,
+          "passage_end": 953,
+          "text": "for property located at 813 West 23rd Street for the\n           Reed Avenue Corridor Project. (2021 Specific Purpose Option Tax Fund)\n\nACTION:\n\n28.   CONTRACT MODIFICATIONS:\n\n      a)   Contract Modification #1 to Contract #7770 between the City of Cheyenne and Z\n           and Z Sealcoating, Inc. for additional material required for the 2023 Crack Seal\n           #1 Project. (2019-2022 Optional 1% Sales "
+        },
+        {
+          "term": "contract",
+          "match_start": 731,
+          "match_end": 739,
+          "passage_start": 581,
+          "passage_end": 989,
+          "text": "d Street for the\n           Reed Avenue Corridor Project. (2021 Specific Purpose Option Tax Fund)\n\nACTION:\n\n28.   CONTRACT MODIFICATIONS:\n\n      a)   Contract Modification #1 to Contract #7770 between the City of Cheyenne and Z\n           and Z Sealcoating, Inc. for additional material required for the 2023 Crack Seal\n           #1 Project. (2019-2022 Optional 1% Sales Tax Fund)\n\nACTION:\n\n29.   CONSIDERAT"
+        },
+        {
+          "term": "contract",
+          "match_start": 759,
+          "match_end": 767,
+          "passage_start": 609,
+          "passage_end": 1017,
+          "text": "Reed Avenue Corridor Project. (2021 Specific Purpose Option Tax Fund)\n\nACTION:\n\n28.   CONTRACT MODIFICATIONS:\n\n      a)   Contract Modification #1 to Contract #7770 between the City of Cheyenne and Z\n           and Z Sealcoating, Inc. for additional material required for the 2023 Crack Seal\n           #1 Project. (2019-2022 Optional 1% Sales Tax Fund)\n\nACTION:\n\n29.   CONSIDERATION OF BIDS/PURCHASES/REQUES"
+        }
+      ]
+    },
+    {
+      "classification": "unreviewed_topical_match_not_a_finding",
+      "source_sha256": "02655cafa3b55f9938e5b154d1147bf1fb4e7dc9f116a0660656ff4ab5d3e0f4",
+      "source_url": "https://www.cheyennecity.org/files/sharedassets/public/v/1/your-government/city-council/fc-2022/fc-09-06-22-agenda-2.pdf",
+      "source_retrieved_at": "2026-11-08T16:50:48.057144+00:00",
+      "page": 1,
+      "extraction_method": "native",
+      "quality_verified": false,
+      "representation_path": "derived/02655cafa3b55f9938e5b154d1147bf1fb4e7dc9f116a0660656ff4ab5d3e0f4/page-000001.json",
+      "representation_text_sha256": "94e5af49b4a53017f7c05cb28e79e051aea3b7bc81423be8e845216703f956d8",
+      "representation_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/22880f4c2443b35dd5c4b53e67708302bc66f9cc/derived/02655cafa3b55f9938e5b154d1147bf1fb4e7dc9f116a0660656ff4ab5d3e0f4/page-000001.json",
+      "original_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/22880f4c2443b35dd5c4b53e67708302bc66f9cc/objects/02/02655cafa3b55f9938e5b154d1147bf1fb4e7dc9f116a0660656ff4ab5d3e0f4",
+      "evidence": [
+        {
+          "term": "contract",
+          "match_start": 1529,
+          "match_end": 1537,
+          "passage_start": 1379,
+          "passage_end": 1787,
+          "text": "thin Title 12, Streets, Sidewalks and Public Places, of the\n      Municipal Code of the City of Cheyenne, Wyoming, to amend provision governing\n      contract approvals.\n\n ACTION:\n\n28.   LEASES/CONTRACTS/LEGAL:\n\n      d)     Owner and Design-Builder Agreement between the City of Cheyenne and FCI\n             Constructors of Wyoming, LLC for finishing the Cheyenne Public Safety Center.\n             (2012 1"
+        },
+        {
+          "term": "contract",
+          "match_start": 1961,
+          "match_end": 1969,
+          "passage_start": 1811,
+          "passage_end": 2086,
+          "text": "n Tax Fund)\n\n ACTION:\n\n      e)     Agreement between the City of Cheyenne and StreamLink Software Inc. d/b/a\n             AmpliFund for a multi-year contract for grant management software. (General\n             Fund & American Rescue Plan Federal Recovery funds)\n\n ACTION:\n\f"
+        }
+      ]
+    },
+    {
+      "classification": "unreviewed_topical_match_not_a_finding",
+      "source_sha256": "02655cafa3b55f9938e5b154d1147bf1fb4e7dc9f116a0660656ff4ab5d3e0f4",
+      "source_url": "https://www.cheyennecity.org/files/sharedassets/public/v/1/your-government/city-council/fc-2022/fc-09-06-22-agenda-2.pdf",
+      "source_retrieved_at": "2026-11-08T16:50:48.057144+00:00",
+      "page": 2,
+      "extraction_method": "native",
+      "quality_verified": false,
+      "representation_path": "derived/02655cafa3b55f9938e5b154d1147bf1fb4e7dc9f116a0660656ff4ab5d3e0f4/page-000002.json",
+      "representation_text_sha256": "e6c850a0ec848443b097321dc27f7a172020e72d6975037618cf2b412a98e3d4",
+      "representation_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/22880f4c2443b35dd5c4b53e67708302bc66f9cc/derived/02655cafa3b55f9938e5b154d1147bf1fb4e7dc9f116a0660656ff4ab5d3e0f4/page-000002.json",
+      "original_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/22880f4c2443b35dd5c4b53e67708302bc66f9cc/objects/02/02655cafa3b55f9938e5b154d1147bf1fb4e7dc9f116a0660656ff4ab5d3e0f4",
+      "evidence": [
+        {
+          "term": "contract",
+          "match_start": 948,
+          "match_end": 956,
+          "passage_start": 798,
+          "passage_end": 1206,
+          "text": "of Cheyenne, Office of Youth Alternatives, and\n           Laramie County for juvenile probation services. (Revenue to the City)\n\n ACTION:\n\n      j)   Contract between the City of Cheyenne, Office of Youth Alternatives, and Laramie\n           County for on-call crisis center services. (Revenue to the City)\n\n ACTION:\n\n29.   CHANGE ORDERS/CONTRACT MODIFICATIONS:\n\n      b)   Contract Modification #1 to Contra"
+        },
+        {
+          "term": "contract",
+          "match_start": 1136,
+          "match_end": 1144,
+          "passage_start": 986,
+          "passage_end": 1394,
+          "text": " Office of Youth Alternatives, and Laramie\n           County for on-call crisis center services. (Revenue to the City)\n\n ACTION:\n\n29.   CHANGE ORDERS/CONTRACT MODIFICATIONS:\n\n      b)   Contract Modification #1 to Contract #7545 between the City of Cheyenne and\n           OpenGov Inc., for Software as a Service (SaaS) Solution for budgeting, financial\n           management, procurement, citizen services, "
+        },
+        {
+          "term": "contract",
+          "match_start": 1172,
+          "match_end": 1180,
+          "passage_start": 1022,
+          "passage_end": 1430,
+          "text": "aramie\n           County for on-call crisis center services. (Revenue to the City)\n\n ACTION:\n\n29.   CHANGE ORDERS/CONTRACT MODIFICATIONS:\n\n      b)   Contract Modification #1 to Contract #7545 between the City of Cheyenne and\n           OpenGov Inc., for Software as a Service (SaaS) Solution for budgeting, financial\n           management, procurement, citizen services, reporting, transparency, and asset\n "
+        }
+      ]
+    },
+    {
+      "classification": "unreviewed_topical_match_not_a_finding",
+      "source_sha256": "02655cafa3b55f9938e5b154d1147bf1fb4e7dc9f116a0660656ff4ab5d3e0f4",
+      "source_url": "https://www.cheyennecity.org/files/sharedassets/public/v/1/your-government/city-council/fc-2022/fc-09-06-22-agenda-2.pdf",
+      "source_retrieved_at": "2026-11-08T16:50:48.057144+00:00",
+      "page": 3,
+      "extraction_method": "native",
+      "quality_verified": false,
+      "representation_path": "derived/02655cafa3b55f9938e5b154d1147bf1fb4e7dc9f116a0660656ff4ab5d3e0f4/page-000003.json",
+      "representation_text_sha256": "26ae6a9a276f37e7e371971f58155c070e905c4362a2e975383f24b612534def",
+      "representation_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/22880f4c2443b35dd5c4b53e67708302bc66f9cc/derived/02655cafa3b55f9938e5b154d1147bf1fb4e7dc9f116a0660656ff4ab5d3e0f4/page-000003.json",
+      "original_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/22880f4c2443b35dd5c4b53e67708302bc66f9cc/objects/02/02655cafa3b55f9938e5b154d1147bf1fb4e7dc9f116a0660656ff4ab5d3e0f4",
+      "evidence": [
+        {
+          "term": "contract",
+          "match_start": 20,
+          "match_end": 28,
+          "passage_start": 0,
+          "passage_end": 278,
+          "text": "29.   CHANGE ORDERS/CONTRACT MODIFICATIONS (continued):\n\n      d)     Contract Modification #1 to Contract #7434 between the City of Cheyenne and\n             United Way of Laramie County to provide services to various community programs\n             to allocate funds pursuant "
+        },
+        {
+          "term": "contract",
+          "match_start": 70,
+          "match_end": 78,
+          "passage_start": 0,
+          "passage_end": 328,
+          "text": "29.   CHANGE ORDERS/CONTRACT MODIFICATIONS (continued):\n\n      d)     Contract Modification #1 to Contract #7434 between the City of Cheyenne and\n             United Way of Laramie County to provide services to various community programs\n             to allocate funds pursuant to Resolution #5933. (2019-2022 Optional 1% Sales "
+        },
+        {
+          "term": "contract",
+          "match_start": 98,
+          "match_end": 106,
+          "passage_start": 0,
+          "passage_end": 356,
+          "text": "29.   CHANGE ORDERS/CONTRACT MODIFICATIONS (continued):\n\n      d)     Contract Modification #1 to Contract #7434 between the City of Cheyenne and\n             United Way of Laramie County to provide services to various community programs\n             to allocate funds pursuant to Resolution #5933. (2019-2022 Optional 1% Sales Tax\n             Fund)\n\n ACT"
+        }
+      ]
+    },
+    {
+      "classification": "unreviewed_topical_match_not_a_finding",
+      "source_sha256": "02742df3cbd1e799493dcf34548f5d2769c9d2158f5e6f11c571fe222ade003f",
+      "source_url": "https://www.cheyennecity.org/files/sharedassets/public/v/1/your-government/city-council/fc-2025/fc-06-17-25-agenda.pdf",
+      "source_retrieved_at": "2026-11-08T16:29:46.950485+00:00",
+      "page": 2,
+      "extraction_method": "native",
+      "quality_verified": false,
+      "representation_path": "derived/02742df3cbd1e799493dcf34548f5d2769c9d2158f5e6f11c571fe222ade003f/page-000002.json",
+      "representation_text_sha256": "4a0c6e0e1c1fed53c0a431dafd260dedf4ba8c9a5073bffda9fc127eaccdb501",
+      "representation_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/22880f4c2443b35dd5c4b53e67708302bc66f9cc/derived/02742df3cbd1e799493dcf34548f5d2769c9d2158f5e6f11c571fe222ade003f/page-000002.json",
+      "original_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/22880f4c2443b35dd5c4b53e67708302bc66f9cc/objects/02/02742df3cbd1e799493dcf34548f5d2769c9d2158f5e6f11c571fe222ade003f",
+      "evidence": [
+        {
+          "term": "bid",
+          "match_start": 1119,
+          "match_end": 1122,
+          "passage_start": 969,
+          "passage_end": 1372,
+          "text": "         Control Services. (Revenue to the City)\n\nACTION:\n\n24.   CONSIDERATION OF BIDS/PURCHASES/REQUESTS FOR PROPOSALS:\n\n      b)   Consideration of Bid #E-19-25 for furnishing Mid-Size SUVs and a Full-Size\n           SUV for the City of Cheyenne, Solid Waste and Fleet Pool. (2023-2026 Optional\n           1% Sales Tax Fund and Solid Waste Fund)\n\nACTION:\n\n      c)   Consideration of Bid #E-20-25 for "
+        },
+        {
+          "term": "bid",
+          "match_start": 1355,
+          "match_end": 1358,
+          "passage_start": 1205,
+          "passage_end": 1608,
+          "text": "of Cheyenne, Solid Waste and Fleet Pool. (2023-2026 Optional\n           1% Sales Tax Fund and Solid Waste Fund)\n\nACTION:\n\n      c)   Consideration of Bid #E-20-25 for furnishing five (5) new Snow Plows for the\n           City of Cheyenne, Street & Alley Division. (2019-2022 Optional 1% Sales Tax\n           Fund)\n\nACTION:\n\n      d)   Consideration of Bid #E-21-25 for an Agreement between the City of C"
+        },
+        {
+          "term": "bid",
+          "match_start": 1557,
+          "match_end": 1560,
+          "passage_start": 1407,
+          "passage_end": 1775,
+          "text": "for the\n           City of Cheyenne, Street & Alley Division. (2019-2022 Optional 1% Sales Tax\n           Fund)\n\nACTION:\n\n      d)   Consideration of Bid #E-21-25 for an Agreement between the City of Cheyenne\n           and Kleen-Tech Services, LLC, for Janitorial Services for the City of Cheyenne –\n           Cheyenne Public Safety Center. (General Fund)\n\nACTION:\n\f"
+        }
+      ]
+    },
+    {
+      "classification": "unreviewed_topical_match_not_a_finding",
+      "source_sha256": "02742df3cbd1e799493dcf34548f5d2769c9d2158f5e6f11c571fe222ade003f",
+      "source_url": "https://www.cheyennecity.org/files/sharedassets/public/v/1/your-government/city-council/fc-2025/fc-06-17-25-agenda.pdf",
+      "source_retrieved_at": "2026-11-08T16:29:46.950485+00:00",
+      "page": 3,
+      "extraction_method": "native",
+      "quality_verified": false,
+      "representation_path": "derived/02742df3cbd1e799493dcf34548f5d2769c9d2158f5e6f11c571fe222ade003f/page-000003.json",
+      "representation_text_sha256": "99f88425ee404072fabdb59d502f56c4028d0731ee6f24ec5c01bc4fc4e7aacb",
+      "representation_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/22880f4c2443b35dd5c4b53e67708302bc66f9cc/derived/02742df3cbd1e799493dcf34548f5d2769c9d2158f5e6f11c571fe222ade003f/page-000003.json",
+      "original_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/22880f4c2443b35dd5c4b53e67708302bc66f9cc/objects/02/02742df3cbd1e799493dcf34548f5d2769c9d2158f5e6f11c571fe222ade003f",
+      "evidence": [
+        {
+          "term": "bid",
+          "match_start": 103,
+          "match_end": 106,
+          "passage_start": 0,
+          "passage_end": 356,
+          "text": "24.   CONSIDERATION OF BIDS/PURCHASES/REQUESTS FOR PROPOSALS (continued):\n\n      e)   Consideration of Bid #E-21-25 for an Agreement between the City of Cheyenne\n           and Kleen-Tech Services, LLC, for Janitorial Services for the City of Cheyenne –\n           Cheyenne Municipal Building. (General Fund)\n\nACTION:\n\n      f)   Consideration of Bid #E-21"
+        },
+        {
+          "term": "bid",
+          "match_start": 347,
+          "match_end": 350,
+          "passage_start": 197,
+          "passage_end": 600,
+          "text": " LLC, for Janitorial Services for the City of Cheyenne –\n           Cheyenne Municipal Building. (General Fund)\n\nACTION:\n\n      f)   Consideration of Bid #E-21-25 for an Agreement between the City of Cheyenne\n           and ABM Industry Groups, LLC, for Janitorial Services for the City of Cheyenne\n           – Cheyenne Municipal Court. (General Fund)\n\nACTION:\n\n      g)   Consideration of Bid #E-22-25"
+        },
+        {
+          "term": "bid",
+          "match_start": 588,
+          "match_end": 591,
+          "passage_start": 438,
+          "passage_end": 841,
+          "text": "ps, LLC, for Janitorial Services for the City of Cheyenne\n           – Cheyenne Municipal Court. (General Fund)\n\nACTION:\n\n      g)   Consideration of Bid #E-22-25 for furnishing an Automatic Tarping Machine for\n           the City of Cheyenne Landfill. (Solid Waste Fund)\n\nACTION:\n\n      h)   Consideration of Bid #S-24-25 for an Agreement between the City of Cheyenne\n           and Climate Control LLC"
+        }
+      ]
+    },
+    {
+      "classification": "unreviewed_topical_match_not_a_finding",
+      "source_sha256": "031f6784822968fd4dd00e67716091537789808541b9811afe84f937c9175fb2",
+      "source_url": "https://www.cheyennecity.org/files/sharedassets/public/v/1/your-government/city-council/fc-2025/fc-01-07-25-minutes.pdf",
+      "source_retrieved_at": "2026-11-08T16:40:04.102176+00:00",
+      "page": 2,
+      "extraction_method": "native",
+      "quality_verified": false,
+      "representation_path": "derived/031f6784822968fd4dd00e67716091537789808541b9811afe84f937c9175fb2/page-000002.json",
+      "representation_text_sha256": "93fcf3b8d804c0b0982274c649ed4312f3b1e38e6153eb6d32eb534a04ae0e06",
+      "representation_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/22880f4c2443b35dd5c4b53e67708302bc66f9cc/derived/031f6784822968fd4dd00e67716091537789808541b9811afe84f937c9175fb2/page-000002.json",
+      "original_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/22880f4c2443b35dd5c4b53e67708302bc66f9cc/objects/03/031f6784822968fd4dd00e67716091537789808541b9811afe84f937c9175fb2",
+      "evidence": [
+        {
+          "term": "bid",
+          "match_start": 24,
+          "match_end": 27,
+          "passage_start": 0,
+          "passage_end": 277,
+          "text": "c)     Consideration of Bid #E-7-25 for an agreement between the City of Cheyenne and Alco\n       Fence Co. Inc. for the Happy Jack Landfill Litter Fence Maintenance and Repair Services\n       Project. (Solid Waste Fund)\n\nMr. Roybal moved to accept the bid in an amount not to "
+        },
+        {
+          "term": "bid",
+          "match_start": 253,
+          "match_end": 256,
+          "passage_start": 103,
+          "passage_end": 506,
+          "text": " Co. Inc. for the Happy Jack Landfill Litter Fence Maintenance and Repair Services\n       Project. (Solid Waste Fund)\n\nMr. Roybal moved to accept the bid in an amount not to exceed S38 1,800.00 for 3 years, seconded\nby Mr. Esquibel Motion carried by unanimous voice vote.\n                 .\n\n\n\n\nAdele Bartel, Public Works Engineer, provided a staff report and Sam Quattrini, Landfill Manager,\nprovided a"
+        }
+      ]
+    },
+    {
+      "classification": "unreviewed_topical_match_not_a_finding",
+      "source_sha256": "0356098f048a1b8402a8dd070eb6fc3e62b126fb5ab9b639a0b162a634bd8860",
+      "source_url": "https://www.cheyennecity.org/files/sharedassets/public/v/1/your-government/city-council/fc-2023/fc-06-20-23-agenda.pdf",
+      "source_retrieved_at": "2026-11-08T16:42:51.270406+00:00",
+      "page": 3,
+      "extraction_method": "native",
+      "quality_verified": false,
+      "representation_path": "derived/0356098f048a1b8402a8dd070eb6fc3e62b126fb5ab9b639a0b162a634bd8860/page-000003.json",
+      "representation_text_sha256": "e16723530520869ea44ecc21cdf8f89a6c6b9590bde14b001b88a875a144c881",
+      "representation_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/22880f4c2443b35dd5c4b53e67708302bc66f9cc/derived/0356098f048a1b8402a8dd070eb6fc3e62b126fb5ab9b639a0b162a634bd8860/page-000003.json",
+      "original_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/22880f4c2443b35dd5c4b53e67708302bc66f9cc/objects/03/0356098f048a1b8402a8dd070eb6fc3e62b126fb5ab9b639a0b162a634bd8860",
+      "evidence": [
+        {
+          "term": "contract",
+          "match_start": 747,
+          "match_end": 755,
+          "passage_start": 597,
+          "passage_end": 1005,
+          "text": " Tax Fund)\n\n ACTION:\n\n      k)   Preliminary Engineering Services Agreement between the City of Cheyenne and\n           BNSF Railway Company for BNSF Contract Number BF-20246698, for Project\n           Review and Diagnostic Evaluation/Quiet Zone Project. (2017 Specific Purpose\n           Option Tax Fund)\n\n ACTION:\n\n      l)   Memorandum of Understanding between the City of Cheyenne, Cheyenne Police\n      "
+        },
+        {
+          "term": "contract",
+          "match_start": 1157,
+          "match_end": 1165,
+          "passage_start": 1007,
+          "passage_end": 1415,
+          "text": "   Department, and Laramie County School District No. 1 for the School Resource\n           Officers Program (SRO). (Revenue to City)\n\n ACTION:\n\n28.   CONTRACT MODIFICATIONS:\n\n      d)   Contract Modification #1 to Contract #7538 between the City of Cheyenne and\n           TFM-22 LLC d/b/a Top-Flight Maintenance Inc. for Janitorial Services for the\n           Municipal Building. (General Fund)\n\n ACTION:\n\n "
+        },
+        {
+          "term": "contract",
+          "match_start": 1193,
+          "match_end": 1201,
+          "passage_start": 1043,
+          "passage_end": 1451,
+          "text": "hool District No. 1 for the School Resource\n           Officers Program (SRO). (Revenue to City)\n\n ACTION:\n\n28.   CONTRACT MODIFICATIONS:\n\n      d)   Contract Modification #1 to Contract #7538 between the City of Cheyenne and\n           TFM-22 LLC d/b/a Top-Flight Maintenance Inc. for Janitorial Services for the\n           Municipal Building. (General Fund)\n\n ACTION:\n\n      e)   Contract Modification #1 t"
+        }
+      ]
+    },
+    {
+      "classification": "unreviewed_topical_match_not_a_finding",
+      "source_sha256": "0356098f048a1b8402a8dd070eb6fc3e62b126fb5ab9b639a0b162a634bd8860",
+      "source_url": "https://www.cheyennecity.org/files/sharedassets/public/v/1/your-government/city-council/fc-2023/fc-06-20-23-agenda.pdf",
+      "source_retrieved_at": "2026-11-08T16:42:51.270406+00:00",
+      "page": 4,
+      "extraction_method": "native",
+      "quality_verified": false,
+      "representation_path": "derived/0356098f048a1b8402a8dd070eb6fc3e62b126fb5ab9b639a0b162a634bd8860/page-000004.json",
+      "representation_text_sha256": "6591fc974b58a08179a971b358218df7ace8d8d5ddafb8fa7df771f403b8a95f",
+      "representation_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/22880f4c2443b35dd5c4b53e67708302bc66f9cc/derived/0356098f048a1b8402a8dd070eb6fc3e62b126fb5ab9b639a0b162a634bd8860/page-000004.json",
+      "original_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/22880f4c2443b35dd5c4b53e67708302bc66f9cc/objects/03/0356098f048a1b8402a8dd070eb6fc3e62b126fb5ab9b639a0b162a634bd8860",
+      "evidence": [
+        {
+          "term": "contract",
+          "match_start": 6,
+          "match_end": 14,
+          "passage_start": 0,
+          "passage_end": 264,
+          "text": "28.   CONTRACT MODIFICATIONS (continued):\n\n      f)   Contract Modification #1 to Contract #7540 between the City of Cheyenne and\n           TFM-22 LLC d/b/a Top-Flight Maintenance Inc. for Janitorial Services for the\n           Cheyenne Public Safety Center. (Gen"
+        },
+        {
+          "term": "contract",
+          "match_start": 54,
+          "match_end": 62,
+          "passage_start": 0,
+          "passage_end": 312,
+          "text": "28.   CONTRACT MODIFICATIONS (continued):\n\n      f)   Contract Modification #1 to Contract #7540 between the City of Cheyenne and\n           TFM-22 LLC d/b/a Top-Flight Maintenance Inc. for Janitorial Services for the\n           Cheyenne Public Safety Center. (General Fund)\n\n ACTION:\n\n      g)   Contract Modifi"
+        },
+        {
+          "term": "contract",
+          "match_start": 82,
+          "match_end": 90,
+          "passage_start": 0,
+          "passage_end": 340,
+          "text": "28.   CONTRACT MODIFICATIONS (continued):\n\n      f)   Contract Modification #1 to Contract #7540 between the City of Cheyenne and\n           TFM-22 LLC d/b/a Top-Flight Maintenance Inc. for Janitorial Services for the\n           Cheyenne Public Safety Center. (General Fund)\n\n ACTION:\n\n      g)   Contract Modification #1 to Contract #7541 "
+        }
+      ]
+    },
+    {
+      "classification": "unreviewed_topical_match_not_a_finding",
+      "source_sha256": "035c78d18e589bd3c5d247fd92e9f23c959005947230f4a7eba88b46569a0f76",
+      "source_url": "https://www.cheyennecity.org/files/sharedassets/public/v/1/your-government/city-council/fc-2024/fc-11-18-24-agenda.pdf",
+      "source_retrieved_at": "2026-11-08T16:40:16.205598+00:00",
+      "page": 2,
+      "extraction_method": "native",
+      "quality_verified": false,
+      "representation_path": "derived/035c78d18e589bd3c5d247fd92e9f23c959005947230f4a7eba88b46569a0f76/page-000002.json",
+      "representation_text_sha256": "8b70fd8e4b42b88b6a8ad1015e8656666828271905c11ea439f737cae086da61",
+      "representation_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/22880f4c2443b35dd5c4b53e67708302bc66f9cc/derived/035c78d18e589bd3c5d247fd92e9f23c959005947230f4a7eba88b46569a0f76/page-000002.json",
+      "original_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/22880f4c2443b35dd5c4b53e67708302bc66f9cc/objects/03/035c78d18e589bd3c5d247fd92e9f23c959005947230f4a7eba88b46569a0f76",
+      "evidence": [
+        {
+          "term": "bid",
+          "match_start": 91,
+          "match_end": 94,
+          "passage_start": 0,
+          "passage_end": 344,
+          "text": "31.   CONSIDERATION OF BIDS/PURCHASES/REQUESTS FOR PROPOSALS:\n\n      b)   Consideration of Bid #E-4-25 for (3) Fire Apparatus for the City of Cheyenne,\n           Cheyenne Fire Rescue Department. (Future Ballot Specific Purpose Option Tax\n           Fund)\n\nACTION:\n\n      c)   Consideration to Purchase between the City of Cheyenne and Flock Gr"
+        }
+      ]
+    },
+    {
+      "classification": "unreviewed_topical_match_not_a_finding",
+      "source_sha256": "046c80e9030ad730d899ab2ae68aca711197ea307ddee147750141d35f43762b",
+      "source_url": "https://www.cheyennecity.org/files/sharedassets/public/v/1/your-government/city-council/fc-2024/fc-04-15-24-minutes.pdf",
+      "source_retrieved_at": "2026-11-08T16:41:20.643471+00:00",
+      "page": 2,
+      "extraction_method": "native",
+      "quality_verified": false,
+      "representation_path": "derived/046c80e9030ad730d899ab2ae68aca711197ea307ddee147750141d35f43762b/page-000002.json",
+      "representation_text_sha256": "7e961a7de09c979a609a1cd84e3e886a713c582f3f8b0a6bb2212f0c88004e2e",
+      "representation_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/22880f4c2443b35dd5c4b53e67708302bc66f9cc/derived/046c80e9030ad730d899ab2ae68aca711197ea307ddee147750141d35f43762b/page-000002.json",
+      "original_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/22880f4c2443b35dd5c4b53e67708302bc66f9cc/objects/04/046c80e9030ad730d899ab2ae68aca711197ea307ddee147750141d35f43762b",
+      "evidence": [
+        {
+          "term": "bid",
+          "match_start": 844,
+          "match_end": 847,
+          "passage_start": 694,
+          "passage_end": 1097,
+          "text": "sing\nManager, provided additional information. Chairwoman Aldrich and committee member Johnson\ncommented on the item.\n\n       e)     Consideration of Bid #S-2-24 for an agreement between the City of Cheyenne and\n              Asphalt Preservation, LLC, for the 2024 Surftce Seal Project #1. (2019-2022\n              Optional 1% Sales Tax Fund)\n\nMr. White moved to accept the bid in an amount not to exce"
+        },
+        {
+          "term": "bid",
+          "match_start": 1069,
+          "match_end": 1072,
+          "passage_start": 919,
+          "passage_end": 1322,
+          "text": " Asphalt Preservation, LLC, for the 2024 Surftce Seal Project #1. (2019-2022\n              Optional 1% Sales Tax Fund)\n\nMr. White moved to accept the bid in an amount not to exceed $1,791,141.00, seconded by Mr.\nJohnson. Motion carried by unanimous voice vote.\n\nDoug Klahn, Construction Manager, provided a staff report and committee member Johnson\ncommented on the item.\n\n       t)     Consideration of"
+        },
+        {
+          "term": "bid",
+          "match_start": 1323,
+          "match_end": 1326,
+          "passage_start": 1173,
+          "passage_end": 1576,
+          "text": " vote.\n\nDoug Klahn, Construction Manager, provided a staff report and committee member Johnson\ncommented on the item.\n\n       t)     Consideration of Bid #E-14-24 for 1.5 cubic yard rear-load dumpsters. (Solid\n              Waste Fund)\n\nMr. White moved to accept the bid from Kois Brothers Equipment, in an amount not to exceed\n$78,360.00, seconded by Mr. Johnson. Motion carried by unanimous voice vote"
+        }
+      ]
+    },
+    {
+      "classification": "unreviewed_topical_match_not_a_finding",
+      "source_sha256": "0684c08103e4baabb8116e213520091017bac8c4e5a4a68fff4872952b883942",
+      "source_url": "https://www.cheyennecity.org/files/sharedassets/public/v/1/your-government/city-council/wscow-2026/city-treasurers-department-5.6.26.pdf",
+      "source_retrieved_at": "2026-11-08T17:19:43.186166+00:00",
+      "page": 6,
+      "extraction_method": "native",
+      "quality_verified": false,
+      "representation_path": "derived/0684c08103e4baabb8116e213520091017bac8c4e5a4a68fff4872952b883942/page-000006.json",
+      "representation_text_sha256": "2e6a5fae9de62efb43b03b663264efbeb2aaa5bf33fe093030fb6179cd9dd30f",
+      "representation_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/22880f4c2443b35dd5c4b53e67708302bc66f9cc/derived/0684c08103e4baabb8116e213520091017bac8c4e5a4a68fff4872952b883942/page-000006.json",
+      "original_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/22880f4c2443b35dd5c4b53e67708302bc66f9cc/objects/06/0684c08103e4baabb8116e213520091017bac8c4e5a4a68fff4872952b883942",
+      "evidence": [
+        {
+          "term": "procurement",
+          "match_start": 1528,
+          "match_end": 1539,
+          "passage_start": 1378,
+          "passage_end": 1789,
+          "text": "              Miller\n                         Accounts Receivable                     Accounts Payable                                                Procurement\n     Senior Accountant             Accountant                                                   Payroll Manager\n                                                                       Accountan    t                                                Spec"
+        }
+      ]
+    },
+    {
+      "classification": "unreviewed_topical_match_not_a_finding",
+      "source_sha256": "0684c08103e4baabb8116e213520091017bac8c4e5a4a68fff4872952b883942",
+      "source_url": "https://www.cheyennecity.org/files/sharedassets/public/v/1/your-government/city-council/wscow-2026/city-treasurers-department-5.6.26.pdf",
+      "source_retrieved_at": "2026-11-08T17:19:43.186166+00:00",
+      "page": 7,
+      "extraction_method": "native",
+      "quality_verified": false,
+      "representation_path": "derived/0684c08103e4baabb8116e213520091017bac8c4e5a4a68fff4872952b883942/page-000007.json",
+      "representation_text_sha256": "5eb198c7dc6a63ba99426df8e13a5e815c0fa1e3ae16cf51d1143d7390960530",
+      "representation_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/22880f4c2443b35dd5c4b53e67708302bc66f9cc/derived/0684c08103e4baabb8116e213520091017bac8c4e5a4a68fff4872952b883942/page-000007.json",
+      "original_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/22880f4c2443b35dd5c4b53e67708302bc66f9cc/objects/06/0684c08103e4baabb8116e213520091017bac8c4e5a4a68fff4872952b883942",
+      "evidence": [
+        {
+          "term": "procurement",
+          "match_start": 189,
+          "match_end": 200,
+          "passage_start": 39,
+          "passage_end": 450,
+          "text": "eft to right\n\n\n        CITY                     Marty Hartigan        , Accounts Receivable Accountant\n                                 Jenn Miller , Procurement Specialist\n\n\nTREASURER                        Brenda Moureaux,\n                                 Sarah Crone\n                                                            Deputy City Treasurer\n                                                  , Senior "
+        }
+      ]
+    },
+    {
+      "classification": "unreviewed_topical_match_not_a_finding",
+      "source_sha256": "06be3b512454c07cc8fe0d5f263dd531baff8c7d348af9c829225b61e827b3a5",
+      "source_url": "https://www.cheyennecity.org/files/sharedassets/public/v/1/your-government/city-council/fc-2022/fc-06-06-22-minutes.pdf",
+      "source_retrieved_at": "2026-11-08T16:51:25.771989+00:00",
+      "page": 3,
+      "extraction_method": "tesseract",
+      "quality_verified": false,
+      "representation_path": "derived/06be3b512454c07cc8fe0d5f263dd531baff8c7d348af9c829225b61e827b3a5/page-000003.json",
+      "representation_text_sha256": "ac8c143e94a8e48b4f143d47de697201dc33c63970572124a5e8fe3c45034484",
+      "representation_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/22880f4c2443b35dd5c4b53e67708302bc66f9cc/derived/06be3b512454c07cc8fe0d5f263dd531baff8c7d348af9c829225b61e827b3a5/page-000003.json",
+      "original_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/22880f4c2443b35dd5c4b53e67708302bc66f9cc/objects/06/06be3b512454c07cc8fe0d5f263dd531baff8c7d348af9c829225b61e827b3a5",
+      "evidence": [
+        {
+          "term": "contract",
+          "match_start": 1903,
+          "match_end": 1911,
+          "passage_start": 1753,
+          "passage_end": 2153,
+          "text": "tor, provided a staff report. Committee members who\ncommented on the item included Dr. Aldrich, Mr. Johnson, and Chairman White.\n\n35. | CHANGE ORDERS/CONTRACT MODIFICATIONS:\nd) City Contract #150, Notice of Renewal of Lease Number 57-82HW-1-0171 from\n\nthe United States Department of Agriculture, Agricultural Research Service, to\nlease the High Plains Grasslands Research Station. (Revenue to City)\n"
+        },
+        {
+          "term": "contract",
+          "match_start": 1935,
+          "match_end": 1943,
+          "passage_start": 1785,
+          "passage_end": 2153,
+          "text": "mmittee members who\ncommented on the item included Dr. Aldrich, Mr. Johnson, and Chairman White.\n\n35. | CHANGE ORDERS/CONTRACT MODIFICATIONS:\nd) City Contract #150, Notice of Renewal of Lease Number 57-82HW-1-0171 from\n\nthe United States Department of Agriculture, Agricultural Research Service, to\nlease the High Plains Grasslands Research Station. (Revenue to City)\n"
+        }
+      ]
+    },
+    {
+      "classification": "unreviewed_topical_match_not_a_finding",
+      "source_sha256": "06be3b512454c07cc8fe0d5f263dd531baff8c7d348af9c829225b61e827b3a5",
+      "source_url": "https://www.cheyennecity.org/files/sharedassets/public/v/1/your-government/city-council/fc-2022/fc-06-06-22-minutes.pdf",
+      "source_retrieved_at": "2026-11-08T16:51:25.771989+00:00",
+      "page": 4,
+      "extraction_method": "tesseract",
+      "quality_verified": false,
+      "representation_path": "derived/06be3b512454c07cc8fe0d5f263dd531baff8c7d348af9c829225b61e827b3a5/page-000004.json",
+      "representation_text_sha256": "7332b9bccf70b369a7c301e92003cc8a1b18efed94ed2792594acec40ee193d7",
+      "representation_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/22880f4c2443b35dd5c4b53e67708302bc66f9cc/derived/06be3b512454c07cc8fe0d5f263dd531baff8c7d348af9c829225b61e827b3a5/page-000004.json",
+      "original_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/22880f4c2443b35dd5c4b53e67708302bc66f9cc/objects/06/06be3b512454c07cc8fe0d5f263dd531baff8c7d348af9c829225b61e827b3a5",
+      "evidence": [
+        {
+          "term": "contract",
+          "match_start": 149,
+          "match_end": 157,
+          "passage_start": 0,
+          "passage_end": 407,
+          "text": "Dr. Aldrich moved to approve, seconded by Mr. Johnson. Motion carried by unanimous voice\nvote.\n\nKris Jones, City Clerk, provided a staff report.\n\ne) Contract Modification #2 to Contract #73 19 between the City of Cheyenne and KLJ\nEngineering for mapping and surveying services for the Landfill and Compost\nFacility for a two-year (2) extension. (Solid Waste Fund)\n\nDr. Aldrich moved to approve in an amount "
+        },
+        {
+          "term": "contract",
+          "match_start": 177,
+          "match_end": 185,
+          "passage_start": 27,
+          "passage_end": 435,
+          "text": "e, seconded by Mr. Johnson. Motion carried by unanimous voice\nvote.\n\nKris Jones, City Clerk, provided a staff report.\n\ne) Contract Modification #2 to Contract #73 19 between the City of Cheyenne and KLJ\nEngineering for mapping and surveying services for the Landfill and Compost\nFacility for a two-year (2) extension. (Solid Waste Fund)\n\nDr. Aldrich moved to approve in an amount not to exceed $99,232.00, se"
+        },
+        {
+          "term": "contract",
+          "match_start": 624,
+          "match_end": 632,
+          "passage_start": 474,
+          "passage_end": 882,
+          "text": "y unanimous voice vote.\n\nCraig LaVoy, Public Works Deputy Director, provided a staff report. Committee member, Dr.\nAldrich commented on the item.\n\nfy Contract Modification #1 to Contract #7500 between the City of Cheyenne and V\n& M Properties, LLC for property located at 1800 Westland Road, Cheyenne,\nWyoming, for the purpose of relocating the Cheyenne Transit System office and\ntransfer station. (Federal G"
+        }
+      ]
+    },
+    {
+      "classification": "unreviewed_topical_match_not_a_finding",
+      "source_sha256": "090a8fcd47edf5a41a6a3e7cda3615b5a7edd2629b2025d1d4e2fbb2d6420a40",
+      "source_url": "https://www.cheyennecity.org/files/sharedassets/public/v/1/your-government/city-council/fc-2023/fc-05-01-23-minutes.pdf",
+      "source_retrieved_at": "2026-11-08T16:43:09.188155+00:00",
+      "page": 1,
+      "extraction_method": "tesseract",
+      "quality_verified": false,
+      "representation_path": "derived/090a8fcd47edf5a41a6a3e7cda3615b5a7edd2629b2025d1d4e2fbb2d6420a40/page-000001.json",
+      "representation_text_sha256": "8eb6f7bbe1e7a3d3ddf82cc284904b767aaaf46db4477575b09fc1d8ac282717",
+      "representation_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/22880f4c2443b35dd5c4b53e67708302bc66f9cc/derived/090a8fcd47edf5a41a6a3e7cda3615b5a7edd2629b2025d1d4e2fbb2d6420a40/page-000001.json",
+      "original_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/22880f4c2443b35dd5c4b53e67708302bc66f9cc/objects/09/090a8fcd47edf5a41a6a3e7cda3615b5a7edd2629b2025d1d4e2fbb2d6420a40",
+      "evidence": [
+        {
+          "term": "contract",
+          "match_start": 1104,
+          "match_end": 1112,
+          "passage_start": 954,
+          "passage_end": 1362,
+          "text": "enerally, within Title 12, Streets, Sidewalks and Public Places, of the\nMunicipal Code of the City of Cheyenne, Wyoming, to amend provision Governing\ncontract approvals.\n\nDr. Aldrich moved to approve on 2\" reading, seconded by Mr. Esquibel. Motion carried by\nunanimous voice vote.\n\nTJ Barttelbort, Purchasing Manager, provided a staff report.\n\n11. ORDINANCE -3\" READING — Amending Ordinance No. 4429 updating"
+        }
+      ]
+    },
+    {
+      "classification": "unreviewed_topical_match_not_a_finding",
+      "source_sha256": "090a8fcd47edf5a41a6a3e7cda3615b5a7edd2629b2025d1d4e2fbb2d6420a40",
+      "source_url": "https://www.cheyennecity.org/files/sharedassets/public/v/1/your-government/city-council/fc-2023/fc-05-01-23-minutes.pdf",
+      "source_retrieved_at": "2026-11-08T16:43:09.188155+00:00",
+      "page": 4,
+      "extraction_method": "tesseract",
+      "quality_verified": false,
+      "representation_path": "derived/090a8fcd47edf5a41a6a3e7cda3615b5a7edd2629b2025d1d4e2fbb2d6420a40/page-000004.json",
+      "representation_text_sha256": "60d7fb73bfc8c75ec86965e5f41a79d1901b338b112f8b6a950984d193dccb57",
+      "representation_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/22880f4c2443b35dd5c4b53e67708302bc66f9cc/derived/090a8fcd47edf5a41a6a3e7cda3615b5a7edd2629b2025d1d4e2fbb2d6420a40/page-000004.json",
+      "original_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/22880f4c2443b35dd5c4b53e67708302bc66f9cc/objects/09/090a8fcd47edf5a41a6a3e7cda3615b5a7edd2629b2025d1d4e2fbb2d6420a40",
+      "evidence": [
+        {
+          "term": "contract",
+          "match_start": 1346,
+          "match_end": 1354,
+          "passage_start": 1196,
+          "passage_end": 1604,
+          "text": " report and Caroline Veit, Cheyenne Children’s\nMuseum President, was available for questions. Committee member Esquibel commented on the\nitem.\n\n19. | CONTRACT MODIFICATIONS:\n\nb) Contract Modification #4 to Contract #7427 between the City of Cheyenne and\nRussell+Mills Studios Inc. for the East Cheyenne Community Park Master Site\nDevelopment Plan. (2017 Specific Purpose Option Tax)\n\nDr. Aldrich moved to app"
+        },
+        {
+          "term": "contract",
+          "match_start": 1374,
+          "match_end": 1382,
+          "passage_start": 1224,
+          "passage_end": 1632,
+          "text": "heyenne Children’s\nMuseum President, was available for questions. Committee member Esquibel commented on the\nitem.\n\n19. | CONTRACT MODIFICATIONS:\n\nb) Contract Modification #4 to Contract #7427 between the City of Cheyenne and\nRussell+Mills Studios Inc. for the East Cheyenne Community Park Master Site\nDevelopment Plan. (2017 Specific Purpose Option Tax)\n\nDr. Aldrich moved to approve in an amount not to exc"
+        },
+        {
+          "term": "contract",
+          "match_start": 1402,
+          "match_end": 1410,
+          "passage_start": 1252,
+          "passage_end": 1660,
+          "text": "esident, was available for questions. Committee member Esquibel commented on the\nitem.\n\n19. | CONTRACT MODIFICATIONS:\n\nb) Contract Modification #4 to Contract #7427 between the City of Cheyenne and\nRussell+Mills Studios Inc. for the East Cheyenne Community Park Master Site\nDevelopment Plan. (2017 Specific Purpose Option Tax)\n\nDr. Aldrich moved to approve in an amount not to exceed $30,115.00, seconded by "
+        }
+      ]
+    },
+    {
+      "classification": "unreviewed_topical_match_not_a_finding",
+      "source_sha256": "090a8fcd47edf5a41a6a3e7cda3615b5a7edd2629b2025d1d4e2fbb2d6420a40",
+      "source_url": "https://www.cheyennecity.org/files/sharedassets/public/v/1/your-government/city-council/fc-2023/fc-05-01-23-minutes.pdf",
+      "source_retrieved_at": "2026-11-08T16:43:09.188155+00:00",
+      "page": 5,
+      "extraction_method": "tesseract",
+      "quality_verified": false,
+      "representation_path": "derived/090a8fcd47edf5a41a6a3e7cda3615b5a7edd2629b2025d1d4e2fbb2d6420a40/page-000005.json",
+      "representation_text_sha256": "adac4a57362469a0c0f960a966b78b986becdadda426c0419c4c10d06a35d45b",
+      "representation_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/22880f4c2443b35dd5c4b53e67708302bc66f9cc/derived/090a8fcd47edf5a41a6a3e7cda3615b5a7edd2629b2025d1d4e2fbb2d6420a40/page-000005.json",
+      "original_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/22880f4c2443b35dd5c4b53e67708302bc66f9cc/objects/09/090a8fcd47edf5a41a6a3e7cda3615b5a7edd2629b2025d1d4e2fbb2d6420a40",
+      "evidence": [
+        {
+          "term": "contract",
+          "match_start": 66,
+          "match_end": 74,
+          "passage_start": 0,
+          "passage_end": 324,
+          "text": "‘Tom Cobb, City Engineer, provided a staff report.\n\n4) Renewal of Contract #6837 between the City of Cheyenne and Delta Dental for\ngroup dental insurance benefits for City employees. (Various City Funds)\n\nDr. Aldrich moved to approve, seconded by Mr. Roybal Motion carried by unanimous voice vote.\n\nDarrin Hass, Human Resour"
+        },
+        {
+          "term": "bid",
+          "match_start": 498,
+          "match_end": 501,
+          "passage_start": 348,
+          "passage_end": 751,
+          "text": " staff report and committee member Aldrich\ncommented on the item.\n\n20. | CONSIDERATION OF BIDS/PURCHASES/REQUESTS FOR PROPOSALS;\n\nf) Consideration of Bid #S-19-23 for an Agreement between the City of Cheyenne\nand T C Solutions for the Cheyenne Junior League Storage Facility Construction\nProject. (Development Impact Fees and Cheyenne Community Recreation District\nGrant)\n\nDr. Aldrich moved to approve i"
+        },
+        {
+          "term": "bid",
+          "match_start": 1008,
+          "match_end": 1011,
+          "passage_start": 858,
+          "passage_end": 1261,
+          "text": "ason Sanchez, Community Recreation & Events Director, provided a staff report and committee\nmember Roybal commented on the item,\n\n2) Consideration of Bid #S-21-23 for an Agreement between the City of Cheyenne\nand Miller & Sons Construction, Inc. for the 2023 Miscellaneous Concrete Project.\n(2019-2022 Optional 1% Sales Tax Fund)\n\nDr. Aldrich moved to approve in an amount not to exceed $1,013,150.98, s"
+        }
+      ]
+    },
+    {
+      "classification": "unreviewed_topical_match_not_a_finding",
+      "source_sha256": "09bfca57cf4765af52220c24d9b5b59b23cf8bcbfb426c23c41165b63ac4aca9",
+      "source_url": "https://www.cheyennecity.org/files/sharedassets/public/v/1/your-government/city-council/fc-2023/fc-01-04-23-agenda.pdf",
+      "source_retrieved_at": "2026-11-08T16:49:57.070027+00:00",
+      "page": 2,
+      "extraction_method": "native",
+      "quality_verified": false,
+      "representation_path": "derived/09bfca57cf4765af52220c24d9b5b59b23cf8bcbfb426c23c41165b63ac4aca9/page-000002.json",
+      "representation_text_sha256": "d73080a29a973f224ea6f3065cf5fb052dace8a8de45f2a443b09f98b7207abb",
+      "representation_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/22880f4c2443b35dd5c4b53e67708302bc66f9cc/derived/09bfca57cf4765af52220c24d9b5b59b23cf8bcbfb426c23c41165b63ac4aca9/page-000002.json",
+      "original_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/22880f4c2443b35dd5c4b53e67708302bc66f9cc/objects/09/09bfca57cf4765af52220c24d9b5b59b23cf8bcbfb426c23c41165b63ac4aca9",
+      "evidence": [
+        {
+          "term": "bid",
+          "match_start": 1887,
+          "match_end": 1890,
+          "passage_start": 1737,
+          "passage_end": 2133,
+          "text": " Option Tax Fund and EDA Grant No. 05-79-06167)\n\n ACTION:\n\n27.   CONSIDERATION OF BIDS/PURCHASES/REQUESTS FOR PROPOSALS:\n\n      d)   Consideration of Bid #E -10-23 for two (2) new four-door 2023 mid-size model\n           SUVs, and one (1) new 2023 1-ton crew cab full size pickup truck (SWAT truck)\n           for the Cheyenne Police Department. (2019-2022 Optional 1% Sales Tax Fund)\n\n ACTION:\n\f"
+        }
+      ]
+    },
+    {
+      "classification": "unreviewed_topical_match_not_a_finding",
+      "source_sha256": "0c6902a826a941472a88f7d25ee9b89047837769f53e1f7e587f7260e6bd7fb0",
+      "source_url": "https://www.cheyennecity.org/files/sharedassets/public/v/1/your-government/city-council/fc-2025/fc-11-18-25-minutes.pdf",
+      "source_retrieved_at": "2026-11-08T16:29:06.863199+00:00",
+      "page": 2,
+      "extraction_method": "native",
+      "quality_verified": false,
+      "representation_path": "derived/0c6902a826a941472a88f7d25ee9b89047837769f53e1f7e587f7260e6bd7fb0/page-000002.json",
+      "representation_text_sha256": "f0fb98e27d0bfad6eea46967b55437a8d95a9fb9f53f6b8c6e7b8df0858e78e7",
+      "representation_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/22880f4c2443b35dd5c4b53e67708302bc66f9cc/derived/0c6902a826a941472a88f7d25ee9b89047837769f53e1f7e587f7260e6bd7fb0/page-000002.json",
+      "original_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/22880f4c2443b35dd5c4b53e67708302bc66f9cc/objects/0c/0c6902a826a941472a88f7d25ee9b89047837769f53e1f7e587f7260e6bd7fb0",
+      "evidence": [
+        {
+          "term": "bid",
+          "match_start": 2280,
+          "match_end": 2283,
+          "passage_start": 2130,
+          "passage_end": 2533,
+          "text": "ramie County Senior Services.\n              Inc., to provide supportive Senior Services. (General Fund)Mr. Esquibel moved to\n              accept the bid from Fremont Motor Company in an amount not to exceed\n              $102,083.00. seconded by Mr. Moody. Motion carried by unanimous voice vote.\n\nMr. Esquihel moved to approve in an amount not to exceed 5100,000.00, seconded by Dr. Rinne.\nMotion carr"
+        }
+      ]
+    },
+    {
+      "classification": "unreviewed_topical_match_not_a_finding",
+      "source_sha256": "0c6902a826a941472a88f7d25ee9b89047837769f53e1f7e587f7260e6bd7fb0",
+      "source_url": "https://www.cheyennecity.org/files/sharedassets/public/v/1/your-government/city-council/fc-2025/fc-11-18-25-minutes.pdf",
+      "source_retrieved_at": "2026-11-08T16:29:06.863199+00:00",
+      "page": 3,
+      "extraction_method": "native",
+      "quality_verified": false,
+      "representation_path": "derived/0c6902a826a941472a88f7d25ee9b89047837769f53e1f7e587f7260e6bd7fb0/page-000003.json",
+      "representation_text_sha256": "ac35b58facdfbc2768f819bb1a1171e36204b72e1cdbad29c112c7b36bb71275",
+      "representation_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/22880f4c2443b35dd5c4b53e67708302bc66f9cc/derived/0c6902a826a941472a88f7d25ee9b89047837769f53e1f7e587f7260e6bd7fb0/page-000003.json",
+      "original_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/22880f4c2443b35dd5c4b53e67708302bc66f9cc/objects/0c/0c6902a826a941472a88f7d25ee9b89047837769f53e1f7e587f7260e6bd7fb0",
+      "evidence": [
+        {
+          "term": "bid",
+          "match_start": 877,
+          "match_end": 880,
+          "passage_start": 727,
+          "passage_end": 1130,
+          "text": "e members Esquibel\nand Moody commented on the item.\n\n21.    CONSIDERATION OF BIDS/PURCHASES/REQUESTS FOR PROPOSALS:\n\n       f)       Consideration of Bid #E-9-26 for the surplus sale of evidence seized firearms.\n                (Revenue to the City)\n\nDr. Rinnc moved to accept the bid from Black Rain Ordnance, Inc., in an amount not to exceed\n530.030.00. seconded by Mr. Moody. Motion canied by unanimo"
+        },
+        {
+          "term": "bid",
+          "match_start": 1008,
+          "match_end": 1011,
+          "passage_start": 858,
+          "passage_end": 1261,
+          "text": "  Consideration of Bid #E-9-26 for the surplus sale of evidence seized firearms.\n                (Revenue to the City)\n\nDr. Rinnc moved to accept the bid from Black Rain Ordnance, Inc., in an amount not to exceed\n530.030.00. seconded by Mr. Moody. Motion canied by unanimous voice vote.\n\nSergeant Kevin Malatesta, Police Department, provided a staff report and committee member\nMoody commented on the it"
+        },
+        {
+          "term": "bid",
+          "match_start": 1299,
+          "match_end": 1302,
+          "passage_start": 1149,
+          "passage_end": 1552,
+          "text": "geant Kevin Malatesta, Police Department, provided a staff report and committee member\nMoody commented on the item.\n\n       g)       Consideration of Bid #E—1 0—26 for furnishing Three (3) new Fairway Mowers for\n                the City of Cheyenne Golf Division. (Golf Fund)\n\nDr. Rinne moved to accept the bid from LL Johnson Distributing in an amount not to exceed\n$293,900.00, seconded by Mr. Moody. "
+        }
+      ]
+    },
+    {
+      "classification": "unreviewed_topical_match_not_a_finding",
+      "source_sha256": "106c05da3b5c8703f888952c17d7956bcbbcef81e4afce2c302f0a2078bc077f",
+      "source_url": "https://www.cheyennecity.org/files/sharedassets/public/v/1/your-government/city-council/wscow-2025/goal-setting-revenue-subcommittee.pdf",
+      "source_retrieved_at": "2026-11-08T17:20:21.562544+00:00",
+      "page": 19,
+      "extraction_method": "native",
+      "quality_verified": false,
+      "representation_path": "derived/106c05da3b5c8703f888952c17d7956bcbbcef81e4afce2c302f0a2078bc077f/page-000019.json",
+      "representation_text_sha256": "7087f88ee5ab8fd1d7ad00571a774c31d619a817598b940abe6bd2fc9907ce33",
+      "representation_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/22880f4c2443b35dd5c4b53e67708302bc66f9cc/derived/106c05da3b5c8703f888952c17d7956bcbbcef81e4afce2c302f0a2078bc077f/page-000019.json",
+      "original_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/22880f4c2443b35dd5c4b53e67708302bc66f9cc/objects/10/106c05da3b5c8703f888952c17d7956bcbbcef81e4afce2c302f0a2078bc077f",
+      "evidence": [
+        {
+          "term": "contract",
+          "match_start": 134,
+          "match_end": 142,
+          "passage_start": 0,
+          "passage_end": 362,
+          "text": "NEXT STEP\n• Christensen Road bids going out for bids with a $450,000 appraisal.\n• Resolution asking for $100,000 from General Fund to contract with\n  a company who will:\n    • Inventoried.\n    • Prioritized.\n    • Surveyed.\n    • Obtain market values.\n    • Negotiate right of way.\n\n\n\n\n                                                                        19\n\f"
+        }
+      ]
+    },
+    {
+      "classification": "unreviewed_topical_match_not_a_finding",
+      "source_sha256": "10804ccc56cfd4dbf3eda3a48dd09d00c38901ed995803b3ea688cdb5d11ca9c",
+      "source_url": "https://www.cheyennecity.org/files/sharedassets/public/v/1/your-government/city-council/psc-2022/substitute-8.16.22-ord.-13.12-amendments-ca-redline.pdf",
+      "source_retrieved_at": "2026-11-08T17:15:11.672199+00:00",
+      "page": 1,
+      "extraction_method": "native",
+      "quality_verified": false,
+      "representation_path": "derived/10804ccc56cfd4dbf3eda3a48dd09d00c38901ed995803b3ea688cdb5d11ca9c/page-000001.json",
+      "representation_text_sha256": "8aa630dbd215c330f6861ff6178d007cd734572364dbecb87b954fe8f876a0b5",
+      "representation_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/22880f4c2443b35dd5c4b53e67708302bc66f9cc/derived/10804ccc56cfd4dbf3eda3a48dd09d00c38901ed995803b3ea688cdb5d11ca9c/page-000001.json",
+      "original_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/22880f4c2443b35dd5c4b53e67708302bc66f9cc/objects/10/10804ccc56cfd4dbf3eda3a48dd09d00c38901ed995803b3ea688cdb5d11ca9c",
+      "evidence": [
+        {
+          "term": "contract",
+          "match_start": 2283,
+          "match_end": 2291,
+          "passage_start": 2133,
+          "passage_end": 2541,
+          "text": "rmitted systems by the\ngoverning body upon the governing body determining that the exception will conform with the\ncriteria of subsection 4.1 of city contract #2076 regarding implementation of the findings of the\n201 Facilities Plan Final Report.\n\n       Section 2. Sections, paragraphs, sentences, clauses, and phrases of this ordinance are\nseverable. If any section, paragraph, sentence, clause, or phrase "
+        }
+      ]
+    },
+    {
+      "classification": "unreviewed_topical_match_not_a_finding",
+      "source_sha256": "108f3972b4fd26886fcb4c3ee89bb61fef1e1c64a7e5d90eae2a20c665b1feb4",
+      "source_url": "https://www.cheyennecity.org/files/sharedassets/public/v/1/your-government/city-council/fc-2025/fc-06-17-25-minutes.pdf",
+      "source_retrieved_at": "2026-11-08T16:29:49.106378+00:00",
+      "page": 3,
+      "extraction_method": "native",
+      "quality_verified": false,
+      "representation_path": "derived/108f3972b4fd26886fcb4c3ee89bb61fef1e1c64a7e5d90eae2a20c665b1feb4/page-000003.json",
+      "representation_text_sha256": "bc8cb415bebd185e5d5b74ec14469c1c0d61af49001200463635ffd67b06f8d1",
+      "representation_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/22880f4c2443b35dd5c4b53e67708302bc66f9cc/derived/108f3972b4fd26886fcb4c3ee89bb61fef1e1c64a7e5d90eae2a20c665b1feb4/page-000003.json",
+      "original_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/22880f4c2443b35dd5c4b53e67708302bc66f9cc/objects/10/108f3972b4fd26886fcb4c3ee89bb61fef1e1c64a7e5d90eae2a20c665b1feb4",
+      "evidence": [
+        {
+          "term": "contract",
+          "match_start": 66,
+          "match_end": 74,
+          "passage_start": 0,
+          "passage_end": 324,
+          "text": "Brenda Moureaux, Deputy City Treasurer, advised this is an annual contract with Laramie County.\nAll committee members commented on the item.\n\n24.    CONSIDERATION OF BIDSi’PURCIIASES/REQUESTS FOR PROPOSALS:\n\n       b)     Consideration of Bid #E-19-25 for ftirnishing Mid-Size SUVs and a Full-Size SUV\n              for the "
+        },
+        {
+          "term": "bid",
+          "match_start": 239,
+          "match_end": 242,
+          "passage_start": 89,
+          "passage_end": 492,
+          "text": "ounty.\nAll committee members commented on the item.\n\n24.    CONSIDERATION OF BIDSi’PURCIIASES/REQUESTS FOR PROPOSALS:\n\n       b)     Consideration of Bid #E-19-25 for ftirnishing Mid-Size SUVs and a Full-Size SUV\n              for the City of Cheyenne. Solid Waste and Fleet Pool. (2023-2026 Optional 1%\n              Sales Tax Fund and Solid Waste Fund)\n\nMr. Moody moved to accept the bid from Fremont "
+        },
+        {
+          "term": "bid",
+          "match_start": 475,
+          "match_end": 478,
+          "passage_start": 325,
+          "passage_end": 728,
+          "text": "ity of Cheyenne. Solid Waste and Fleet Pool. (2023-2026 Optional 1%\n              Sales Tax Fund and Solid Waste Fund)\n\nMr. Moody moved to accept the bid from Fremont Motor Company, Lander, Wyoming, in an\namount not to exceed $141,587.00, seconded by Mr. Esquibel. Motion carried by unanimous voice\nvote.\n\nCraig LaVoy, Public Works Deputy Director, provided a staff report.\n\n       c)     Consideration "
+        }
+      ]
+    },
+    {
+      "classification": "unreviewed_topical_match_not_a_finding",
+      "source_sha256": "108f3972b4fd26886fcb4c3ee89bb61fef1e1c64a7e5d90eae2a20c665b1feb4",
+      "source_url": "https://www.cheyennecity.org/files/sharedassets/public/v/1/your-government/city-council/fc-2025/fc-06-17-25-minutes.pdf",
+      "source_retrieved_at": "2026-11-08T16:29:49.106378+00:00",
+      "page": 4,
+      "extraction_method": "native",
+      "quality_verified": false,
+      "representation_path": "derived/108f3972b4fd26886fcb4c3ee89bb61fef1e1c64a7e5d90eae2a20c665b1feb4/page-000004.json",
+      "representation_text_sha256": "edfd7b04f08d989e8fe90f1e57df27f73a597418bbda0cf8b6a9f20c7a890e1f",
+      "representation_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/22880f4c2443b35dd5c4b53e67708302bc66f9cc/derived/108f3972b4fd26886fcb4c3ee89bb61fef1e1c64a7e5d90eae2a20c665b1feb4/page-000004.json",
+      "original_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/22880f4c2443b35dd5c4b53e67708302bc66f9cc/objects/10/108f3972b4fd26886fcb4c3ee89bb61fef1e1c64a7e5d90eae2a20c665b1feb4",
+      "evidence": [
+        {
+          "term": "bid",
+          "match_start": 31,
+          "match_end": 34,
+          "passage_start": 0,
+          "passage_end": 284,
+          "text": "       0      Consideration of Bid #E-21-25 for an Agreement between the City of Cheyenne\n              and ABM Industry Groups, LLC, for Janitorial Services for the City of Cheyenne\n              — Cheyenne Municipal Court. (General Fund)\n\nMr. Esquibel moved to accept the bid in an "
+        },
+        {
+          "term": "bid",
+          "match_start": 274,
+          "match_end": 277,
+          "passage_start": 124,
+          "passage_end": 527,
+          "text": "ups, LLC, for Janitorial Services for the City of Cheyenne\n              — Cheyenne Municipal Court. (General Fund)\n\nMr. Esquibel moved to accept the bid in an amount not to exceed $91,926.72, seconded by Mr.\nMoody. Motion carried by unanimous voice vote.\n\nCraig LaVoy, Public Works Deputy Director, provided a staff report.\n\n       g)     Consideration of Bid #E-22-25 for furnishing an Automatic Tarpi"
+        },
+        {
+          "term": "bid",
+          "match_start": 481,
+          "match_end": 484,
+          "passage_start": 331,
+          "passage_end": 734,
+          "text": ".\nMoody. Motion carried by unanimous voice vote.\n\nCraig LaVoy, Public Works Deputy Director, provided a staff report.\n\n       g)     Consideration of Bid #E-22-25 for furnishing an Automatic Tarping Machine for\n              the City of Cheyenne Landfill. (Solid Waste Fund)\n\nMr. Roybal moved to accept the bid from Tarpomatic Inc., Canton, Ohio, in an amount not to\nexceed $93,060.00, seconded by Mr. M"
+        }
+      ]
+    },
+    {
+      "classification": "unreviewed_topical_match_not_a_finding",
+      "source_sha256": "10ddfb7ad469f662452e05e364811385ad101cfaeb524cea4570ece22ede2f65",
+      "source_url": "https://www.cheyennecity.org/files/sharedassets/public/v/1/your-government/city-council/fc-2025/fc-08-05-25-agenda.pdf",
+      "source_retrieved_at": "2026-11-08T16:29:32.994743+00:00",
+      "page": 2,
+      "extraction_method": "native",
+      "quality_verified": false,
+      "representation_path": "derived/10ddfb7ad469f662452e05e364811385ad101cfaeb524cea4570ece22ede2f65/page-000002.json",
+      "representation_text_sha256": "2ce2c1192d9dbc315bcfa6ffc2af0a6bd7c13e05d8a724ab4b4cf1a43486b1f1",
+      "representation_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/22880f4c2443b35dd5c4b53e67708302bc66f9cc/derived/10ddfb7ad469f662452e05e364811385ad101cfaeb524cea4570ece22ede2f65/page-000002.json",
+      "original_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/22880f4c2443b35dd5c4b53e67708302bc66f9cc/objects/10/10ddfb7ad469f662452e05e364811385ad101cfaeb524cea4570ece22ede2f65",
+      "evidence": [
+        {
+          "term": "bid",
+          "match_start": 347,
+          "match_end": 350,
+          "passage_start": 197,
+          "passage_end": 600,
+          "text": "e Parks and\n           Cultural Resources Funds)\n\nACTION:\n\n17.   CONSIDERATION OF BIDS/PURCHASES/REQUESTS FOR PROPOSALS:\n\n      b)   Consideration of Bid #S-28-25 for an Agreement between the City of Cheyenne\n           and Construction Specialists, Inc., for the Ice Slicer Building - Demolition and\n           New Steel Structure. (2019-2022 Optional 1% Sales Tax Fund)\n\nACTION:\n\n      c)   Considerat"
+        },
+        {
+          "term": "bid",
+          "match_start": 607,
+          "match_end": 610,
+          "passage_start": 457,
+          "passage_end": 860,
+          "text": "the Ice Slicer Building - Demolition and\n           New Steel Structure. (2019-2022 Optional 1% Sales Tax Fund)\n\nACTION:\n\n      c)   Consideration of Bid #E-3-25 for two (2) Mid-Size Trucks for the City of\n           Cheyenne, Cheyenne Fire Rescue Department. (Public Safety Infrastructure Fees)\n\nACTION:\n\n      d)   Consideration of Bid #E-19-25 for furnishing Mid-Size SUVs and a Full-Size\n           "
+        },
+        {
+          "term": "bid",
+          "match_start": 791,
+          "match_end": 794,
+          "passage_start": 641,
+          "passage_end": 1044,
+          "text": "rucks for the City of\n           Cheyenne, Cheyenne Fire Rescue Department. (Public Safety Infrastructure Fees)\n\nACTION:\n\n      d)   Consideration of Bid #E-19-25 for furnishing Mid-Size SUVs and a Full-Size\n           SUV for the City of Cheyenne Compliance, Community Recreation and Events\n           and Cheyenne Fire Rescue Departments. (2023-2026 Optional 1% Sales Tax\n           Fund and One Time "
+        }
+      ]
+    },
+    {
+      "classification": "unreviewed_topical_match_not_a_finding",
+      "source_sha256": "10e647a301957538b009a471177553cb3aa82fffe2bbeb3b8cd675cc40faf2ed",
+      "source_url": "https://www.cheyennecity.org/files/sharedassets/public/v/1/your-government/city-council/fc-2024/fc-07-15-24-minutes.pdf",
+      "source_retrieved_at": "2026-11-08T16:40:54.755177+00:00",
+      "page": 1,
+      "extraction_method": "native",
+      "quality_verified": false,
+      "representation_path": "derived/10e647a301957538b009a471177553cb3aa82fffe2bbeb3b8cd675cc40faf2ed/page-000001.json",
+      "representation_text_sha256": "936a0acf921980da08d947ac6dbbec271e4aceb2e99922b1b1340288a7163df3",
+      "representation_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/22880f4c2443b35dd5c4b53e67708302bc66f9cc/derived/10e647a301957538b009a471177553cb3aa82fffe2bbeb3b8cd675cc40faf2ed/page-000001.json",
+      "original_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/22880f4c2443b35dd5c4b53e67708302bc66f9cc/objects/10/10e647a301957538b009a471177553cb3aa82fffe2bbeb3b8cd675cc40faf2ed",
+      "evidence": [
+        {
+          "term": "contract",
+          "match_start": 1538,
+          "match_end": 1546,
+          "passage_start": 1388,
+          "passage_end": 1796,
+          "text": "nanimous voice vote.\n\nCaptain David Janes, Police Department, provided a staff report and committee member Cook\ncommented on the item.\n\n       e)     Contract between the City of Cheyenne, Laramie County Sheriffs Department and\n              Laramie County for housing prisoners at the Laramie County Detention Center.\n              (General Fund)\n\nMr. White moved to approve, seconded by Mr. Cook. Motion ca"
+        }
+      ]
+    },
+    {
+      "classification": "unreviewed_topical_match_not_a_finding",
+      "source_sha256": "10e647a301957538b009a471177553cb3aa82fffe2bbeb3b8cd675cc40faf2ed",
+      "source_url": "https://www.cheyennecity.org/files/sharedassets/public/v/1/your-government/city-council/fc-2024/fc-07-15-24-minutes.pdf",
+      "source_retrieved_at": "2026-11-08T16:40:54.755177+00:00",
+      "page": 2,
+      "extraction_method": "native",
+      "quality_verified": false,
+      "representation_path": "derived/10e647a301957538b009a471177553cb3aa82fffe2bbeb3b8cd675cc40faf2ed/page-000002.json",
+      "representation_text_sha256": "d79910161188a7240b6aa57da4419ae8ecc3cd9287cf3cca38abc208461583a2",
+      "representation_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/22880f4c2443b35dd5c4b53e67708302bc66f9cc/derived/10e647a301957538b009a471177553cb3aa82fffe2bbeb3b8cd675cc40faf2ed/page-000002.json",
+      "original_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/22880f4c2443b35dd5c4b53e67708302bc66f9cc/objects/10/10e647a301957538b009a471177553cb3aa82fffe2bbeb3b8cd675cc40faf2ed",
+      "evidence": [
+        {
+          "term": "contract",
+          "match_start": 408,
+          "match_end": 416,
+          "passage_start": 258,
+          "passage_end": 666,
+          "text": "se between the City of Cheyenne and Swan Ranch Cheyenne Rail, L.L.C.\n               which supersedes and replaces the Railcar Storage Agreement, City Contract\n               #7665. by and between Cheyenne Rail Hub, LLC.\n\nMr. Cook moved to approve, seconded by Mr Johnson. Motion carried with Mr Cook and Mr.\nJohnson voting “YES” and Mr. White voting “NO.”\n\nTom Cobb. City Engineer, provided a staff report an"
+        },
+        {
+          "term": "contract",
+          "match_start": 822,
+          "match_end": 830,
+          "passage_start": 672,
+          "passage_end": 1080,
+          "text": " Brodie, Deputy City Attorney provided\nadditional information. Chairwoman Aldrich and committee members Cook and White\ncommented on the item.\n\n14.    CONTRACT MODIFICATIONS:\n\n       a)    Contract Modification #1 for the Cheyenne Transmission, Pump Station and Tank\n            2020 Project Agreement. (Drinking Water SRF and Wyoming Water Development\n            and ARPA Grants)\n\nMr. Cook moved to approve,"
+        },
+        {
+          "term": "contract",
+          "match_start": 860,
+          "match_end": 868,
+          "passage_start": 710,
+          "passage_end": 1118,
+          "text": "\nadditional information. Chairwoman Aldrich and committee members Cook and White\ncommented on the item.\n\n14.    CONTRACT MODIFICATIONS:\n\n       a)    Contract Modification #1 for the Cheyenne Transmission, Pump Station and Tank\n            2020 Project Agreement. (Drinking Water SRF and Wyoming Water Development\n            and ARPA Grants)\n\nMr. Cook moved to approve, seconded by Mr. White. Motion carried"
+        }
+      ]
+    },
+    {
+      "classification": "unreviewed_topical_match_not_a_finding",
+      "source_sha256": "10e647a301957538b009a471177553cb3aa82fffe2bbeb3b8cd675cc40faf2ed",
+      "source_url": "https://www.cheyennecity.org/files/sharedassets/public/v/1/your-government/city-council/fc-2024/fc-07-15-24-minutes.pdf",
+      "source_retrieved_at": "2026-11-08T16:40:54.755177+00:00",
+      "page": 3,
+      "extraction_method": "native",
+      "quality_verified": false,
+      "representation_path": "derived/10e647a301957538b009a471177553cb3aa82fffe2bbeb3b8cd675cc40faf2ed/page-000003.json",
+      "representation_text_sha256": "03d97e185a06c7b2e952ae38da8cf5efe0f2525f69a0c94e70172895b977ca14",
+      "representation_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/22880f4c2443b35dd5c4b53e67708302bc66f9cc/derived/10e647a301957538b009a471177553cb3aa82fffe2bbeb3b8cd675cc40faf2ed/page-000003.json",
+      "original_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/22880f4c2443b35dd5c4b53e67708302bc66f9cc/objects/10/10e647a301957538b009a471177553cb3aa82fffe2bbeb3b8cd675cc40faf2ed",
+      "evidence": [
+        {
+          "term": "bid",
+          "match_start": 174,
+          "match_end": 177,
+          "passage_start": 24,
+          "passage_end": 427,
+          "text": "eer, provided a staff report.        Chairwoman Aldrich and Ward I\nCouncilman, Pete Layboum, commented on the item.\n\n       d)       Consideration of Bid #E-21-24 for or one (1) new 2024 to 2026 Low Ground\n                Pressure/Waste handling Dozer (42,000 lb mm. operating weight) for the Landfill\n                Division. (Solid Waste Fund)\n\nMr. Cook moved to accept the bid from Wyoming Machinery"
+        },
+        {
+          "term": "bid",
+          "match_start": 401,
+          "match_end": 404,
+          "passage_start": 251,
+          "passage_end": 654,
+          "text": "ure/Waste handling Dozer (42,000 lb mm. operating weight) for the Landfill\n                Division. (Solid Waste Fund)\n\nMr. Cook moved to accept the bid from Wyoming Machinery Company in an amount not to exceed\n5593,506.00, seconded by Mr. Johnson. Motion carried by unanimous voice vote.\n\nSam Quattrini, Landfill Manager, provided a staff report.\n\n       e)       Consideration of Bid #E-22-24 for one"
+        },
+        {
+          "term": "bid",
+          "match_start": 634,
+          "match_end": 637,
+          "passage_start": 484,
+          "passage_end": 887,
+          "text": " by Mr. Johnson. Motion carried by unanimous voice vote.\n\nSam Quattrini, Landfill Manager, provided a staff report.\n\n       e)       Consideration of Bid #E-22-24 for one (I) new 2024 to 2026 Low Ground\n                                handling Dozer (50.000 lb mm. operating weight) for the Landfill\n                Division. (Solid Waste Fund)\n\nMr. Cook moved to accept the bid from Wyoming Machinery C"
+        }
+      ]
+    },
+    {
+      "classification": "unreviewed_topical_match_not_a_finding",
+      "source_sha256": "10ef4520a111b2459ed46c8902a3b4c6871a1d8d7953b7c821470d8b4f3d7901",
+      "source_url": "https://www.cheyennecity.org/files/sharedassets/public/v/1/your-government/city-council/fc-2024/fc-09-03-24-minutes.pdf",
+      "source_retrieved_at": "2026-11-08T16:40:40.496890+00:00",
+      "page": 1,
+      "extraction_method": "native",
+      "quality_verified": false,
+      "representation_path": "derived/10ef4520a111b2459ed46c8902a3b4c6871a1d8d7953b7c821470d8b4f3d7901/page-000001.json",
+      "representation_text_sha256": "c6a7236a6e0b51a649bbc265fd49c5a19704be4bf5f50684dc642dd3a16336c5",
+      "representation_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/22880f4c2443b35dd5c4b53e67708302bc66f9cc/derived/10ef4520a111b2459ed46c8902a3b4c6871a1d8d7953b7c821470d8b4f3d7901/page-000001.json",
+      "original_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/22880f4c2443b35dd5c4b53e67708302bc66f9cc/objects/10/10ef4520a111b2459ed46c8902a3b4c6871a1d8d7953b7c821470d8b4f3d7901",
+      "evidence": [
+        {
+          "term": "contract",
+          "match_start": 1101,
+          "match_end": 1109,
+          "passage_start": 951,
+          "passage_end": 1359,
+          "text": "itional information. Chairwoman Aldrich and committee members Johnson\nand White commented on the item.\n\n17.    LEASES/CONTRACTS/LEGAL:\n\n       f)     Contract between the City of Cheyenne Police Department and Tyler Technologies\n              for maintenance and support services of the Police Department’s records\n              management software. (General Fund)\n\nMr. White moved to approve in an amount no"
+        }
+      ]
+    },
+    {
+      "classification": "unreviewed_topical_match_not_a_finding",
+      "source_sha256": "10ef4520a111b2459ed46c8902a3b4c6871a1d8d7953b7c821470d8b4f3d7901",
+      "source_url": "https://www.cheyennecity.org/files/sharedassets/public/v/1/your-government/city-council/fc-2024/fc-09-03-24-minutes.pdf",
+      "source_retrieved_at": "2026-11-08T16:40:40.496890+00:00",
+      "page": 2,
+      "extraction_method": "native",
+      "quality_verified": false,
+      "representation_path": "derived/10ef4520a111b2459ed46c8902a3b4c6871a1d8d7953b7c821470d8b4f3d7901/page-000002.json",
+      "representation_text_sha256": "f45c9e8b688588e549669fec186231c448ca0ab8b64aef45d4e96c10bef640c2",
+      "representation_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/22880f4c2443b35dd5c4b53e67708302bc66f9cc/derived/10ef4520a111b2459ed46c8902a3b4c6871a1d8d7953b7c821470d8b4f3d7901/page-000002.json",
+      "original_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/22880f4c2443b35dd5c4b53e67708302bc66f9cc/objects/10/10ef4520a111b2459ed46c8902a3b4c6871a1d8d7953b7c821470d8b4f3d7901",
+      "evidence": [
+        {
+          "term": "contract",
+          "match_start": 1380,
+          "match_end": 1388,
+          "passage_start": 1230,
+          "passage_end": 1638,
+          "text": "& Development Department Director, provided additional information.\nRandy Byers, TDSi, provided information related to services to be provided by the contract.\nChairwoman Aldrich and committee member Johnson commented on the item. Ward I City\nCouncilman, Pete Layboum, also commented on the item.\n\n       j)     Drainage Easement Agreement granted by Kenrich, LLC to the City of Cheyenne\n              to ens"
+        }
+      ]
+    },
+    {
+      "classification": "unreviewed_topical_match_not_a_finding",
+      "source_sha256": "10ef4520a111b2459ed46c8902a3b4c6871a1d8d7953b7c821470d8b4f3d7901",
+      "source_url": "https://www.cheyennecity.org/files/sharedassets/public/v/1/your-government/city-council/fc-2024/fc-09-03-24-minutes.pdf",
+      "source_retrieved_at": "2026-11-08T16:40:40.496890+00:00",
+      "page": 3,
+      "extraction_method": "native",
+      "quality_verified": false,
+      "representation_path": "derived/10ef4520a111b2459ed46c8902a3b4c6871a1d8d7953b7c821470d8b4f3d7901/page-000003.json",
+      "representation_text_sha256": "8d7e79c8ce6c71e70525acc0a70b774ff240a90e067b7fa247dc6fb368427f1d",
+      "representation_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/22880f4c2443b35dd5c4b53e67708302bc66f9cc/derived/10ef4520a111b2459ed46c8902a3b4c6871a1d8d7953b7c821470d8b4f3d7901/page-000003.json",
+      "original_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/22880f4c2443b35dd5c4b53e67708302bc66f9cc/objects/10/10ef4520a111b2459ed46c8902a3b4c6871a1d8d7953b7c821470d8b4f3d7901",
+      "evidence": [
+        {
+          "term": "bid",
+          "match_start": 394,
+          "match_end": 397,
+          "passage_start": 244,
+          "passage_end": 647,
+          "text": " Esquihel joined the committee for the final item.\n\n19.    CONSIDERATIONT OF BIDS/PURCHASES/REQUESTS FOR PROPOSALS:\n\n       a)       Consideration of Bid #S-2-25 for an Agreement between the City of Cheyenne and\n                Reiman Corp. for the Depot Renovation Project. (2021 Specific Purpose Option\n                Tax Fund)\n\nMr. Johnson moved to approve in an amount not to exceed $1,426,265.00, "
+        }
+      ]
+    },
+    {
+      "classification": "unreviewed_topical_match_not_a_finding",
+      "source_sha256": "115f2ca1c7e013e14018ba25a7ba2cb5fecc53d40277a0b62eea950b268c5a1e",
+      "source_url": "https://www.cheyennecity.org/files/sharedassets/public/v/1/your-government/city-council/psc-2023/substitute-rotary-park-donation_mou-23-8-7-ca-sub-redline.pdf",
+      "source_retrieved_at": "2026-11-08T17:13:13.218081+00:00",
+      "page": 1,
+      "extraction_method": "native",
+      "quality_verified": false,
+      "representation_path": "derived/115f2ca1c7e013e14018ba25a7ba2cb5fecc53d40277a0b62eea950b268c5a1e/page-000001.json",
+      "representation_text_sha256": "862e6977209f50cd737e90ac2c7e7834b0b891caae175f9275ecc40247baef77",
+      "representation_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/22880f4c2443b35dd5c4b53e67708302bc66f9cc/derived/115f2ca1c7e013e14018ba25a7ba2cb5fecc53d40277a0b62eea950b268c5a1e/page-000001.json",
+      "original_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/22880f4c2443b35dd5c4b53e67708302bc66f9cc/objects/11/115f2ca1c7e013e14018ba25a7ba2cb5fecc53d40277a0b62eea950b268c5a1e",
+      "evidence": [
+        {
+          "term": "contract",
+          "match_start": 42,
+          "match_end": 50,
+          "passage_start": 0,
+          "passage_end": 300,
+          "text": "                                     City Contract _______\n\n                      MEMORANDUM OF UNDERSTANDING\n                                  Between\n          CITY OF CHEYENNE AND CHEYENNE ROTARY CLUB FOUNDATION\n\n                                 Regarding\n             DONATION OF ROTARY PARK TO T"
+        }
+      ]
+    },
+    {
+      "classification": "unreviewed_topical_match_not_a_finding",
+      "source_sha256": "115f2ca1c7e013e14018ba25a7ba2cb5fecc53d40277a0b62eea950b268c5a1e",
+      "source_url": "https://www.cheyennecity.org/files/sharedassets/public/v/1/your-government/city-council/psc-2023/substitute-rotary-park-donation_mou-23-8-7-ca-sub-redline.pdf",
+      "source_retrieved_at": "2026-11-08T17:13:13.218081+00:00",
+      "page": 3,
+      "extraction_method": "native",
+      "quality_verified": false,
+      "representation_path": "derived/115f2ca1c7e013e14018ba25a7ba2cb5fecc53d40277a0b62eea950b268c5a1e/page-000003.json",
+      "representation_text_sha256": "93f3071d3069d2e684a27c7c12e93eda7490c8286e6f0dc1c13d174ad3cffe9f",
+      "representation_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/22880f4c2443b35dd5c4b53e67708302bc66f9cc/derived/115f2ca1c7e013e14018ba25a7ba2cb5fecc53d40277a0b62eea950b268c5a1e/page-000003.json",
+      "original_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/22880f4c2443b35dd5c4b53e67708302bc66f9cc/objects/11/115f2ca1c7e013e14018ba25a7ba2cb5fecc53d40277a0b62eea950b268c5a1e",
+      "evidence": [
+        {
+          "term": "request for proposal",
+          "match_start": 2189,
+          "match_end": 2209,
+          "passage_start": 2039,
+          "passage_end": 2459,
+          "text": "ding the use of native and/or\n                          low water use and low maintenance vegetation.\n                  8.      City shall complete a Request for Proposal (RFP) to go out for bid b\n                          June 30, 2024.\n                  7.9.    In the event the City is unable to fund its obligations regarding Rotary\n                          Park as provided herein before the expiration date of thi"
+        },
+        {
+          "term": "bid",
+          "match_start": 2230,
+          "match_end": 2233,
+          "passage_start": 2080,
+          "passage_end": 2483,
+          "text": "               low water use and low maintenance vegetation.\n                  8.      City shall complete a Request for Proposal (RFP) to go out for bid b\n                          June 30, 2024.\n                  7.9.    In the event the City is unable to fund its obligations regarding Rotary\n                          Park as provided herein before the expiration date of this Agreement\n            "
+        }
+      ]
+    },
+    {
+      "classification": "unreviewed_topical_match_not_a_finding",
+      "source_sha256": "115f2ca1c7e013e14018ba25a7ba2cb5fecc53d40277a0b62eea950b268c5a1e",
+      "source_url": "https://www.cheyennecity.org/files/sharedassets/public/v/1/your-government/city-council/psc-2023/substitute-rotary-park-donation_mou-23-8-7-ca-sub-redline.pdf",
+      "source_retrieved_at": "2026-11-08T17:13:13.218081+00:00",
+      "page": 5,
+      "extraction_method": "native",
+      "quality_verified": false,
+      "representation_path": "derived/115f2ca1c7e013e14018ba25a7ba2cb5fecc53d40277a0b62eea950b268c5a1e/page-000005.json",
+      "representation_text_sha256": "6db321c1275d6775e86dc127bc17c2a9321b2495070cd882abd7bddb0638879c",
+      "representation_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/22880f4c2443b35dd5c4b53e67708302bc66f9cc/derived/115f2ca1c7e013e14018ba25a7ba2cb5fecc53d40277a0b62eea950b268c5a1e/page-000005.json",
+      "original_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/22880f4c2443b35dd5c4b53e67708302bc66f9cc/objects/11/115f2ca1c7e013e14018ba25a7ba2cb5fecc53d40277a0b62eea950b268c5a1e",
+      "evidence": [
+        {
+          "term": "contract",
+          "match_start": 2105,
+          "match_end": 2113,
+          "passage_start": 1955,
+          "passage_end": 2363,
+          "text": "this Agreement. Further, City fully\n         retains all immunities and defenses provided by law with regard to any action,\n         whether in tort, contract, or any other theory of law, based on this Agreement.\n\n M.      Indemnification. To the fullest extent permitted by law, Rotary agrees to indemnify\n         and hold harmless City, its elected and appointed officials, employees, and\n         volunte"
+        }
+      ]
+    },
+    {
+      "classification": "unreviewed_topical_match_not_a_finding",
+      "source_sha256": "1230afc8279cc557106196a0164c83b5abd9d23334056c260b785817f7a2d06f",
+      "source_url": "https://www.cheyennecity.org/files/sharedassets/public/v/1/your-government/city-council/fc-2022/city_county-contract-addendum-12.09.2021-1.pdf",
+      "source_retrieved_at": "2026-11-08T16:51:09.784145+00:00",
+      "page": 1,
+      "extraction_method": "native",
+      "quality_verified": false,
+      "representation_path": "derived/1230afc8279cc557106196a0164c83b5abd9d23334056c260b785817f7a2d06f/page-000001.json",
+      "representation_text_sha256": "6e4afa98f2115818ab2405d1250c8026ef205ba4522caefc5f492eee19dff713",
+      "representation_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/22880f4c2443b35dd5c4b53e67708302bc66f9cc/derived/1230afc8279cc557106196a0164c83b5abd9d23334056c260b785817f7a2d06f/page-000001.json",
+      "original_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/22880f4c2443b35dd5c4b53e67708302bc66f9cc/objects/12/1230afc8279cc557106196a0164c83b5abd9d23334056c260b785817f7a2d06f",
+      "evidence": [
+        {
+          "term": "contract",
+          "match_start": 96,
+          "match_end": 104,
+          "passage_start": 0,
+          "passage_end": 354,
+          "text": "                                         Addendums\n\nI.    Animals sheltered under Item 4 of the contract shall be held for a period of time not to\n      exceed ten (10) days. This period of time allows for the majority of impounded animals to\n      either be reclaimed by their owners or to legally become the property of the Shelter, per\n      the follo"
+        },
+        {
+          "term": "contract",
+          "match_start": 1915,
+          "match_end": 1923,
+          "passage_start": 1765,
+          "passage_end": 2173,
+          "text": "the animal shelter, and will be available for adoption in a suitable home, or\n      humanely euthanized.\n\nII.   Animals sheltered under Item 6 of the contract include only those which the City retains\n      custody of past the maximum ten (10) days described above, thereby prohibiting the\n      Shelter from pursuing an outcome. These include, but are not limited to, animals which\n      are part of active "
+        }
+      ]
+    },
+    {
+      "classification": "unreviewed_topical_match_not_a_finding",
+      "source_sha256": "132ae915bb06a6eb510b479ef9ffd4df69aef887f8ea8321b94f20bb390f9e05",
+      "source_url": "https://www.cheyennecity.org/files/sharedassets/public/v/1/your-government/city-council/fc-2024/fc-12-02-24-minutes.pdf",
+      "source_retrieved_at": "2026-11-08T16:40:12.260214+00:00",
+      "page": 1,
+      "extraction_method": "native",
+      "quality_verified": false,
+      "representation_path": "derived/132ae915bb06a6eb510b479ef9ffd4df69aef887f8ea8321b94f20bb390f9e05/page-000001.json",
+      "representation_text_sha256": "edc5723222c79ebc00ab2929eaa1c77bb551b0edbe15f2ef3806f7b4e9bcbc4d",
+      "representation_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/22880f4c2443b35dd5c4b53e67708302bc66f9cc/derived/132ae915bb06a6eb510b479ef9ffd4df69aef887f8ea8321b94f20bb390f9e05/page-000001.json",
+      "original_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/22880f4c2443b35dd5c4b53e67708302bc66f9cc/objects/13/132ae915bb06a6eb510b479ef9ffd4df69aef887f8ea8321b94f20bb390f9e05",
+      "evidence": [
+        {
+          "term": "bid",
+          "match_start": 2182,
+          "match_end": 2185,
+          "passage_start": 2032,
+          "passage_end": 2435,
+          "text": "Public comment was made by\nSeth Lloyd, City employee.\n\n28.    CONSIDERATION OF BIDS/PURCHASES/REQUESTS FOR PROPOSALS:\n\n       c)     Consideration of Bid #5-7 -25 for an Agreement between the City of Cheyenne and\n              Fencetrak Inc. dlb/a Full Tilt Services for the Belvoir Ranch Trailhead and Access\n              Roads Project. (Belvoir Ranch Recreation Fund and Wyoming Outdoor Recreation\n  "
+        }
+      ]
+    },
+    {
+      "classification": "unreviewed_topical_match_not_a_finding",
+      "source_sha256": "132ae915bb06a6eb510b479ef9ffd4df69aef887f8ea8321b94f20bb390f9e05",
+      "source_url": "https://www.cheyennecity.org/files/sharedassets/public/v/1/your-government/city-council/fc-2024/fc-12-02-24-minutes.pdf",
+      "source_retrieved_at": "2026-11-08T16:40:12.260214+00:00",
+      "page": 2,
+      "extraction_method": "native",
+      "quality_verified": false,
+      "representation_path": "derived/132ae915bb06a6eb510b479ef9ffd4df69aef887f8ea8321b94f20bb390f9e05/page-000002.json",
+      "representation_text_sha256": "f5f8d0faf2798f9389c0c69dcf24c27c3e63485a529b819f549b40e0081ca8ef",
+      "representation_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/22880f4c2443b35dd5c4b53e67708302bc66f9cc/derived/132ae915bb06a6eb510b479ef9ffd4df69aef887f8ea8321b94f20bb390f9e05/page-000002.json",
+      "original_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/22880f4c2443b35dd5c4b53e67708302bc66f9cc/objects/13/132ae915bb06a6eb510b479ef9ffd4df69aef887f8ea8321b94f20bb390f9e05",
+      "evidence": [
+        {
+          "term": "bid",
+          "match_start": 29,
+          "match_end": 32,
+          "passage_start": 0,
+          "passage_end": 282,
+          "text": "Mr. Cook moved to accept the bid in an amount not to exceed $672,507.50, seconded by Mr.\nJohnson. Motion carried by unanimous voicc vote.\n\nTom Cobb, City Engineer, provided a stalT report and Robin Loekman. City Treasurer, provided\nadditional information. Chairwoman Aldrich comment"
+        }
+      ]
+    },
+    {
+      "classification": "unreviewed_topical_match_not_a_finding",
+      "source_sha256": "14c781beeac8664941eaffb99f88add19ec0ad39228e3e1488a96946af73ab6b",
+      "source_url": "https://www.cheyennecity.org/files/sharedassets/public/v/1/your-government/city-council/fc-2023/fc-10-16-23-minutes.pdf",
+      "source_retrieved_at": "2026-11-08T16:42:17.208383+00:00",
+      "page": 1,
+      "extraction_method": "tesseract",
+      "quality_verified": false,
+      "representation_path": "derived/14c781beeac8664941eaffb99f88add19ec0ad39228e3e1488a96946af73ab6b/page-000001.json",
+      "representation_text_sha256": "64729d27254210b81c561f3274b7cade85cf114ea67b92195cfc08b00fe2605b",
+      "representation_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/22880f4c2443b35dd5c4b53e67708302bc66f9cc/derived/14c781beeac8664941eaffb99f88add19ec0ad39228e3e1488a96946af73ab6b/page-000001.json",
+      "original_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/22880f4c2443b35dd5c4b53e67708302bc66f9cc/objects/14/14c781beeac8664941eaffb99f88add19ec0ad39228e3e1488a96946af73ab6b",
+      "evidence": [
+        {
+          "term": "contract",
+          "match_start": 1540,
+          "match_end": 1548,
+          "passage_start": 1390,
+          "passage_end": 1798,
+          "text": "N ~ Requiring the study and submittal of a report to the Governing Body\nanalyzing the best avenue for transitioning the Downtown Parking Program to a contract\nor a professional services model. (SPONSOR ~ MR. SEGRAVE)\n\nMr. Roybal moved to adopt, seconded by Mr. Esquibel. Motion carried by unanimous voice vote.\n\nWard II Councilman Tom Segrave, and sponsor of the item, provided information related to the\npro"
+        }
+      ]
+    },
+    {
+      "classification": "unreviewed_topical_match_not_a_finding",
+      "source_sha256": "14c781beeac8664941eaffb99f88add19ec0ad39228e3e1488a96946af73ab6b",
+      "source_url": "https://www.cheyennecity.org/files/sharedassets/public/v/1/your-government/city-council/fc-2023/fc-10-16-23-minutes.pdf",
+      "source_retrieved_at": "2026-11-08T16:42:17.208383+00:00",
+      "page": 2,
+      "extraction_method": "tesseract",
+      "quality_verified": false,
+      "representation_path": "derived/14c781beeac8664941eaffb99f88add19ec0ad39228e3e1488a96946af73ab6b/page-000002.json",
+      "representation_text_sha256": "458ae944c40b25050a6c9135783deeb7bed44172df7a0763f0cbd869e8c37584",
+      "representation_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/22880f4c2443b35dd5c4b53e67708302bc66f9cc/derived/14c781beeac8664941eaffb99f88add19ec0ad39228e3e1488a96946af73ab6b/page-000002.json",
+      "original_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/22880f4c2443b35dd5c4b53e67708302bc66f9cc/objects/14/14c781beeac8664941eaffb99f88add19ec0ad39228e3e1488a96946af73ab6b",
+      "evidence": [
+        {
+          "term": "bid",
+          "match_start": 1083,
+          "match_end": 1086,
+          "passage_start": 933,
+          "passage_end": 1336,
+          "text": "bal commented on the item, Public comment was made by\nVicki Nemecek\n\n18. CONSIDERATION OF BIDS/PURCHASES/REQUESTS FOR PROPOSALS:\n\n©) Consideration of Bid #E-4-24 for furnishing sixteen (16) new 4 door 2023/2024\nmodel utility police interceptors (SUV) for the Cheyenne Police Department.\n(2019-2022 Optional 1% Sales Tax Fund and Insurance Proceeds)\n\nMr. Roybal moved to accept the bid from Ken Garff Che"
+        },
+        {
+          "term": "bid",
+          "match_start": 1314,
+          "match_end": 1317,
+          "passage_start": 1164,
+          "passage_end": 1567,
+          "text": " interceptors (SUV) for the Cheyenne Police Department.\n(2019-2022 Optional 1% Sales Tax Fund and Insurance Proceeds)\n\nMr. Roybal moved to accept the bid from Ken Garff Cheyenne, Cheyenne, WY, in an amount not\nto exceed $1,465,020.65, seconded by Mr. Esquibel. Motion carried by unanimous voice vote.\n\nLieutenant Joel Hickerson, Police Department, provided a staff report and TJ Barttelbort,\nPurchasing "
+        },
+        {
+          "term": "bid",
+          "match_start": 1700,
+          "match_end": 1703,
+          "passage_start": 1550,
+          "passage_end": 1953,
+          "text": "bort,\nPurchasing Manager, provided additional information. Committee members Aldrich, Esquibel\nand Roybal commented on the item.\n\nf) Consideration of Bid #E-5-24 for furnishing one (1) new 2023-2024 motorized\narticulated trash compactor for the City of Cheyenne Landfill. (Solid Waste Fund)\n\nMr. Esquibel moved to accept the bid from Wyoming Machinery Company, Cheyenne, WY, in an\namount not to exceed $"
+        }
+      ]
+    },
+    {
+      "classification": "unreviewed_topical_match_not_a_finding",
+      "source_sha256": "14c781beeac8664941eaffb99f88add19ec0ad39228e3e1488a96946af73ab6b",
+      "source_url": "https://www.cheyennecity.org/files/sharedassets/public/v/1/your-government/city-council/fc-2023/fc-10-16-23-minutes.pdf",
+      "source_retrieved_at": "2026-11-08T16:42:17.208383+00:00",
+      "page": 3,
+      "extraction_method": "tesseract",
+      "quality_verified": false,
+      "representation_path": "derived/14c781beeac8664941eaffb99f88add19ec0ad39228e3e1488a96946af73ab6b/page-000003.json",
+      "representation_text_sha256": "6aff9e44acae6dcd9f94a38cb85b2eb5ffde43d90b5e26eb25a0c739eb72a90a",
+      "representation_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/22880f4c2443b35dd5c4b53e67708302bc66f9cc/derived/14c781beeac8664941eaffb99f88add19ec0ad39228e3e1488a96946af73ab6b/page-000003.json",
+      "original_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/22880f4c2443b35dd5c4b53e67708302bc66f9cc/objects/14/14c781beeac8664941eaffb99f88add19ec0ad39228e3e1488a96946af73ab6b",
+      "evidence": [
+        {
+          "term": "contract",
+          "match_start": 29,
+          "match_end": 37,
+          "passage_start": 0,
+          "passage_end": 287,
+          "text": "OTHER ITEMS FOR THE AGENDA:\n\nContract Modification #1 to Contract #7814 between the City of Cheyenne and the Wyoming\nDepartment of Transportation for the Amended and Restated Cooperative Agreement for Project\nARSCT N561 A02, US 30/Pershing Blvd. to Christensen Road, Cheyenne Streets, La"
+        },
+        {
+          "term": "contract",
+          "match_start": 57,
+          "match_end": 65,
+          "passage_start": 0,
+          "passage_end": 315,
+          "text": "OTHER ITEMS FOR THE AGENDA:\n\nContract Modification #1 to Contract #7814 between the City of Cheyenne and the Wyoming\nDepartment of Transportation for the Amended and Restated Cooperative Agreement for Project\nARSCT N561 A02, US 30/Pershing Blvd. to Christensen Road, Cheyenne Streets, Laramie\nCounty. (2023-2026 Opt"
+        }
+      ]
+    },
+    {
+      "classification": "unreviewed_topical_match_not_a_finding",
+      "source_sha256": "14d3b19a4b66933b2e93f7b68ab6cbeb75c5ecead4c16e16349f3118f16112f9",
+      "source_url": "https://www.cheyennecity.org/files/sharedassets/public/v/1/your-government/city-council/wscow-2025/cas-report-work-session-nov-2025.pdf",
+      "source_retrieved_at": "2026-11-08T17:20:17.311015+00:00",
+      "page": 2,
+      "extraction_method": "native",
+      "quality_verified": false,
+      "representation_path": "derived/14d3b19a4b66933b2e93f7b68ab6cbeb75c5ecead4c16e16349f3118f16112f9/page-000002.json",
+      "representation_text_sha256": "06e16153b6e364c06e53366eb4d39ac72600a4766048b60b1c80876643db6596",
+      "representation_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/22880f4c2443b35dd5c4b53e67708302bc66f9cc/derived/14d3b19a4b66933b2e93f7b68ab6cbeb75c5ecead4c16e16349f3118f16112f9/page-000002.json",
+      "original_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/22880f4c2443b35dd5c4b53e67708302bc66f9cc/objects/14/14d3b19a4b66933b2e93f7b68ab6cbeb75c5ecead4c16e16349f3118f16112f9",
+      "evidence": [
+        {
+          "term": "contract",
+          "match_start": 303,
+          "match_end": 311,
+          "passage_start": 153,
+          "passage_end": 561,
+          "text": "his proposal is calculated and presented by addressing sheltering\nservice deliverables as required by the City of Cheyenne and Laramie\nCounty service contract. This methodology results in a valuation of the cost\nto ensure care and safety of people and animals community wide.\n\n The proposal is based on fiscal year 2024 financial figures and allows\ndirect alignment of costs to animal intake jurisdictional a"
+        },
+        {
+          "term": "contract",
+          "match_start": 598,
+          "match_end": 606,
+          "passage_start": 448,
+          "passage_end": 856,
+          "text": "ased on fiscal year 2024 financial figures and allows\ndirect alignment of costs to animal intake jurisdictional allocations as\nrequested in quarterly contract reporting.\n\nModeling a future cost for contract services based on past expense figures\nproduces a lower cost to government agencies.\n\n• The proposal makes a clear distinction between the cost of sheltering\nservices and those of other services and ac"
+        },
+        {
+          "term": "contract",
+          "match_start": 646,
+          "match_end": 654,
+          "passage_start": 496,
+          "passage_end": 904,
+          "text": "llows\ndirect alignment of costs to animal intake jurisdictional allocations as\nrequested in quarterly contract reporting.\n\nModeling a future cost for contract services based on past expense figures\nproduces a lower cost to government agencies.\n\n• The proposal makes a clear distinction between the cost of sheltering\nservices and those of other services and activities provided by CAS. It\ntherefore eliminate"
+        }
+      ]
+    },
+    {
+      "classification": "unreviewed_topical_match_not_a_finding",
+      "source_sha256": "14d3b19a4b66933b2e93f7b68ab6cbeb75c5ecead4c16e16349f3118f16112f9",
+      "source_url": "https://www.cheyennecity.org/files/sharedassets/public/v/1/your-government/city-council/wscow-2025/cas-report-work-session-nov-2025.pdf",
+      "source_retrieved_at": "2026-11-08T17:20:17.311015+00:00",
+      "page": 4,
+      "extraction_method": "native",
+      "quality_verified": false,
+      "representation_path": "derived/14d3b19a4b66933b2e93f7b68ab6cbeb75c5ecead4c16e16349f3118f16112f9/page-000004.json",
+      "representation_text_sha256": "24da542209a907a72f627bfc557c102e6075d364c85401fb218015bbc7d936a4",
+      "representation_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/22880f4c2443b35dd5c4b53e67708302bc66f9cc/derived/14d3b19a4b66933b2e93f7b68ab6cbeb75c5ecead4c16e16349f3118f16112f9/page-000004.json",
+      "original_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/22880f4c2443b35dd5c4b53e67708302bc66f9cc/objects/14/14d3b19a4b66933b2e93f7b68ab6cbeb75c5ecead4c16e16349f3118f16112f9",
+      "evidence": [
+        {
+          "term": "contract",
+          "match_start": 1231,
+          "match_end": 1239,
+          "passage_start": 1081,
+          "passage_end": 1489,
+          "text": "     84,18000\n 7102 Legal Fee,                                469.12                        16.76                       3412             58000\n  7103 Contract labor                        24,492.01                   3,033.00                      t .054.20        28,579.23\n Total for 7100 Professional Fees            93,041.90                  14251,23                       6,040.08       $113,339.21\n\n 711"
+        }
+      ]
+    }
+  ]
+}

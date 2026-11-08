@@ -1,0 +1,1395 @@
+{
+  "profile": "council-decisions",
+  "title": "Council procedures and decisions",
+  "generated_at": "2026-11-08T17:28:50.972658+00:00",
+  "source_revision": "22880f4c2443b35dd5c4b53e67708302bc66f9cc",
+  "classification": "retrieval_triage_not_investigative_findings",
+  "matched_representations": 371,
+  "exported_representations": 50,
+  "result_cap": 50,
+  "results_truncated": true,
+  "results": [
+    {
+      "classification": "unreviewed_topical_match_not_a_finding",
+      "source_sha256": "014f8abfb8f3fd8ca645e5e70ad34b63ade39e523a09c955fdbf7230894fabea",
+      "source_url": "https://www.cheyennecity.org/Site-Footer/Sub-Footer-Links/Social-Media-Guidelines",
+      "source_retrieved_at": "2026-11-08T17:24:24.233498+00:00",
+      "page": null,
+      "extraction_method": "html_text",
+      "quality_verified": false,
+      "representation_path": "text/014f8abfb8f3fd8ca645e5e70ad34b63ade39e523a09c955fdbf7230894fabea.txt",
+      "representation_text_sha256": "ff9f2b17df4b838853501e07c374eab8bd579b679465628329820ff2b96777e3",
+      "representation_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/22880f4c2443b35dd5c4b53e67708302bc66f9cc/text/014f8abfb8f3fd8ca645e5e70ad34b63ade39e523a09c955fdbf7230894fabea.txt",
+      "original_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/22880f4c2443b35dd5c4b53e67708302bc66f9cc/objects/01/014f8abfb8f3fd8ca645e5e70ad34b63ade39e523a09c955fdbf7230894fabea",
+      "evidence": [
+        {
+          "term": "minutes",
+          "match_start": 451,
+          "match_end": 458,
+          "passage_start": 301,
+          "passage_end": 708,
+          "text": "nish\nSelect this as your preferred language\nOpen\nSearch\nMenu\nYour Government\nMayor Patrick Collins\nCheyenne Mayors\nCity Council\nCommittee Information\nMinutes and Agendas\nBoards / Commissions\nDepartments\nCity Attorney\nCity Clerk\nCity Engineer\nCommunity Recreation & Events\nCheyenne Fire Rescue\nHuman Resources\nPlanning and Development\nPublic Works\nCity Treasurer\nCompliance Department\nMayor's Office\nPolice D"
+        }
+      ]
+    },
+    {
+      "classification": "unreviewed_topical_match_not_a_finding",
+      "source_sha256": "0fea81564c3f28f34dac3b5093aeb7d0fbba25aa3b8f84b3bf5d46f5e6d31957",
+      "source_url": "https://www.cheyennecity.org/Site-Footer/Sub-Footer-Links/Translation-Disclaimer",
+      "source_retrieved_at": "2026-11-08T17:24:19.979549+00:00",
+      "page": null,
+      "extraction_method": "html_text",
+      "quality_verified": false,
+      "representation_path": "text/0fea81564c3f28f34dac3b5093aeb7d0fbba25aa3b8f84b3bf5d46f5e6d31957.txt",
+      "representation_text_sha256": "293240a5bc327124180316bffa41e87082ebb67a5d4cdcfb91d85c449b2b6c07",
+      "representation_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/22880f4c2443b35dd5c4b53e67708302bc66f9cc/text/0fea81564c3f28f34dac3b5093aeb7d0fbba25aa3b8f84b3bf5d46f5e6d31957.txt",
+      "original_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/22880f4c2443b35dd5c4b53e67708302bc66f9cc/objects/0f/0fea81564c3f28f34dac3b5093aeb7d0fbba25aa3b8f84b3bf5d46f5e6d31957",
+      "evidence": [
+        {
+          "term": "minutes",
+          "match_start": 450,
+          "match_end": 457,
+          "passage_start": 300,
+          "passage_end": 707,
+          "text": "nish\nSelect this as your preferred language\nOpen\nSearch\nMenu\nYour Government\nMayor Patrick Collins\nCheyenne Mayors\nCity Council\nCommittee Information\nMinutes and Agendas\nBoards / Commissions\nDepartments\nCity Attorney\nCity Clerk\nCity Engineer\nCommunity Recreation & Events\nCheyenne Fire Rescue\nHuman Resources\nPlanning and Development\nPublic Works\nCity Treasurer\nCompliance Department\nMayor's Office\nPolice D"
+        }
+      ]
+    },
+    {
+      "classification": "unreviewed_topical_match_not_a_finding",
+      "source_sha256": "11f28772ef8e053fd44f07ca6fe6d273ee8e38947e3de4d72c85f5ce0e63976b",
+      "source_url": "https://www.cheyennecity.org/Your-Government/Departments/Human-Resources",
+      "source_retrieved_at": "2026-11-08T16:26:36.433076+00:00",
+      "page": null,
+      "extraction_method": "html_text",
+      "quality_verified": false,
+      "representation_path": "text/11f28772ef8e053fd44f07ca6fe6d273ee8e38947e3de4d72c85f5ce0e63976b.txt",
+      "representation_text_sha256": "4f6ff43137813f392055088e6ac3886b9285de84ff2bc42117d53dc7fb4d7ac5",
+      "representation_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/22880f4c2443b35dd5c4b53e67708302bc66f9cc/text/11f28772ef8e053fd44f07ca6fe6d273ee8e38947e3de4d72c85f5ce0e63976b.txt",
+      "original_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/22880f4c2443b35dd5c4b53e67708302bc66f9cc/objects/11/11f28772ef8e053fd44f07ca6fe6d273ee8e38947e3de4d72c85f5ce0e63976b",
+      "evidence": [
+        {
+          "term": "minutes",
+          "match_start": 443,
+          "match_end": 450,
+          "passage_start": 293,
+          "passage_end": 700,
+          "text": "nish\nSelect this as your preferred language\nOpen\nSearch\nMenu\nYour Government\nMayor Patrick Collins\nCheyenne Mayors\nCity Council\nCommittee Information\nMinutes and Agendas\nBoards / Commissions\nDepartments\nCity Attorney\nCity Clerk\nCity Engineer\nCommunity Recreation & Events\nCheyenne Fire Rescue\nHuman Resources\nPlanning and Development\nPublic Works\nCity Treasurer\nCompliance Department\nMayor's Office\nPolice D"
+        }
+      ]
+    },
+    {
+      "classification": "unreviewed_topical_match_not_a_finding",
+      "source_sha256": "14f12ee07d233cade834b0dd3cf0217b10b6b804cd50cad7805c170188217bb6",
+      "source_url": "https://www.cheyennecity.org/Your-Government/Departments/City-Treasurer",
+      "source_retrieved_at": "2026-11-08T16:26:42.511406+00:00",
+      "page": null,
+      "extraction_method": "html_text",
+      "quality_verified": false,
+      "representation_path": "text/14f12ee07d233cade834b0dd3cf0217b10b6b804cd50cad7805c170188217bb6.txt",
+      "representation_text_sha256": "578bf20ac4256a648bbf831a25026d326e30ea759e1a2f4999621a4878cd4955",
+      "representation_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/22880f4c2443b35dd5c4b53e67708302bc66f9cc/text/14f12ee07d233cade834b0dd3cf0217b10b6b804cd50cad7805c170188217bb6.txt",
+      "original_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/22880f4c2443b35dd5c4b53e67708302bc66f9cc/objects/14/14f12ee07d233cade834b0dd3cf0217b10b6b804cd50cad7805c170188217bb6",
+      "evidence": [
+        {
+          "term": "minutes",
+          "match_start": 442,
+          "match_end": 449,
+          "passage_start": 292,
+          "passage_end": 699,
+          "text": "nish\nSelect this as your preferred language\nOpen\nSearch\nMenu\nYour Government\nMayor Patrick Collins\nCheyenne Mayors\nCity Council\nCommittee Information\nMinutes and Agendas\nBoards / Commissions\nDepartments\nCity Attorney\nCity Clerk\nCity Engineer\nCommunity Recreation & Events\nCheyenne Fire Rescue\nHuman Resources\nPlanning and Development\nPublic Works\nCity Treasurer\nCompliance Department\nMayor's Office\nPolice D"
+        },
+        {
+          "term": "public hearing",
+          "match_start": 4377,
+          "match_end": 4391,
+          "passage_start": 4227,
+          "passage_end": 4641,
+          "text": "y in June, and no later than the third Tuesday in June of each year.\nThe Governing Body must adopt the annual operating budget within 24 hours of the public hearing.\nCopies of the City's Approved Budget and Narrative Budget Report documents can be found\nhere\n.\nFinancial Reporting Responsibilities\nIn addition to budget preparation, the Finance Division also oversees the administration and distribution of the Dep"
+        }
+      ]
+    },
+    {
+      "classification": "unreviewed_topical_match_not_a_finding",
+      "source_sha256": "16c83e36405a523e52eeae7cd83a7674a5bc78174fc6f4e32feff9c1e5ed0f3e",
+      "source_url": "https://www.cheyennecity.org/Explore-Cheyenne",
+      "source_retrieved_at": "2026-11-08T16:27:10.598664+00:00",
+      "page": null,
+      "extraction_method": "html_text",
+      "quality_verified": false,
+      "representation_path": "text/16c83e36405a523e52eeae7cd83a7674a5bc78174fc6f4e32feff9c1e5ed0f3e.txt",
+      "representation_text_sha256": "91a7e91e73a3fb7b1efd5364d80dcb3a36120339e054ede9569eaee862a32170",
+      "representation_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/22880f4c2443b35dd5c4b53e67708302bc66f9cc/text/16c83e36405a523e52eeae7cd83a7674a5bc78174fc6f4e32feff9c1e5ed0f3e.txt",
+      "original_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/22880f4c2443b35dd5c4b53e67708302bc66f9cc/objects/16/16c83e36405a523e52eeae7cd83a7674a5bc78174fc6f4e32feff9c1e5ed0f3e",
+      "evidence": [
+        {
+          "term": "minutes",
+          "match_start": 435,
+          "match_end": 442,
+          "passage_start": 285,
+          "passage_end": 692,
+          "text": "nish\nSelect this as your preferred language\nOpen\nSearch\nMenu\nYour Government\nMayor Patrick Collins\nCheyenne Mayors\nCity Council\nCommittee Information\nMinutes and Agendas\nBoards / Commissions\nDepartments\nCity Attorney\nCity Clerk\nCity Engineer\nCommunity Recreation & Events\nCheyenne Fire Rescue\nHuman Resources\nPlanning and Development\nPublic Works\nCity Treasurer\nCompliance Department\nMayor's Office\nPolice D"
+        }
+      ]
+    },
+    {
+      "classification": "unreviewed_topical_match_not_a_finding",
+      "source_sha256": "1e98c954f0ca7e1efb2ee7c8d429b1c87e0d03c54e51efe4ccb0642749df94ee",
+      "source_url": "https://www.cheyennecity.org/Your-Government/Mayor",
+      "source_retrieved_at": "2026-11-08T16:26:14.409876+00:00",
+      "page": null,
+      "extraction_method": "html_text",
+      "quality_verified": false,
+      "representation_path": "text/1e98c954f0ca7e1efb2ee7c8d429b1c87e0d03c54e51efe4ccb0642749df94ee.txt",
+      "representation_text_sha256": "96ec9a002a5be9a14225f4027dfd253e6cc0bd2ca04c17e7ad12449c48d30226",
+      "representation_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/22880f4c2443b35dd5c4b53e67708302bc66f9cc/text/1e98c954f0ca7e1efb2ee7c8d429b1c87e0d03c54e51efe4ccb0642749df94ee.txt",
+      "original_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/22880f4c2443b35dd5c4b53e67708302bc66f9cc/objects/1e/1e98c954f0ca7e1efb2ee7c8d429b1c87e0d03c54e51efe4ccb0642749df94ee",
+      "evidence": [
+        {
+          "term": "minutes",
+          "match_start": 449,
+          "match_end": 456,
+          "passage_start": 299,
+          "passage_end": 706,
+          "text": "nish\nSelect this as your preferred language\nOpen\nSearch\nMenu\nYour Government\nMayor Patrick Collins\nCheyenne Mayors\nCity Council\nCommittee Information\nMinutes and Agendas\nBoards / Commissions\nDepartments\nCity Attorney\nCity Clerk\nCity Engineer\nCommunity Recreation & Events\nCheyenne Fire Rescue\nHuman Resources\nPlanning and Development\nPublic Works\nCity Treasurer\nCompliance Department\nMayor's Office\nPolice D"
+        }
+      ]
+    },
+    {
+      "classification": "unreviewed_topical_match_not_a_finding",
+      "source_sha256": "34c2c94e914d583858e803f379f87beab4375394bf97e2b05857f84e410e1400",
+      "source_url": "https://www.cheyennecity.org/Your-Government/City-Council",
+      "source_retrieved_at": "2026-11-08T16:26:18.367802+00:00",
+      "page": null,
+      "extraction_method": "html_text",
+      "quality_verified": false,
+      "representation_path": "text/34c2c94e914d583858e803f379f87beab4375394bf97e2b05857f84e410e1400.txt",
+      "representation_text_sha256": "593b04e322a8aeefb1b6462f9d9a667198e5c8192cac03d54f2129b698be3c63",
+      "representation_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/22880f4c2443b35dd5c4b53e67708302bc66f9cc/text/34c2c94e914d583858e803f379f87beab4375394bf97e2b05857f84e410e1400.txt",
+      "original_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/22880f4c2443b35dd5c4b53e67708302bc66f9cc/objects/34/34c2c94e914d583858e803f379f87beab4375394bf97e2b05857f84e410e1400",
+      "evidence": [
+        {
+          "term": "minutes",
+          "match_start": 440,
+          "match_end": 447,
+          "passage_start": 290,
+          "passage_end": 697,
+          "text": "nish\nSelect this as your preferred language\nOpen\nSearch\nMenu\nYour Government\nMayor Patrick Collins\nCheyenne Mayors\nCity Council\nCommittee Information\nMinutes and Agendas\nBoards / Commissions\nDepartments\nCity Attorney\nCity Clerk\nCity Engineer\nCommunity Recreation & Events\nCheyenne Fire Rescue\nHuman Resources\nPlanning and Development\nPublic Works\nCity Treasurer\nCompliance Department\nMayor's Office\nPolice D"
+        },
+        {
+          "term": "minutes",
+          "match_start": 2027,
+          "match_end": 2034,
+          "passage_start": 1877,
+          "passage_end": 2284,
+          "text": "ity business\nCity Council Meetings\nCommittee\nCity Wards Map\nCity Council Members\nFormer City Council Members\nCity Council Meeting Videos\nCity Council Minutes and Agendas\n2024 Council Priorities\n2024 City Council Priorities\nPumphouse\nCouncil Champion: Laybourn\nSpecific Goals:\n- Secure and prevent further deterioration\n- Begin process of finding tenant\nMeasures of Success:\n- Pumphouse mothballed\n- Tenant n"
+        },
+        {
+          "term": "resolution",
+          "match_start": 4124,
+          "match_end": 4134,
+          "passage_start": 3974,
+          "passage_end": 4384,
+          "text": "ations in the community. Components of this goal include:\nAddressing if current City ordinances can be updated to better address issues,\nSubmitting a resolution of support to the Wyoming Association of Municipalities requesting the Legislature to allow cities and towns to reduce urban speed limits,\nHolding public engagement opportunities to allow residents to provide feedback on traffic and nuisance violati"
+        }
+      ]
+    },
+    {
+      "classification": "unreviewed_topical_match_not_a_finding",
+      "source_sha256": "3acba0fc1d0e72a92bfd8410e0ce66716b4ac9fc5981848b580bdd151c887604",
+      "source_url": "https://www.cheyennecity.org/Your-Government/Departments",
+      "source_retrieved_at": "2026-11-08T16:26:24.790667+00:00",
+      "page": null,
+      "extraction_method": "html_text",
+      "quality_verified": false,
+      "representation_path": "text/3acba0fc1d0e72a92bfd8410e0ce66716b4ac9fc5981848b580bdd151c887604.txt",
+      "representation_text_sha256": "23296aa048c30389c8f5f9e37dbd808b2c77631869bf9f7229285a32ad460ce3",
+      "representation_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/22880f4c2443b35dd5c4b53e67708302bc66f9cc/text/3acba0fc1d0e72a92bfd8410e0ce66716b4ac9fc5981848b580bdd151c887604.txt",
+      "original_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/22880f4c2443b35dd5c4b53e67708302bc66f9cc/objects/3a/3acba0fc1d0e72a92bfd8410e0ce66716b4ac9fc5981848b580bdd151c887604",
+      "evidence": [
+        {
+          "term": "minutes",
+          "match_start": 439,
+          "match_end": 446,
+          "passage_start": 289,
+          "passage_end": 696,
+          "text": "nish\nSelect this as your preferred language\nOpen\nSearch\nMenu\nYour Government\nMayor Patrick Collins\nCheyenne Mayors\nCity Council\nCommittee Information\nMinutes and Agendas\nBoards / Commissions\nDepartments\nCity Attorney\nCity Clerk\nCity Engineer\nCommunity Recreation & Events\nCheyenne Fire Rescue\nHuman Resources\nPlanning and Development\nPublic Works\nCity Treasurer\nCompliance Department\nMayor's Office\nPolice D"
+        }
+      ]
+    },
+    {
+      "classification": "unreviewed_topical_match_not_a_finding",
+      "source_sha256": "3dd70667ea5d722bea19d76073b4ffffcc05a651e4b1b3a1dd22befe7d173cfa",
+      "source_url": "https://www.cheyennecity.org/Your-Government/City-Council/Minutes-and-Agendas",
+      "source_retrieved_at": "2026-11-08T16:25:55.689212+00:00",
+      "page": null,
+      "extraction_method": "html_text",
+      "quality_verified": false,
+      "representation_path": "text/3dd70667ea5d722bea19d76073b4ffffcc05a651e4b1b3a1dd22befe7d173cfa.txt",
+      "representation_text_sha256": "2fed3f87d5b1cff9bd36ee7e36045d50bb8a3f93d6cd95eb2072dbc6150983b8",
+      "representation_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/22880f4c2443b35dd5c4b53e67708302bc66f9cc/text/3dd70667ea5d722bea19d76073b4ffffcc05a651e4b1b3a1dd22befe7d173cfa.txt",
+      "original_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/22880f4c2443b35dd5c4b53e67708302bc66f9cc/objects/3d/3dd70667ea5d722bea19d76073b4ffffcc05a651e4b1b3a1dd22befe7d173cfa",
+      "evidence": [
+        {
+          "term": "minutes",
+          "match_start": 0,
+          "match_end": 7,
+          "passage_start": 0,
+          "passage_end": 257,
+          "text": "Minutes and Agendas – City of Cheyenne\nSkip to main content\nopens in new tab or window\nEnglish (United States)\nSelect this as your preferred language\nSpanish\nSelect this as your preferred language\nSelect a language to translate to\nEnglish (United States)\nSe"
+        },
+        {
+          "term": "minutes",
+          "match_start": 447,
+          "match_end": 454,
+          "passage_start": 297,
+          "passage_end": 704,
+          "text": "nish\nSelect this as your preferred language\nOpen\nSearch\nMenu\nYour Government\nMayor Patrick Collins\nCheyenne Mayors\nCity Council\nCommittee Information\nMinutes and Agendas\nBoards / Commissions\nDepartments\nCity Attorney\nCity Clerk\nCity Engineer\nCommunity Recreation & Events\nCheyenne Fire Rescue\nHuman Resources\nPlanning and Development\nPublic Works\nCity Treasurer\nCompliance Department\nMayor's Office\nPolice D"
+        },
+        {
+          "term": "minutes",
+          "match_start": 960,
+          "match_end": 967,
+          "passage_start": 810,
+          "passage_end": 1217,
+          "text": "es\nConnect Cheyenne: Engage, Explore, and Discover\nBusiness\nServices\nBuilding Safety\nExplore\nI Want To\nSearch\nHome\n/\nYour Government\n/\nCity Council\n/\nMinutes and Agendas\nListen\nMinutes and Agendas\nThis page contains meeting information for City Council, Finance Committee, Public Services Committee, Committee of the Whole, and Work Sessions. Archived meetings can be found at the following links:\nCity Coun"
+        }
+      ]
+    },
+    {
+      "classification": "unreviewed_topical_match_not_a_finding",
+      "source_sha256": "43abc7d99e187821ac8a7830038aa10d697c2b1678496cc845aa2500f7f003e6",
+      "source_url": "https://www.cheyennecity.org/Business",
+      "source_retrieved_at": "2026-11-08T16:27:04.596753+00:00",
+      "page": null,
+      "extraction_method": "html_text",
+      "quality_verified": false,
+      "representation_path": "text/43abc7d99e187821ac8a7830038aa10d697c2b1678496cc845aa2500f7f003e6.txt",
+      "representation_text_sha256": "aa7c138eba8015f74f85ecd68d806939599e07236baa8f63a3127c02462caaed",
+      "representation_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/22880f4c2443b35dd5c4b53e67708302bc66f9cc/text/43abc7d99e187821ac8a7830038aa10d697c2b1678496cc845aa2500f7f003e6.txt",
+      "original_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/22880f4c2443b35dd5c4b53e67708302bc66f9cc/objects/43/43abc7d99e187821ac8a7830038aa10d697c2b1678496cc845aa2500f7f003e6",
+      "evidence": [
+        {
+          "term": "minutes",
+          "match_start": 436,
+          "match_end": 443,
+          "passage_start": 286,
+          "passage_end": 693,
+          "text": "nish\nSelect this as your preferred language\nOpen\nSearch\nMenu\nYour Government\nMayor Patrick Collins\nCheyenne Mayors\nCity Council\nCommittee Information\nMinutes and Agendas\nBoards / Commissions\nDepartments\nCity Attorney\nCity Clerk\nCity Engineer\nCommunity Recreation & Events\nCheyenne Fire Rescue\nHuman Resources\nPlanning and Development\nPublic Works\nCity Treasurer\nCompliance Department\nMayor's Office\nPolice D"
+        }
+      ]
+    },
+    {
+      "classification": "unreviewed_topical_match_not_a_finding",
+      "source_sha256": "4e0874d29fff6caaa473f2c479af44ab6ccdfcc989e19d7d09849ce2349f0ec6",
+      "source_url": "https://www.cheyennecity.org/Your-Government/City-Council/City-Council-Meeting-Videos",
+      "source_retrieved_at": "2026-11-08T16:27:14.676020+00:00",
+      "page": null,
+      "extraction_method": "html_text",
+      "quality_verified": false,
+      "representation_path": "text/4e0874d29fff6caaa473f2c479af44ab6ccdfcc989e19d7d09849ce2349f0ec6.txt",
+      "representation_text_sha256": "62365ad94193c91ece479a6221ff962bbb206641523dddf5605a3ca53a6150ed",
+      "representation_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/22880f4c2443b35dd5c4b53e67708302bc66f9cc/text/4e0874d29fff6caaa473f2c479af44ab6ccdfcc989e19d7d09849ce2349f0ec6.txt",
+      "original_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/22880f4c2443b35dd5c4b53e67708302bc66f9cc/objects/4e/4e0874d29fff6caaa473f2c479af44ab6ccdfcc989e19d7d09849ce2349f0ec6",
+      "evidence": [
+        {
+          "term": "minutes",
+          "match_start": 455,
+          "match_end": 462,
+          "passage_start": 305,
+          "passage_end": 712,
+          "text": "nish\nSelect this as your preferred language\nOpen\nSearch\nMenu\nYour Government\nMayor Patrick Collins\nCheyenne Mayors\nCity Council\nCommittee Information\nMinutes and Agendas\nBoards / Commissions\nDepartments\nCity Attorney\nCity Clerk\nCity Engineer\nCommunity Recreation & Events\nCheyenne Fire Rescue\nHuman Resources\nPlanning and Development\nPublic Works\nCity Treasurer\nCompliance Department\nMayor's Office\nPolice D"
+        }
+      ]
+    },
+    {
+      "classification": "unreviewed_topical_match_not_a_finding",
+      "source_sha256": "5c373ef72f5d39635a34912ae2481e359c3129fd0f27ee89624c4f50c9049e6b",
+      "source_url": "https://www.cheyennecity.org/Your-Government/Departments/City-Treasurer/City-Treasurer-Resources-Documents-Forms",
+      "source_retrieved_at": "2026-11-08T16:25:56.442521+00:00",
+      "page": null,
+      "extraction_method": "html_text",
+      "quality_verified": false,
+      "representation_path": "text/5c373ef72f5d39635a34912ae2481e359c3129fd0f27ee89624c4f50c9049e6b.txt",
+      "representation_text_sha256": "e2dfd0a14d65e5b33e6448a08791beb0025b16ee929b55d08e03e612deb114e3",
+      "representation_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/22880f4c2443b35dd5c4b53e67708302bc66f9cc/text/5c373ef72f5d39635a34912ae2481e359c3129fd0f27ee89624c4f50c9049e6b.txt",
+      "original_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/22880f4c2443b35dd5c4b53e67708302bc66f9cc/objects/5c/5c373ef72f5d39635a34912ae2481e359c3129fd0f27ee89624c4f50c9049e6b",
+      "evidence": [
+        {
+          "term": "minutes",
+          "match_start": 472,
+          "match_end": 479,
+          "passage_start": 322,
+          "passage_end": 729,
+          "text": "nish\nSelect this as your preferred language\nOpen\nSearch\nMenu\nYour Government\nMayor Patrick Collins\nCheyenne Mayors\nCity Council\nCommittee Information\nMinutes and Agendas\nBoards / Commissions\nDepartments\nCity Attorney\nCity Clerk\nCity Engineer\nCommunity Recreation & Events\nCheyenne Fire Rescue\nHuman Resources\nPlanning and Development\nPublic Works\nCity Treasurer\nCompliance Department\nMayor's Office\nPolice D"
+        },
+        {
+          "term": "minutes",
+          "match_start": 1330,
+          "match_end": 1337,
+          "passage_start": 1180,
+          "passage_end": 1587,
+          "text": "r Fiscal Years 2011-2026 are available below. For archived documents please click\nhere\n. Note: Some files are larger than others and may take several minutes to download:\nFY2027-Adopted Budget.pdf\n(PDF, 46MB)\nFY2026-Adopted-Budget.pdf\n(PDF, 68MB)\nFY2025-Adopted-Budget.pdf\n(PDF, 13MB)\nFY2024-Adopted-Budget.pdf\n(PDF, 7MB)\nFY2023-Adopted-Budget.pdf\n(PDF, 15MB)\nFY2022-Adopted-Budget.pdf\n(PDF, 8MB)\nFY2021-Ado"
+        },
+        {
+          "term": "resolution",
+          "match_start": 3137,
+          "match_end": 3147,
+          "passage_start": 2987,
+          "passage_end": 3397,
+          "text": "services provided by the City of Cheyenne:\nSchedule-of-Fees.pdf\n(PDF, 139KB)\nNarrative Budget Reports\nPrepared in accordance with the requirements of Resolution No. 5533 and provided to the Governing Body, copies of the City's Narrative Budget Reports are available below for Fiscal Years 2022-2027. For archived reports please click\nhere\n.\nFY2027-Narrative-Budget-Report.pdf\n(PDF, 18MB)\nFY2026-Narrative-Budge"
+        }
+      ]
+    },
+    {
+      "classification": "unreviewed_topical_match_not_a_finding",
+      "source_sha256": "6348fedf6bfbb393e135b824e53e964355719135cc6cf7a1bce5697c997cf499",
+      "source_url": "https://www.cheyennecity.org/Your-Government/Departments/Cheyenne-Fire-Rescue",
+      "source_retrieved_at": "2026-11-08T16:26:34.434110+00:00",
+      "page": null,
+      "extraction_method": "html_text",
+      "quality_verified": false,
+      "representation_path": "text/6348fedf6bfbb393e135b824e53e964355719135cc6cf7a1bce5697c997cf499.txt",
+      "representation_text_sha256": "e77fec0c037dd723ce32936c626be8daac6817334a69ff2292cc097fcd0c06bc",
+      "representation_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/22880f4c2443b35dd5c4b53e67708302bc66f9cc/text/6348fedf6bfbb393e135b824e53e964355719135cc6cf7a1bce5697c997cf499.txt",
+      "original_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/22880f4c2443b35dd5c4b53e67708302bc66f9cc/objects/63/6348fedf6bfbb393e135b824e53e964355719135cc6cf7a1bce5697c997cf499",
+      "evidence": [
+        {
+          "term": "minutes",
+          "match_start": 448,
+          "match_end": 455,
+          "passage_start": 298,
+          "passage_end": 705,
+          "text": "nish\nSelect this as your preferred language\nOpen\nSearch\nMenu\nYour Government\nMayor Patrick Collins\nCheyenne Mayors\nCity Council\nCommittee Information\nMinutes and Agendas\nBoards / Commissions\nDepartments\nCity Attorney\nCity Clerk\nCity Engineer\nCommunity Recreation & Events\nCheyenne Fire Rescue\nHuman Resources\nPlanning and Development\nPublic Works\nCity Treasurer\nCompliance Department\nMayor's Office\nPolice D"
+        }
+      ]
+    },
+    {
+      "classification": "unreviewed_topical_match_not_a_finding",
+      "source_sha256": "715d77ab0bc98dbf81f9aefa1c181bcc521f3780698be631b33c396dbd410c53",
+      "source_url": "https://www.cheyennecity.org/I-Want-To",
+      "source_retrieved_at": "2026-11-08T16:27:12.634203+00:00",
+      "page": null,
+      "extraction_method": "html_text",
+      "quality_verified": false,
+      "representation_path": "text/715d77ab0bc98dbf81f9aefa1c181bcc521f3780698be631b33c396dbd410c53.txt",
+      "representation_text_sha256": "2ab2cd26f1a219f7c41cb15713f89065b800044b1fb6637ca97f8cc9050699a5",
+      "representation_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/22880f4c2443b35dd5c4b53e67708302bc66f9cc/text/715d77ab0bc98dbf81f9aefa1c181bcc521f3780698be631b33c396dbd410c53.txt",
+      "original_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/22880f4c2443b35dd5c4b53e67708302bc66f9cc/objects/71/715d77ab0bc98dbf81f9aefa1c181bcc521f3780698be631b33c396dbd410c53",
+      "evidence": [
+        {
+          "term": "minutes",
+          "match_start": 437,
+          "match_end": 444,
+          "passage_start": 287,
+          "passage_end": 694,
+          "text": "nish\nSelect this as your preferred language\nOpen\nSearch\nMenu\nYour Government\nMayor Patrick Collins\nCheyenne Mayors\nCity Council\nCommittee Information\nMinutes and Agendas\nBoards / Commissions\nDepartments\nCity Attorney\nCity Clerk\nCity Engineer\nCommunity Recreation & Events\nCheyenne Fire Rescue\nHuman Resources\nPlanning and Development\nPublic Works\nCity Treasurer\nCompliance Department\nMayor's Office\nPolice D"
+        },
+        {
+          "term": "minutes",
+          "match_start": 2013,
+          "match_end": 2020,
+          "passage_start": 1863,
+          "passage_end": 2270,
+          "text": "ry of State\nWyoming Department of Revenue\nWyoming Department of Workforce Services\nCity Treasurer Resources, Documents, & Forms\nView\nCouncil Agendas, Minutes\nBids and Proposals\nCity Code/UDC\nCity Treasurer Resources, Documents, & Forms\nBy Phrase or Keyword\nNo results found. Please try searching again.\nShare\nFacebook\nX\nEmail\nPrint\nBack to top\nSite Footer\nSite Footer\nContact\nCity of Cheyenne\n2101 O'Neil Av"
+        }
+      ]
+    },
+    {
+      "classification": "unreviewed_topical_match_not_a_finding",
+      "source_sha256": "77b33b250c26aa5b4c39100d72dc332a81fc1c0af261b50b98f49a7251582aaf",
+      "source_url": "https://www.cheyennecity.org/Home/Tabs/Featured-Links/Coronavirus-COVID-19",
+      "source_retrieved_at": "2026-11-08T17:24:28.353506+00:00",
+      "page": null,
+      "extraction_method": "html_text",
+      "quality_verified": false,
+      "representation_path": "text/77b33b250c26aa5b4c39100d72dc332a81fc1c0af261b50b98f49a7251582aaf.txt",
+      "representation_text_sha256": "b6345c9a22eb8016f2ce5fa0d3c32e691ce51d00cbbfbed12eed62c42967b98b",
+      "representation_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/22880f4c2443b35dd5c4b53e67708302bc66f9cc/text/77b33b250c26aa5b4c39100d72dc332a81fc1c0af261b50b98f49a7251582aaf.txt",
+      "original_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/22880f4c2443b35dd5c4b53e67708302bc66f9cc/objects/77/77b33b250c26aa5b4c39100d72dc332a81fc1c0af261b50b98f49a7251582aaf",
+      "evidence": [
+        {
+          "term": "minutes",
+          "match_start": 450,
+          "match_end": 457,
+          "passage_start": 300,
+          "passage_end": 707,
+          "text": "nish\nSelect this as your preferred language\nOpen\nSearch\nMenu\nYour Government\nMayor Patrick Collins\nCheyenne Mayors\nCity Council\nCommittee Information\nMinutes and Agendas\nBoards / Commissions\nDepartments\nCity Attorney\nCity Clerk\nCity Engineer\nCommunity Recreation & Events\nCheyenne Fire Rescue\nHuman Resources\nPlanning and Development\nPublic Works\nCity Treasurer\nCompliance Department\nMayor's Office\nPolice D"
+        }
+      ]
+    },
+    {
+      "classification": "unreviewed_topical_match_not_a_finding",
+      "source_sha256": "85821b0bf46b99b4216d0ca8c05fac9f147fd62070eae02d32693472cb0b6850",
+      "source_url": "https://www.cheyennecity.org/Your-Government/Departments/City-Engineer",
+      "source_retrieved_at": "2026-11-08T16:26:30.536000+00:00",
+      "page": null,
+      "extraction_method": "html_text",
+      "quality_verified": false,
+      "representation_path": "text/85821b0bf46b99b4216d0ca8c05fac9f147fd62070eae02d32693472cb0b6850.txt",
+      "representation_text_sha256": "1b14fe411c56ec8ab836833ed331744ecbdd359d31329a62f6cde9c6c0f9b8a3",
+      "representation_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/22880f4c2443b35dd5c4b53e67708302bc66f9cc/text/85821b0bf46b99b4216d0ca8c05fac9f147fd62070eae02d32693472cb0b6850.txt",
+      "original_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/22880f4c2443b35dd5c4b53e67708302bc66f9cc/objects/85/85821b0bf46b99b4216d0ca8c05fac9f147fd62070eae02d32693472cb0b6850",
+      "evidence": [
+        {
+          "term": "minutes",
+          "match_start": 441,
+          "match_end": 448,
+          "passage_start": 291,
+          "passage_end": 698,
+          "text": "nish\nSelect this as your preferred language\nOpen\nSearch\nMenu\nYour Government\nMayor Patrick Collins\nCheyenne Mayors\nCity Council\nCommittee Information\nMinutes and Agendas\nBoards / Commissions\nDepartments\nCity Attorney\nCity Clerk\nCity Engineer\nCommunity Recreation & Events\nCheyenne Fire Rescue\nHuman Resources\nPlanning and Development\nPublic Works\nCity Treasurer\nCompliance Department\nMayor's Office\nPolice D"
+        }
+      ]
+    },
+    {
+      "classification": "unreviewed_topical_match_not_a_finding",
+      "source_sha256": "8d47a8d983ef94d3b3b44522f27edb841c5e7b8a679ac73763770b99c9349526",
+      "source_url": "https://www.cheyennecity.org/Your-Government/Departments/Community-Recreation-Events",
+      "source_retrieved_at": "2026-11-08T16:26:32.459005+00:00",
+      "page": null,
+      "extraction_method": "html_text",
+      "quality_verified": false,
+      "representation_path": "text/8d47a8d983ef94d3b3b44522f27edb841c5e7b8a679ac73763770b99c9349526.txt",
+      "representation_text_sha256": "0879bb3be9c069bfea80b1b6751172a4c7dc42e35459cc8a99348baaf2719864",
+      "representation_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/22880f4c2443b35dd5c4b53e67708302bc66f9cc/text/8d47a8d983ef94d3b3b44522f27edb841c5e7b8a679ac73763770b99c9349526.txt",
+      "original_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/22880f4c2443b35dd5c4b53e67708302bc66f9cc/objects/8d/8d47a8d983ef94d3b3b44522f27edb841c5e7b8a679ac73763770b99c9349526",
+      "evidence": [
+        {
+          "term": "minutes",
+          "match_start": 457,
+          "match_end": 464,
+          "passage_start": 307,
+          "passage_end": 714,
+          "text": "nish\nSelect this as your preferred language\nOpen\nSearch\nMenu\nYour Government\nMayor Patrick Collins\nCheyenne Mayors\nCity Council\nCommittee Information\nMinutes and Agendas\nBoards / Commissions\nDepartments\nCity Attorney\nCity Clerk\nCity Engineer\nCommunity Recreation & Events\nCheyenne Fire Rescue\nHuman Resources\nPlanning and Development\nPublic Works\nCity Treasurer\nCompliance Department\nMayor's Office\nPolice D"
+        }
+      ]
+    },
+    {
+      "classification": "unreviewed_topical_match_not_a_finding",
+      "source_sha256": "93fe531021c2a0d9b2fcfab4bc8b49db51a23b3f79ff63468dff8387b8601afa",
+      "source_url": "https://www.cheyennecity.org/Your-Government/Departments/Compliance-Department",
+      "source_retrieved_at": "2026-11-08T16:26:44.432654+00:00",
+      "page": null,
+      "extraction_method": "html_text",
+      "quality_verified": false,
+      "representation_path": "text/93fe531021c2a0d9b2fcfab4bc8b49db51a23b3f79ff63468dff8387b8601afa.txt",
+      "representation_text_sha256": "ebb8d3d39dd32b567db1438b77fdc02d51f7701fa20a603f844bff158b7ace29",
+      "representation_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/22880f4c2443b35dd5c4b53e67708302bc66f9cc/text/93fe531021c2a0d9b2fcfab4bc8b49db51a23b3f79ff63468dff8387b8601afa.txt",
+      "original_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/22880f4c2443b35dd5c4b53e67708302bc66f9cc/objects/93/93fe531021c2a0d9b2fcfab4bc8b49db51a23b3f79ff63468dff8387b8601afa",
+      "evidence": [
+        {
+          "term": "minutes",
+          "match_start": 449,
+          "match_end": 456,
+          "passage_start": 299,
+          "passage_end": 706,
+          "text": "nish\nSelect this as your preferred language\nOpen\nSearch\nMenu\nYour Government\nMayor Patrick Collins\nCheyenne Mayors\nCity Council\nCommittee Information\nMinutes and Agendas\nBoards / Commissions\nDepartments\nCity Attorney\nCity Clerk\nCity Engineer\nCommunity Recreation & Events\nCheyenne Fire Rescue\nHuman Resources\nPlanning and Development\nPublic Works\nCity Treasurer\nCompliance Department\nMayor's Office\nPolice D"
+        }
+      ]
+    },
+    {
+      "classification": "unreviewed_topical_match_not_a_finding",
+      "source_sha256": "9c73e7a20020ff1b57092cd649d179e5587f90f2fcda3238ff876d58251c1b16",
+      "source_url": "https://www.cheyennecity.org/Your-Government/Departments/City-Treasurer/City-Treasurer-Resources-Documents-Forms-Archives",
+      "source_retrieved_at": "2026-11-08T17:24:34.506750+00:00",
+      "page": null,
+      "extraction_method": "html_text",
+      "quality_verified": false,
+      "representation_path": "text/9c73e7a20020ff1b57092cd649d179e5587f90f2fcda3238ff876d58251c1b16.txt",
+      "representation_text_sha256": "003c6f0ef8e5e56d096e7ea495e4ae5413ae5ae5f8b235282dea59d5f449bea2",
+      "representation_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/22880f4c2443b35dd5c4b53e67708302bc66f9cc/text/9c73e7a20020ff1b57092cd649d179e5587f90f2fcda3238ff876d58251c1b16.txt",
+      "original_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/22880f4c2443b35dd5c4b53e67708302bc66f9cc/objects/9c/9c73e7a20020ff1b57092cd649d179e5587f90f2fcda3238ff876d58251c1b16",
+      "evidence": [
+        {
+          "term": "minutes",
+          "match_start": 480,
+          "match_end": 487,
+          "passage_start": 330,
+          "passage_end": 737,
+          "text": "nish\nSelect this as your preferred language\nOpen\nSearch\nMenu\nYour Government\nMayor Patrick Collins\nCheyenne Mayors\nCity Council\nCommittee Information\nMinutes and Agendas\nBoards / Commissions\nDepartments\nCity Attorney\nCity Clerk\nCity Engineer\nCommunity Recreation & Events\nCheyenne Fire Rescue\nHuman Resources\nPlanning and Development\nPublic Works\nCity Treasurer\nCompliance Department\nMayor's Office\nPolice D"
+        }
+      ]
+    },
+    {
+      "classification": "unreviewed_topical_match_not_a_finding",
+      "source_sha256": "9d3098d1cd836224a7a0df78cff51050bc5a99957854df4ddac5ecf188912843",
+      "source_url": "https://www.cheyennecity.org/Your-Government/Departments/Public-Works",
+      "source_retrieved_at": "2026-11-08T16:26:40.509179+00:00",
+      "page": null,
+      "extraction_method": "html_text",
+      "quality_verified": false,
+      "representation_path": "text/9d3098d1cd836224a7a0df78cff51050bc5a99957854df4ddac5ecf188912843.txt",
+      "representation_text_sha256": "b89358067e0c9efa2b8f7abb63cafdc4ba47a0c9326077b45af787df8c948523",
+      "representation_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/22880f4c2443b35dd5c4b53e67708302bc66f9cc/text/9d3098d1cd836224a7a0df78cff51050bc5a99957854df4ddac5ecf188912843.txt",
+      "original_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/22880f4c2443b35dd5c4b53e67708302bc66f9cc/objects/9d/9d3098d1cd836224a7a0df78cff51050bc5a99957854df4ddac5ecf188912843",
+      "evidence": [
+        {
+          "term": "minutes",
+          "match_start": 440,
+          "match_end": 447,
+          "passage_start": 290,
+          "passage_end": 697,
+          "text": "nish\nSelect this as your preferred language\nOpen\nSearch\nMenu\nYour Government\nMayor Patrick Collins\nCheyenne Mayors\nCity Council\nCommittee Information\nMinutes and Agendas\nBoards / Commissions\nDepartments\nCity Attorney\nCity Clerk\nCity Engineer\nCommunity Recreation & Events\nCheyenne Fire Rescue\nHuman Resources\nPlanning and Development\nPublic Works\nCity Treasurer\nCompliance Department\nMayor's Office\nPolice D"
+        }
+      ]
+    },
+    {
+      "classification": "unreviewed_topical_match_not_a_finding",
+      "source_sha256": "a052957609cbac5e739fe66801e56b1472f5d5c0de569a33a04f317257c2100e",
+      "source_url": "https://www.cheyennecity.org/Site-Footer/Sub-Footer-Links/Accessibility-Statement",
+      "source_retrieved_at": "2026-11-08T17:24:16.044221+00:00",
+      "page": null,
+      "extraction_method": "html_text",
+      "quality_verified": false,
+      "representation_path": "text/a052957609cbac5e739fe66801e56b1472f5d5c0de569a33a04f317257c2100e.txt",
+      "representation_text_sha256": "7034bbd1b8a66fc3e0ec480fa29cdd5cdcb6c5e3d935799d16f76525a88ddc23",
+      "representation_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/22880f4c2443b35dd5c4b53e67708302bc66f9cc/text/a052957609cbac5e739fe66801e56b1472f5d5c0de569a33a04f317257c2100e.txt",
+      "original_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/22880f4c2443b35dd5c4b53e67708302bc66f9cc/objects/a0/a052957609cbac5e739fe66801e56b1472f5d5c0de569a33a04f317257c2100e",
+      "evidence": [
+        {
+          "term": "minutes",
+          "match_start": 451,
+          "match_end": 458,
+          "passage_start": 301,
+          "passage_end": 708,
+          "text": "nish\nSelect this as your preferred language\nOpen\nSearch\nMenu\nYour Government\nMayor Patrick Collins\nCheyenne Mayors\nCity Council\nCommittee Information\nMinutes and Agendas\nBoards / Commissions\nDepartments\nCity Attorney\nCity Clerk\nCity Engineer\nCommunity Recreation & Events\nCheyenne Fire Rescue\nHuman Resources\nPlanning and Development\nPublic Works\nCity Treasurer\nCompliance Department\nMayor's Office\nPolice D"
+        }
+      ]
+    },
+    {
+      "classification": "unreviewed_topical_match_not_a_finding",
+      "source_sha256": "a1420bd40f7fea284410abf8d2922f682bab168d765d6c9269cb6df84db9f18e",
+      "source_url": "https://www.cheyennecity.org/Your-Government/Departments/Attorney",
+      "source_retrieved_at": "2026-11-08T16:26:26.533520+00:00",
+      "page": null,
+      "extraction_method": "html_text",
+      "quality_verified": false,
+      "representation_path": "text/a1420bd40f7fea284410abf8d2922f682bab168d765d6c9269cb6df84db9f18e.txt",
+      "representation_text_sha256": "0623acaa20c4d36937755b4c90403d0edd0299667657e2015cc83a97d31f2bb2",
+      "representation_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/22880f4c2443b35dd5c4b53e67708302bc66f9cc/text/a1420bd40f7fea284410abf8d2922f682bab168d765d6c9269cb6df84db9f18e.txt",
+      "original_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/22880f4c2443b35dd5c4b53e67708302bc66f9cc/objects/a1/a1420bd40f7fea284410abf8d2922f682bab168d765d6c9269cb6df84db9f18e",
+      "evidence": [
+        {
+          "term": "minutes",
+          "match_start": 441,
+          "match_end": 448,
+          "passage_start": 291,
+          "passage_end": 698,
+          "text": "nish\nSelect this as your preferred language\nOpen\nSearch\nMenu\nYour Government\nMayor Patrick Collins\nCheyenne Mayors\nCity Council\nCommittee Information\nMinutes and Agendas\nBoards / Commissions\nDepartments\nCity Attorney\nCity Clerk\nCity Engineer\nCommunity Recreation & Events\nCheyenne Fire Rescue\nHuman Resources\nPlanning and Development\nPublic Works\nCity Treasurer\nCompliance Department\nMayor's Office\nPolice D"
+        }
+      ]
+    },
+    {
+      "classification": "unreviewed_topical_match_not_a_finding",
+      "source_sha256": "a1507d9fc76d989c2237e4f54facf0d5777c1eb4f5ea98686252e82ba9d8e46d",
+      "source_url": "https://www.cheyennecity.org/Your-Government/Departments/Mayors-Office",
+      "source_retrieved_at": "2026-11-08T16:26:46.513319+00:00",
+      "page": null,
+      "extraction_method": "html_text",
+      "quality_verified": false,
+      "representation_path": "text/a1507d9fc76d989c2237e4f54facf0d5777c1eb4f5ea98686252e82ba9d8e46d.txt",
+      "representation_text_sha256": "2c554f4b4d10329e074118ba11cd90a666ea49b86e89b1c8750886a9acd9e759",
+      "representation_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/22880f4c2443b35dd5c4b53e67708302bc66f9cc/text/a1507d9fc76d989c2237e4f54facf0d5777c1eb4f5ea98686252e82ba9d8e46d.txt",
+      "original_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/22880f4c2443b35dd5c4b53e67708302bc66f9cc/objects/a1/a1507d9fc76d989c2237e4f54facf0d5777c1eb4f5ea98686252e82ba9d8e46d",
+      "evidence": [
+        {
+          "term": "minutes",
+          "match_start": 442,
+          "match_end": 449,
+          "passage_start": 292,
+          "passage_end": 699,
+          "text": "nish\nSelect this as your preferred language\nOpen\nSearch\nMenu\nYour Government\nMayor Patrick Collins\nCheyenne Mayors\nCity Council\nCommittee Information\nMinutes and Agendas\nBoards / Commissions\nDepartments\nCity Attorney\nCity Clerk\nCity Engineer\nCommunity Recreation & Events\nCheyenne Fire Rescue\nHuman Resources\nPlanning and Development\nPublic Works\nCity Treasurer\nCompliance Department\nMayor's Office\nPolice D"
+        }
+      ]
+    },
+    {
+      "classification": "unreviewed_topical_match_not_a_finding",
+      "source_sha256": "a178ef488a0bcb57dc67131d48cebb62c49e9bc83c0508172586a0e7362b003d",
+      "source_url": "https://www.cheyennecity.org/Site-Footer/Sub-Footer-Links/Non-Discrimination-and-Title-VI-Program",
+      "source_retrieved_at": "2026-11-08T17:24:26.025586+00:00",
+      "page": null,
+      "extraction_method": "html_text",
+      "quality_verified": false,
+      "representation_path": "text/a178ef488a0bcb57dc67131d48cebb62c49e9bc83c0508172586a0e7362b003d.txt",
+      "representation_text_sha256": "b792688dcf3fc0d1e5a0115c516e01d6c748368301161d7cb3f034d840f3b32c",
+      "representation_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/22880f4c2443b35dd5c4b53e67708302bc66f9cc/text/a178ef488a0bcb57dc67131d48cebb62c49e9bc83c0508172586a0e7362b003d.txt",
+      "original_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/22880f4c2443b35dd5c4b53e67708302bc66f9cc/objects/a1/a178ef488a0bcb57dc67131d48cebb62c49e9bc83c0508172586a0e7362b003d",
+      "evidence": [
+        {
+          "term": "minutes",
+          "match_start": 467,
+          "match_end": 474,
+          "passage_start": 317,
+          "passage_end": 724,
+          "text": "nish\nSelect this as your preferred language\nOpen\nSearch\nMenu\nYour Government\nMayor Patrick Collins\nCheyenne Mayors\nCity Council\nCommittee Information\nMinutes and Agendas\nBoards / Commissions\nDepartments\nCity Attorney\nCity Clerk\nCity Engineer\nCommunity Recreation & Events\nCheyenne Fire Rescue\nHuman Resources\nPlanning and Development\nPublic Works\nCity Treasurer\nCompliance Department\nMayor's Office\nPolice D"
+        }
+      ]
+    },
+    {
+      "classification": "unreviewed_topical_match_not_a_finding",
+      "source_sha256": "ac4671737629e4f41fc282caa16e72eebb2f7fedffbae6ab959389be903d1455",
+      "source_url": "https://www.cheyennecity.org/Your-Government/Municipal-Court",
+      "source_retrieved_at": "2026-11-08T16:26:56.565168+00:00",
+      "page": null,
+      "extraction_method": "html_text",
+      "quality_verified": false,
+      "representation_path": "text/ac4671737629e4f41fc282caa16e72eebb2f7fedffbae6ab959389be903d1455.txt",
+      "representation_text_sha256": "bb3b0eb7d904d79a7a908a146be59cce62f6ea5375c13fccb7aa5d2d4d2649e0",
+      "representation_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/22880f4c2443b35dd5c4b53e67708302bc66f9cc/text/ac4671737629e4f41fc282caa16e72eebb2f7fedffbae6ab959389be903d1455.txt",
+      "original_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/22880f4c2443b35dd5c4b53e67708302bc66f9cc/objects/ac/ac4671737629e4f41fc282caa16e72eebb2f7fedffbae6ab959389be903d1455",
+      "evidence": [
+        {
+          "term": "minutes",
+          "match_start": 443,
+          "match_end": 450,
+          "passage_start": 293,
+          "passage_end": 700,
+          "text": "nish\nSelect this as your preferred language\nOpen\nSearch\nMenu\nYour Government\nMayor Patrick Collins\nCheyenne Mayors\nCity Council\nCommittee Information\nMinutes and Agendas\nBoards / Commissions\nDepartments\nCity Attorney\nCity Clerk\nCity Engineer\nCommunity Recreation & Events\nCheyenne Fire Rescue\nHuman Resources\nPlanning and Development\nPublic Works\nCity Treasurer\nCompliance Department\nMayor's Office\nPolice D"
+        }
+      ]
+    },
+    {
+      "classification": "unreviewed_topical_match_not_a_finding",
+      "source_sha256": "c63ec6ed4e930ff48364c6d6d94eb13f140511b22fad149147cbdb7f676a73f8",
+      "source_url": "https://www.cheyennecity.org/Your-Government/Connect-Cheyenne-Engage-Explore-and-Discover",
+      "source_retrieved_at": "2026-11-08T16:27:02.711586+00:00",
+      "page": null,
+      "extraction_method": "html_text",
+      "quality_verified": false,
+      "representation_path": "text/c63ec6ed4e930ff48364c6d6d94eb13f140511b22fad149147cbdb7f676a73f8.txt",
+      "representation_text_sha256": "d40e312bc97687f9d47ba6b40135fc31a6e497471ae769ccebc9cd51b2641ef5",
+      "representation_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/22880f4c2443b35dd5c4b53e67708302bc66f9cc/text/c63ec6ed4e930ff48364c6d6d94eb13f140511b22fad149147cbdb7f676a73f8.txt",
+      "original_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/22880f4c2443b35dd5c4b53e67708302bc66f9cc/objects/c6/c63ec6ed4e930ff48364c6d6d94eb13f140511b22fad149147cbdb7f676a73f8",
+      "evidence": [
+        {
+          "term": "minutes",
+          "match_start": 475,
+          "match_end": 482,
+          "passage_start": 325,
+          "passage_end": 732,
+          "text": "nish\nSelect this as your preferred language\nOpen\nSearch\nMenu\nYour Government\nMayor Patrick Collins\nCheyenne Mayors\nCity Council\nCommittee Information\nMinutes and Agendas\nBoards / Commissions\nDepartments\nCity Attorney\nCity Clerk\nCity Engineer\nCommunity Recreation & Events\nCheyenne Fire Rescue\nHuman Resources\nPlanning and Development\nPublic Works\nCity Treasurer\nCompliance Department\nMayor's Office\nPolice D"
+        }
+      ]
+    },
+    {
+      "classification": "unreviewed_topical_match_not_a_finding",
+      "source_sha256": "d00aa211b6d805660489c2cfc29d733347787d24d6cf0845790e3aabbc7f235d",
+      "source_url": "https://www.cheyennecity.org/Services",
+      "source_retrieved_at": "2026-11-08T16:27:06.742156+00:00",
+      "page": null,
+      "extraction_method": "html_text",
+      "quality_verified": false,
+      "representation_path": "text/d00aa211b6d805660489c2cfc29d733347787d24d6cf0845790e3aabbc7f235d.txt",
+      "representation_text_sha256": "70ec60a79881ddc46fefa4b26ba53be4e3b405dded4436a504891f17109267cb",
+      "representation_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/22880f4c2443b35dd5c4b53e67708302bc66f9cc/text/d00aa211b6d805660489c2cfc29d733347787d24d6cf0845790e3aabbc7f235d.txt",
+      "original_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/22880f4c2443b35dd5c4b53e67708302bc66f9cc/objects/d0/d00aa211b6d805660489c2cfc29d733347787d24d6cf0845790e3aabbc7f235d",
+      "evidence": [
+        {
+          "term": "minutes",
+          "match_start": 436,
+          "match_end": 443,
+          "passage_start": 286,
+          "passage_end": 693,
+          "text": "nish\nSelect this as your preferred language\nOpen\nSearch\nMenu\nYour Government\nMayor Patrick Collins\nCheyenne Mayors\nCity Council\nCommittee Information\nMinutes and Agendas\nBoards / Commissions\nDepartments\nCity Attorney\nCity Clerk\nCity Engineer\nCommunity Recreation & Events\nCheyenne Fire Rescue\nHuman Resources\nPlanning and Development\nPublic Works\nCity Treasurer\nCompliance Department\nMayor's Office\nPolice D"
+        }
+      ]
+    },
+    {
+      "classification": "unreviewed_topical_match_not_a_finding",
+      "source_sha256": "d061ff860528d2fc773452243bcf889e5ece5523483f1f823ed3bb0359da8531",
+      "source_url": "https://www.cheyennecity.org/Your-Government/Sister-Cities",
+      "source_retrieved_at": "2026-11-08T16:26:52.757088+00:00",
+      "page": null,
+      "extraction_method": "html_text",
+      "quality_verified": false,
+      "representation_path": "text/d061ff860528d2fc773452243bcf889e5ece5523483f1f823ed3bb0359da8531.txt",
+      "representation_text_sha256": "d26546614d2bef211d6078785e4192a6f1db335eaae2a92c84ae621213116cb3",
+      "representation_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/22880f4c2443b35dd5c4b53e67708302bc66f9cc/text/d061ff860528d2fc773452243bcf889e5ece5523483f1f823ed3bb0359da8531.txt",
+      "original_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/22880f4c2443b35dd5c4b53e67708302bc66f9cc/objects/d0/d061ff860528d2fc773452243bcf889e5ece5523483f1f823ed3bb0359da8531",
+      "evidence": [
+        {
+          "term": "minutes",
+          "match_start": 441,
+          "match_end": 448,
+          "passage_start": 291,
+          "passage_end": 698,
+          "text": "nish\nSelect this as your preferred language\nOpen\nSearch\nMenu\nYour Government\nMayor Patrick Collins\nCheyenne Mayors\nCity Council\nCommittee Information\nMinutes and Agendas\nBoards / Commissions\nDepartments\nCity Attorney\nCity Clerk\nCity Engineer\nCommunity Recreation & Events\nCheyenne Fire Rescue\nHuman Resources\nPlanning and Development\nPublic Works\nCity Treasurer\nCompliance Department\nMayor's Office\nPolice D"
+        },
+        {
+          "term": "resolution",
+          "match_start": 1402,
+          "match_end": 1412,
+          "passage_start": 1252,
+          "passage_end": 1662,
+          "text": "\"Sister City\" to Cheyenne. The phrase \"sister cities\" is used to refer to cities that have similar cultures and/or historical backgrounds. Select the Resolution to view the similarities with our sister cities.\nSister City to Cheyenne\nDate Established\nas Sister City to Cheyenne\nResolution Adopted\nEstablishing Sister City Relationship\nWebsite and\nWikipedia Site\nRepublic of China:\nTaichung, Taiwan\nSept. 28, 19"
+        },
+        {
+          "term": "resolution",
+          "match_start": 1530,
+          "match_end": 1540,
+          "passage_start": 1380,
+          "passage_end": 1790,
+          "text": "ckgrounds. Select the Resolution to view the similarities with our sister cities.\nSister City to Cheyenne\nDate Established\nas Sister City to Cheyenne\nResolution Adopted\nEstablishing Sister City Relationship\nWebsite and\nWikipedia Site\nRepublic of China:\nTaichung, Taiwan\nSept. 28, 1981\nResolution #2598\n(PDF, 61KB)\nCity of Taichung, Taiwan\nWikipedia\nBismarck, North Dakota\nOct. 11, 1988\nResolution #3065\n(PDF, 8"
+        }
+      ]
+    },
+    {
+      "classification": "unreviewed_topical_match_not_a_finding",
+      "source_sha256": "d5fd7d1575e0c08c8ed2d3d4dcfe54374e28df3213afc00b0613bf25067e3e62",
+      "source_url": "https://www.cheyennecity.org/Your-Government/Departments/City-Clerk",
+      "source_retrieved_at": "2026-11-08T16:26:28.408704+00:00",
+      "page": null,
+      "extraction_method": "html_text",
+      "quality_verified": false,
+      "representation_path": "text/d5fd7d1575e0c08c8ed2d3d4dcfe54374e28df3213afc00b0613bf25067e3e62.txt",
+      "representation_text_sha256": "5059c351f2c55db2c80003e1a9daf8447be46cc4fa6ad512c4b810ce45118719",
+      "representation_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/22880f4c2443b35dd5c4b53e67708302bc66f9cc/text/d5fd7d1575e0c08c8ed2d3d4dcfe54374e28df3213afc00b0613bf25067e3e62.txt",
+      "original_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/22880f4c2443b35dd5c4b53e67708302bc66f9cc/objects/d5/d5fd7d1575e0c08c8ed2d3d4dcfe54374e28df3213afc00b0613bf25067e3e62",
+      "evidence": [
+        {
+          "term": "minutes",
+          "match_start": 438,
+          "match_end": 445,
+          "passage_start": 288,
+          "passage_end": 695,
+          "text": "nish\nSelect this as your preferred language\nOpen\nSearch\nMenu\nYour Government\nMayor Patrick Collins\nCheyenne Mayors\nCity Council\nCommittee Information\nMinutes and Agendas\nBoards / Commissions\nDepartments\nCity Attorney\nCity Clerk\nCity Engineer\nCommunity Recreation & Events\nCheyenne Fire Rescue\nHuman Resources\nPlanning and Development\nPublic Works\nCity Treasurer\nCompliance Department\nMayor's Office\nPolice D"
+        },
+        {
+          "term": "minutes",
+          "match_start": 1133,
+          "match_end": 1140,
+          "passage_start": 983,
+          "passage_end": 1390,
+          "text": "cipal Referendum Petition Review\nResponsibilities\nThe City Clerk is entrusted with recording, managing and maintaining numerous City records such as:\nMinutes of official City Council meetings\nOrdinances, resolutions, contracts and agreements\nCity-owned property\nThe\nCity Code\nProvided Services\nThe City Clerk Division serves as the City’s informational center for legislative actions of the governing body a"
+        },
+        {
+          "term": "ordinance",
+          "match_start": 1700,
+          "match_end": 1709,
+          "passage_start": 1550,
+          "passage_end": 1959,
+          "text": "ensing\nLiquor Licensing\nMunicipal Elections\nCity-owned Property\nPublic Records Request\nCity Code/UDC\nBusiness and Liquor Licensing Related Ordinances\nOrdinance #4327 Nicotine Sales\nOrdinance #4475 Open Container Sales and Consumption\n(PDF, 255KB)\nOrdinance #4366 Delivery of Alcohol\nOrdinance #4367 Restaurant and Liquor Licenses\nView Staff Directory\nDepartment Head\nKylie Soden\nCity Clerk\nContact Us\nPhone\n30"
+        }
+      ]
+    },
+    {
+      "classification": "unreviewed_topical_match_not_a_finding",
+      "source_sha256": "d7a11bf934f9d3f289fd4af6827b18f8b266253d6bbe3aee860a10049ddc1ce0",
+      "source_url": "https://www.laramiecountywy.gov/County-Government/Elected-Officials/County-Clerk/Clerk-to-the-Board-of-County-Commissioners",
+      "source_retrieved_at": "2026-11-08T16:26:00.641275+00:00",
+      "page": null,
+      "extraction_method": "html_text",
+      "quality_verified": false,
+      "representation_path": "text/d7a11bf934f9d3f289fd4af6827b18f8b266253d6bbe3aee860a10049ddc1ce0.txt",
+      "representation_text_sha256": "203640c81a9a0eaf846f77dadf2d079e314eaf46af731936f16546e816b349e0",
+      "representation_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/22880f4c2443b35dd5c4b53e67708302bc66f9cc/text/d7a11bf934f9d3f289fd4af6827b18f8b266253d6bbe3aee860a10049ddc1ce0.txt",
+      "original_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/22880f4c2443b35dd5c4b53e67708302bc66f9cc/objects/d7/d7a11bf934f9d3f289fd4af6827b18f8b266253d6bbe3aee860a10049ddc1ce0",
+      "evidence": [
+        {
+          "term": "minutes",
+          "match_start": 3038,
+          "match_end": 3045,
+          "passage_start": 2888,
+          "passage_end": 3295,
+          "text": "thouse, 310 W. 19th Street. Meetings begin at 3:30 p.m.\nAs Clerk to the Board, our office prepares and distributes the meeting agenda and records the minutes of each meeting. The agenda is finalized by noon on the Wednesday preceding the meeting. For information on Board agendas or to request that an item be added to the agenda, please call\n633-4266\nor write\noffice@laramiecountywy.gov\n.\nLaramie County’s "
+        },
+        {
+          "term": "minutes",
+          "match_start": 3306,
+          "match_end": 3313,
+          "passage_start": 3156,
+          "passage_end": 3563,
+          "text": "ard agendas or to request that an item be added to the agenda, please call\n633-4266\nor write\noffice@laramiecountywy.gov\n.\nLaramie County’s Historical Minutes Site, Jan. 1868 through June 1994\nThe Laramie County Clerk’s office announced the April 15, 2022 launch of the county’s Historical Minutes site of Board of County Commissioners records dating from Jan. 1868 through June 1994.\nAccording to County Cle"
+        },
+        {
+          "term": "minutes",
+          "match_start": 3445,
+          "match_end": 3452,
+          "passage_start": 3295,
+          "passage_end": 3702,
+          "text": "Historical Minutes Site, Jan. 1868 through June 1994\nThe Laramie County Clerk’s office announced the April 15, 2022 launch of the county’s Historical Minutes site of Board of County Commissioners records dating from Jan. 1868 through June 1994.\nAccording to County Clerk Debra Lee, the site represents the culmination of 24 months of work that involved borrowing 272 volumes of archival records from State A"
+        }
+      ]
+    },
+    {
+      "classification": "unreviewed_topical_match_not_a_finding",
+      "source_sha256": "dc304bcb9386c40219dbbb65adf6dd322030a9f0944eadafe55e4a670a971d17",
+      "source_url": "https://www.cheyennecity.org/Your-Government/Departments/Planning-and-Development-Department",
+      "source_retrieved_at": "2026-11-08T16:26:38.679556+00:00",
+      "page": null,
+      "extraction_method": "html_text",
+      "quality_verified": false,
+      "representation_path": "text/dc304bcb9386c40219dbbb65adf6dd322030a9f0944eadafe55e4a670a971d17.txt",
+      "representation_text_sha256": "7a9d2599eee9d44aa7afed26b3ba19d4e41d33b04003a69365a8c60a6093313b",
+      "representation_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/22880f4c2443b35dd5c4b53e67708302bc66f9cc/text/dc304bcb9386c40219dbbb65adf6dd322030a9f0944eadafe55e4a670a971d17.txt",
+      "original_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/22880f4c2443b35dd5c4b53e67708302bc66f9cc/objects/dc/dc304bcb9386c40219dbbb65adf6dd322030a9f0944eadafe55e4a670a971d17",
+      "evidence": [
+        {
+          "term": "minutes",
+          "match_start": 452,
+          "match_end": 459,
+          "passage_start": 302,
+          "passage_end": 709,
+          "text": "nish\nSelect this as your preferred language\nOpen\nSearch\nMenu\nYour Government\nMayor Patrick Collins\nCheyenne Mayors\nCity Council\nCommittee Information\nMinutes and Agendas\nBoards / Commissions\nDepartments\nCity Attorney\nCity Clerk\nCity Engineer\nCommunity Recreation & Events\nCheyenne Fire Rescue\nHuman Resources\nPlanning and Development\nPublic Works\nCity Treasurer\nCompliance Department\nMayor's Office\nPolice D"
+        }
+      ]
+    },
+    {
+      "classification": "unreviewed_topical_match_not_a_finding",
+      "source_sha256": "dd535b2d03be1e8fcae4cb39e118422b513be4616f3633a4dc01a102c41e290f",
+      "source_url": "https://www.cheyennecity.org/Site-Footer/Sub-Footer-Links/Privacy-Statement",
+      "source_retrieved_at": "2026-11-08T17:24:18.044491+00:00",
+      "page": null,
+      "extraction_method": "html_text",
+      "quality_verified": false,
+      "representation_path": "text/dd535b2d03be1e8fcae4cb39e118422b513be4616f3633a4dc01a102c41e290f.txt",
+      "representation_text_sha256": "9f944ac405d5037a360554b1b88d4283bc6e5848e2354cd83a5176ef17a8c0aa",
+      "representation_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/22880f4c2443b35dd5c4b53e67708302bc66f9cc/text/dd535b2d03be1e8fcae4cb39e118422b513be4616f3633a4dc01a102c41e290f.txt",
+      "original_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/22880f4c2443b35dd5c4b53e67708302bc66f9cc/objects/dd/dd535b2d03be1e8fcae4cb39e118422b513be4616f3633a4dc01a102c41e290f",
+      "evidence": [
+        {
+          "term": "minutes",
+          "match_start": 445,
+          "match_end": 452,
+          "passage_start": 295,
+          "passage_end": 702,
+          "text": "nish\nSelect this as your preferred language\nOpen\nSearch\nMenu\nYour Government\nMayor Patrick Collins\nCheyenne Mayors\nCity Council\nCommittee Information\nMinutes and Agendas\nBoards / Commissions\nDepartments\nCity Attorney\nCity Clerk\nCity Engineer\nCommunity Recreation & Events\nCheyenne Fire Rescue\nHuman Resources\nPlanning and Development\nPublic Works\nCity Treasurer\nCompliance Department\nMayor's Office\nPolice D"
+        }
+      ]
+    },
+    {
+      "classification": "unreviewed_topical_match_not_a_finding",
+      "source_sha256": "e368e84058c9b0433d788f2619a54d6d13b7dad3f9bc2aa02778e1ca2be27766",
+      "source_url": "https://www.cheyennecity.org/Your-Government/Mayor/Cheyenne-Mayors",
+      "source_retrieved_at": "2026-11-08T16:26:16.582435+00:00",
+      "page": null,
+      "extraction_method": "html_text",
+      "quality_verified": false,
+      "representation_path": "text/e368e84058c9b0433d788f2619a54d6d13b7dad3f9bc2aa02778e1ca2be27766.txt",
+      "representation_text_sha256": "d0d63a340bba9cf4348675c8138ebd26e8daa91f8b22ebdd902642973a5b30b4",
+      "representation_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/22880f4c2443b35dd5c4b53e67708302bc66f9cc/text/e368e84058c9b0433d788f2619a54d6d13b7dad3f9bc2aa02778e1ca2be27766.txt",
+      "original_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/22880f4c2443b35dd5c4b53e67708302bc66f9cc/objects/e3/e368e84058c9b0433d788f2619a54d6d13b7dad3f9bc2aa02778e1ca2be27766",
+      "evidence": [
+        {
+          "term": "minutes",
+          "match_start": 443,
+          "match_end": 450,
+          "passage_start": 293,
+          "passage_end": 700,
+          "text": "nish\nSelect this as your preferred language\nOpen\nSearch\nMenu\nYour Government\nMayor Patrick Collins\nCheyenne Mayors\nCity Council\nCommittee Information\nMinutes and Agendas\nBoards / Commissions\nDepartments\nCity Attorney\nCity Clerk\nCity Engineer\nCommunity Recreation & Events\nCheyenne Fire Rescue\nHuman Resources\nPlanning and Development\nPublic Works\nCity Treasurer\nCompliance Department\nMayor's Office\nPolice D"
+        }
+      ]
+    },
+    {
+      "classification": "unreviewed_topical_match_not_a_finding",
+      "source_sha256": "e4853bc004208b21257fba957fe73b8f5f370e12d1aed87e74118985cc54eb9d",
+      "source_url": "https://www.cheyennecity.org/Site-Footer/Sub-Footer-Links/Terms-of-Use",
+      "source_retrieved_at": "2026-11-08T17:24:22.285912+00:00",
+      "page": null,
+      "extraction_method": "html_text",
+      "quality_verified": false,
+      "representation_path": "text/e4853bc004208b21257fba957fe73b8f5f370e12d1aed87e74118985cc54eb9d.txt",
+      "representation_text_sha256": "65748a6e12cb1b8fc999d9da6ad5cbf1ada22e83ba3d73a3a8cc1e0f38a9e7df",
+      "representation_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/22880f4c2443b35dd5c4b53e67708302bc66f9cc/text/e4853bc004208b21257fba957fe73b8f5f370e12d1aed87e74118985cc54eb9d.txt",
+      "original_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/22880f4c2443b35dd5c4b53e67708302bc66f9cc/objects/e4/e4853bc004208b21257fba957fe73b8f5f370e12d1aed87e74118985cc54eb9d",
+      "evidence": [
+        {
+          "term": "minutes",
+          "match_start": 440,
+          "match_end": 447,
+          "passage_start": 290,
+          "passage_end": 697,
+          "text": "nish\nSelect this as your preferred language\nOpen\nSearch\nMenu\nYour Government\nMayor Patrick Collins\nCheyenne Mayors\nCity Council\nCommittee Information\nMinutes and Agendas\nBoards / Commissions\nDepartments\nCity Attorney\nCity Clerk\nCity Engineer\nCommunity Recreation & Events\nCheyenne Fire Rescue\nHuman Resources\nPlanning and Development\nPublic Works\nCity Treasurer\nCompliance Department\nMayor's Office\nPolice D"
+        }
+      ]
+    },
+    {
+      "classification": "unreviewed_topical_match_not_a_finding",
+      "source_sha256": "e9db115b8aaa89268e8fbc8db77dece5e61cde5a346746c280ef863e3df5dfd0",
+      "source_url": "https://www.cheyennecity.org/Your-Government/Boards-Commissions",
+      "source_retrieved_at": "2026-11-08T16:26:22.538494+00:00",
+      "page": null,
+      "extraction_method": "html_text",
+      "quality_verified": false,
+      "representation_path": "text/e9db115b8aaa89268e8fbc8db77dece5e61cde5a346746c280ef863e3df5dfd0.txt",
+      "representation_text_sha256": "bbce566bab0b1d162b912cf3e1cc00683fabb8532ea53d2e099b11587eaa28df",
+      "representation_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/22880f4c2443b35dd5c4b53e67708302bc66f9cc/text/e9db115b8aaa89268e8fbc8db77dece5e61cde5a346746c280ef863e3df5dfd0.txt",
+      "original_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/22880f4c2443b35dd5c4b53e67708302bc66f9cc/objects/e9/e9db115b8aaa89268e8fbc8db77dece5e61cde5a346746c280ef863e3df5dfd0",
+      "evidence": [
+        {
+          "term": "minutes",
+          "match_start": 448,
+          "match_end": 455,
+          "passage_start": 298,
+          "passage_end": 705,
+          "text": "nish\nSelect this as your preferred language\nOpen\nSearch\nMenu\nYour Government\nMayor Patrick Collins\nCheyenne Mayors\nCity Council\nCommittee Information\nMinutes and Agendas\nBoards / Commissions\nDepartments\nCity Attorney\nCity Clerk\nCity Engineer\nCommunity Recreation & Events\nCheyenne Fire Rescue\nHuman Resources\nPlanning and Development\nPublic Works\nCity Treasurer\nCompliance Department\nMayor's Office\nPolice D"
+        }
+      ]
+    },
+    {
+      "classification": "unreviewed_topical_match_not_a_finding",
+      "source_sha256": "effa524b7580c3987c3c3d07349e937e86faabdd7a86eee9e810bcaa6697158a",
+      "source_url": "https://www.cheyennecity.org/Home",
+      "source_retrieved_at": "2026-11-08T16:26:10.546533+00:00",
+      "page": null,
+      "extraction_method": "html_text",
+      "quality_verified": false,
+      "representation_path": "text/effa524b7580c3987c3c3d07349e937e86faabdd7a86eee9e810bcaa6697158a.txt",
+      "representation_text_sha256": "b0f6332ee135bffe9bb59939ec56e92ce38d5d16c3331a111acb6e63e4f5e7f3",
+      "representation_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/22880f4c2443b35dd5c4b53e67708302bc66f9cc/text/effa524b7580c3987c3c3d07349e937e86faabdd7a86eee9e810bcaa6697158a.txt",
+      "original_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/22880f4c2443b35dd5c4b53e67708302bc66f9cc/objects/ef/effa524b7580c3987c3c3d07349e937e86faabdd7a86eee9e810bcaa6697158a",
+      "evidence": [
+        {
+          "term": "minutes",
+          "match_start": 432,
+          "match_end": 439,
+          "passage_start": 282,
+          "passage_end": 689,
+          "text": "nish\nSelect this as your preferred language\nOpen\nSearch\nMenu\nYour Government\nMayor Patrick Collins\nCheyenne Mayors\nCity Council\nCommittee Information\nMinutes and Agendas\nBoards / Commissions\nDepartments\nCity Attorney\nCity Clerk\nCity Engineer\nCommunity Recreation & Events\nCheyenne Fire Rescue\nHuman Resources\nPlanning and Development\nPublic Works\nCity Treasurer\nCompliance Department\nMayor's Office\nPolice D"
+        },
+        {
+          "term": "minutes",
+          "match_start": 1348,
+          "match_end": 1355,
+          "passage_start": 1198,
+          "passage_end": 1605,
+          "text": "ermit\nBids and Proposals\nView Open Bids and Proposals for the City of Cheyenne\nSanitation\nView Sanitation Department information.\nCouncil Agendas and Minutes\nMinutes, agendas and videos for City Council meetings\nPublic Meeting Zoom Links\nZoom links and information for public meetings.\nBoards and Commissions\nA list of City of Cheyenne Boards and Commissions.\n2026 5th Penny\nInformation about the 5th Penny "
+        },
+        {
+          "term": "minutes",
+          "match_start": 1356,
+          "match_end": 1363,
+          "passage_start": 1206,
+          "passage_end": 1613,
+          "text": "ds and Proposals\nView Open Bids and Proposals for the City of Cheyenne\nSanitation\nView Sanitation Department information.\nCouncil Agendas and Minutes\nMinutes, agendas and videos for City Council meetings\nPublic Meeting Zoom Links\nZoom links and information for public meetings.\nBoards and Commissions\nA list of City of Cheyenne Boards and Commissions.\n2026 5th Penny\nInformation about the 5th Penny on the N"
+        }
+      ]
+    },
+    {
+      "classification": "unreviewed_topical_match_not_a_finding",
+      "source_sha256": "f404f311959389e46ea3c5c8c46d3512649645efdcf81a56cda879204d8300c5",
+      "source_url": "https://www.cheyennecity.org/Your-Government",
+      "source_retrieved_at": "2026-11-08T16:26:12.557303+00:00",
+      "page": null,
+      "extraction_method": "html_text",
+      "quality_verified": false,
+      "representation_path": "text/f404f311959389e46ea3c5c8c46d3512649645efdcf81a56cda879204d8300c5.txt",
+      "representation_text_sha256": "9bf09449874b6576df8b6c5f971e7c26cb3cbcac5a422971029e0fedcb806057",
+      "representation_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/22880f4c2443b35dd5c4b53e67708302bc66f9cc/text/f404f311959389e46ea3c5c8c46d3512649645efdcf81a56cda879204d8300c5.txt",
+      "original_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/22880f4c2443b35dd5c4b53e67708302bc66f9cc/objects/f4/f404f311959389e46ea3c5c8c46d3512649645efdcf81a56cda879204d8300c5",
+      "evidence": [
+        {
+          "term": "minutes",
+          "match_start": 443,
+          "match_end": 450,
+          "passage_start": 293,
+          "passage_end": 700,
+          "text": "nish\nSelect this as your preferred language\nOpen\nSearch\nMenu\nYour Government\nMayor Patrick Collins\nCheyenne Mayors\nCity Council\nCommittee Information\nMinutes and Agendas\nBoards / Commissions\nDepartments\nCity Attorney\nCity Clerk\nCity Engineer\nCommunity Recreation & Events\nCheyenne Fire Rescue\nHuman Resources\nPlanning and Development\nPublic Works\nCity Treasurer\nCompliance Department\nMayor's Office\nPolice D"
+        }
+      ]
+    },
+    {
+      "classification": "unreviewed_topical_match_not_a_finding",
+      "source_sha256": "f569e9d1339270023c0bbad5efb015a1ff6589f66014b417830346567a76965f",
+      "source_url": "https://www.cheyennecity.org/Your-Government/City-Council/Committees",
+      "source_retrieved_at": "2026-11-08T16:26:21.102993+00:00",
+      "page": null,
+      "extraction_method": "html_text",
+      "quality_verified": false,
+      "representation_path": "text/f569e9d1339270023c0bbad5efb015a1ff6589f66014b417830346567a76965f.txt",
+      "representation_text_sha256": "f91b44cc55731e53d004aeea641243a7aa0dbb4e431aa727039eb446651440a7",
+      "representation_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/22880f4c2443b35dd5c4b53e67708302bc66f9cc/text/f569e9d1339270023c0bbad5efb015a1ff6589f66014b417830346567a76965f.txt",
+      "original_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/22880f4c2443b35dd5c4b53e67708302bc66f9cc/objects/f5/f569e9d1339270023c0bbad5efb015a1ff6589f66014b417830346567a76965f",
+      "evidence": [
+        {
+          "term": "minutes",
+          "match_start": 449,
+          "match_end": 456,
+          "passage_start": 299,
+          "passage_end": 706,
+          "text": "nish\nSelect this as your preferred language\nOpen\nSearch\nMenu\nYour Government\nMayor Patrick Collins\nCheyenne Mayors\nCity Council\nCommittee Information\nMinutes and Agendas\nBoards / Commissions\nDepartments\nCity Attorney\nCity Clerk\nCity Engineer\nCommunity Recreation & Events\nCheyenne Fire Rescue\nHuman Resources\nPlanning and Development\nPublic Works\nCity Treasurer\nCompliance Department\nMayor's Office\nPolice D"
+        }
+      ]
+    },
+    {
+      "classification": "unreviewed_topical_match_not_a_finding",
+      "source_sha256": "f7565a42d47ca208b4b18f6700f3fa0e77a4c4e81e02aa0db0e33a508fd255e0",
+      "source_url": "https://www.cheyennecity.org/Your-Government/Cemetery-Complex",
+      "source_retrieved_at": "2026-11-08T16:26:54.616203+00:00",
+      "page": null,
+      "extraction_method": "html_text",
+      "quality_verified": false,
+      "representation_path": "text/f7565a42d47ca208b4b18f6700f3fa0e77a4c4e81e02aa0db0e33a508fd255e0.txt",
+      "representation_text_sha256": "1aee5563b7c30fe54ac1de9f39389847ce366af7821ab538d00f83195ac41ece",
+      "representation_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/22880f4c2443b35dd5c4b53e67708302bc66f9cc/text/f7565a42d47ca208b4b18f6700f3fa0e77a4c4e81e02aa0db0e33a508fd255e0.txt",
+      "original_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/22880f4c2443b35dd5c4b53e67708302bc66f9cc/objects/f7/f7565a42d47ca208b4b18f6700f3fa0e77a4c4e81e02aa0db0e33a508fd255e0",
+      "evidence": [
+        {
+          "term": "minutes",
+          "match_start": 444,
+          "match_end": 451,
+          "passage_start": 294,
+          "passage_end": 701,
+          "text": "nish\nSelect this as your preferred language\nOpen\nSearch\nMenu\nYour Government\nMayor Patrick Collins\nCheyenne Mayors\nCity Council\nCommittee Information\nMinutes and Agendas\nBoards / Commissions\nDepartments\nCity Attorney\nCity Clerk\nCity Engineer\nCommunity Recreation & Events\nCheyenne Fire Rescue\nHuman Resources\nPlanning and Development\nPublic Works\nCity Treasurer\nCompliance Department\nMayor's Office\nPolice D"
+        }
+      ]
+    },
+    {
+      "classification": "unreviewed_topical_match_not_a_finding",
+      "source_sha256": "fe51cc4936134d625fdb7d689e61a6faede2f62246fae5201fb193d22aa2dc85",
+      "source_url": "https://www.cheyennecity.org/Your-Government/Departments/Police-Department",
+      "source_retrieved_at": "2026-11-08T16:26:48.554576+00:00",
+      "page": null,
+      "extraction_method": "html_text",
+      "quality_verified": false,
+      "representation_path": "text/fe51cc4936134d625fdb7d689e61a6faede2f62246fae5201fb193d22aa2dc85.txt",
+      "representation_text_sha256": "ffca20446cb00ee13762161e3f0906002e17dbd40680d865d0f11be522642553",
+      "representation_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/22880f4c2443b35dd5c4b53e67708302bc66f9cc/text/fe51cc4936134d625fdb7d689e61a6faede2f62246fae5201fb193d22aa2dc85.txt",
+      "original_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/22880f4c2443b35dd5c4b53e67708302bc66f9cc/objects/fe/fe51cc4936134d625fdb7d689e61a6faede2f62246fae5201fb193d22aa2dc85",
+      "evidence": [
+        {
+          "term": "minutes",
+          "match_start": 445,
+          "match_end": 452,
+          "passage_start": 295,
+          "passage_end": 702,
+          "text": "nish\nSelect this as your preferred language\nOpen\nSearch\nMenu\nYour Government\nMayor Patrick Collins\nCheyenne Mayors\nCity Council\nCommittee Information\nMinutes and Agendas\nBoards / Commissions\nDepartments\nCity Attorney\nCity Clerk\nCity Engineer\nCommunity Recreation & Events\nCheyenne Fire Rescue\nHuman Resources\nPlanning and Development\nPublic Works\nCity Treasurer\nCompliance Department\nMayor's Office\nPolice D"
+        }
+      ]
+    },
+    {
+      "classification": "unreviewed_topical_match_not_a_finding",
+      "source_sha256": "00148b065ddd9d6d2689eb691a7abc53cb309379f50ee6e2f52cd68f90a30448",
+      "source_url": "https://www.cheyennecity.org/files/sharedassets/public/v/1/your-government/city-council/fc-2025/fc-01-22-25-agenda.pdf",
+      "source_retrieved_at": "2026-11-08T16:39:57.813058+00:00",
+      "page": 1,
+      "extraction_method": "native",
+      "quality_verified": false,
+      "representation_path": "derived/00148b065ddd9d6d2689eb691a7abc53cb309379f50ee6e2f52cd68f90a30448/page-000001.json",
+      "representation_text_sha256": "25073957e1fbef29c6251c77fd66608d8c91bc29654d0a663258af2953177f07",
+      "representation_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/22880f4c2443b35dd5c4b53e67708302bc66f9cc/derived/00148b065ddd9d6d2689eb691a7abc53cb309379f50ee6e2f52cd68f90a30448/page-000001.json",
+      "original_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/22880f4c2443b35dd5c4b53e67708302bc66f9cc/objects/00/00148b065ddd9d6d2689eb691a7abc53cb309379f50ee6e2f52cd68f90a30448",
+      "evidence": [
+        {
+          "term": "resolution",
+          "match_start": 1241,
+          "match_end": 1251,
+          "passage_start": 1091,
+          "passage_end": 1501,
+          "text": "\n             To view agenda backup documents visit the City of Cheyenne’s web site:\n                                     Finance Committee\n\n\n14.     RESOLUTION – Re-appropriating the Fiscal Year 2025 Budget of the City of Cheyenne\n        according to the provisions of W.S. §§ 16-4-112 & 16-4-113. (SPONSOR – MR.\n        LAYBOURN)\n\nACTION:\n\n16.     LEASES/CONTRACTS/LEGAL:\n\n        c)     Human Services Agre"
+        }
+      ]
+    },
+    {
+      "classification": "unreviewed_topical_match_not_a_finding",
+      "source_sha256": "00bb64666ab3c7d9e1a67a68d37e92cf43f2cc5cd78b5e2ca7328ffe96ced49b",
+      "source_url": "https://www.cheyennecity.org/files/sharedassets/public/v/1/your-government/city-council/wscow-2026/city-clerk-fy27-presentation.pdf",
+      "source_retrieved_at": "2026-11-08T17:19:20.978180+00:00",
+      "page": 4,
+      "extraction_method": "native",
+      "quality_verified": false,
+      "representation_path": "derived/00bb64666ab3c7d9e1a67a68d37e92cf43f2cc5cd78b5e2ca7328ffe96ced49b/page-000004.json",
+      "representation_text_sha256": "ca3e429c473ef1a41ae07abeda33e5d8dbb2bb71df85e1d066776c853f183164",
+      "representation_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/22880f4c2443b35dd5c4b53e67708302bc66f9cc/derived/00bb64666ab3c7d9e1a67a68d37e92cf43f2cc5cd78b5e2ca7328ffe96ced49b/page-000004.json",
+      "original_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/22880f4c2443b35dd5c4b53e67708302bc66f9cc/objects/00/00bb64666ab3c7d9e1a67a68d37e92cf43f2cc5cd78b5e2ca7328ffe96ced49b",
+      "evidence": [
+        {
+          "term": "minutes",
+          "match_start": 702,
+          "match_end": 709,
+          "passage_start": 552,
+          "passage_end": 711,
+          "text": "uest data\n\n- Participates in management of City website and streaming video services for Governing Body meetings\n\n- Prepares City Council agendas and minutes\n\f"
+        }
+      ]
+    },
+    {
+      "classification": "unreviewed_topical_match_not_a_finding",
+      "source_sha256": "00e07ad1ecfa714027b3361a4d7ed67396507bbb3fb5a1da739e1ecc6893453c",
+      "source_url": "https://www.cheyennecity.org/files/sharedassets/public/v/1/your-government/city-council/psc-2023/sub-res-201-agreement.pdf",
+      "source_retrieved_at": "2026-11-08T17:12:29.389943+00:00",
+      "page": 1,
+      "extraction_method": "native",
+      "quality_verified": false,
+      "representation_path": "derived/00e07ad1ecfa714027b3361a4d7ed67396507bbb3fb5a1da739e1ecc6893453c/page-000001.json",
+      "representation_text_sha256": "89766321cfb876b6ddfba250e2825e86d7578670213a9e2ea6ed2782ad293cbf",
+      "representation_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/22880f4c2443b35dd5c4b53e67708302bc66f9cc/derived/00e07ad1ecfa714027b3361a4d7ed67396507bbb3fb5a1da739e1ecc6893453c/page-000001.json",
+      "original_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/22880f4c2443b35dd5c4b53e67708302bc66f9cc/objects/00/00e07ad1ecfa714027b3361a4d7ed67396507bbb3fb5a1da739e1ecc6893453c",
+      "evidence": [
+        {
+          "term": "resolution",
+          "match_start": 140,
+          "match_end": 150,
+          "passage_start": 0,
+          "passage_end": 400,
+          "text": "                                                                                   12:57 pm, Nov 20 2023\n\n\n\n\n                               RESOLUTION NO. __________\n\nENTITLED: \"A RESOLUTION GRANTING AN EXCEPTION TO THE '201\n          AGREEMENT' FOR THE OWNER OF THE PROPERTY LOCATED ON\n          A PORTION OF THE SW1/4 SECTION 13 TO ALLOW INSTALLATION\n          OF ON-SITE SEWAGE HOLDING TANKS (SEPT"
+        },
+        {
+          "term": "resolution",
+          "match_start": 180,
+          "match_end": 190,
+          "passage_start": 30,
+          "passage_end": 440,
+          "text": "                                                     12:57 pm, Nov 20 2023\n\n\n\n\n                               RESOLUTION NO. __________\n\nENTITLED: \"A RESOLUTION GRANTING AN EXCEPTION TO THE '201\n          AGREEMENT' FOR THE OWNER OF THE PROPERTY LOCATED ON\n          A PORTION OF THE SW1/4 SECTION 13 TO ALLOW INSTALLATION\n          OF ON-SITE SEWAGE HOLDING TANKS (SEPTIC SYSTEM) LOCATED\n          WITHIN LARA"
+        }
+      ]
+    },
+    {
+      "classification": "unreviewed_topical_match_not_a_finding",
+      "source_sha256": "00f462be921543c29907c0eabe9565316cb479aa2d9df8068b809446edf8c5a5",
+      "source_url": "https://www.cheyennecity.org/files/sharedassets/public/v/1/your-government/city-council/fc-2023/fc-02-21-23-minutes.pdf",
+      "source_retrieved_at": "2026-11-08T16:49:43.317118+00:00",
+      "page": 1,
+      "extraction_method": "tesseract",
+      "quality_verified": false,
+      "representation_path": "derived/00f462be921543c29907c0eabe9565316cb479aa2d9df8068b809446edf8c5a5/page-000001.json",
+      "representation_text_sha256": "df90bc6df2ffeb0d2d5e9bae3d75fc93a5e5959d2623e8fdfa6316841472b35c",
+      "representation_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/22880f4c2443b35dd5c4b53e67708302bc66f9cc/derived/00f462be921543c29907c0eabe9565316cb479aa2d9df8068b809446edf8c5a5/page-000001.json",
+      "original_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/22880f4c2443b35dd5c4b53e67708302bc66f9cc/objects/00/00f462be921543c29907c0eabe9565316cb479aa2d9df8068b809446edf8c5a5",
+      "evidence": [
+        {
+          "term": "minutes",
+          "match_start": 18,
+          "match_end": 25,
+          "passage_start": 0,
+          "passage_end": 275,
+          "text": "FINANCE COMMITTEE\nMINUTES\n\nDue to the President's Day Holiday, a meeting of the Finance Committee was instead held on\nTuesday, February 21, 2023, in Committee Room 104 and via electronic meeting, starting at 12:00\np.m. Those in attendance were as follows:\n\nCOMMITTEE MEMBERS:"
+        },
+        {
+          "term": "resolution",
+          "match_start": 1135,
+          "match_end": 1145,
+          "passage_start": 985,
+          "passage_end": 1395,
+          "text": "cing, LLC, provided information and was available for questions.\nChairman White and committee members Roybal and Esquibel commented on the item.\n\n19. RESOLUTION ~ Reappropriating the Fiscal Year 2023 Budget of the City of Cheyenne\naccording to the provisions of W.S. §§ 16-4-112 & 16-4-113. (SPONSOR — MR. WHITE)\n\nDr. Aldrich moved to adopt, seconded by Mr. Esquibel. Motion carried by unanimous voice vote.\n\nR"
+        },
+        {
+          "term": "resolution",
+          "match_start": 1455,
+          "match_end": 1465,
+          "passage_start": 1305,
+          "passage_end": 1715,
+          "text": "drich moved to adopt, seconded by Mr. Esquibel. Motion carried by unanimous voice vote.\n\nRobin Lockman, City Treasurer, provided a staff report.\n\n20. RESOLUTION — Authorizing submission of the Americorps Foster Grandparent Program\napplication to Americorps on behalf of the Governing Body of the City of Cheyenne to\nsubmit continuation application for the next three years of funding for the Youth\nAltematives "
+        }
+      ]
+    },
+    {
+      "classification": "unreviewed_topical_match_not_a_finding",
+      "source_sha256": "00f462be921543c29907c0eabe9565316cb479aa2d9df8068b809446edf8c5a5",
+      "source_url": "https://www.cheyennecity.org/files/sharedassets/public/v/1/your-government/city-council/fc-2023/fc-02-21-23-minutes.pdf",
+      "source_retrieved_at": "2026-11-08T16:49:43.317118+00:00",
+      "page": 2,
+      "extraction_method": "tesseract",
+      "quality_verified": false,
+      "representation_path": "derived/00f462be921543c29907c0eabe9565316cb479aa2d9df8068b809446edf8c5a5/page-000002.json",
+      "representation_text_sha256": "d4c4b93a15473e05840a77474168628ef05e847be1be24c03e68265a4b7352c8",
+      "representation_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/22880f4c2443b35dd5c4b53e67708302bc66f9cc/derived/00f462be921543c29907c0eabe9565316cb479aa2d9df8068b809446edf8c5a5/page-000002.json",
+      "original_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/22880f4c2443b35dd5c4b53e67708302bc66f9cc/objects/00/00f462be921543c29907c0eabe9565316cb479aa2d9df8068b809446edf8c5a5",
+      "evidence": [
+        {
+          "term": "resolution",
+          "match_start": 4,
+          "match_end": 14,
+          "passage_start": 0,
+          "passage_end": 264,
+          "text": "25. RESOLUTION — Authorizing PaydHealth, LLC, to provide advocacy and financial case\nmanagement services for eligible specialty prescription drugs through alternative funding\nprograms effective July 1, 2023. (SPONSOR - MR. WHITE)\n\nDr. Aldrich moved to adopt, secon"
+        }
+      ]
+    },
+    {
+      "classification": "unreviewed_topical_match_not_a_finding",
+      "source_sha256": "00f5dceb4ed5b8c3bb7783c9f42eec1d3540fb83ce3f83dbb227d341a6b4a05a",
+      "source_url": "https://www.cheyennecity.org/files/sharedassets/public/v/1/your-government/city-council/psc-2022/psc-06-07-22-agenda.pdf",
+      "source_retrieved_at": "2026-11-08T17:15:35.808339+00:00",
+      "page": 1,
+      "extraction_method": "native",
+      "quality_verified": false,
+      "representation_path": "derived/00f5dceb4ed5b8c3bb7783c9f42eec1d3540fb83ce3f83dbb227d341a6b4a05a/page-000001.json",
+      "representation_text_sha256": "833a3c909a67ca9ca93d64c203b00e54b2f042231f6a0ef865bb49c33310cda3",
+      "representation_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/22880f4c2443b35dd5c4b53e67708302bc66f9cc/derived/00f5dceb4ed5b8c3bb7783c9f42eec1d3540fb83ce3f83dbb227d341a6b4a05a/page-000001.json",
+      "original_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/22880f4c2443b35dd5c4b53e67708302bc66f9cc/objects/00/00f5dceb4ed5b8c3bb7783c9f42eec1d3540fb83ce3f83dbb227d341a6b4a05a",
+      "evidence": [
+        {
+          "term": "ordinance",
+          "match_start": 1197,
+          "match_end": 1206,
+          "passage_start": 1047,
+          "passage_end": 1456,
+          "text": " To view agenda backup documents visit the City of Cheyenne’s web site:\n                     Public Services Committee Meeting (granicus.com)\n\n\n10.   ORDINANCE – 3rd READING – Annexing to the City of Cheyenne, Wyoming, land\n      located northwest of the intersection of Christensen Road and Pershing Boulevard.\n\n ACTION:\n\n11.   ORDINANCE – 3rd READING – Amending the Official Zoning Map of the City of\n      "
+        },
+        {
+          "term": "ordinance",
+          "match_start": 1376,
+          "match_end": 1385,
+          "passage_start": 1226,
+          "passage_end": 1635,
+          "text": "exing to the City of Cheyenne, Wyoming, land\n      located northwest of the intersection of Christensen Road and Pershing Boulevard.\n\n ACTION:\n\n11.   ORDINANCE – 3rd READING – Amending the Official Zoning Map of the City of\n      Cheyenne changing the zoning classification from County A1 Agricultural and Rural\n      Residential to MR Medium-Density Residential for land located northwest of the\n      inters"
+        },
+        {
+          "term": "ordinance",
+          "match_start": 1703,
+          "match_end": 1712,
+          "passage_start": 1553,
+          "passage_end": 1962,
+          "text": "al to MR Medium-Density Residential for land located northwest of the\n      intersection of Christensen Road and Pershing Boulevard.\n\n ACTION:\n\n12.   ORDINANCE – 3rd READING – Annexing to the City of Cheyenne, Wyoming, land\n      located north of Missile Drive, east of I-25.\n\n ACTION:\n\n13.   ORDINANCE – 3rd READING – Amending the Official Zoning Map of the City of\n      Cheyenne changing the zoning classif"
+        }
+      ]
+    },
+    {
+      "classification": "unreviewed_topical_match_not_a_finding",
+      "source_sha256": "00f5dceb4ed5b8c3bb7783c9f42eec1d3540fb83ce3f83dbb227d341a6b4a05a",
+      "source_url": "https://www.cheyennecity.org/files/sharedassets/public/v/1/your-government/city-council/psc-2022/psc-06-07-22-agenda.pdf",
+      "source_retrieved_at": "2026-11-08T17:15:35.808339+00:00",
+      "page": 2,
+      "extraction_method": "native",
+      "quality_verified": false,
+      "representation_path": "derived/00f5dceb4ed5b8c3bb7783c9f42eec1d3540fb83ce3f83dbb227d341a6b4a05a/page-000002.json",
+      "representation_text_sha256": "97b57ecf6b8d6ba3dd754642a83c279b40556d2d34e2689863c1273b135175e7",
+      "representation_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/22880f4c2443b35dd5c4b53e67708302bc66f9cc/derived/00f5dceb4ed5b8c3bb7783c9f42eec1d3540fb83ce3f83dbb227d341a6b4a05a/page-000002.json",
+      "original_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/22880f4c2443b35dd5c4b53e67708302bc66f9cc/objects/00/00f5dceb4ed5b8c3bb7783c9f42eec1d3540fb83ce3f83dbb227d341a6b4a05a",
+      "evidence": [
+        {
+          "term": "ordinance",
+          "match_start": 6,
+          "match_end": 15,
+          "passage_start": 0,
+          "passage_end": 265,
+          "text": "14.   ORDINANCE – 3rd READING – Annexing to the City of Cheyenne, Wyoming, land\n      located north of High Plains Road, west of I-25.\n\n ACTION:\n\n15.   ORDINANCE – 3rd READING – Amending the Official Zoning Map of the City of\n      Cheyenne changing the zoning clas"
+        },
+        {
+          "term": "ordinance",
+          "match_start": 152,
+          "match_end": 161,
+          "passage_start": 2,
+          "passage_end": 411,
+          "text": ".   ORDINANCE – 3rd READING – Annexing to the City of Cheyenne, Wyoming, land\n      located north of High Plains Road, west of I-25.\n\n ACTION:\n\n15.   ORDINANCE – 3rd READING – Amending the Official Zoning Map of the City of\n      Cheyenne changing the zoning classification from Swan Ranch PUD Unit Development to\n      City Swan Ranch PUD Planned Unit Development (Ordinance No. 3989) for land located\n      "
+        },
+        {
+          "term": "ordinance",
+          "match_start": 368,
+          "match_end": 377,
+          "passage_start": 218,
+          "passage_end": 627,
+          "text": "City of\n      Cheyenne changing the zoning classification from Swan Ranch PUD Unit Development to\n      City Swan Ranch PUD Planned Unit Development (Ordinance No. 3989) for land located\n      north of High Plains Road, west of I-25.\n\n ACTION:\n\n16.   ORDINANCE – 3rd READING – Amending the Official Zoning Map of the City of\n      Cheyenne changing the zoning classification from MUB Mixed-Use Business Emphas"
+        }
+      ]
+    },
+    {
+      "classification": "unreviewed_topical_match_not_a_finding",
+      "source_sha256": "00f5dceb4ed5b8c3bb7783c9f42eec1d3540fb83ce3f83dbb227d341a6b4a05a",
+      "source_url": "https://www.cheyennecity.org/files/sharedassets/public/v/1/your-government/city-council/psc-2022/psc-06-07-22-agenda.pdf",
+      "source_retrieved_at": "2026-11-08T17:15:35.808339+00:00",
+      "page": 3,
+      "extraction_method": "native",
+      "quality_verified": false,
+      "representation_path": "derived/00f5dceb4ed5b8c3bb7783c9f42eec1d3540fb83ce3f83dbb227d341a6b4a05a/page-000003.json",
+      "representation_text_sha256": "767ad157b9de45a2840d77a70aa46a8475060aeb1d512129ffc6c75ca16bcbe1",
+      "representation_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/22880f4c2443b35dd5c4b53e67708302bc66f9cc/derived/00f5dceb4ed5b8c3bb7783c9f42eec1d3540fb83ce3f83dbb227d341a6b4a05a/page-000003.json",
+      "original_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/22880f4c2443b35dd5c4b53e67708302bc66f9cc/objects/00/00f5dceb4ed5b8c3bb7783c9f42eec1d3540fb83ce3f83dbb227d341a6b4a05a",
+      "evidence": [
+        {
+          "term": "ordinance",
+          "match_start": 6,
+          "match_end": 15,
+          "passage_start": 0,
+          "passage_end": 265,
+          "text": "23.   ORDINANCE – 2nd READING – Amending the Official Zoning Map of the City of\n      Cheyenne changing the zoning classification from MUB, MUR, LI, and CB to MUB with\n      the UU Overlay for land located in the West Edge District. (SPONSOR – MR. COOK)\n\n ACTION:\n\n"
+        },
+        {
+          "term": "resolution",
+          "match_start": 271,
+          "match_end": 281,
+          "passage_start": 121,
+          "passage_end": 531,
+          "text": "fication from MUB, MUR, LI, and CB to MUB with\n      the UU Overlay for land located in the West Edge District. (SPONSOR – MR. COOK)\n\n ACTION:\n\n27.   RESOLUTION – Authorizing the Mayor and the City Clerk to sign a final plat for Saddle\n      Ridge, 18th Filing a plat of a portion of the east half of Section 25, T.14N., R.66W., of the\n      6th P.M., City of Cheyenne, Laramie County, Wyoming (located northwe"
+        },
+        {
+          "term": "resolution",
+          "match_start": 643,
+          "match_end": 653,
+          "passage_start": 493,
+          "passage_end": 903,
+          "text": "ramie County, Wyoming (located northwest of the\n      intersection of Christensen Road and Pershing Boulevard). (SPONSOR – MR. COOK)\n\n ACTION:\n\n28.   RESOLUTION – Providing for partial vacation of the Storey Boulevard Extension Final\n      Plat. (SPONSOR – MR. COOK)\n\n ACTION:\n\n31.   RESOLUTION – Authorizing the creation and appointment of a new Reed Avenue\n      Corridor Steering Committee. (SPONSORS – DR. "
+        }
+      ]
+    },
+    {
+      "classification": "unreviewed_topical_match_not_a_finding",
+      "source_sha256": "010bd83d980db77cff63d872d0af99d9ad84914af753e62bf5997fa238a50bdd",
+      "source_url": "https://www.cheyennecity.org/files/sharedassets/public/v/1/your-government/city-council/fc-2023/fc-12-04-23-agenda.pdf",
+      "source_retrieved_at": "2026-11-08T16:41:58.869663+00:00",
+      "page": 1,
+      "extraction_method": "native",
+      "quality_verified": false,
+      "representation_path": "derived/010bd83d980db77cff63d872d0af99d9ad84914af753e62bf5997fa238a50bdd/page-000001.json",
+      "representation_text_sha256": "a7dea55c2f45cc49573b98e9016e6ed743eef506ed9c3358fb48074106fe9cc4",
+      "representation_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/22880f4c2443b35dd5c4b53e67708302bc66f9cc/derived/010bd83d980db77cff63d872d0af99d9ad84914af753e62bf5997fa238a50bdd/page-000001.json",
+      "original_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/22880f4c2443b35dd5c4b53e67708302bc66f9cc/objects/01/010bd83d980db77cff63d872d0af99d9ad84914af753e62bf5997fa238a50bdd",
+      "evidence": [
+        {
+          "term": "ordinance",
+          "match_start": 1225,
+          "match_end": 1234,
+          "passage_start": 1075,
+          "passage_end": 1484,
+          "text": "     To view agenda backup documents visit the City of Cheyenne’s web site:\n                              Finance Committee (granicus.com)\n\n\n6.       ORDINANCE –3rd READING – Creating Section 12.04.240, Mobile Storage Containers\n         on Public Right-of-Way; Permit Required, of Chapter 12.04, Streets, Sidewalks and\n         Driveways Generally, of Title 12, Streets, Sidewalks and Public Places, of the M"
+        },
+        {
+          "term": "amendment",
+          "match_start": 1564,
+          "match_end": 1573,
+          "passage_start": 1414,
+          "passage_end": 1823,
+          "text": "Generally, of Title 12, Streets, Sidewalks and Public Places, of the Municipal\n         Code of the City of Cheyenne, Wyoming and making a conforming amendment as\n         specified. (POSTPONED FROM NOVEMBER 27, 2023)\n\nACTION:\n\n25.      RESOLUTION – Authorizing a three (3) percent cost-of-living salary adjustment for all\n         permanent full and part-time employees of the City of Cheyenne. (SPONSOR – MR"
+        },
+        {
+          "term": "resolution",
+          "match_start": 1651,
+          "match_end": 1661,
+          "passage_start": 1501,
+          "passage_end": 1911,
+          "text": " Code of the City of Cheyenne, Wyoming and making a conforming amendment as\n         specified. (POSTPONED FROM NOVEMBER 27, 2023)\n\nACTION:\n\n25.      RESOLUTION – Authorizing a three (3) percent cost-of-living salary adjustment for all\n         permanent full and part-time employees of the City of Cheyenne. (SPONSOR – MR.\n         WHITE)\n\nACTION:\n\n26.      RESOLUTION – Permitting the possession of open cont"
+        }
+      ]
+    },
+    {
+      "classification": "unreviewed_topical_match_not_a_finding",
+      "source_sha256": "01a150e0b3a34a66feb9c8466f7fa61ff72e481d429be3796e4d9ff86879a963",
+      "source_url": "https://www.cheyennecity.org/files/sharedassets/public/v/1/your-government/city-council/psc-2024/psc-07-16-24-minutes.pdf",
+      "source_retrieved_at": "2026-11-08T17:10:04.388887+00:00",
+      "page": 1,
+      "extraction_method": "native",
+      "quality_verified": false,
+      "representation_path": "derived/01a150e0b3a34a66feb9c8466f7fa61ff72e481d429be3796e4d9ff86879a963/page-000001.json",
+      "representation_text_sha256": "315d42a6c50da769879ede9ab6d12dd4a55fcb1ea799e9bd982c780de6a33597",
+      "representation_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/22880f4c2443b35dd5c4b53e67708302bc66f9cc/derived/01a150e0b3a34a66feb9c8466f7fa61ff72e481d429be3796e4d9ff86879a963/page-000001.json",
+      "original_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/22880f4c2443b35dd5c4b53e67708302bc66f9cc/objects/01/01a150e0b3a34a66feb9c8466f7fa61ff72e481d429be3796e4d9ff86879a963",
+      "evidence": [
+        {
+          "term": "minutes",
+          "match_start": 89,
+          "match_end": 96,
+          "passage_start": 0,
+          "passage_end": 346,
+          "text": "                           PUBLIC SERVICES COMMITTEE\n                                    MINUTES\n\nA meeting of the Public Services Committee was held on Tuesday, July 16, 2024, in Committee\nRoom 104 and via electronic meeting, starting at 12:00 p.m. Those in attendance were as follows:\n\nCOMMITTEE MEMBERS: Scott Roybal, Chainnan, Pete Layboum, D"
+        },
+        {
+          "term": "ordinance",
+          "match_start": 433,
+          "match_end": 442,
+          "passage_start": 283,
+          "passage_end": 692,
+          "text": "ws:\n\nCOMMITTEE MEMBERS: Scott Roybal, Chainnan, Pete Layboum, Dr. Rinne, and Tom\nSegrave.\n\n\n                                     AGENDA ITEMS\n\n7.     ORDINANCE —3 READING              Amending Section 10.16.150, Parking Violation\n                                            -\n\n\n\n\n       Hearings and Appeal Procedures, of the Municipal Code of the City of Cheyenne,\n       Wyoming, modifying the procedures go"
+        },
+        {
+          "term": "ordinance",
+          "match_start": 1016,
+          "match_end": 1025,
+          "passage_start": 866,
+          "passage_end": 1275,
+          "text": " reading, seconded by Mr. Laybourn. Motion carried\nby unanimous voice vote.\n\nCaptain David Janes, Police Department, provided a staff report.\n\n8.     ORDINANCE —3”’ READING           — Creating Section 10.60.015, Paid On-Street Parking\n       Districts; Establishment, Administration, of the Municipal Code of the City of Cheyenne,\n       Wyoming, establishing the Paid On-Street Parking Districts Program and"
+        }
+      ]
+    }
+  ]
+}

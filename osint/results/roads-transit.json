@@ -1,0 +1,1571 @@
+{
+  "profile": "roads-transit",
+  "title": "Roads, transit and infrastructure",
+  "generated_at": "2026-11-08T17:28:50.972658+00:00",
+  "source_revision": "22880f4c2443b35dd5c4b53e67708302bc66f9cc",
+  "classification": "retrieval_triage_not_investigative_findings",
+  "matched_representations": 259,
+  "exported_representations": 50,
+  "result_cap": 50,
+  "results_truncated": true,
+  "results": [
+    {
+      "classification": "unreviewed_topical_match_not_a_finding",
+      "source_sha256": "1e98c954f0ca7e1efb2ee7c8d429b1c87e0d03c54e51efe4ccb0642749df94ee",
+      "source_url": "https://www.cheyennecity.org/Your-Government/Mayor",
+      "source_retrieved_at": "2026-11-08T16:26:14.409876+00:00",
+      "page": null,
+      "extraction_method": "html_text",
+      "quality_verified": false,
+      "representation_path": "text/1e98c954f0ca7e1efb2ee7c8d429b1c87e0d03c54e51efe4ccb0642749df94ee.txt",
+      "representation_text_sha256": "96ec9a002a5be9a14225f4027dfd253e6cc0bd2ca04c17e7ad12449c48d30226",
+      "representation_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/22880f4c2443b35dd5c4b53e67708302bc66f9cc/text/1e98c954f0ca7e1efb2ee7c8d429b1c87e0d03c54e51efe4ccb0642749df94ee.txt",
+      "original_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/22880f4c2443b35dd5c4b53e67708302bc66f9cc/objects/1e/1e98c954f0ca7e1efb2ee7c8d429b1c87e0d03c54e51efe4ccb0642749df94ee",
+      "evidence": [
+        {
+          "term": "greenway",
+          "match_start": 1683,
+          "match_end": 1691,
+          "passage_start": 1533,
+          "passage_end": 1941,
+          "text": " went on to serve on boards for the Greater Cheyenne Chamber of Commerce and Prevent Child Abuse Wyoming, on top of his involvement with the Cheyenne Greenway, Cheyenne Soccer Association and Leadership Cheyenne, where he received the National Distinguished Leadership Award in 1999.\nHaving grown up in Wyoming, Collins attended Carey Junior High, East High School, and the University of Wyoming.\nHours\n8:00 "
+        }
+      ]
+    },
+    {
+      "classification": "unreviewed_topical_match_not_a_finding",
+      "source_sha256": "34c2c94e914d583858e803f379f87beab4375394bf97e2b05857f84e410e1400",
+      "source_url": "https://www.cheyennecity.org/Your-Government/City-Council",
+      "source_retrieved_at": "2026-11-08T16:26:18.367802+00:00",
+      "page": null,
+      "extraction_method": "html_text",
+      "quality_verified": false,
+      "representation_path": "text/34c2c94e914d583858e803f379f87beab4375394bf97e2b05857f84e410e1400.txt",
+      "representation_text_sha256": "593b04e322a8aeefb1b6462f9d9a667198e5c8192cac03d54f2129b698be3c63",
+      "representation_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/22880f4c2443b35dd5c4b53e67708302bc66f9cc/text/34c2c94e914d583858e803f379f87beab4375394bf97e2b05857f84e410e1400.txt",
+      "original_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/22880f4c2443b35dd5c4b53e67708302bc66f9cc/objects/34/34c2c94e914d583858e803f379f87beab4375394bf97e2b05857f84e410e1400",
+      "evidence": [
+        {
+          "term": "street",
+          "match_start": 2361,
+          "match_end": 2367,
+          "passage_start": 2211,
+          "passage_end": 2617,
+          "text": " of finding tenant\nMeasures of Success:\n- Pumphouse mothballed\n- Tenant negotiations in progress\nProject website:\nwww.cheyennecity.org/pumphouse\n15th Street Project\nCouncil Champion: White\nSpecific Goals:\n- Support current project to move railcars\n- Get contract in place\n- Schedule work session\nMeasures of Success:\n- Specific plan in place for placing railcars\n- Review of current plans\n- Work session he"
+        },
+        {
+          "term": "traffic",
+          "match_start": 3768,
+          "match_end": 3775,
+          "passage_start": 3618,
+          "passage_end": 4025,
+          "text": "vices, and\nExploring ways to reduce costs, and\nExploring new ways to use City property to generate revenue.\nEnsure resources are available to address traffic violations and road safety\nCouncil Champions: Laybourn, White, Moody\nCouncil seeks to ensure that the Cheyenne Police Department and other City departments have the resources to address traffic violations in the community. Components of this goal in"
+        },
+        {
+          "term": "road",
+          "match_start": 3791,
+          "match_end": 3795,
+          "passage_start": 3641,
+          "passage_end": 4045,
+          "text": "ys to reduce costs, and\nExploring new ways to use City property to generate revenue.\nEnsure resources are available to address traffic violations and road safety\nCouncil Champions: Laybourn, White, Moody\nCouncil seeks to ensure that the Cheyenne Police Department and other City departments have the resources to address traffic violations in the community. Components of this goal include:\nAddressing if"
+        }
+      ]
+    },
+    {
+      "classification": "unreviewed_topical_match_not_a_finding",
+      "source_sha256": "3acba0fc1d0e72a92bfd8410e0ce66716b4ac9fc5981848b580bdd151c887604",
+      "source_url": "https://www.cheyennecity.org/Your-Government/Departments",
+      "source_retrieved_at": "2026-11-08T16:26:24.790667+00:00",
+      "page": null,
+      "extraction_method": "html_text",
+      "quality_verified": false,
+      "representation_path": "text/3acba0fc1d0e72a92bfd8410e0ce66716b4ac9fc5981848b580bdd151c887604.txt",
+      "representation_text_sha256": "23296aa048c30389c8f5f9e37dbd808b2c77631869bf9f7229285a32ad460ce3",
+      "representation_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/22880f4c2443b35dd5c4b53e67708302bc66f9cc/text/3acba0fc1d0e72a92bfd8410e0ce66716b4ac9fc5981848b580bdd151c887604.txt",
+      "original_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/22880f4c2443b35dd5c4b53e67708302bc66f9cc/objects/3a/3acba0fc1d0e72a92bfd8410e0ce66716b4ac9fc5981848b580bdd151c887604",
+      "evidence": [
+        {
+          "term": "pavement",
+          "match_start": 1813,
+          "match_end": 1821,
+          "passage_start": 1663,
+          "passage_end": 2071,
+          "text": "ice provides the following services: City Construction Services, Construction Plan Review, Engineering Services, Flood Plain Management, GIS Mapping, Pavement Management\nCity Treasurer\nTelephone\n307-637-6336\nEmail\nrlockman@cheyennecity.org\nThe City Treasurer's Department oversees the management and monitoring of all City fund revenues and expenditures and is comprised of nine employees. The primary respon"
+        },
+        {
+          "term": "greenway",
+          "match_start": 4182,
+          "match_end": 4190,
+          "passage_start": 4032,
+          "passage_end": 4440,
+          "text": "ent Authority, and the Metropolitan Planning Organization. The department reviews development applications, implements Plan Cheyenne, administers the Greenway program, and provides support to multiple boards and commissions including the Planning Commission, Board of Adjustment, and Historic Preservation Board.\nPolice Department\nTelephone\nEmergency Line: 9-1-1\nAlternate Phone\nAdministrative Line: 307-637-"
+        },
+        {
+          "term": "street",
+          "match_start": 4859,
+          "match_end": 4865,
+          "passage_start": 4709,
+          "passage_end": 5115,
+          "text": "ecek@cheyennecity.org\nThe Public Works Department supports the needs of our community and consists of the Facilities, Fleet Maintenance, Solid Waste, Street and Alley, Traffic, and Transit Divisions at the City. The Public Works Department provides oversight of the Belvoir Ranch, heads the Belvoir Ranch Steering Committee, and administers the Optional One Percent Sales Tax Fund (5th Penny Tax) and the S"
+        }
+      ]
+    },
+    {
+      "classification": "unreviewed_topical_match_not_a_finding",
+      "source_sha256": "3dd70667ea5d722bea19d76073b4ffffcc05a651e4b1b3a1dd22befe7d173cfa",
+      "source_url": "https://www.cheyennecity.org/Your-Government/City-Council/Minutes-and-Agendas",
+      "source_retrieved_at": "2026-11-08T16:25:55.689212+00:00",
+      "page": null,
+      "extraction_method": "html_text",
+      "quality_verified": false,
+      "representation_path": "text/3dd70667ea5d722bea19d76073b4ffffcc05a651e4b1b3a1dd22befe7d173cfa.txt",
+      "representation_text_sha256": "2fed3f87d5b1cff9bd36ee7e36045d50bb8a3f93d6cd95eb2072dbc6150983b8",
+      "representation_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/22880f4c2443b35dd5c4b53e67708302bc66f9cc/text/3dd70667ea5d722bea19d76073b4ffffcc05a651e4b1b3a1dd22befe7d173cfa.txt",
+      "original_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/22880f4c2443b35dd5c4b53e67708302bc66f9cc/objects/3d/3dd70667ea5d722bea19d76073b4ffffcc05a651e4b1b3a1dd22befe7d173cfa",
+      "evidence": [
+        {
+          "term": "road",
+          "match_start": 26693,
+          "match_end": 26697,
+          "passage_start": 26543,
+          "passage_end": 26947,
+          "text": "B)\nVideo\nPresentation\n(PDF, 2MB)\nProspering Together Plan\n10/31/25\nAgenda\n(PDF, 171KB)\nVideo\nPresentation\n(PDF, 3MB)\n6th Penny Project Presentation - Road Maintenance & Engineering Department Updates\n10/24/25\nAgenda\n(PDF, 171KB)\nVideo\nPresentation\n(PDF, 4MB)\n6th Penny Project Presentation - Reed Avenue Corridor\n10/10/25\nAgenda\n(PDF, 163KB)\nVideo\nPresentation\n(PDF, 9MB)\n6th Penny Project Presentation -"
+        },
+        {
+          "term": "greenway",
+          "match_start": 27425,
+          "match_end": 27433,
+          "passage_start": 27275,
+          "passage_end": 27683,
+          "text": "\n08/01/25\nAgenda\n(PDF, 177KB)\nVideo\nPresentation\n(PDF, 3MB)\nGoal Setting - Mid-Year Review\n07/30/25\nVideo\n6th Penny Project Presentation - Aquatics & Greenway Maintenance Projects\n07/11/25\nAgenda\n(PDF, 168KB)\nVideo\nGreenway Presentation\n(PDF, 14MB)\nHistoric Cheyenne Inc. Presentation of the Pumphouse's History\n07/03/25\nAgenda\n(PDF, 167KB)\nVideo\nCity Rebranding and Cheyenne Frontier Days Morning Star India"
+        },
+        {
+          "term": "greenway",
+          "match_start": 27490,
+          "match_end": 27498,
+          "passage_start": 27340,
+          "passage_end": 27748,
+          "text": "Setting - Mid-Year Review\n07/30/25\nVideo\n6th Penny Project Presentation - Aquatics & Greenway Maintenance Projects\n07/11/25\nAgenda\n(PDF, 168KB)\nVideo\nGreenway Presentation\n(PDF, 14MB)\nHistoric Cheyenne Inc. Presentation of the Pumphouse's History\n07/03/25\nAgenda\n(PDF, 167KB)\nVideo\nCity Rebranding and Cheyenne Frontier Days Morning Star Indian Village Presentation\n06/27/25\nAgenda\n(PDF, 171KB)\nVideo\nCity In"
+        }
+      ]
+    },
+    {
+      "classification": "unreviewed_topical_match_not_a_finding",
+      "source_sha256": "6348fedf6bfbb393e135b824e53e964355719135cc6cf7a1bce5697c997cf499",
+      "source_url": "https://www.cheyennecity.org/Your-Government/Departments/Cheyenne-Fire-Rescue",
+      "source_retrieved_at": "2026-11-08T16:26:34.434110+00:00",
+      "page": null,
+      "extraction_method": "html_text",
+      "quality_verified": false,
+      "representation_path": "text/6348fedf6bfbb393e135b824e53e964355719135cc6cf7a1bce5697c997cf499.txt",
+      "representation_text_sha256": "e77fec0c037dd723ce32936c626be8daac6817334a69ff2292cc097fcd0c06bc",
+      "representation_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/22880f4c2443b35dd5c4b53e67708302bc66f9cc/text/6348fedf6bfbb393e135b824e53e964355719135cc6cf7a1bce5697c997cf499.txt",
+      "original_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/22880f4c2443b35dd5c4b53e67708302bc66f9cc/objects/63/6348fedf6bfbb393e135b824e53e964355719135cc6cf7a1bce5697c997cf499",
+      "evidence": [
+        {
+          "term": "street",
+          "match_start": 1833,
+          "match_end": 1839,
+          "passage_start": 1683,
+          "passage_end": 2089,
+          "text": "Non emergency: 307-637-6525\nEmail\nfireadminstaff@cheyennecity.org\nWebsite\nCheyenne Fire Rescue Official Website\nLocation\nPhysical Address\n415 W. 18th Street\n82001\nView Map\nFire Stations\nStation 1 -\n716 W.19th\n(307)637-6320\nStation 2 -\n514 W. Fox Farm Rd\n(307)637-6322\nStation 3 -\n720 Hanson St.\n(307)637-6323\nStation 4 -\n6115 Countryside Ave.\n307-638-4366\nStation 5 -\n4200 Converse Ave.\n(307) 637-6325\nStat"
+        }
+      ]
+    },
+    {
+      "classification": "unreviewed_topical_match_not_a_finding",
+      "source_sha256": "77b33b250c26aa5b4c39100d72dc332a81fc1c0af261b50b98f49a7251582aaf",
+      "source_url": "https://www.cheyennecity.org/Home/Tabs/Featured-Links/Coronavirus-COVID-19",
+      "source_retrieved_at": "2026-11-08T17:24:28.353506+00:00",
+      "page": null,
+      "extraction_method": "html_text",
+      "quality_verified": false,
+      "representation_path": "text/77b33b250c26aa5b4c39100d72dc332a81fc1c0af261b50b98f49a7251582aaf.txt",
+      "representation_text_sha256": "b6345c9a22eb8016f2ce5fa0d3c32e691ce51d00cbbfbed12eed62c42967b98b",
+      "representation_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/22880f4c2443b35dd5c4b53e67708302bc66f9cc/text/77b33b250c26aa5b4c39100d72dc332a81fc1c0af261b50b98f49a7251582aaf.txt",
+      "original_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/22880f4c2443b35dd5c4b53e67708302bc66f9cc/objects/77/77b33b250c26aa5b4c39100d72dc332a81fc1c0af261b50b98f49a7251582aaf",
+      "evidence": [
+        {
+          "term": "transit",
+          "match_start": 8998,
+          "match_end": 9005,
+          "passage_start": 8848,
+          "passage_end": 9255,
+          "text": "nse to COVID-19\nApril 13 -\nGovernor Gordon issues statement on the confirmation of the first coronavirus-related death in Wyoming\nApril 11 -\nCheyenne Transit Program to Provide Single Passenger Paratransit Services for Essential Trips\n(PDF, 220KB)\nApril 10 -\nMayor Marian Orr Joins Governor Mark Gordon's Call for Prayer\n(PDF, 219KB)\nApril 9 -\nGovernor Gordon proclaims April 10 Day of Prayer\nApril 9 -\nPosi"
+        }
+      ]
+    },
+    {
+      "classification": "unreviewed_topical_match_not_a_finding",
+      "source_sha256": "85821b0bf46b99b4216d0ca8c05fac9f147fd62070eae02d32693472cb0b6850",
+      "source_url": "https://www.cheyennecity.org/Your-Government/Departments/City-Engineer",
+      "source_retrieved_at": "2026-11-08T16:26:30.536000+00:00",
+      "page": null,
+      "extraction_method": "html_text",
+      "quality_verified": false,
+      "representation_path": "text/85821b0bf46b99b4216d0ca8c05fac9f147fd62070eae02d32693472cb0b6850.txt",
+      "representation_text_sha256": "1b14fe411c56ec8ab836833ed331744ecbdd359d31329a62f6cde9c6c0f9b8a3",
+      "representation_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/22880f4c2443b35dd5c4b53e67708302bc66f9cc/text/85821b0bf46b99b4216d0ca8c05fac9f147fd62070eae02d32693472cb0b6850.txt",
+      "original_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/22880f4c2443b35dd5c4b53e67708302bc66f9cc/objects/85/85821b0bf46b99b4216d0ca8c05fac9f147fd62070eae02d32693472cb0b6850",
+      "evidence": [
+        {
+          "term": "road",
+          "match_start": 1546,
+          "match_end": 1550,
+          "passage_start": 1396,
+          "passage_end": 1800,
+          "text": "eview process.\nHold paramount the health, safety, and welfare of the public.\nPreserve and meet the future needs of the City's infrastructure.\nAllison Road 8\nChristensen Road 1\nChristensen Road 2\nChristensen Road 6\nChristensen Road 7\nEvers Boulevard 3\nSubmit an Engineering Plan Review\nDocuments and links needed to submit a new Engineering Plan Review (EPR) are below.\nOptional Pre-Submittal Conference R"
+        },
+        {
+          "term": "road",
+          "match_start": 1565,
+          "match_end": 1569,
+          "passage_start": 1415,
+          "passage_end": 1819,
+          "text": " paramount the health, safety, and welfare of the public.\nPreserve and meet the future needs of the City's infrastructure.\nAllison Road 8\nChristensen Road 1\nChristensen Road 2\nChristensen Road 6\nChristensen Road 7\nEvers Boulevard 3\nSubmit an Engineering Plan Review\nDocuments and links needed to submit a new Engineering Plan Review (EPR) are below.\nOptional Pre-Submittal Conference Request\nEngineering "
+        },
+        {
+          "term": "road",
+          "match_start": 1584,
+          "match_end": 1588,
+          "passage_start": 1434,
+          "passage_end": 1838,
+          "text": "th, safety, and welfare of the public.\nPreserve and meet the future needs of the City's infrastructure.\nAllison Road 8\nChristensen Road 1\nChristensen Road 2\nChristensen Road 6\nChristensen Road 7\nEvers Boulevard 3\nSubmit an Engineering Plan Review\nDocuments and links needed to submit a new Engineering Plan Review (EPR) are below.\nOptional Pre-Submittal Conference Request\nEngineering Plan Review Applica"
+        }
+      ]
+    },
+    {
+      "classification": "unreviewed_topical_match_not_a_finding",
+      "source_sha256": "8d47a8d983ef94d3b3b44522f27edb841c5e7b8a679ac73763770b99c9349526",
+      "source_url": "https://www.cheyennecity.org/Your-Government/Departments/Community-Recreation-Events",
+      "source_retrieved_at": "2026-11-08T16:26:32.459005+00:00",
+      "page": null,
+      "extraction_method": "html_text",
+      "quality_verified": false,
+      "representation_path": "text/8d47a8d983ef94d3b3b44522f27edb841c5e7b8a679ac73763770b99c9349526.txt",
+      "representation_text_sha256": "0879bb3be9c069bfea80b1b6751172a4c7dc42e35459cc8a99348baaf2719864",
+      "representation_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/22880f4c2443b35dd5c4b53e67708302bc66f9cc/text/8d47a8d983ef94d3b3b44522f27edb841c5e7b8a679ac73763770b99c9349526.txt",
+      "original_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/22880f4c2443b35dd5c4b53e67708302bc66f9cc/objects/8d/8d47a8d983ef94d3b3b44522f27edb841c5e7b8a679ac73763770b99c9349526",
+      "evidence": [
+        {
+          "term": "greenway",
+          "match_start": 3944,
+          "match_end": 3952,
+          "passage_start": 3794,
+          "passage_end": 4202,
+          "text": "- Engagement Summary\nAppendix C - Needs Assessment\nRelated Information\nEast Park Master Plan Report\n(PDF, 17MB)\nEast Park Survey Results\n(PDF, 255KB)\nGreenway Map\n(PDF, 22MB)\nRotary Park Master Plan\n(PDF, 9MB)\nShare\nFacebook\nX\nEmail\nPrint\nBack to top\nSite Footer\nSite Footer\nContact\nCity of Cheyenne\n2101 O'Neil Ave.\nCheyenne, WY 82001\n(307) 637-6200\n- Telephone\n7-1-1\nor\n1-800-877-9965\n- TTY to Voice\nSite F"
+        }
+      ]
+    },
+    {
+      "classification": "unreviewed_topical_match_not_a_finding",
+      "source_sha256": "9d3098d1cd836224a7a0df78cff51050bc5a99957854df4ddac5ecf188912843",
+      "source_url": "https://www.cheyennecity.org/Your-Government/Departments/Public-Works",
+      "source_retrieved_at": "2026-11-08T16:26:40.509179+00:00",
+      "page": null,
+      "extraction_method": "html_text",
+      "quality_verified": false,
+      "representation_path": "text/9d3098d1cd836224a7a0df78cff51050bc5a99957854df4ddac5ecf188912843.txt",
+      "representation_text_sha256": "b89358067e0c9efa2b8f7abb63cafdc4ba47a0c9326077b45af787df8c948523",
+      "representation_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/22880f4c2443b35dd5c4b53e67708302bc66f9cc/text/9d3098d1cd836224a7a0df78cff51050bc5a99957854df4ddac5ecf188912843.txt",
+      "original_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/22880f4c2443b35dd5c4b53e67708302bc66f9cc/objects/9d/9d3098d1cd836224a7a0df78cff51050bc5a99957854df4ddac5ecf188912843",
+      "evidence": [
+        {
+          "term": "street",
+          "match_start": 1152,
+          "match_end": 1158,
+          "passage_start": 1002,
+          "passage_end": 1408,
+          "text": "Department provides the following services:\nBelvoir Ranch\nTransfer Station\nSanitation Division\nRecycling\nYard Waste Program\nLandfill\nCompost Facility\nStreet and Alley\nFacilities Maintenance\nFleet Maintenance\nTraffic\nTransit\n1% Sales Tax\nPublic Works also monitors and manages expenditure of one percent sales tax funding.\nDepartment Head\nVicki Nemecek\nPublic Works Director\nContact Us\nPhone\n307-637-6263\nEm"
+        },
+        {
+          "term": "traffic",
+          "match_start": 1210,
+          "match_end": 1217,
+          "passage_start": 1060,
+          "passage_end": 1467,
+          "text": "Transfer Station\nSanitation Division\nRecycling\nYard Waste Program\nLandfill\nCompost Facility\nStreet and Alley\nFacilities Maintenance\nFleet Maintenance\nTraffic\nTransit\n1% Sales Tax\nPublic Works also monitors and manages expenditure of one percent sales tax funding.\nDepartment Head\nVicki Nemecek\nPublic Works Director\nContact Us\nPhone\n307-637-6263\nEmail\nvnemecek@cheyennecity.org\nLocation\n2101 O'Neil Ave. Roo"
+        },
+        {
+          "term": "transit",
+          "match_start": 1218,
+          "match_end": 1225,
+          "passage_start": 1068,
+          "passage_end": 1475,
+          "text": " Station\nSanitation Division\nRecycling\nYard Waste Program\nLandfill\nCompost Facility\nStreet and Alley\nFacilities Maintenance\nFleet Maintenance\nTraffic\nTransit\n1% Sales Tax\nPublic Works also monitors and manages expenditure of one percent sales tax funding.\nDepartment Head\nVicki Nemecek\nPublic Works Director\nContact Us\nPhone\n307-637-6263\nEmail\nvnemecek@cheyennecity.org\nLocation\n2101 O'Neil Ave. Room 210\n82"
+        }
+      ]
+    },
+    {
+      "classification": "unreviewed_topical_match_not_a_finding",
+      "source_sha256": "a1420bd40f7fea284410abf8d2922f682bab168d765d6c9269cb6df84db9f18e",
+      "source_url": "https://www.cheyennecity.org/Your-Government/Departments/Attorney",
+      "source_retrieved_at": "2026-11-08T16:26:26.533520+00:00",
+      "page": null,
+      "extraction_method": "html_text",
+      "quality_verified": false,
+      "representation_path": "text/a1420bd40f7fea284410abf8d2922f682bab168d765d6c9269cb6df84db9f18e.txt",
+      "representation_text_sha256": "0623acaa20c4d36937755b4c90403d0edd0299667657e2015cc83a97d31f2bb2",
+      "representation_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/22880f4c2443b35dd5c4b53e67708302bc66f9cc/text/a1420bd40f7fea284410abf8d2922f682bab168d765d6c9269cb6df84db9f18e.txt",
+      "original_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/22880f4c2443b35dd5c4b53e67708302bc66f9cc/objects/a1/a1420bd40f7fea284410abf8d2922f682bab168d765d6c9269cb6df84db9f18e",
+      "evidence": [
+        {
+          "term": "traffic",
+          "match_start": 1347,
+          "match_end": 1354,
+          "passage_start": 1197,
+          "passage_end": 1604,
+          "text": "ey's Office drafts ordinances, resolutions and City contracts and represents the City in all legal actions, including prosecution of misdemeanors and traffic violations occurring within Cheyenne.\nThe City Attorney's Office represents the interests of the public as a whole and does not represent individuals. The City Attorney's Office is strictly prohibited from providing legal advice or representation to"
+        },
+        {
+          "term": "traffic",
+          "match_start": 2350,
+          "match_end": 2357,
+          "passage_start": 2200,
+          "passage_end": 2607,
+          "text": "cords which are sent to or served upon the City through the City's Internet pages.\nProsecution\nResponsibilities The City Attorney’s Office prosecutes traffic citations and violations of municipal ordinances with criminal penalties.\nThe prosecution attorney is responsible for: Appearing on various dockets and the preparation of various court documents used to prosecute cases. Addressing important municipa"
+        }
+      ]
+    },
+    {
+      "classification": "unreviewed_topical_match_not_a_finding",
+      "source_sha256": "ac4671737629e4f41fc282caa16e72eebb2f7fedffbae6ab959389be903d1455",
+      "source_url": "https://www.cheyennecity.org/Your-Government/Municipal-Court",
+      "source_retrieved_at": "2026-11-08T16:26:56.565168+00:00",
+      "page": null,
+      "extraction_method": "html_text",
+      "quality_verified": false,
+      "representation_path": "text/ac4671737629e4f41fc282caa16e72eebb2f7fedffbae6ab959389be903d1455.txt",
+      "representation_text_sha256": "bb3b0eb7d904d79a7a908a146be59cce62f6ea5375c13fccb7aa5d2d4d2649e0",
+      "representation_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/22880f4c2443b35dd5c4b53e67708302bc66f9cc/text/ac4671737629e4f41fc282caa16e72eebb2f7fedffbae6ab959389be903d1455.txt",
+      "original_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/22880f4c2443b35dd5c4b53e67708302bc66f9cc/objects/ac/ac4671737629e4f41fc282caa16e72eebb2f7fedffbae6ab959389be903d1455",
+      "evidence": [
+        {
+          "term": "street",
+          "match_start": 1780,
+          "match_end": 1786,
+          "passage_start": 1630,
+          "passage_end": 2036,
+          "text": " in the\nLaramie County Circuit Court\n.\nPayments\nYou may pay in person or mail payments to the following address:\nCheyenne Municipal Court\n300 W 17\nth\nStreet\nCheyenne, WY 82001\nWe accept the following payments:\nCash, Money Order, or Cashier’s Check.\nCredit Cards/ Debit Cards – there is a 6% service fee when using this method.\nYou can also pay online at\nCitePayUSA\nMunicipal Court staff cannot take payment"
+        },
+        {
+          "term": "road",
+          "match_start": 3194,
+          "match_end": 3198,
+          "passage_start": 3044,
+          "passage_end": 3448,
+          "text": "5:00 PM\nTuesday\n08:00 AM–05:00 PM\nWednesday\n08:00 AM–05:00 PM\nThursday\n08:00 AM–05:00 PM\nFriday\n08:00 AM–05:00 PM\nSaturday\nClosed\nQuick Links\nWyoming Road Reports\nCity Code\nState Statutes\nAlive at 25 Program\nLaramie County Government\nLaramie County Marriage License\nLaramie County Treasurer (Motor Vehicles, etc)\nCheyenne City Attorney's Office\nFAQs\nWhere and when can I visit an inmate in the Laramie Co"
+        }
+      ]
+    },
+    {
+      "classification": "unreviewed_topical_match_not_a_finding",
+      "source_sha256": "d00aa211b6d805660489c2cfc29d733347787d24d6cf0845790e3aabbc7f235d",
+      "source_url": "https://www.cheyennecity.org/Services",
+      "source_retrieved_at": "2026-11-08T16:27:06.742156+00:00",
+      "page": null,
+      "extraction_method": "html_text",
+      "quality_verified": false,
+      "representation_path": "text/d00aa211b6d805660489c2cfc29d733347787d24d6cf0845790e3aabbc7f235d.txt",
+      "representation_text_sha256": "70ec60a79881ddc46fefa4b26ba53be4e3b405dded4436a504891f17109267cb",
+      "representation_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/22880f4c2443b35dd5c4b53e67708302bc66f9cc/text/d00aa211b6d805660489c2cfc29d733347787d24d6cf0845790e3aabbc7f235d.txt",
+      "original_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/22880f4c2443b35dd5c4b53e67708302bc66f9cc/objects/d0/d00aa211b6d805660489c2cfc29d733347787d24d6cf0845790e3aabbc7f235d",
+      "evidence": [
+        {
+          "term": "transit",
+          "match_start": 1181,
+          "match_end": 1188,
+          "passage_start": 1031,
+          "passage_end": 1438,
+          "text": " Reports\nBuilding Permitting and Licensing\nCemetery Complex\nCheyenne Regional Airport\nCheyenne Ice and Events Center\nConstruction Management\nCheyenne Transit Live Shuttle Tracker\nCone Zone Map\nFacility Rentals\nGrants\nJob Announcements\nMunicipal Court\nOnline Payments\nParking Information\nPlanning and Development Department\nPublic Works\nRecreation Division\nRooted in Cheyenne\nUrban Forestry\nYouth Alternative"
+        }
+      ]
+    },
+    {
+      "classification": "unreviewed_topical_match_not_a_finding",
+      "source_sha256": "d7a11bf934f9d3f289fd4af6827b18f8b266253d6bbe3aee860a10049ddc1ce0",
+      "source_url": "https://www.laramiecountywy.gov/County-Government/Elected-Officials/County-Clerk/Clerk-to-the-Board-of-County-Commissioners",
+      "source_retrieved_at": "2026-11-08T16:26:00.641275+00:00",
+      "page": null,
+      "extraction_method": "html_text",
+      "quality_verified": false,
+      "representation_path": "text/d7a11bf934f9d3f289fd4af6827b18f8b266253d6bbe3aee860a10049ddc1ce0.txt",
+      "representation_text_sha256": "203640c81a9a0eaf846f77dadf2d079e314eaf46af731936f16546e816b349e0",
+      "representation_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/22880f4c2443b35dd5c4b53e67708302bc66f9cc/text/d7a11bf934f9d3f289fd4af6827b18f8b266253d6bbe3aee860a10049ddc1ce0.txt",
+      "original_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/22880f4c2443b35dd5c4b53e67708302bc66f9cc/objects/d7/d7a11bf934f9d3f289fd4af6827b18f8b266253d6bbe3aee860a10049ddc1ce0",
+      "evidence": [
+        {
+          "term": "street",
+          "match_start": 2908,
+          "match_end": 2914,
+          "passage_start": 2758,
+          "passage_end": 3164,
+          "text": "Board of Commissioners meets in regular session the first and third Tuesdays of each month on the third floor of the Historic Courthouse, 310 W. 19th Street. Meetings begin at 3:30 p.m.\nAs Clerk to the Board, our office prepares and distributes the meeting agenda and records the minutes of each meeting. The agenda is finalized by noon on the Wednesday preceding the meeting. For information on Board agen"
+        },
+        {
+          "term": "street",
+          "match_start": 5187,
+          "match_end": 5193,
+          "passage_start": 5037,
+          "passage_end": 5319,
+          "text": "o visit Laramie County Board of Commissioners Agenda & Minutes Center (1991 to current)\nBack to top\nSite Footer\nContact Us\nLaramie County\n309 W. 20th Street\nCheyenne, WY 82001\nSite Footer\nShare & Connect\nFollow us on Social Media\n© 2026 Laramie County, Wyoming |\nPowered by\nGranicus"
+        }
+      ]
+    },
+    {
+      "classification": "unreviewed_topical_match_not_a_finding",
+      "source_sha256": "dc304bcb9386c40219dbbb65adf6dd322030a9f0944eadafe55e4a670a971d17",
+      "source_url": "https://www.cheyennecity.org/Your-Government/Departments/Planning-and-Development-Department",
+      "source_retrieved_at": "2026-11-08T16:26:38.679556+00:00",
+      "page": null,
+      "extraction_method": "html_text",
+      "quality_verified": false,
+      "representation_path": "text/dc304bcb9386c40219dbbb65adf6dd322030a9f0944eadafe55e4a670a971d17.txt",
+      "representation_text_sha256": "7a9d2599eee9d44aa7afed26b3ba19d4e41d33b04003a69365a8c60a6093313b",
+      "representation_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/22880f4c2443b35dd5c4b53e67708302bc66f9cc/text/dc304bcb9386c40219dbbb65adf6dd322030a9f0944eadafe55e4a670a971d17.txt",
+      "original_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/22880f4c2443b35dd5c4b53e67708302bc66f9cc/objects/dc/dc304bcb9386c40219dbbb65adf6dd322030a9f0944eadafe55e4a670a971d17",
+      "evidence": [
+        {
+          "term": "greenway",
+          "match_start": 1408,
+          "match_end": 1416,
+          "passage_start": 1258,
+          "passage_end": 1666,
+          "text": "t is comprised of five divisions:\nDevelopment Division (Current Planning)\nPlanning Division (Long Range Planning) (Urban Renewal Authority, Parks and Greenway Planning)\nHistoric Preservation\nMetropolitan Planning Organization\nDowntown Development Authority\nMajor activities include administration of development regulations, assistance to the public, and processing City permit applications. Annually the Dep"
+        },
+        {
+          "term": "greenway",
+          "match_start": 2116,
+          "match_end": 2124,
+          "passage_start": 1966,
+          "passage_end": 2374,
+          "text": "y Pockets Annexation\nUnified Development Code\nUnified Development Code Annual Review Portal\nMetropolitan Planning Organization (MPO)\nGreater Cheyenne Greenway\nZoning Verification Request\nStaff Directory\nFAQ Page\nDevelopment Projects Map\nBoards and Commissions\nThe Department provides support and/or assistance to the following Boards and Commissions:\nBoard of Adjustment\nHistoric Preservation Board\nBrownfiel"
+        },
+        {
+          "term": "greenway",
+          "match_start": 2493,
+          "match_end": 2501,
+          "passage_start": 2343,
+          "passage_end": 2751,
+          "text": "ic Preservation Board\nBrownfield Revolving Loan Fund\nMPO Citizens, Technical and Policy Committees\nDowntown Development Authority\nPlanning Commission\nGreenway Advisory Committee\nUrban Renewal Authority\nInformational Maps\nGeneral\nInformation Map\nInformation regarding a property's zoning; inclusion in special districts such as the Downtown Development Authority (DDA), a Historic District, or the Core Permit"
+        }
+      ]
+    },
+    {
+      "classification": "unreviewed_topical_match_not_a_finding",
+      "source_sha256": "dd535b2d03be1e8fcae4cb39e118422b513be4616f3633a4dc01a102c41e290f",
+      "source_url": "https://www.cheyennecity.org/Site-Footer/Sub-Footer-Links/Privacy-Statement",
+      "source_retrieved_at": "2026-11-08T17:24:18.044491+00:00",
+      "page": null,
+      "extraction_method": "html_text",
+      "quality_verified": false,
+      "representation_path": "text/dd535b2d03be1e8fcae4cb39e118422b513be4616f3633a4dc01a102c41e290f.txt",
+      "representation_text_sha256": "9f944ac405d5037a360554b1b88d4283bc6e5848e2354cd83a5176ef17a8c0aa",
+      "representation_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/22880f4c2443b35dd5c4b53e67708302bc66f9cc/text/dd535b2d03be1e8fcae4cb39e118422b513be4616f3633a4dc01a102c41e290f.txt",
+      "original_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/22880f4c2443b35dd5c4b53e67708302bc66f9cc/objects/dd/dd535b2d03be1e8fcae4cb39e118422b513be4616f3633a4dc01a102c41e290f",
+      "evidence": [
+        {
+          "term": "traffic",
+          "match_start": 4708,
+          "match_end": 4715,
+          "passage_start": 4558,
+          "passage_end": 4965,
+          "text": "d to ensure that this service remains available to all users, this government computer system employs commercial software programs to monitor network traffic to identify unauthorized attempts to upload or change information, or otherwise cause damage.\nExcept for authorized law enforcement investigations, no other attempts are made to identify individual users or their usage habits. Raw data logs are used"
+        }
+      ]
+    },
+    {
+      "classification": "unreviewed_topical_match_not_a_finding",
+      "source_sha256": "e368e84058c9b0433d788f2619a54d6d13b7dad3f9bc2aa02778e1ca2be27766",
+      "source_url": "https://www.cheyennecity.org/Your-Government/Mayor/Cheyenne-Mayors",
+      "source_retrieved_at": "2026-11-08T16:26:16.582435+00:00",
+      "page": null,
+      "extraction_method": "html_text",
+      "quality_verified": false,
+      "representation_path": "text/e368e84058c9b0433d788f2619a54d6d13b7dad3f9bc2aa02778e1ca2be27766.txt",
+      "representation_text_sha256": "d0d63a340bba9cf4348675c8138ebd26e8daa91f8b22ebdd902642973a5b30b4",
+      "representation_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/22880f4c2443b35dd5c4b53e67708302bc66f9cc/text/e368e84058c9b0433d788f2619a54d6d13b7dad3f9bc2aa02778e1ca2be27766.txt",
+      "original_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/22880f4c2443b35dd5c4b53e67708302bc66f9cc/objects/e3/e368e84058c9b0433d788f2619a54d6d13b7dad3f9bc2aa02778e1ca2be27766",
+      "evidence": [
+        {
+          "term": "road",
+          "match_start": 2642,
+          "match_end": 2646,
+          "passage_start": 2492,
+          "passage_end": 2896,
+          "text": "Carey Cheyenne City Center\nWarren Avenue\nF.E. Warren Air Force Base\nAllison Hall at First United Methodist Church\nKeefe Row\nHolliday Park\nChristensen Road\nNationway\nGeorge Cox Parking Facility\nLeo Pando Park\nJack R. Spiker Parking Facility\nSix individuals have served non-consecutive terms, with L.R. Bresnahan being elected five different times. The last Mayor to serve non-consecutive terms was Bill Na"
+        }
+      ]
+    },
+    {
+      "classification": "unreviewed_topical_match_not_a_finding",
+      "source_sha256": "e9db115b8aaa89268e8fbc8db77dece5e61cde5a346746c280ef863e3df5dfd0",
+      "source_url": "https://www.cheyennecity.org/Your-Government/Boards-Commissions",
+      "source_retrieved_at": "2026-11-08T16:26:22.538494+00:00",
+      "page": null,
+      "extraction_method": "html_text",
+      "quality_verified": false,
+      "representation_path": "text/e9db115b8aaa89268e8fbc8db77dece5e61cde5a346746c280ef863e3df5dfd0.txt",
+      "representation_text_sha256": "bbce566bab0b1d162b912cf3e1cc00683fabb8532ea53d2e099b11587eaa28df",
+      "representation_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/22880f4c2443b35dd5c4b53e67708302bc66f9cc/text/e9db115b8aaa89268e8fbc8db77dece5e61cde5a346746c280ef863e3df5dfd0.txt",
+      "original_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/22880f4c2443b35dd5c4b53e67708302bc66f9cc/objects/e9/e9db115b8aaa89268e8fbc8db77dece5e61cde5a346746c280ef863e3df5dfd0",
+      "evidence": [
+        {
+          "term": "rail",
+          "match_start": 2030,
+          "match_end": 2034,
+          "passage_start": 1880,
+          "passage_end": 2284,
+          "text": "\nBoard of Adjustment\nBuilding Code Board of Appeals\nCheyenne Housing Authority Board\nCheyenne-Laramie Co. Economic Development JPB\nCheyenne Passenger Rail Commission\nCity/County Health Board\nCommunity Action of Laramie County\nCommunity Technology Advisory Council\nContractor Licensing Board\nDowntown Development Authority\nFire Civil Service Commission\nFriends of the Botanic Gardens\nGreenway Advisory Com"
+        },
+        {
+          "term": "greenway",
+          "match_start": 2263,
+          "match_end": 2271,
+          "passage_start": 2113,
+          "passage_end": 2521,
+          "text": "ty Technology Advisory Council\nContractor Licensing Board\nDowntown Development Authority\nFire Civil Service Commission\nFriends of the Botanic Gardens\nGreenway Advisory Committee\nHistoric Preservation Board\nHousing and Community Dev Advisory Council\nInnovation and Entrepreneur Advisory Council\nInternational Fire Code Board of Appeals\nMayor's Council for People with Disabilities\nMayor's Youth Council\nMPO Ci"
+        },
+        {
+          "term": "transit",
+          "match_start": 2607,
+          "match_end": 2614,
+          "passage_start": 2457,
+          "passage_end": 2864,
+          "text": "ouncil for People with Disabilities\nMayor's Youth Council\nMPO Citizen's Advisory Committee\nPlanning Commission\nPolice Civil Service Commission\nPublic Transit Advisory Board\nTourism Promotion Joint Powers Board\nUrban Renewal Authority\nShare\nFacebook\nX\nEmail\nPrint\nBack to top\nSite Footer\nSite Footer\nContact\nCity of Cheyenne\n2101 O'Neil Ave.\nCheyenne, WY 82001\n(307) 637-6200\n- Telephone\n7-1-1\nor\n1-800-877-9"
+        }
+      ]
+    },
+    {
+      "classification": "unreviewed_topical_match_not_a_finding",
+      "source_sha256": "effa524b7580c3987c3c3d07349e937e86faabdd7a86eee9e810bcaa6697158a",
+      "source_url": "https://www.cheyennecity.org/Home",
+      "source_retrieved_at": "2026-11-08T16:26:10.546533+00:00",
+      "page": null,
+      "extraction_method": "html_text",
+      "quality_verified": false,
+      "representation_path": "text/effa524b7580c3987c3c3d07349e937e86faabdd7a86eee9e810bcaa6697158a.txt",
+      "representation_text_sha256": "b0f6332ee135bffe9bb59939ec56e92ce38d5d16c3331a111acb6e63e4f5e7f3",
+      "representation_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/22880f4c2443b35dd5c4b53e67708302bc66f9cc/text/effa524b7580c3987c3c3d07349e937e86faabdd7a86eee9e810bcaa6697158a.txt",
+      "original_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/22880f4c2443b35dd5c4b53e67708302bc66f9cc/objects/ef/effa524b7580c3987c3c3d07349e937e86faabdd7a86eee9e810bcaa6697158a",
+      "evidence": [
+        {
+          "term": "road",
+          "match_start": 2136,
+          "match_end": 2140,
+          "passage_start": 1986,
+          "passage_end": 2390,
+          "text": "Planning Organization will host a public open house for residents to provide feedback on potential future extensions of Parsley Boulevard and Wallick Road.\nThe extensions would be south of College Drive and west of U.S. 85.\nThe open house will be Wednesday, Nov. 17, from 5:30 p.m. to 7 p.m. at Afflerbach Elementary School, 400 West Wallick Road.\nThe Mayor’s Minute from Mayor Patrick Collins – Nov. 6, "
+        },
+        {
+          "term": "road",
+          "match_start": 2328,
+          "match_end": 2332,
+          "passage_start": 2178,
+          "passage_end": 2582,
+          "text": "lege Drive and west of U.S. 85.\nThe open house will be Wednesday, Nov. 17, from 5:30 p.m. to 7 p.m. at Afflerbach Elementary School, 400 West Wallick Road.\nThe Mayor’s Minute from Mayor Patrick Collins – Nov. 6, 2026\nPublished on November 06, 2026\nCheck out this week's Mayor's Minute from Mayor Collins:\nCity announces sanitation and facility schedule for Veterans Day 2026\nPublished on November 05, 202"
+        },
+        {
+          "term": "street",
+          "match_start": 3074,
+          "match_end": 3080,
+          "passage_start": 2924,
+          "passage_end": 3330,
+          "text": "unity Links\nCity Code\nPublic Records Request\nCity Services FAQ page\nWyoming 211 - Community Resources\nVideo Tour\nWhat’s happening near me?\nEnter your street address\nAround Town\nCheyenne Botanic Gardens\nA treasured garden space for enjoyment, celebration, and education\nCheyenne Depot Plaza\nThe Depot Plaza serves as the cultural and entertainment hub of Downtown Cheyenne\nCheyenne Frontier Days\nSince 1897,"
+        }
+      ]
+    },
+    {
+      "classification": "unreviewed_topical_match_not_a_finding",
+      "source_sha256": "f8d5b0ec65f2535172348894c908a14c5e8d791d19b7a04cf033e1011e1d7dd9",
+      "source_url": "https://www.laramiecountywy.gov/County-Government/Elected-Officials/County-Clerk/Finance",
+      "source_retrieved_at": "2026-11-08T16:26:02.549635+00:00",
+      "page": null,
+      "extraction_method": "html_text",
+      "quality_verified": false,
+      "representation_path": "text/f8d5b0ec65f2535172348894c908a14c5e8d791d19b7a04cf033e1011e1d7dd9.txt",
+      "representation_text_sha256": "7adb382383808a33c39a755b62f050d064ddf02904fc13c48a2ebcd60f0de310",
+      "representation_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/22880f4c2443b35dd5c4b53e67708302bc66f9cc/text/f8d5b0ec65f2535172348894c908a14c5e8d791d19b7a04cf033e1011e1d7dd9.txt",
+      "original_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/22880f4c2443b35dd5c4b53e67708302bc66f9cc/objects/f8/f8d5b0ec65f2535172348894c908a14c5e8d791d19b7a04cf033e1011e1d7dd9",
+      "evidence": [
+        {
+          "term": "street",
+          "match_start": 5631,
+          "match_end": 5637,
+          "passage_start": 5481,
+          "passage_end": 5763,
+          "text": "rsday\n08:00 AM–05:00 PM\nFriday\n08:00 AM–05:00 PM\nSaturday\nClosed\nAppointments Preferred\nBack to top\nSite Footer\nContact Us\nLaramie County\n309 W. 20th Street\nCheyenne, WY 82001\nSite Footer\nShare & Connect\nFollow us on Social Media\n© 2026 Laramie County, Wyoming |\nPowered by\nGranicus"
+        }
+      ]
+    },
+    {
+      "classification": "unreviewed_topical_match_not_a_finding",
+      "source_sha256": "fe51cc4936134d625fdb7d689e61a6faede2f62246fae5201fb193d22aa2dc85",
+      "source_url": "https://www.cheyennecity.org/Your-Government/Departments/Police-Department",
+      "source_retrieved_at": "2026-11-08T16:26:48.554576+00:00",
+      "page": null,
+      "extraction_method": "html_text",
+      "quality_verified": false,
+      "representation_path": "text/fe51cc4936134d625fdb7d689e61a6faede2f62246fae5201fb193d22aa2dc85.txt",
+      "representation_text_sha256": "ffca20446cb00ee13762161e3f0906002e17dbd40680d865d0f11be522642553",
+      "representation_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/22880f4c2443b35dd5c4b53e67708302bc66f9cc/text/fe51cc4936134d625fdb7d689e61a6faede2f62246fae5201fb193d22aa2dc85.txt",
+      "original_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/22880f4c2443b35dd5c4b53e67708302bc66f9cc/objects/fe/fe51cc4936134d625fdb7d689e61a6faede2f62246fae5201fb193d22aa2dc85",
+      "evidence": [
+        {
+          "term": "street",
+          "match_start": 1488,
+          "match_end": 1494,
+          "passage_start": 1338,
+          "passage_end": 1744,
+          "text": "one\nAdministrative Line: 307-637-6500\nEmail\ninfo@cheyennepd.org\nWebsite\nCheyenne Police Department\nLocation\nCheyenne Public Safety Center\n415 W. 18th Street\nCheyenne\n82001\nView Map\nHours\nSunday\nClosed\nMonday\n08:00 AM–05:00 PM\nTuesday\n08:00 AM–05:00 PM\nWednesday\n08:00 AM–05:00 PM\nThursday\n08:00 AM–05:00 PM\nFriday\n08:00 AM–05:00 PM\nSaturday\nClosed\nShare\nFacebook\nX\nEmail\nPrint\nBack to top\nSite Footer\nSite "
+        }
+      ]
+    },
+    {
+      "classification": "unreviewed_topical_match_not_a_finding",
+      "source_sha256": "00f462be921543c29907c0eabe9565316cb479aa2d9df8068b809446edf8c5a5",
+      "source_url": "https://www.cheyennecity.org/files/sharedassets/public/v/1/your-government/city-council/fc-2023/fc-02-21-23-minutes.pdf",
+      "source_retrieved_at": "2026-11-08T16:49:43.317118+00:00",
+      "page": 1,
+      "extraction_method": "tesseract",
+      "quality_verified": false,
+      "representation_path": "derived/00f462be921543c29907c0eabe9565316cb479aa2d9df8068b809446edf8c5a5/page-000001.json",
+      "representation_text_sha256": "df90bc6df2ffeb0d2d5e9bae3d75fc93a5e5959d2623e8fdfa6316841472b35c",
+      "representation_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/22880f4c2443b35dd5c4b53e67708302bc66f9cc/derived/00f462be921543c29907c0eabe9565316cb479aa2d9df8068b809446edf8c5a5/page-000001.json",
+      "original_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/22880f4c2443b35dd5c4b53e67708302bc66f9cc/objects/00/00f462be921543c29907c0eabe9565316cb479aa2d9df8068b809446edf8c5a5",
+      "evidence": [
+        {
+          "term": "rail",
+          "match_start": 578,
+          "match_end": 582,
+          "passage_start": 428,
+          "passage_end": 832,
+          "text": "f retail liquor license application filed with the City Clerk’s\nOffice for Wyoming Horse Racing, LLC d/b/a Horse Palace, Lot 1, Block One,\nSwan Ranch Rail Park, 16\" Filing, Cheyenne, WY (license currently held by Poor\nRichard’s d/b/a Poor Richard's).\n\nDr. Aldrich moved to approve, seconded by Mr. Roybal. Motion carried by unanimous voice vote.\n\nWendy Kinkade, City Clerk’s Office, provided a staff repo"
+        }
+      ]
+    },
+    {
+      "classification": "unreviewed_topical_match_not_a_finding",
+      "source_sha256": "00f462be921543c29907c0eabe9565316cb479aa2d9df8068b809446edf8c5a5",
+      "source_url": "https://www.cheyennecity.org/files/sharedassets/public/v/1/your-government/city-council/fc-2023/fc-02-21-23-minutes.pdf",
+      "source_retrieved_at": "2026-11-08T16:49:43.317118+00:00",
+      "page": 2,
+      "extraction_method": "tesseract",
+      "quality_verified": false,
+      "representation_path": "derived/00f462be921543c29907c0eabe9565316cb479aa2d9df8068b809446edf8c5a5/page-000002.json",
+      "representation_text_sha256": "d4c4b93a15473e05840a77474168628ef05e847be1be24c03e68265a4b7352c8",
+      "representation_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/22880f4c2443b35dd5c4b53e67708302bc66f9cc/derived/00f462be921543c29907c0eabe9565316cb479aa2d9df8068b809446edf8c5a5/page-000002.json",
+      "original_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/22880f4c2443b35dd5c4b53e67708302bc66f9cc/objects/00/00f462be921543c29907c0eabe9565316cb479aa2d9df8068b809446edf8c5a5",
+      "evidence": [
+        {
+          "term": "street",
+          "match_start": 754,
+          "match_end": 760,
+          "passage_start": 604,
+          "passage_end": 1010,
+          "text": "TS/LEGAL;\n\n©) Grant Award Agreement between the City of Cheyenne and the Wyoming Office\nof Homeland Security for project scoping of the Cheyenne 18!\" Street Storm Sewer\nInterceptor Advance Assistance Project. (2019-2022 Optional 1% Sales Tax\nFunding and US Department of Homeland Security FEMA Funding)\n\nDr. Aldrich moved to approve in an amount of $270,000.00 in grant funds and $30,000.00 in city\nmatch f"
+        }
+      ]
+    },
+    {
+      "classification": "unreviewed_topical_match_not_a_finding",
+      "source_sha256": "00f462be921543c29907c0eabe9565316cb479aa2d9df8068b809446edf8c5a5",
+      "source_url": "https://www.cheyennecity.org/files/sharedassets/public/v/1/your-government/city-council/fc-2023/fc-02-21-23-minutes.pdf",
+      "source_retrieved_at": "2026-11-08T16:49:43.317118+00:00",
+      "page": 3,
+      "extraction_method": "tesseract",
+      "quality_verified": false,
+      "representation_path": "derived/00f462be921543c29907c0eabe9565316cb479aa2d9df8068b809446edf8c5a5/page-000003.json",
+      "representation_text_sha256": "aade19a9a0daef12af488c939b49c1271ce078c1d7930596e5f4968bdd81d120",
+      "representation_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/22880f4c2443b35dd5c4b53e67708302bc66f9cc/derived/00f462be921543c29907c0eabe9565316cb479aa2d9df8068b809446edf8c5a5/page-000003.json",
+      "original_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/22880f4c2443b35dd5c4b53e67708302bc66f9cc/objects/00/00f462be921543c29907c0eabe9565316cb479aa2d9df8068b809446edf8c5a5",
+      "evidence": [
+        {
+          "term": "transit",
+          "match_start": 1999,
+          "match_end": 2006,
+          "passage_start": 1849,
+          "passage_end": 2086,
+          "text": " and\nRoybal commended on the item.\n\n29. | CONSIDERATION OF BIDS/PURCHASES/REQUESTS FOR PROPOSALS:\n\nd) Consideration of Bid #E-12-23 for lift-equipped Transit vehicles for the City of\nCheyenne, Transit Division. (Transit Program Funding)\n"
+        },
+        {
+          "term": "transit",
+          "match_start": 2042,
+          "match_end": 2049,
+          "passage_start": 1892,
+          "passage_end": 2086,
+          "text": "ONSIDERATION OF BIDS/PURCHASES/REQUESTS FOR PROPOSALS:\n\nd) Consideration of Bid #E-12-23 for lift-equipped Transit vehicles for the City of\nCheyenne, Transit Division. (Transit Program Funding)\n"
+        },
+        {
+          "term": "transit",
+          "match_start": 2061,
+          "match_end": 2068,
+          "passage_start": 1911,
+          "passage_end": 2086,
+          "text": "S/PURCHASES/REQUESTS FOR PROPOSALS:\n\nd) Consideration of Bid #E-12-23 for lift-equipped Transit vehicles for the City of\nCheyenne, Transit Division. (Transit Program Funding)\n"
+        }
+      ]
+    },
+    {
+      "classification": "unreviewed_topical_match_not_a_finding",
+      "source_sha256": "00f462be921543c29907c0eabe9565316cb479aa2d9df8068b809446edf8c5a5",
+      "source_url": "https://www.cheyennecity.org/files/sharedassets/public/v/1/your-government/city-council/fc-2023/fc-02-21-23-minutes.pdf",
+      "source_retrieved_at": "2026-11-08T16:49:43.317118+00:00",
+      "page": 4,
+      "extraction_method": "tesseract",
+      "quality_verified": false,
+      "representation_path": "derived/00f462be921543c29907c0eabe9565316cb479aa2d9df8068b809446edf8c5a5/page-000004.json",
+      "representation_text_sha256": "50cf413f6f7ef06b12c3f3f1b9b13fe98a18c0b2ba1b2c94b8c2aea298b2df3d",
+      "representation_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/22880f4c2443b35dd5c4b53e67708302bc66f9cc/derived/00f462be921543c29907c0eabe9565316cb479aa2d9df8068b809446edf8c5a5/page-000004.json",
+      "original_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/22880f4c2443b35dd5c4b53e67708302bc66f9cc/objects/00/00f462be921543c29907c0eabe9565316cb479aa2d9df8068b809446edf8c5a5",
+      "evidence": [
+        {
+          "term": "transit",
+          "match_start": 191,
+          "match_end": 198,
+          "passage_start": 41,
+          "passage_end": 448,
+          "text": "Davey Coach, Sedalia, CO, in an amount not to exceed\n$1,282,573.99, seconded by Mr. Esquibel. Motion carried by unanimous voice vote.\n\nRenee Jording, Transit Director, provided a staff report and committee members Aldrich and\nRoybal commented on the item.\n\ne) Consideration of Bid #S-1 1-23 for an agreement between the City of Cheyenne and\nJTL Group Inc. d/b/a Knife River for the 2023 City Overlay Part #2"
+        }
+      ]
+    },
+    {
+      "classification": "unreviewed_topical_match_not_a_finding",
+      "source_sha256": "00f5dceb4ed5b8c3bb7783c9f42eec1d3540fb83ce3f83dbb227d341a6b4a05a",
+      "source_url": "https://www.cheyennecity.org/files/sharedassets/public/v/1/your-government/city-council/psc-2022/psc-06-07-22-agenda.pdf",
+      "source_retrieved_at": "2026-11-08T17:15:35.808339+00:00",
+      "page": 1,
+      "extraction_method": "native",
+      "quality_verified": false,
+      "representation_path": "derived/00f5dceb4ed5b8c3bb7783c9f42eec1d3540fb83ce3f83dbb227d341a6b4a05a/page-000001.json",
+      "representation_text_sha256": "833a3c909a67ca9ca93d64c203b00e54b2f042231f6a0ef865bb49c33310cda3",
+      "representation_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/22880f4c2443b35dd5c4b53e67708302bc66f9cc/derived/00f5dceb4ed5b8c3bb7783c9f42eec1d3540fb83ce3f83dbb227d341a6b4a05a/page-000001.json",
+      "original_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/22880f4c2443b35dd5c4b53e67708302bc66f9cc/objects/00/00f5dceb4ed5b8c3bb7783c9f42eec1d3540fb83ce3f83dbb227d341a6b4a05a",
+      "evidence": [
+        {
+          "term": "road",
+          "match_start": 1330,
+          "match_end": 1334,
+          "passage_start": 1180,
+          "passage_end": 1584,
+          "text": "cus.com)\n\n\n10.   ORDINANCE – 3rd READING – Annexing to the City of Cheyenne, Wyoming, land\n      located northwest of the intersection of Christensen Road and Pershing Boulevard.\n\n ACTION:\n\n11.   ORDINANCE – 3rd READING – Amending the Official Zoning Map of the City of\n      Cheyenne changing the zoning classification from County A1 Agricultural and Rural\n      Residential to MR Medium-Density Residen"
+        },
+        {
+          "term": "road",
+          "match_start": 1657,
+          "match_end": 1661,
+          "passage_start": 1507,
+          "passage_end": 1911,
+          "text": "unty A1 Agricultural and Rural\n      Residential to MR Medium-Density Residential for land located northwest of the\n      intersection of Christensen Road and Pershing Boulevard.\n\n ACTION:\n\n12.   ORDINANCE – 3rd READING – Annexing to the City of Cheyenne, Wyoming, land\n      located north of Missile Drive, east of I-25.\n\n ACTION:\n\n13.   ORDINANCE – 3rd READING – Amending the Official Zoning Map of the"
+        }
+      ]
+    },
+    {
+      "classification": "unreviewed_topical_match_not_a_finding",
+      "source_sha256": "00f5dceb4ed5b8c3bb7783c9f42eec1d3540fb83ce3f83dbb227d341a6b4a05a",
+      "source_url": "https://www.cheyennecity.org/files/sharedassets/public/v/1/your-government/city-council/psc-2022/psc-06-07-22-agenda.pdf",
+      "source_retrieved_at": "2026-11-08T17:15:35.808339+00:00",
+      "page": 2,
+      "extraction_method": "native",
+      "quality_verified": false,
+      "representation_path": "derived/00f5dceb4ed5b8c3bb7783c9f42eec1d3540fb83ce3f83dbb227d341a6b4a05a/page-000002.json",
+      "representation_text_sha256": "97b57ecf6b8d6ba3dd754642a83c279b40556d2d34e2689863c1273b135175e7",
+      "representation_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/22880f4c2443b35dd5c4b53e67708302bc66f9cc/derived/00f5dceb4ed5b8c3bb7783c9f42eec1d3540fb83ce3f83dbb227d341a6b4a05a/page-000002.json",
+      "original_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/22880f4c2443b35dd5c4b53e67708302bc66f9cc/objects/00/00f5dceb4ed5b8c3bb7783c9f42eec1d3540fb83ce3f83dbb227d341a6b4a05a",
+      "evidence": [
+        {
+          "term": "road",
+          "match_start": 115,
+          "match_end": 119,
+          "passage_start": 0,
+          "passage_end": 369,
+          "text": "14.   ORDINANCE – 3rd READING – Annexing to the City of Cheyenne, Wyoming, land\n      located north of High Plains Road, west of I-25.\n\n ACTION:\n\n15.   ORDINANCE – 3rd READING – Amending the Official Zoning Map of the City of\n      Cheyenne changing the zoning classification from Swan Ranch PUD Unit Development to\n      City Swan Ranch PUD Planned Unit Development (O"
+        },
+        {
+          "term": "road",
+          "match_start": 432,
+          "match_end": 436,
+          "passage_start": 282,
+          "passage_end": 686,
+          "text": "wan Ranch PUD Unit Development to\n      City Swan Ranch PUD Planned Unit Development (Ordinance No. 3989) for land located\n      north of High Plains Road, west of I-25.\n\n ACTION:\n\n16.   ORDINANCE – 3rd READING – Amending the Official Zoning Map of the City of\n      Cheyenne changing the zoning classification from MUB Mixed-Use Business Emphasis to\n      CB Community Business for land located northeas"
+        },
+        {
+          "term": "road",
+          "match_start": 748,
+          "match_end": 752,
+          "passage_start": 598,
+          "passage_end": 1002,
+          "text": "MUB Mixed-Use Business Emphasis to\n      CB Community Business for land located northeast of the intersection of Dell Range\n      Boulevard and Ridge Road.\n\n ACTION:\n\n17.   ORDINANCE – 3rd READING – Amending the Official Zoning Map of the City of\n      Cheyenne changing the zoning classification from CB Community Business to MR\n      Medium-Density Residential for land located southeast of the interse"
+        }
+      ]
+    },
+    {
+      "classification": "unreviewed_topical_match_not_a_finding",
+      "source_sha256": "00f5dceb4ed5b8c3bb7783c9f42eec1d3540fb83ce3f83dbb227d341a6b4a05a",
+      "source_url": "https://www.cheyennecity.org/files/sharedassets/public/v/1/your-government/city-council/psc-2022/psc-06-07-22-agenda.pdf",
+      "source_retrieved_at": "2026-11-08T17:15:35.808339+00:00",
+      "page": 3,
+      "extraction_method": "native",
+      "quality_verified": false,
+      "representation_path": "derived/00f5dceb4ed5b8c3bb7783c9f42eec1d3540fb83ce3f83dbb227d341a6b4a05a/page-000003.json",
+      "representation_text_sha256": "767ad157b9de45a2840d77a70aa46a8475060aeb1d512129ffc6c75ca16bcbe1",
+      "representation_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/22880f4c2443b35dd5c4b53e67708302bc66f9cc/derived/00f5dceb4ed5b8c3bb7783c9f42eec1d3540fb83ce3f83dbb227d341a6b4a05a/page-000003.json",
+      "original_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/22880f4c2443b35dd5c4b53e67708302bc66f9cc/objects/00/00f5dceb4ed5b8c3bb7783c9f42eec1d3540fb83ce3f83dbb227d341a6b4a05a",
+      "evidence": [
+        {
+          "term": "road",
+          "match_start": 575,
+          "match_end": 579,
+          "passage_start": 425,
+          "passage_end": 829,
+          "text": "tion 25, T.14N., R.66W., of the\n      6th P.M., City of Cheyenne, Laramie County, Wyoming (located northwest of the\n      intersection of Christensen Road and Pershing Boulevard). (SPONSOR – MR. COOK)\n\n ACTION:\n\n28.   RESOLUTION – Providing for partial vacation of the Storey Boulevard Extension Final\n      Plat. (SPONSOR – MR. COOK)\n\n ACTION:\n\n31.   RESOLUTION – Authorizing the creation and appointmen"
+        }
+      ]
+    },
+    {
+      "classification": "unreviewed_topical_match_not_a_finding",
+      "source_sha256": "010bd83d980db77cff63d872d0af99d9ad84914af753e62bf5997fa238a50bdd",
+      "source_url": "https://www.cheyennecity.org/files/sharedassets/public/v/1/your-government/city-council/fc-2023/fc-12-04-23-agenda.pdf",
+      "source_retrieved_at": "2026-11-08T16:41:58.869663+00:00",
+      "page": 2,
+      "extraction_method": "native",
+      "quality_verified": false,
+      "representation_path": "derived/010bd83d980db77cff63d872d0af99d9ad84914af753e62bf5997fa238a50bdd/page-000002.json",
+      "representation_text_sha256": "177a072fb269994a5b789c5ea8e2f66adefa1a105f2e1b80c58c45aec19a5c04",
+      "representation_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/22880f4c2443b35dd5c4b53e67708302bc66f9cc/derived/010bd83d980db77cff63d872d0af99d9ad84914af753e62bf5997fa238a50bdd/page-000002.json",
+      "original_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/22880f4c2443b35dd5c4b53e67708302bc66f9cc/objects/01/010bd83d980db77cff63d872d0af99d9ad84914af753e62bf5997fa238a50bdd",
+      "evidence": [
+        {
+          "term": "street",
+          "match_start": 583,
+          "match_end": 589,
+          "passage_start": 433,
+          "passage_end": 839,
+          "text": "is Project. (2021\n           Specific Purpose Option Tax Fund)\n\nACTION:\n\n      h)   Purchase and Sale Agreement for property located at 813 West 23rd Street for the\n           Reed Avenue Corridor Project. (2021 Specific Purpose Option Tax Fund)\n\nACTION:\n\n28.   CONTRACT MODIFICATIONS:\n\n      a)   Contract Modification #1 to Contract #7770 between the City of Cheyenne and Z\n           and Z Sealcoating, "
+        }
+      ]
+    },
+    {
+      "classification": "unreviewed_topical_match_not_a_finding",
+      "source_sha256": "01a150e0b3a34a66feb9c8466f7fa61ff72e481d429be3796e4d9ff86879a963",
+      "source_url": "https://www.cheyennecity.org/files/sharedassets/public/v/1/your-government/city-council/psc-2024/psc-07-16-24-minutes.pdf",
+      "source_retrieved_at": "2026-11-08T17:10:04.388887+00:00",
+      "page": 1,
+      "extraction_method": "native",
+      "quality_verified": false,
+      "representation_path": "derived/01a150e0b3a34a66feb9c8466f7fa61ff72e481d429be3796e4d9ff86879a963/page-000001.json",
+      "representation_text_sha256": "315d42a6c50da769879ede9ab6d12dd4a55fcb1ea799e9bd982c780de6a33597",
+      "representation_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/22880f4c2443b35dd5c4b53e67708302bc66f9cc/derived/01a150e0b3a34a66feb9c8466f7fa61ff72e481d429be3796e4d9ff86879a963/page-000001.json",
+      "original_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/22880f4c2443b35dd5c4b53e67708302bc66f9cc/objects/01/01a150e0b3a34a66feb9c8466f7fa61ff72e481d429be3796e4d9ff86879a963",
+      "evidence": [
+        {
+          "term": "street",
+          "match_start": 1087,
+          "match_end": 1093,
+          "passage_start": 937,
+          "passage_end": 1343,
+          "text": "ote.\n\nCaptain David Janes, Police Department, provided a staff report.\n\n8.     ORDINANCE —3”’ READING           — Creating Section 10.60.015, Paid On-Street Parking\n       Districts; Establishment, Administration, of the Municipal Code of the City of Cheyenne,\n       Wyoming, establishing the Paid On-Street Parking Districts Program and making\n       conforming amendments as specified.\n\nMr. Segrave move"
+        },
+        {
+          "term": "street",
+          "match_start": 1239,
+          "match_end": 1245,
+          "passage_start": 1089,
+          "passage_end": 1495,
+          "text": "reet Parking\n       Districts; Establishment, Administration, of the Municipal Code of the City of Cheyenne,\n       Wyoming, establishing the Paid On-Street Parking Districts Program and making\n       conforming amendments as specified.\n\nMr. Segrave moved to approve on 3”’ and final reading, seconded by Dr. Rinne. Mr. Segrave\nmoved to amend by substitute dated July 10, 2024, seconded by Dr. Rinne. Motio"
+        },
+        {
+          "term": "road",
+          "match_start": 2233,
+          "match_end": 2237,
+          "passage_start": 2083,
+          "passage_end": 2487,
+          "text": "7W,\n       6th\n           P.M., Laramie County, Wyoming (also known as ‘North Range Business Park’, located\n       northwest of the 1-80 and Roundtop Road interchange). (SPONSOR MR. ROYBAL)\n                                                                             —\n\n\n\n\nMr. Segrave moved to adopt, seconded by Dr. Rinne. Motion carried by unanimous voice vote.\n\nCharles Bloom, Planning & Development D"
+        }
+      ]
+    },
+    {
+      "classification": "unreviewed_topical_match_not_a_finding",
+      "source_sha256": "01a5d77bfaeb54d0057fe869e727fc80b1d205ab95df55daa928446e5aaa97d6",
+      "source_url": "https://www.cheyennecity.org/files/sharedassets/public/v/1/your-government/city-council/psc-2022/psc-02-23-22-minutes.pdf",
+      "source_retrieved_at": "2026-11-08T17:17:08.681533+00:00",
+      "page": 2,
+      "extraction_method": "tesseract",
+      "quality_verified": false,
+      "representation_path": "derived/01a5d77bfaeb54d0057fe869e727fc80b1d205ab95df55daa928446e5aaa97d6/page-000002.json",
+      "representation_text_sha256": "ea108744cf216a1f0479fc59094d35ee0e15c0e17ec219df7a88650a777c2bfe",
+      "representation_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/22880f4c2443b35dd5c4b53e67708302bc66f9cc/derived/01a5d77bfaeb54d0057fe869e727fc80b1d205ab95df55daa928446e5aaa97d6/page-000002.json",
+      "original_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/22880f4c2443b35dd5c4b53e67708302bc66f9cc/objects/01/01a5d77bfaeb54d0057fe869e727fc80b1d205ab95df55daa928446e5aaa97d6",
+      "evidence": [
+        {
+          "term": "road",
+          "match_start": 3047,
+          "match_end": 3051,
+          "passage_start": 2897,
+          "passage_end": 3100,
+          "text": " Map of the City of\nCheyenne changing the zoning classification from CB Community Business to HI Heavy\nIndustrial for land located north of Campstool Road, west of Progress Circle. (SPONSOR\n—- MR. COOK)\n"
+        }
+      ]
+    },
+    {
+      "classification": "unreviewed_topical_match_not_a_finding",
+      "source_sha256": "02655cafa3b55f9938e5b154d1147bf1fb4e7dc9f116a0660656ff4ab5d3e0f4",
+      "source_url": "https://www.cheyennecity.org/files/sharedassets/public/v/1/your-government/city-council/fc-2022/fc-09-06-22-agenda-2.pdf",
+      "source_retrieved_at": "2026-11-08T16:50:48.057144+00:00",
+      "page": 2,
+      "extraction_method": "native",
+      "quality_verified": false,
+      "representation_path": "derived/02655cafa3b55f9938e5b154d1147bf1fb4e7dc9f116a0660656ff4ab5d3e0f4/page-000002.json",
+      "representation_text_sha256": "e6c850a0ec848443b097321dc27f7a172020e72d6975037618cf2b412a98e3d4",
+      "representation_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/22880f4c2443b35dd5c4b53e67708302bc66f9cc/derived/02655cafa3b55f9938e5b154d1147bf1fb4e7dc9f116a0660656ff4ab5d3e0f4/page-000002.json",
+      "original_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/22880f4c2443b35dd5c4b53e67708302bc66f9cc/objects/02/02655cafa3b55f9938e5b154d1147bf1fb4e7dc9f116a0660656ff4ab5d3e0f4",
+      "evidence": [
+        {
+          "term": "transit",
+          "match_start": 112,
+          "match_end": 119,
+          "passage_start": 0,
+          "passage_end": 369,
+          "text": "28.   LEASES/CONTRACTS/LEGAL (continued):\n\n      f)   Memorandum of Understanding between the City of Cheyenne, Transit Division,\n           and Laramie County to provide public transportation services to Laramie County\n           Community College and for an area of Laramie County immediately adjacent to\n           the City. (Revenue to the City)\n\n ACTION:\n\n      g)"
+        },
+        {
+          "term": "transit",
+          "match_start": 433,
+          "match_end": 440,
+          "passage_start": 283,
+          "passage_end": 690,
+          "text": "immediately adjacent to\n           the City. (Revenue to the City)\n\n ACTION:\n\n      g)   Grant agreement between the City of Cheyenne and the Federal Transit\n           Administration to fund Transit operations. (ARP 5307 Grant)\n\n ACTION:\n\n      h)   Agreement between the City of Cheyenne, Community Recreation & Events, and\n           the Officials for Fun Club to officiate the 2022-2023 youth and adult "
+        },
+        {
+          "term": "transit",
+          "match_start": 475,
+          "match_end": 482,
+          "passage_start": 325,
+          "passage_end": 732,
+          "text": "y. (Revenue to the City)\n\n ACTION:\n\n      g)   Grant agreement between the City of Cheyenne and the Federal Transit\n           Administration to fund Transit operations. (ARP 5307 Grant)\n\n ACTION:\n\n      h)   Agreement between the City of Cheyenne, Community Recreation & Events, and\n           the Officials for Fun Club to officiate the 2022-2023 youth and adult volleyball\n           programs. (Recreatio"
+        }
+      ]
+    },
+    {
+      "classification": "unreviewed_topical_match_not_a_finding",
+      "source_sha256": "02742df3cbd1e799493dcf34548f5d2769c9d2158f5e6f11c571fe222ade003f",
+      "source_url": "https://www.cheyennecity.org/files/sharedassets/public/v/1/your-government/city-council/fc-2025/fc-06-17-25-agenda.pdf",
+      "source_retrieved_at": "2026-11-08T16:29:46.950485+00:00",
+      "page": 2,
+      "extraction_method": "native",
+      "quality_verified": false,
+      "representation_path": "derived/02742df3cbd1e799493dcf34548f5d2769c9d2158f5e6f11c571fe222ade003f/page-000002.json",
+      "representation_text_sha256": "4a0c6e0e1c1fed53c0a431dafd260dedf4ba8c9a5073bffda9fc127eaccdb501",
+      "representation_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/22880f4c2443b35dd5c4b53e67708302bc66f9cc/derived/02742df3cbd1e799493dcf34548f5d2769c9d2158f5e6f11c571fe222ade003f/page-000002.json",
+      "original_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/22880f4c2443b35dd5c4b53e67708302bc66f9cc/objects/02/02742df3cbd1e799493dcf34548f5d2769c9d2158f5e6f11c571fe222ade003f",
+      "evidence": [
+        {
+          "term": "street",
+          "match_start": 166,
+          "match_end": 172,
+          "passage_start": 16,
+          "passage_end": 422,
+          "text": "TRACTS/LEGAL (continued):\n\n      i)   Professional Services Agreement between the City of Cheyenne and HDR\n           Engineering, Inc., for the 18th Street Reconstruction Project. (2023-2026 Optional\n           1% Sales Tax Fund, FEMA HMGP Grant and BOPU Funds)\n\nACTION:\n\n      j)   Right-of-Way License Agreement between the City of Cheyenne and Volunteers\n           of America Northern Rockies for conn"
+        },
+        {
+          "term": "street",
+          "match_start": 564,
+          "match_end": 570,
+          "passage_start": 414,
+          "passage_end": 820,
+          "text": "for connection of a storm sewer pipe from the\n           onsite detention pond to the storm sewer network in Seymour Avenue near East\n           25th Street.\n\nACTION:\n\n      k)   Memorandum of Understanding between the City of Cheyenne and Cheyenne\n           Frontier Days, Inc. for the use of city-owned land and buildings for parking,\n           camping and other activities during the 2025 Cheyenne Fro"
+        },
+        {
+          "term": "street",
+          "match_start": 1444,
+          "match_end": 1450,
+          "passage_start": 1294,
+          "passage_end": 1700,
+          "text": " and Solid Waste Fund)\n\nACTION:\n\n      c)   Consideration of Bid #E-20-25 for furnishing five (5) new Snow Plows for the\n           City of Cheyenne, Street & Alley Division. (2019-2022 Optional 1% Sales Tax\n           Fund)\n\nACTION:\n\n      d)   Consideration of Bid #E-21-25 for an Agreement between the City of Cheyenne\n           and Kleen-Tech Services, LLC, for Janitorial Services for the City of Che"
+        }
+      ]
+    },
+    {
+      "classification": "unreviewed_topical_match_not_a_finding",
+      "source_sha256": "031f6784822968fd4dd00e67716091537789808541b9811afe84f937c9175fb2",
+      "source_url": "https://www.cheyennecity.org/files/sharedassets/public/v/1/your-government/city-council/fc-2025/fc-01-07-25-minutes.pdf",
+      "source_retrieved_at": "2026-11-08T16:40:04.102176+00:00",
+      "page": 1,
+      "extraction_method": "native",
+      "quality_verified": false,
+      "representation_path": "derived/031f6784822968fd4dd00e67716091537789808541b9811afe84f937c9175fb2/page-000001.json",
+      "representation_text_sha256": "68bd9bf6ee9baadd3bcc2fbb92884ed09b1289fcbea1764b439573d1172d0126",
+      "representation_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/22880f4c2443b35dd5c4b53e67708302bc66f9cc/derived/031f6784822968fd4dd00e67716091537789808541b9811afe84f937c9175fb2/page-000001.json",
+      "original_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/22880f4c2443b35dd5c4b53e67708302bc66f9cc/objects/03/031f6784822968fd4dd00e67716091537789808541b9811afe84f937c9175fb2",
+      "evidence": [
+        {
+          "term": "transit",
+          "match_start": 652,
+          "match_end": 659,
+          "passage_start": 502,
+          "passage_end": 909,
+          "text": "and WYDOT for a Wyoming Rural\n              Public Transportation grant to assist in providing local match for operating ftinds\n              for the Transit Program or Fiscal Year 2025. (Revenue to the City)\n\nMr. RoybaL moved to approve in an amount of $300,000.00, seconded by Mr. Esquibcl. Motion\ncarried by unanimous voice vote.\n\nVicki Nemecek, Public Works Director, provided a staff report and committ"
+        }
+      ]
+    },
+    {
+      "classification": "unreviewed_topical_match_not_a_finding",
+      "source_sha256": "0356098f048a1b8402a8dd070eb6fc3e62b126fb5ab9b639a0b162a634bd8860",
+      "source_url": "https://www.cheyennecity.org/files/sharedassets/public/v/1/your-government/city-council/fc-2023/fc-06-20-23-agenda.pdf",
+      "source_retrieved_at": "2026-11-08T16:42:51.270406+00:00",
+      "page": 2,
+      "extraction_method": "native",
+      "quality_verified": false,
+      "representation_path": "derived/0356098f048a1b8402a8dd070eb6fc3e62b126fb5ab9b639a0b162a634bd8860/page-000002.json",
+      "representation_text_sha256": "e960123b204a4f8c58a0fd40a4fbcd8f550a3b233823fb76bf562495b3eff802",
+      "representation_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/22880f4c2443b35dd5c4b53e67708302bc66f9cc/derived/0356098f048a1b8402a8dd070eb6fc3e62b126fb5ab9b639a0b162a634bd8860/page-000002.json",
+      "original_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/22880f4c2443b35dd5c4b53e67708302bc66f9cc/objects/03/0356098f048a1b8402a8dd070eb6fc3e62b126fb5ab9b639a0b162a634bd8860",
+      "evidence": [
+        {
+          "term": "street",
+          "match_start": 916,
+          "match_end": 922,
+          "passage_start": 766,
+          "passage_end": 1172,
+          "text": "          Fund)\n\n ACTION:\n\n      d)     Professional Services Agreement between the City of Cheyenne and Sunrise\n             Engineering for the 7th Street Drainage and Access Improvements Project. (2019-\n             2022 Optional 1% Sales Tax Fund)\n\n ACTION:\n\n      e)     Memorandum of Understanding between the City of Cheyenne and the Wyoming\n             Department of Transportation for the City’s "
+        },
+        {
+          "term": "road",
+          "match_start": 1595,
+          "match_end": 1599,
+          "passage_start": 1445,
+          "passage_end": 1817,
+          "text": "articipating in\n             Federal Project No. B231031, Surface Transportation Urban Program (US 30, Dell\n             Range Boulevard, and Whitney Road). (2023-2026 Optional 1% Sales Tax Fund)\n\n ACTION:\n\n      g)     Agreement between the City of Cheyenne, Laramie County, and Cheyenne Animal\n             Shelter for Animal Shelter Services. (General Fund)\n\n ACTION:\n\f"
+        }
+      ]
+    },
+    {
+      "classification": "unreviewed_topical_match_not_a_finding",
+      "source_sha256": "0356098f048a1b8402a8dd070eb6fc3e62b126fb5ab9b639a0b162a634bd8860",
+      "source_url": "https://www.cheyennecity.org/files/sharedassets/public/v/1/your-government/city-council/fc-2023/fc-06-20-23-agenda.pdf",
+      "source_retrieved_at": "2026-11-08T16:42:51.270406+00:00",
+      "page": 3,
+      "extraction_method": "native",
+      "quality_verified": false,
+      "representation_path": "derived/0356098f048a1b8402a8dd070eb6fc3e62b126fb5ab9b639a0b162a634bd8860/page-000003.json",
+      "representation_text_sha256": "e16723530520869ea44ecc21cdf8f89a6c6b9590bde14b001b88a875a144c881",
+      "representation_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/22880f4c2443b35dd5c4b53e67708302bc66f9cc/derived/0356098f048a1b8402a8dd070eb6fc3e62b126fb5ab9b639a0b162a634bd8860/page-000003.json",
+      "original_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/22880f4c2443b35dd5c4b53e67708302bc66f9cc/objects/03/0356098f048a1b8402a8dd070eb6fc3e62b126fb5ab9b639a0b162a634bd8860",
+      "evidence": [
+        {
+          "term": "rail",
+          "match_start": 527,
+          "match_end": 531,
+          "passage_start": 377,
+          "passage_end": 781,
+          "text": "al Fund)\n\n ACTION:\n\n      j)   Professional Services Agreement between the City of Cheyenne and DHM Design\n           Corporation for the Reed Avenue Rail Corridor Design Project. (2017 Specific\n           Purpose Option Tax Fund)\n\n ACTION:\n\n      k)   Preliminary Engineering Services Agreement between the City of Cheyenne and\n           BNSF Railway Company for BNSF Contract Number BF-20246698, for P"
+        }
+      ]
+    },
+    {
+      "classification": "unreviewed_topical_match_not_a_finding",
+      "source_sha256": "035c78d18e589bd3c5d247fd92e9f23c959005947230f4a7eba88b46569a0f76",
+      "source_url": "https://www.cheyennecity.org/files/sharedassets/public/v/1/your-government/city-council/fc-2024/fc-11-18-24-agenda.pdf",
+      "source_retrieved_at": "2026-11-08T16:40:16.205598+00:00",
+      "page": 1,
+      "extraction_method": "native",
+      "quality_verified": false,
+      "representation_path": "derived/035c78d18e589bd3c5d247fd92e9f23c959005947230f4a7eba88b46569a0f76/page-000001.json",
+      "representation_text_sha256": "8082951a427f9062b90c8da20ff7a162904c1cc9d9ae4073997c02e9059940ae",
+      "representation_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/22880f4c2443b35dd5c4b53e67708302bc66f9cc/derived/035c78d18e589bd3c5d247fd92e9f23c959005947230f4a7eba88b46569a0f76/page-000001.json",
+      "original_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/22880f4c2443b35dd5c4b53e67708302bc66f9cc/objects/03/035c78d18e589bd3c5d247fd92e9f23c959005947230f4a7eba88b46569a0f76",
+      "evidence": [
+        {
+          "term": "street",
+          "match_start": 1423,
+          "match_end": 1429,
+          "passage_start": 1273,
+          "passage_end": 1679,
+          "text": "e debts\n      pursuant to Wyoming Statute § 16-4-502. (SPONSOR – DR. ALDRICH)\n\nACTION:\n\n28.   RESOLUTION –By the Governing Body designating a Paid On-Street Parking District\n      for Downtown Cheyenne in accordance with Section 10.60.015 of the Municipal Code of\n      the City of Cheyenne, Wyoming. (SPONSOR – MR. JOHNSON)\n\nACTION:\n\n29.   LEASES/CONTRACTS/LEGAL:\n\n      k)     Agreement between the City "
+        },
+        {
+          "term": "road",
+          "match_start": 2171,
+          "match_end": 2175,
+          "passage_start": 2021,
+          "passage_end": 2207,
+          "text": "ween the City of\n             Cheyenne and Magic City Enterprises Inc. regarding access to the properties\n             between 1780 and 1800 Westland Road. (FTA Federal Grant)\n\nACTION:\n\f"
+        }
+      ]
+    },
+    {
+      "classification": "unreviewed_topical_match_not_a_finding",
+      "source_sha256": "03858dbaca270db28253d4133e9b36a7aa9d2aa841851b01a35635e5a1e05580",
+      "source_url": "https://www.cheyennecity.org/files/sharedassets/public/v/1/your-government/city-council/psc-2024/psc-10-22-24-agenda.pdf",
+      "source_retrieved_at": "2026-11-08T17:09:36.324584+00:00",
+      "page": 1,
+      "extraction_method": "native",
+      "quality_verified": false,
+      "representation_path": "derived/03858dbaca270db28253d4133e9b36a7aa9d2aa841851b01a35635e5a1e05580/page-000001.json",
+      "representation_text_sha256": "4607a0a3899c1fca5464a070d21973829498f01b9a3fddbf2790e4b4ca21a32d",
+      "representation_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/22880f4c2443b35dd5c4b53e67708302bc66f9cc/derived/03858dbaca270db28253d4133e9b36a7aa9d2aa841851b01a35635e5a1e05580/page-000001.json",
+      "original_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/22880f4c2443b35dd5c4b53e67708302bc66f9cc/objects/03/03858dbaca270db28253d4133e9b36a7aa9d2aa841851b01a35635e5a1e05580",
+      "evidence": [
+        {
+          "term": "street",
+          "match_start": 1400,
+          "match_end": 1406,
+          "passage_start": 1250,
+          "passage_end": 1656,
+          "text": "d READING – Amending the Official Zoning Map of the City of\n        Cheyenne adding the Urban Use Overlay District to land located north of East 21st Street\n        and east of and adjacent to Warren Avenue. (SPONSOR – MR. ROYBAL)\n\nACTION:\n\n12.     RESOLUTION – Authorizing the Mayor and the City Clerk to sign a Final Plat for\n        VOANR Cheyenne East, City of Cheyenne, Laramie County, Wyoming (locate"
+        },
+        {
+          "term": "street",
+          "match_start": 1716,
+          "match_end": 1722,
+          "passage_start": 1566,
+          "passage_end": 1972,
+          "text": "al Plat for\n        VOANR Cheyenne East, City of Cheyenne, Laramie County, Wyoming (located between\n        Maxwell Avenue, Seymour Avenue, East 26th Street and East 25th Street). (SPONSOR –\n        MR. ROYBAL)\n\nACTION:\n\n13.     RESOLUTION – Certifying compliance with Wyoming Statute § 15-1-402 for the City-\n        initiated annexation of various tracts of land completely surrounded by current City lim"
+        },
+        {
+          "term": "street",
+          "match_start": 1737,
+          "match_end": 1743,
+          "passage_start": 1587,
+          "passage_end": 1993,
+          "text": "OANR Cheyenne East, City of Cheyenne, Laramie County, Wyoming (located between\n        Maxwell Avenue, Seymour Avenue, East 26th Street and East 25th Street). (SPONSOR –\n        MR. ROYBAL)\n\nACTION:\n\n13.     RESOLUTION – Certifying compliance with Wyoming Statute § 15-1-402 for the City-\n        initiated annexation of various tracts of land completely surrounded by current City limits\n        situate i"
+        }
+      ]
+    },
+    {
+      "classification": "unreviewed_topical_match_not_a_finding",
+      "source_sha256": "03858dbaca270db28253d4133e9b36a7aa9d2aa841851b01a35635e5a1e05580",
+      "source_url": "https://www.cheyennecity.org/files/sharedassets/public/v/1/your-government/city-council/psc-2024/psc-10-22-24-agenda.pdf",
+      "source_retrieved_at": "2026-11-08T17:09:36.324584+00:00",
+      "page": 2,
+      "extraction_method": "native",
+      "quality_verified": false,
+      "representation_path": "derived/03858dbaca270db28253d4133e9b36a7aa9d2aa841851b01a35635e5a1e05580/page-000002.json",
+      "representation_text_sha256": "b97cf757e269b24f35d3d1d4617a178a839c3bbf1145f1f850ec84b549bd404f",
+      "representation_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/22880f4c2443b35dd5c4b53e67708302bc66f9cc/derived/03858dbaca270db28253d4133e9b36a7aa9d2aa841851b01a35635e5a1e05580/page-000002.json",
+      "original_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/22880f4c2443b35dd5c4b53e67708302bc66f9cc/objects/03/03858dbaca270db28253d4133e9b36a7aa9d2aa841851b01a35635e5a1e05580",
+      "evidence": [
+        {
+          "term": "road",
+          "match_start": 253,
+          "match_end": 257,
+          "passage_start": 103,
+          "passage_end": 507,
+          "text": "annexation of various tracts of land completely surrounded by current City limits\n      situate in northeast Cheyenne generally located east of Ridge Road, west of Whitney\n      Road and along Dell Range Boulevard. (SPONSOR – MR. ROYBAL)\n\nACTION:\n\n15.   RESOLUTION – Expressing the support of the Governing Body for acceptance of real\n      property from Stephanie White. (SPONSOR – MR. ROYBAL)\n\nACTION:\n"
+        },
+        {
+          "term": "road",
+          "match_start": 281,
+          "match_end": 285,
+          "passage_start": 131,
+          "passage_end": 535,
+          "text": " of land completely surrounded by current City limits\n      situate in northeast Cheyenne generally located east of Ridge Road, west of Whitney\n      Road and along Dell Range Boulevard. (SPONSOR – MR. ROYBAL)\n\nACTION:\n\n15.   RESOLUTION – Expressing the support of the Governing Body for acceptance of real\n      property from Stephanie White. (SPONSOR – MR. ROYBAL)\n\nACTION:\n\n16.   RESOLUTION – Expressi"
+        }
+      ]
+    },
+    {
+      "classification": "unreviewed_topical_match_not_a_finding",
+      "source_sha256": "03bf84b9bd7dc81d689b8ec05d996f50b6112caad73a1a7367837c659218caa1",
+      "source_url": "https://www.cheyennecity.org/files/sharedassets/public/v/1/your-government/city-council/psc-2025/psc-05-19-25-agenda-2.pdf",
+      "source_retrieved_at": "2026-11-08T17:08:29.156334+00:00",
+      "page": 1,
+      "extraction_method": "native",
+      "quality_verified": false,
+      "representation_path": "derived/03bf84b9bd7dc81d689b8ec05d996f50b6112caad73a1a7367837c659218caa1/page-000001.json",
+      "representation_text_sha256": "119f54c5b35c5b53fd75c14f7e6711d93b48010d9c7b417103e7cdd24036e36b",
+      "representation_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/22880f4c2443b35dd5c4b53e67708302bc66f9cc/derived/03bf84b9bd7dc81d689b8ec05d996f50b6112caad73a1a7367837c659218caa1/page-000001.json",
+      "original_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/22880f4c2443b35dd5c4b53e67708302bc66f9cc/objects/03/03bf84b9bd7dc81d689b8ec05d996f50b6112caad73a1a7367837c659218caa1",
+      "evidence": [
+        {
+          "term": "road",
+          "match_start": 1557,
+          "match_end": 1561,
+          "passage_start": 1407,
+          "passage_end": 1811,
+          "text": "nitions.\n\nACTION:\n\n12.    RESOLUTION – Granting an exception to the '201 Agreement' for the owner of the\n       property located south of High Plains Road and west of South Greeley Highway, between\n       Robert Avenue and Dayshia Lane. (POSTPONED FROM MAY 12, 2025)\n\nACTION:\n\n19.    RESOLUTION – Certifying compliance with Wyoming Statute § 15-1-402 for the City-\n       initiated annexation of various "
+        },
+        {
+          "term": "road",
+          "match_start": 1994,
+          "match_end": 1998,
+          "passage_start": 1844,
+          "passage_end": 2070,
+          "text": "ded by current city limits\n       situate in east Cheyenne generally located south of Dell Range Boulevard, east of Dry\n       Creek, west of Whitney Road, and north of Charles Street. (SPONSOR – MR.\n       SEGRAVE)\n\nACTION:\n\f"
+        },
+        {
+          "term": "street",
+          "match_start": 2021,
+          "match_end": 2027,
+          "passage_start": 1871,
+          "passage_end": 2070,
+          "text": "       situate in east Cheyenne generally located south of Dell Range Boulevard, east of Dry\n       Creek, west of Whitney Road, and north of Charles Street. (SPONSOR – MR.\n       SEGRAVE)\n\nACTION:\n\f"
+        }
+      ]
+    },
+    {
+      "classification": "unreviewed_topical_match_not_a_finding",
+      "source_sha256": "03bf84b9bd7dc81d689b8ec05d996f50b6112caad73a1a7367837c659218caa1",
+      "source_url": "https://www.cheyennecity.org/files/sharedassets/public/v/1/your-government/city-council/psc-2025/psc-05-19-25-agenda-2.pdf",
+      "source_retrieved_at": "2026-11-08T17:08:29.156334+00:00",
+      "page": 2,
+      "extraction_method": "native",
+      "quality_verified": false,
+      "representation_path": "derived/03bf84b9bd7dc81d689b8ec05d996f50b6112caad73a1a7367837c659218caa1/page-000002.json",
+      "representation_text_sha256": "deaa1bf6a0e9c83b66071daaee48feafad7ad150dec6a996967449df321b1f00",
+      "representation_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/22880f4c2443b35dd5c4b53e67708302bc66f9cc/derived/03bf84b9bd7dc81d689b8ec05d996f50b6112caad73a1a7367837c659218caa1/page-000002.json",
+      "original_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/22880f4c2443b35dd5c4b53e67708302bc66f9cc/objects/03/03bf84b9bd7dc81d689b8ec05d996f50b6112caad73a1a7367837c659218caa1",
+      "evidence": [
+        {
+          "term": "road",
+          "match_start": 162,
+          "match_end": 166,
+          "passage_start": 12,
+          "passage_end": 416,
+          "text": "TION – Approving sanitary sewer services, by Outside User Agreement for\n      Sutherland's Fun Family Fitness, LLC, for land at 2611 and 2607 Whitney Road (located\n      east of Whitney Road south of Pershing Boulevard). (SPONSOR – MR. SEGRAVE)\n\nACTION:\n\n23.   RESOLUTION – Approving sanitary sewer and water services, by Outside User\n      Agreement, for Icerock Wyoming, LLC, for land located east of C"
+        },
+        {
+          "term": "road",
+          "match_start": 198,
+          "match_end": 202,
+          "passage_start": 48,
+          "passage_end": 452,
+          "text": "ices, by Outside User Agreement for\n      Sutherland's Fun Family Fitness, LLC, for land at 2611 and 2607 Whitney Road (located\n      east of Whitney Road south of Pershing Boulevard). (SPONSOR – MR. SEGRAVE)\n\nACTION:\n\n23.   RESOLUTION – Approving sanitary sewer and water services, by Outside User\n      Agreement, for Icerock Wyoming, LLC, for land located east of Clear Creek Parkway\n      south of Hi"
+        },
+        {
+          "term": "road",
+          "match_start": 462,
+          "match_end": 466,
+          "passage_start": 312,
+          "passage_end": 716,
+          "text": "nd water services, by Outside User\n      Agreement, for Icerock Wyoming, LLC, for land located east of Clear Creek Parkway\n      south of High Plains Road. (SPONSOR – MR. SEGRAVE)\n\nACTION:\n\nOTHER ITEMS FOR THE AGENDA:\n\n      a)     RESOLUTION - Modifying the conditions of approval of Resolution No. 6424,\n             for an Outside User Agreement for water service for Oh Hail No LLC, for land\n        "
+        }
+      ]
+    },
+    {
+      "classification": "unreviewed_topical_match_not_a_finding",
+      "source_sha256": "046c80e9030ad730d899ab2ae68aca711197ea307ddee147750141d35f43762b",
+      "source_url": "https://www.cheyennecity.org/files/sharedassets/public/v/1/your-government/city-council/fc-2024/fc-04-15-24-minutes.pdf",
+      "source_retrieved_at": "2026-11-08T16:41:20.643471+00:00",
+      "page": 1,
+      "extraction_method": "native",
+      "quality_verified": false,
+      "representation_path": "derived/046c80e9030ad730d899ab2ae68aca711197ea307ddee147750141d35f43762b/page-000001.json",
+      "representation_text_sha256": "4861cd0a57661778fe074a15ef70af22061bcb1c27e88d56365ed9e07563ad48",
+      "representation_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/22880f4c2443b35dd5c4b53e67708302bc66f9cc/derived/046c80e9030ad730d899ab2ae68aca711197ea307ddee147750141d35f43762b/page-000001.json",
+      "original_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/22880f4c2443b35dd5c4b53e67708302bc66f9cc/objects/04/046c80e9030ad730d899ab2ae68aca711197ea307ddee147750141d35f43762b",
+      "evidence": [
+        {
+          "term": "street",
+          "match_start": 1726,
+          "match_end": 1732,
+          "passage_start": 1576,
+          "passage_end": 1982,
+          "text": ":\n\n       c)      Professional Services Agreement between the City of Cheyenne and DHM Design\n               PC for engineering services for the 1çih Street Master Plan Project. (2019-2022\n               Optional 1% Sales Tax Fund)\n\nMr. White moved to approve in an amount not to exceed S153,055.00, seconded by Mr. Cook.\nMotion carried with Mr. Cook and Mr. White voting ‘YES” and Mr. Johnson voting “NO”."
+        }
+      ]
+    },
+    {
+      "classification": "unreviewed_topical_match_not_a_finding",
+      "source_sha256": "046c80e9030ad730d899ab2ae68aca711197ea307ddee147750141d35f43762b",
+      "source_url": "https://www.cheyennecity.org/files/sharedassets/public/v/1/your-government/city-council/fc-2024/fc-04-15-24-minutes.pdf",
+      "source_retrieved_at": "2026-11-08T16:41:20.643471+00:00",
+      "page": 2,
+      "extraction_method": "native",
+      "quality_verified": false,
+      "representation_path": "derived/046c80e9030ad730d899ab2ae68aca711197ea307ddee147750141d35f43762b/page-000002.json",
+      "representation_text_sha256": "7e961a7de09c979a609a1cd84e3e886a713c582f3f8b0a6bb2212f0c88004e2e",
+      "representation_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/22880f4c2443b35dd5c4b53e67708302bc66f9cc/derived/046c80e9030ad730d899ab2ae68aca711197ea307ddee147750141d35f43762b/page-000002.json",
+      "original_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/22880f4c2443b35dd5c4b53e67708302bc66f9cc/objects/04/046c80e9030ad730d899ab2ae68aca711197ea307ddee147750141d35f43762b",
+      "evidence": [
+        {
+          "term": "street",
+          "match_start": 1894,
+          "match_end": 1900,
+          "passage_start": 1744,
+          "passage_end": 2150,
+          "text": "eration of Bid #E-15-24 for furnishing Bituminous Asphalt Hot Mix, Tack\n              Oil, and Cold Mix on an annual basis, for the City of Cheyenne, Street & Alley\n              Division. (20 19-2022 Optional 1% Sales Tax Fund)\n\nMr. White moved to accept the bid from JTL Group Inc. d/b/a Knife River for the purchase of\nBituminous Asphalt Hot Mix in an amount not to exceed $382,500.00 and Cold Mix in an"
+        }
+      ]
+    },
+    {
+      "classification": "unreviewed_topical_match_not_a_finding",
+      "source_sha256": "05a7f6238c76c5e1f30efb3e6ef179709ad77e8a7aaf4398bf4a32cd493fc4b3",
+      "source_url": "https://www.cheyennecity.org/files/sharedassets/public/v/1/your-government/city-council/psc-2026/psc-10-05-26-minutes.pdf",
+      "source_retrieved_at": "2026-11-08T16:52:32.257922+00:00",
+      "page": 1,
+      "extraction_method": "native",
+      "quality_verified": false,
+      "representation_path": "derived/05a7f6238c76c5e1f30efb3e6ef179709ad77e8a7aaf4398bf4a32cd493fc4b3/page-000001.json",
+      "representation_text_sha256": "0527e2f3d19bce3f3186fad517b17b28ea4e618df68ff138a3b6103a943fb50d",
+      "representation_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/22880f4c2443b35dd5c4b53e67708302bc66f9cc/derived/05a7f6238c76c5e1f30efb3e6ef179709ad77e8a7aaf4398bf4a32cd493fc4b3/page-000001.json",
+      "original_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/22880f4c2443b35dd5c4b53e67708302bc66f9cc/objects/05/05a7f6238c76c5e1f30efb3e6ef179709ad77e8a7aaf4398bf4a32cd493fc4b3",
+      "evidence": [
+        {
+          "term": "road",
+          "match_start": 840,
+          "match_end": 844,
+          "passage_start": 690,
+          "passage_end": 1094,
+          "text": "g to the City of Cheyenne, Wyoming, land\n                                              —\n\n\n\n\n       located south of Interstate 80, southeast of Otto Road, and west of Interstate 25.\n\nDr. Rinne moved to approve on 31 and final reading, seconded by Mr. Esquihel. Motion carried\nby unanimous voice vote.\n\nConnor White, Planning & Development Department Senior Planner, provided a staff report and\nadvised t"
+        },
+        {
+          "term": "road",
+          "match_start": 1542,
+          "match_end": 1546,
+          "passage_start": 1392,
+          "passage_end": 1796,
+          "text": "n of AG Agricultural and LI Light Industrial\n       for land annexed to the City of Cheyenne located south of Interstate 80, southeast of Otto\n       Road, and west of Interstate 25.\n\nMr. Esquihel moved to approve on 31 and final reading, seconded by Dr. Rinne. Motion carried\nby unanimous voice vote.\n\nConnor White, Planning & Development Department Senior Planner, provided a staff report and\nadvised t"
+        },
+        {
+          "term": "road",
+          "match_start": 2325,
+          "match_end": 2329,
+          "passage_start": 2175,
+          "passage_end": 2579,
+          "text": "                          —\n\n\n\n\n       Cheyenne, changing the zoning classification for land located south of Interstate 80,\n       southeast of Otto Road, and west of Interstate 25 from AG Agricultural and LI Light\n       Industrial to BP Business Park.\n\nDr. Rinne moved to approve on 3fh and final reading. seconded by Mr. Esquibel. Motion carried\nby unanimous voice vote.\n\nConnor White, Planning & Dev"
+        }
+      ]
+    },
+    {
+      "classification": "unreviewed_topical_match_not_a_finding",
+      "source_sha256": "05a7f6238c76c5e1f30efb3e6ef179709ad77e8a7aaf4398bf4a32cd493fc4b3",
+      "source_url": "https://www.cheyennecity.org/files/sharedassets/public/v/1/your-government/city-council/psc-2026/psc-10-05-26-minutes.pdf",
+      "source_retrieved_at": "2026-11-08T16:52:32.257922+00:00",
+      "page": 2,
+      "extraction_method": "native",
+      "quality_verified": false,
+      "representation_path": "derived/05a7f6238c76c5e1f30efb3e6ef179709ad77e8a7aaf4398bf4a32cd493fc4b3/page-000002.json",
+      "representation_text_sha256": "86254eaf2e507dfcdd32d2256ff2a1acc2dde28a68ac1cf0a151262b305a287f",
+      "representation_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/22880f4c2443b35dd5c4b53e67708302bc66f9cc/derived/05a7f6238c76c5e1f30efb3e6ef179709ad77e8a7aaf4398bf4a32cd493fc4b3/page-000002.json",
+      "original_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/22880f4c2443b35dd5c4b53e67708302bc66f9cc/objects/05/05a7f6238c76c5e1f30efb3e6ef179709ad77e8a7aaf4398bf4a32cd493fc4b3",
+      "evidence": [
+        {
+          "term": "street",
+          "match_start": 384,
+          "match_end": 390,
+          "passage_start": 234,
+          "passage_end": 640,
+          "text": "                —\n\n\n\n\n       of South Greeley Highway, south of West College Drive. and southwest of and adjacent to\n       the intersection of Apple Street and York Avenue.\n\nMr. Esquibel moved to approve on 31(1 and final reading, seconded by Dr. Rinne. Motion carried\nby unanimous voice vote.\n\nConnor White. Planning & Development Department Senior Planner, provided a staff report and\nadvised there have"
+        },
+        {
+          "term": "street",
+          "match_start": 1383,
+          "match_end": 1389,
+          "passage_start": 1233,
+          "passage_end": 1639,
+          "text": "ty of Cheyenne. located west of South Greeley Highway, south of West College Drive,\n       and southwest of and adjacent to the intersection of Apple Street and York Avenue.\n\nDr. Rinne moved to approve on 3” and final reading. seconded by Mr. Esquibel. Motion carried\nby unanimous voice vote.\n\nConnor White, Planning & Development Department Senior Planner, provided a staff report and\nadvised there have b"
+        },
+        {
+          "term": "street",
+          "match_start": 2159,
+          "match_end": 2165,
+          "passage_start": 2009,
+          "passage_end": 2415,
+          "text": "for land located west of South Greeley\n       Highway, south of West College Drive. and southwest of and adjacent to the intersection\n       of Apple Street and York Avenue from AG Agricultural to LI Light Industrial.\n                                                  —                   —\n\n\n\n\nMr. Esquibel moved to approve on 3rd and final reading, seconded by Dr. Emmons. Motion carried\nby unanimous voic"
+        }
+      ]
+    },
+    {
+      "classification": "unreviewed_topical_match_not_a_finding",
+      "source_sha256": "05a7f6238c76c5e1f30efb3e6ef179709ad77e8a7aaf4398bf4a32cd493fc4b3",
+      "source_url": "https://www.cheyennecity.org/files/sharedassets/public/v/1/your-government/city-council/psc-2026/psc-10-05-26-minutes.pdf",
+      "source_retrieved_at": "2026-11-08T16:52:32.257922+00:00",
+      "page": 3,
+      "extraction_method": "native",
+      "quality_verified": false,
+      "representation_path": "derived/05a7f6238c76c5e1f30efb3e6ef179709ad77e8a7aaf4398bf4a32cd493fc4b3/page-000003.json",
+      "representation_text_sha256": "5ce4cf37dd3236993dd29d703d4ba406cc4bf4acbc5d18430896d061c1ea6e2c",
+      "representation_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/22880f4c2443b35dd5c4b53e67708302bc66f9cc/derived/05a7f6238c76c5e1f30efb3e6ef179709ad77e8a7aaf4398bf4a32cd493fc4b3/page-000003.json",
+      "original_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/22880f4c2443b35dd5c4b53e67708302bc66f9cc/objects/05/05a7f6238c76c5e1f30efb3e6ef179709ad77e8a7aaf4398bf4a32cd493fc4b3",
+      "evidence": [
+        {
+          "term": "road",
+          "match_start": 393,
+          "match_end": 397,
+          "passage_start": 243,
+          "passage_end": 647,
+          "text": "d removing the Natural and Cultural Resources\n       area designation for property generally located south of Interstate 80, southeast of Otto\n       Road. and west of Interstate 25. (POSTPONED FROM SEPTEMBER 28. 2026)\n\nMr. Esquihel moved to adopt, seconded by Dr. Emmons, Motion carried by unanimous voice vote.\n\nConnor White, Planning & Development Department Senior Planner, provided a staff report an"
+        },
+        {
+          "term": "street",
+          "match_start": 1108,
+          "match_end": 1114,
+          "passage_start": 958,
+          "passage_end": 1364,
+          "text": "      generally located west of South Greeley Highway. south of West College Drive, and\n       southwest of and adjacent to the intersection of Apple Street and York Avenue.\n       (POSTPONED FROM SEPTEMBER 28, 2026)\n\nMr Esquibel moved to adopt, seconded by Dr. Rinne. Motion carried by unanimous voice vote.\n\nConnor White, Planning & Development Department Senior Planner, provided a staff report and\nadvi"
+        },
+        {
+          "term": "road",
+          "match_start": 1810,
+          "match_end": 1814,
+          "passage_start": 1660,
+          "passage_end": 2064,
+          "text": "n a Final Plat for\n       Hitching Post District, City of Cheyenne. Laramie County, Wyoming, located south of\n       Interstate 80, southeast of Otto Road, and west of Interstate 25. (SPONSOR      DR.\n                                                                                         —\n\n\n\n\n       ALDR IC H)\n\nDr. Rinne moved to adopt, seconded by Mr. Esquihel. Motion carried by unanimous voice vot"
+        }
+      ]
+    },
+    {
+      "classification": "unreviewed_topical_match_not_a_finding",
+      "source_sha256": "05a7f6238c76c5e1f30efb3e6ef179709ad77e8a7aaf4398bf4a32cd493fc4b3",
+      "source_url": "https://www.cheyennecity.org/files/sharedassets/public/v/1/your-government/city-council/psc-2026/psc-10-05-26-minutes.pdf",
+      "source_retrieved_at": "2026-11-08T16:52:32.257922+00:00",
+      "page": 4,
+      "extraction_method": "native",
+      "quality_verified": false,
+      "representation_path": "derived/05a7f6238c76c5e1f30efb3e6ef179709ad77e8a7aaf4398bf4a32cd493fc4b3/page-000004.json",
+      "representation_text_sha256": "6326ee08fedb058f17a63a0985a0957be853d8eb38766c2cb924bde118ee05c1",
+      "representation_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/22880f4c2443b35dd5c4b53e67708302bc66f9cc/derived/05a7f6238c76c5e1f30efb3e6ef179709ad77e8a7aaf4398bf4a32cd493fc4b3/page-000004.json",
+      "original_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/22880f4c2443b35dd5c4b53e67708302bc66f9cc/objects/05/05a7f6238c76c5e1f30efb3e6ef179709ad77e8a7aaf4398bf4a32cd493fc4b3",
+      "evidence": [
+        {
+          "term": "road",
+          "match_start": 373,
+          "match_end": 377,
+          "passage_start": 223,
+          "passage_end": 627,
+          "text": "iminary Plat for Hitching Post District City’ of Cheyenne. Laramie County,\n                Wyoming. located south of Interstate 80, southeast of Otto Road. and west of\n                Interstate 25.\n\nDr. Rinne moved to acknowledge receipt, seconded by Mr. Esquibel.          Motion carried by\nunanimous voice vote.\n\nConnor White, Planning & Development Department Senior Planner, provided a stall report "
+        }
+      ]
+    },
+    {
+      "classification": "unreviewed_topical_match_not_a_finding",
+      "source_sha256": "06be3b512454c07cc8fe0d5f263dd531baff8c7d348af9c829225b61e827b3a5",
+      "source_url": "https://www.cheyennecity.org/files/sharedassets/public/v/1/your-government/city-council/fc-2022/fc-06-06-22-minutes.pdf",
+      "source_retrieved_at": "2026-11-08T16:51:25.771989+00:00",
+      "page": 2,
+      "extraction_method": "tesseract",
+      "quality_verified": false,
+      "representation_path": "derived/06be3b512454c07cc8fe0d5f263dd531baff8c7d348af9c829225b61e827b3a5/page-000002.json",
+      "representation_text_sha256": "a348ca3414887aa975936878dd837296bd56f3836a3171a0463b4d609c6c3920",
+      "representation_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/22880f4c2443b35dd5c4b53e67708302bc66f9cc/derived/06be3b512454c07cc8fe0d5f263dd531baff8c7d348af9c829225b61e827b3a5/page-000002.json",
+      "original_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/22880f4c2443b35dd5c4b53e67708302bc66f9cc/objects/06/06be3b512454c07cc8fe0d5f263dd531baff8c7d348af9c829225b61e827b3a5",
+      "evidence": [
+        {
+          "term": "street",
+          "match_start": 1648,
+          "match_end": 1654,
+          "passage_start": 1498,
+          "passage_end": 1904,
+          "text": "eport. Committee member,\nDr. Aldrich commented on the item. Public comment was made by Jim Weaver, #1 Properties.\n\n33. RESOLUTION — Approving the 15\" Street Corridor Urban Renewal Plan and the 15!\nStreet Corridor Urban Renewal Project pursuant to Wyoming Statute §15-9-110.\n(SPONSOR ~ MR. SEGRAVE)\n\nDr Aldrich moved to adopt, seconded by Mr. Johnson. Motion failed with Mr. Esquibel voting\n“YES” and Dr. Al"
+        },
+        {
+          "term": "street",
+          "match_start": 1695,
+          "match_end": 1701,
+          "passage_start": 1545,
+          "passage_end": 1951,
+          "text": "on the item. Public comment was made by Jim Weaver, #1 Properties.\n\n33. RESOLUTION — Approving the 15\" Street Corridor Urban Renewal Plan and the 15!\nStreet Corridor Urban Renewal Project pursuant to Wyoming Statute §15-9-110.\n(SPONSOR ~ MR. SEGRAVE)\n\nDr Aldrich moved to adopt, seconded by Mr. Johnson. Motion failed with Mr. Esquibel voting\n“YES” and Dr. Aldrich and Mr. Johnson voting “NO”.\n\nCharles Blo"
+        }
+      ]
+    },
+    {
+      "classification": "unreviewed_topical_match_not_a_finding",
+      "source_sha256": "06be3b512454c07cc8fe0d5f263dd531baff8c7d348af9c829225b61e827b3a5",
+      "source_url": "https://www.cheyennecity.org/files/sharedassets/public/v/1/your-government/city-council/fc-2022/fc-06-06-22-minutes.pdf",
+      "source_retrieved_at": "2026-11-08T16:51:25.771989+00:00",
+      "page": 4,
+      "extraction_method": "tesseract",
+      "quality_verified": false,
+      "representation_path": "derived/06be3b512454c07cc8fe0d5f263dd531baff8c7d348af9c829225b61e827b3a5/page-000004.json",
+      "representation_text_sha256": "7332b9bccf70b369a7c301e92003cc8a1b18efed94ed2792594acec40ee193d7",
+      "representation_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/22880f4c2443b35dd5c4b53e67708302bc66f9cc/derived/06be3b512454c07cc8fe0d5f263dd531baff8c7d348af9c829225b61e827b3a5/page-000004.json",
+      "original_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/22880f4c2443b35dd5c4b53e67708302bc66f9cc/objects/06/06be3b512454c07cc8fe0d5f263dd531baff8c7d348af9c829225b61e827b3a5",
+      "evidence": [
+        {
+          "term": "road",
+          "match_start": 760,
+          "match_end": 764,
+          "passage_start": 610,
+          "passage_end": 1014,
+          "text": "the item.\n\nfy Contract Modification #1 to Contract #7500 between the City of Cheyenne and V\n& M Properties, LLC for property located at 1800 Westland Road, Cheyenne,\nWyoming, for the purpose of relocating the Cheyenne Transit System office and\ntransfer station. (Federal Grant WY-2021-005-00 and Transit Fund)\n\nDr. Aldrich moved to approve, seconded by Mr. Johnson. Motion carried by unanimous voice\nvote"
+        },
+        {
+          "term": "transit",
+          "match_start": 828,
+          "match_end": 835,
+          "passage_start": 678,
+          "passage_end": 1085,
+          "text": " City of Cheyenne and V\n& M Properties, LLC for property located at 1800 Westland Road, Cheyenne,\nWyoming, for the purpose of relocating the Cheyenne Transit System office and\ntransfer station. (Federal Grant WY-2021-005-00 and Transit Fund)\n\nDr. Aldrich moved to approve, seconded by Mr. Johnson. Motion carried by unanimous voice\nvote.\n\nVicki Nemecek, Public Works Director, provided a staff report.\n37. A"
+        },
+        {
+          "term": "transit",
+          "match_start": 906,
+          "match_end": 913,
+          "passage_start": 756,
+          "passage_end": 1163,
+          "text": "and Road, Cheyenne,\nWyoming, for the purpose of relocating the Cheyenne Transit System office and\ntransfer station. (Federal Grant WY-2021-005-00 and Transit Fund)\n\nDr. Aldrich moved to approve, seconded by Mr. Johnson. Motion carried by unanimous voice\nvote.\n\nVicki Nemecek, Public Works Director, provided a staff report.\n37. APPLICATIONS/LICENSES/PERMITS:\n\na) _Barand grill license application filed with"
+        }
+      ]
+    },
+    {
+      "classification": "unreviewed_topical_match_not_a_finding",
+      "source_sha256": "07277df638f24aee0e5c27068eb8c33ad23fe04de5f5485f5d575d2a001c9273",
+      "source_url": "https://www.cheyennecity.org/files/sharedassets/public/v/1/your-government/city-council/psc-2025/psc-12-01-25-agenda.pdf",
+      "source_retrieved_at": "2026-11-08T17:07:30.859086+00:00",
+      "page": 1,
+      "extraction_method": "native",
+      "quality_verified": false,
+      "representation_path": "derived/07277df638f24aee0e5c27068eb8c33ad23fe04de5f5485f5d575d2a001c9273/page-000001.json",
+      "representation_text_sha256": "9b356f6a476b94644f1a4e2a44a2d439e0098d93b0a817c3bebda64510872a8e",
+      "representation_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/22880f4c2443b35dd5c4b53e67708302bc66f9cc/derived/07277df638f24aee0e5c27068eb8c33ad23fe04de5f5485f5d575d2a001c9273/page-000001.json",
+      "original_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/22880f4c2443b35dd5c4b53e67708302bc66f9cc/objects/07/07277df638f24aee0e5c27068eb8c33ad23fe04de5f5485f5d575d2a001c9273",
+      "evidence": [
+        {
+          "term": "street",
+          "match_start": 1530,
+          "match_end": 1536,
+          "passage_start": 1380,
+          "passage_end": 1786,
+          "text": ", various\n        tracts of land completely surrounded by current City limits situate in eastern Cheyenne,\n        generally located south of Laramie Street, east of T-Bird Drive, north of East Lincolnway\n        and US 30, and west of Parsons Place.\n\nACTION:\n\n8.      ORDINANCE –3rd READING – Amending the Official Zoning Map of the City of\n        Cheyenne, establishing the zoning classifications of: MR"
+        },
+        {
+          "term": "street",
+          "match_start": 1964,
+          "match_end": 1970,
+          "passage_start": 1814,
+          "passage_end": 2220,
+          "text": "l;\n        MUB – Mixed-Use Business; and CB – Community Business, for land annexed to the\n        City of Cheyenne generally located south of Laramie Street, east of T-Bird Drive, north\n        of East Lincolnway and US 30, and west of Parsons Place.\n\nACTION:\n\n9.      ORDINANCE –3rd READING – Annexing to the City of Cheyenne, Wyoming, land\n        located south of Storey Boulevard, west of Converse Aven"
+        },
+        {
+          "term": "street",
+          "match_start": 2258,
+          "match_end": 2264,
+          "passage_start": 2108,
+          "passage_end": 2276,
+          "text": "Annexing to the City of Cheyenne, Wyoming, land\n        located south of Storey Boulevard, west of Converse Avenue, and north of East Carlson\n        Street.\n\nACTION:\n\f"
+        }
+      ]
+    },
+    {
+      "classification": "unreviewed_topical_match_not_a_finding",
+      "source_sha256": "07277df638f24aee0e5c27068eb8c33ad23fe04de5f5485f5d575d2a001c9273",
+      "source_url": "https://www.cheyennecity.org/files/sharedassets/public/v/1/your-government/city-council/psc-2025/psc-12-01-25-agenda.pdf",
+      "source_retrieved_at": "2026-11-08T17:07:30.859086+00:00",
+      "page": 2,
+      "extraction_method": "native",
+      "quality_verified": false,
+      "representation_path": "derived/07277df638f24aee0e5c27068eb8c33ad23fe04de5f5485f5d575d2a001c9273/page-000002.json",
+      "representation_text_sha256": "a6c483431684755ed64720ea5dbff4f272a5b63c2ccf06702086d94375b5aec8",
+      "representation_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/22880f4c2443b35dd5c4b53e67708302bc66f9cc/derived/07277df638f24aee0e5c27068eb8c33ad23fe04de5f5485f5d575d2a001c9273/page-000002.json",
+      "original_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/22880f4c2443b35dd5c4b53e67708302bc66f9cc/objects/07/07277df638f24aee0e5c27068eb8c33ad23fe04de5f5485f5d575d2a001c9273",
+      "evidence": [
+        {
+          "term": "street",
+          "match_start": 293,
+          "match_end": 299,
+          "passage_start": 143,
+          "passage_end": 549,
+          "text": "ricultural for land annexed to\n      the City of Cheyenne located south of Storey Boulevard, west of Converse Avenue, and\n      north of East Carlson Street.\n\nACTION:\n\n11.   ORDINANCE –3rd READING – Amending the Official Zoning Map of the City of\n      Cheyenne, changing the zoning classification for land located south of Storey Boulevard,\n      west of Converse Avenue, and north of East Carlson Street "
+        },
+        {
+          "term": "street",
+          "match_start": 542,
+          "match_end": 548,
+          "passage_start": 392,
+          "passage_end": 798,
+          "text": "    Cheyenne, changing the zoning classification for land located south of Storey Boulevard,\n      west of Converse Avenue, and north of East Carlson Street from AG – Agricultural and\n      CB – Community Business to NR–3 – Neighborhood Residential – High Density.\n\nACTION:\n\nOTHER ITEMS FOR THE AGENDA:\n______________________________________________________________________________\n________________________"
+        }
+      ]
+    }
+  ]
+}
