@@ -1,0 +1,116 @@
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en">
+<head><title>
+	Calendar Search Help - InSite
+</title><meta name="format-detection" content="telephone=no" /></head>
+<body>
+    <form name="form1" method="post" action="./Help.aspx?M=C" id="form1">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="Ui0Z00pX0Aq7AlpFjEyO7NjQiiuRbrKzXbeZYuuMYi05t4tOXl8eoUS2xmpu0LQJLRbQw1NMQxr0FrqvQ7NVUNGfqk3S8semFouAJqj6EkpmEWiT7PjwNw8zUSGuM87zGxhE88pcS5oVThCdebeSdWs5+tejFbjVQT4Z9BfY9Zb5jLCyhYOaoEEpxLZOV+zonSvIoF+BcV93AE4KP82lxrdgVyCpa1lkyYVv5fsY9NQADpzkL8biez00691GwPurbOFnIGd7ODW/Lq5DfcF5L4Vgmrtbf2Lk/NBl8WWcsXh06ijgt0e9tcdDCSHpEvF6UR7wbhaITOK0JCm0TM1Ipq8Or6c8cMCwoe9QlruxXqfrvc+KKascxpC6txwe8xkKhAsPX5a/+gY7066jCGlbOLOYG/zxpriaHbi+uM+PuBxtKlZNDdVo0qaxXfyq8k48LHo8Gz9r5BxNC5LUXBWSJQ==" />
+
+<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="BDEA3729" />
+    
+    
+    
+    <div id="divCalendar" style="font-size: small; font-family: Tahoma">
+        <p>
+            <span id="C1"><b><span style="color: #4682b4; font-size: medium;">Search
+                Help</span></b></span>
+        </p>
+        <p>
+            <span id="C2"><span style="text-decoration: underline">Fields Searched</span></span>
+        </p>
+        <p>
+            <span id="C3">1. Name.
+                <br />
+            </span><span id="C4">2. Date.
+                <br />
+            </span><span id="C5">3. Time.
+                <br />
+            </span><span id="C6">4. Location/Comments.
+                <br />
+            </span><span id="C7">5. Action Notes*.
+                <br />
+                <br />
+            </span><span id="C8">*Requires the notes checkbox to be checked.
+                <br />
+            </span>
+        </p>
+        <p>
+            <span style="text-decoration: underline">Search Terms</span>
+        </p>
+        <p>
+            <strong>Single word</strong> - entering a single word in the search field will return
+            any records with that word.
+            <br />
+            Example: finance<br />
+            Returns: all items with the word "finance"
+        </p>
+        <p>
+            <strong>Multiple words</strong> - entering multiple words without using logic control
+            words will return records that contain all of the words.
+            <br />
+            Example: public safety<br />
+            Returns: only items that contain each of the words "public" and "safety"</p>
+        <p>
+            <strong>Multiple words (with quotes)</strong> - entering multiple words enclosed
+            in double quotes will retrieve items with those exact words or phrase exactly as
+            entered.
+            <br />
+            Example: "city council"
+            <br />
+            Returns: only items that contain the exact phrase "city council"
+        </p>
+        <p>
+            <strong>Wildcard (asterisk)</strong> - entering a word followed by an asterisk (wildcard)
+            will return records that contain that word or words that have more letters wherever
+            the asterisk is placed.
+            <br />
+            Example: license*
+            <br />
+            Returns: only items with the word "license" in them, or variations like "licenses"</p>
+        <p>
+            <span style="text-decoration: underline">Logic Control Words</span>
+        </p>
+        <p>
+            <strong>OR</strong> - search supports the logical "OR" operator. This will search
+            for records that contain either one or both of the search terms on either side of
+            the logic control word.
+            <br />
+            Example: planning or zoning<br />
+            Returns: all records that contain just the word "planning" or just the word "zoning"
+            or records that contain both
+        </p>
+        <p>
+            <strong>AND NOT</strong> - search supports the logical "AND NOT" operator. This
+            will search for all records that, within each single field, contain the first search
+            term, but excludes any items that contain the second search term.
+            <br />
+            Example: public and not housing<br />
+            Returns: any records that contain the word "public" but do not include the word
+            "housing", within each single field
+        </p>
+        
+        <p>
+            <span style="text-decoration: underline">Tips & Tricks</span>
+        </p>
+        <p>
+            Search supports providing a date in order to search just the meeting dates.
+            <br />
+            Example: 6/29/09
+        </p>
+        <p>
+            Search supports limiting the results to a specific period.
+            <br />
+            Example: pick This Month in the listing of time periods
+        </p>
+        <p>
+            *Note - special characters (!, #, %, etc.) aren't searchable by text searches.
+        </p>
+    </div>
+    
+    
+    </form>
+</body>
+</html>

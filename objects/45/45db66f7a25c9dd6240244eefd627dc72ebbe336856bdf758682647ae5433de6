@@ -1,0 +1,664 @@
+{
+ "currentVersion": 11.4,
+ "cimVersion": "3.4.0",
+ "serviceDescription": "Cheyenne and Laramie County Basemap",
+ "mapName": "CountyBaseMap",
+ "description": "Cheyenne/Laramie County Basemap",
+ "copyrightText": "Cheyenne and Laramie County GIS Cooperative",
+ "supportsDynamicLayers": false,
+ "layers": [
+  {
+   "id": 0,
+   "name": "1,156k",
+   "parentLayerId": -1,
+   "defaultVisibility": true,
+   "subLayerIds": [
+    1,
+    3,
+    4
+   ],
+   "minScale": 0,
+   "maxScale": 860001,
+   "type": "Group Layer",
+   "supportsDynamicLegends": false
+  },
+  {
+   "id": 1,
+   "name": "Transportation",
+   "parentLayerId": 0,
+   "defaultVisibility": true,
+   "subLayerIds": [
+    2
+   ],
+   "minScale": 0,
+   "maxScale": 0,
+   "type": "Group Layer",
+   "supportsDynamicLegends": false
+  },
+  {
+   "id": 5,
+   "name": "578k, 289k",
+   "parentLayerId": -1,
+   "defaultVisibility": true,
+   "subLayerIds": [
+    6,
+    9,
+    10,
+    11
+   ],
+   "minScale": 860000,
+   "maxScale": 216001,
+   "type": "Group Layer",
+   "supportsDynamicLegends": false
+  },
+  {
+   "id": 6,
+   "name": "Transportation",
+   "parentLayerId": 5,
+   "defaultVisibility": true,
+   "subLayerIds": [
+    7,
+    8
+   ],
+   "minScale": 0,
+   "maxScale": 0,
+   "type": "Group Layer",
+   "supportsDynamicLegends": false
+  },
+  {
+   "id": 12,
+   "name": "144k",
+   "parentLayerId": -1,
+   "defaultVisibility": true,
+   "subLayerIds": [
+    13,
+    14,
+    18,
+    19,
+    20
+   ],
+   "minScale": 216000,
+   "maxScale": 108001,
+   "type": "Group Layer",
+   "supportsDynamicLegends": false
+  },
+  {
+   "id": 14,
+   "name": "Transportation",
+   "parentLayerId": 12,
+   "defaultVisibility": true,
+   "subLayerIds": [
+    15,
+    16,
+    17
+   ],
+   "minScale": 0,
+   "maxScale": 0,
+   "type": "Group Layer",
+   "supportsDynamicLegends": false
+  },
+  {
+   "id": 21,
+   "name": "72k",
+   "parentLayerId": -1,
+   "defaultVisibility": true,
+   "subLayerIds": [
+    22,
+    23,
+    24,
+    28,
+    31,
+    32,
+    33,
+    34
+   ],
+   "minScale": 108000,
+   "maxScale": 54001,
+   "type": "Group Layer",
+   "supportsDynamicLegends": false
+  },
+  {
+   "id": 24,
+   "name": "Transportation",
+   "parentLayerId": 21,
+   "defaultVisibility": true,
+   "subLayerIds": [
+    25,
+    26,
+    27
+   ],
+   "minScale": 0,
+   "maxScale": 0,
+   "type": "Group Layer",
+   "supportsDynamicLegends": false
+  },
+  {
+   "id": 28,
+   "name": "Hydrology",
+   "parentLayerId": 21,
+   "defaultVisibility": true,
+   "subLayerIds": [
+    29,
+    30
+   ],
+   "minScale": 0,
+   "maxScale": 0,
+   "type": "Group Layer",
+   "supportsDynamicLegends": false
+  },
+  {
+   "id": 35,
+   "name": "36k",
+   "parentLayerId": -1,
+   "defaultVisibility": true,
+   "subLayerIds": [
+    36,
+    38,
+    39,
+    45,
+    48,
+    49,
+    50,
+    51
+   ],
+   "minScale": 54000,
+   "maxScale": 27001,
+   "type": "Group Layer",
+   "supportsDynamicLegends": false
+  },
+  {
+   "id": 36,
+   "name": "Feature",
+   "parentLayerId": 35,
+   "defaultVisibility": true,
+   "subLayerIds": [
+    37
+   ],
+   "minScale": 0,
+   "maxScale": 0,
+   "type": "Group Layer",
+   "supportsDynamicLegends": false
+  },
+  {
+   "id": 39,
+   "name": "Transportation",
+   "parentLayerId": 35,
+   "defaultVisibility": true,
+   "subLayerIds": [
+    40,
+    41,
+    42,
+    43,
+    44
+   ],
+   "minScale": 0,
+   "maxScale": 0,
+   "type": "Group Layer",
+   "supportsDynamicLegends": false
+  },
+  {
+   "id": 45,
+   "name": "Hydrology",
+   "parentLayerId": 35,
+   "defaultVisibility": true,
+   "subLayerIds": [
+    46,
+    47
+   ],
+   "minScale": 0,
+   "maxScale": 0,
+   "type": "Group Layer",
+   "supportsDynamicLegends": false
+  },
+  {
+   "id": 52,
+   "name": "18K",
+   "parentLayerId": -1,
+   "defaultVisibility": true,
+   "subLayerIds": [
+    53,
+    55,
+    56,
+    62,
+    65,
+    66,
+    67,
+    68
+   ],
+   "minScale": 27000,
+   "maxScale": 13501,
+   "type": "Group Layer",
+   "supportsDynamicLegends": false
+  },
+  {
+   "id": 53,
+   "name": "Feature",
+   "parentLayerId": 52,
+   "defaultVisibility": true,
+   "subLayerIds": [
+    54
+   ],
+   "minScale": 0,
+   "maxScale": 0,
+   "type": "Group Layer",
+   "supportsDynamicLegends": false
+  },
+  {
+   "id": 56,
+   "name": "Transportation",
+   "parentLayerId": 52,
+   "defaultVisibility": true,
+   "subLayerIds": [
+    57,
+    58,
+    59,
+    60,
+    61
+   ],
+   "minScale": 0,
+   "maxScale": 0,
+   "type": "Group Layer",
+   "supportsDynamicLegends": false
+  },
+  {
+   "id": 62,
+   "name": "Hydrology",
+   "parentLayerId": 52,
+   "defaultVisibility": true,
+   "subLayerIds": [
+    63,
+    64
+   ],
+   "minScale": 0,
+   "maxScale": 0,
+   "type": "Group Layer",
+   "supportsDynamicLegends": false
+  },
+  {
+   "id": 69,
+   "name": "9K",
+   "parentLayerId": -1,
+   "defaultVisibility": true,
+   "subLayerIds": [
+    70,
+    75,
+    76,
+    82,
+    85,
+    86,
+    87,
+    88,
+    89
+   ],
+   "minScale": 13500,
+   "maxScale": 6501,
+   "type": "Group Layer",
+   "supportsDynamicLegends": false
+  },
+  {
+   "id": 70,
+   "name": "Feature",
+   "parentLayerId": 69,
+   "defaultVisibility": true,
+   "subLayerIds": [
+    71,
+    72,
+    73,
+    74
+   ],
+   "minScale": 0,
+   "maxScale": 0,
+   "type": "Group Layer",
+   "supportsDynamicLegends": false
+  },
+  {
+   "id": 76,
+   "name": "Transportation",
+   "parentLayerId": 69,
+   "defaultVisibility": true,
+   "subLayerIds": [
+    77,
+    78,
+    79,
+    80,
+    81
+   ],
+   "minScale": 0,
+   "maxScale": 0,
+   "type": "Group Layer",
+   "supportsDynamicLegends": false
+  },
+  {
+   "id": 82,
+   "name": "Hydrology",
+   "parentLayerId": 69,
+   "defaultVisibility": true,
+   "subLayerIds": [
+    83,
+    84
+   ],
+   "minScale": 0,
+   "maxScale": 0,
+   "type": "Group Layer",
+   "supportsDynamicLegends": false
+  },
+  {
+   "id": 90,
+   "name": "4k",
+   "parentLayerId": -1,
+   "defaultVisibility": true,
+   "subLayerIds": [
+    91,
+    92,
+    97,
+    103,
+    106,
+    107,
+    108,
+    109,
+    110
+   ],
+   "minScale": 6500,
+   "maxScale": 3001,
+   "type": "Group Layer",
+   "supportsDynamicLegends": false
+  },
+  {
+   "id": 92,
+   "name": "Feature",
+   "parentLayerId": 90,
+   "defaultVisibility": true,
+   "subLayerIds": [
+    93,
+    94,
+    95,
+    96
+   ],
+   "minScale": 0,
+   "maxScale": 0,
+   "type": "Group Layer",
+   "supportsDynamicLegends": false
+  },
+  {
+   "id": 97,
+   "name": "Transportation",
+   "parentLayerId": 90,
+   "defaultVisibility": true,
+   "subLayerIds": [
+    98,
+    99,
+    100,
+    101,
+    102
+   ],
+   "minScale": 0,
+   "maxScale": 0,
+   "type": "Group Layer",
+   "supportsDynamicLegends": false
+  },
+  {
+   "id": 103,
+   "name": "Hydrology",
+   "parentLayerId": 90,
+   "defaultVisibility": true,
+   "subLayerIds": [
+    104,
+    105
+   ],
+   "minScale": 0,
+   "maxScale": 0,
+   "type": "Group Layer",
+   "supportsDynamicLegends": false
+  },
+  {
+   "id": 111,
+   "name": "2K",
+   "parentLayerId": -1,
+   "defaultVisibility": true,
+   "subLayerIds": [
+    112,
+    113,
+    114,
+    115,
+    120,
+    126,
+    129,
+    130,
+    131,
+    132
+   ],
+   "minScale": 3000,
+   "maxScale": 1501,
+   "type": "Group Layer",
+   "supportsDynamicLegends": false
+  },
+  {
+   "id": 115,
+   "name": "Feature",
+   "parentLayerId": 111,
+   "defaultVisibility": true,
+   "subLayerIds": [
+    116,
+    117,
+    118,
+    119
+   ],
+   "minScale": 0,
+   "maxScale": 0,
+   "type": "Group Layer",
+   "supportsDynamicLegends": false
+  },
+  {
+   "id": 120,
+   "name": "Transportation",
+   "parentLayerId": 111,
+   "defaultVisibility": true,
+   "subLayerIds": [
+    121,
+    122,
+    123,
+    124,
+    125
+   ],
+   "minScale": 0,
+   "maxScale": 0,
+   "type": "Group Layer",
+   "supportsDynamicLegends": false
+  },
+  {
+   "id": 126,
+   "name": "Hydrology",
+   "parentLayerId": 111,
+   "defaultVisibility": true,
+   "subLayerIds": [
+    127,
+    128
+   ],
+   "minScale": 0,
+   "maxScale": 0,
+   "type": "Group Layer",
+   "supportsDynamicLegends": false
+  },
+  {
+   "id": 133,
+   "name": "1k, 500, 250",
+   "parentLayerId": -1,
+   "defaultVisibility": true,
+   "subLayerIds": [
+    134,
+    135,
+    136,
+    137,
+    142,
+    148,
+    151,
+    152,
+    153,
+    154
+   ],
+   "minScale": 1500,
+   "maxScale": 0,
+   "type": "Group Layer",
+   "supportsDynamicLegends": false
+  },
+  {
+   "id": 137,
+   "name": "Feature",
+   "parentLayerId": 133,
+   "defaultVisibility": true,
+   "subLayerIds": [
+    138,
+    139,
+    140,
+    141
+   ],
+   "minScale": 0,
+   "maxScale": 0,
+   "type": "Group Layer",
+   "supportsDynamicLegends": false
+  },
+  {
+   "id": 142,
+   "name": "Transportation",
+   "parentLayerId": 133,
+   "defaultVisibility": true,
+   "subLayerIds": [
+    143,
+    144,
+    145,
+    146,
+    147
+   ],
+   "minScale": 0,
+   "maxScale": 0,
+   "type": "Group Layer",
+   "supportsDynamicLegends": false
+  },
+  {
+   "id": 148,
+   "name": "Hydrology",
+   "parentLayerId": 133,
+   "defaultVisibility": true,
+   "subLayerIds": [
+    149,
+    150
+   ],
+   "minScale": 0,
+   "maxScale": 0,
+   "type": "Group Layer",
+   "supportsDynamicLegends": false
+  }
+ ],
+ "tables": [],
+ "spatialReference": {
+  "wkid": 102755,
+  "latestWkid": 3736,
+  "xyTolerance": 0.003280833333333333,
+  "zTolerance": 0.001,
+  "mTolerance": 0.001,
+  "falseX": -17791200,
+  "falseY": -47526900,
+  "xyUnits": 3048.0060960121928,
+  "falseZ": -100000,
+  "zUnits": 10000,
+  "falseM": -100000,
+  "mUnits": 10000
+ },
+ "singleFusedMapCache": false,
+ "initialExtent": {
+  "xmin": 700493.6327041276,
+  "ymin": 191250.52990972318,
+  "xmax": 801243.3528365947,
+  "ymax": 263975.9034963204,
+  "spatialReference": {
+   "wkid": 102755,
+   "latestWkid": 3736,
+   "xyTolerance": 0.003280833333333333,
+   "zTolerance": 0.001,
+   "mTolerance": 0.001,
+   "falseX": -17791200,
+   "falseY": -47526900,
+   "xyUnits": 3048.0060960121928,
+   "falseZ": -100000,
+   "zUnits": 10000,
+   "falseM": -100000,
+   "mUnits": 10000
+  }
+ },
+ "fullExtent": {
+  "xmin": "NaN",
+  "ymin": "NaN",
+  "xmax": "NaN",
+  "ymax": "NaN",
+  "spatialReference": {
+   "wkid": 102755,
+   "latestWkid": 3736,
+   "xyTolerance": 0.003280833333333333,
+   "zTolerance": 0.001,
+   "mTolerance": 0.001,
+   "falseX": -17791200,
+   "falseY": -47526900,
+   "xyUnits": 3048.0060960121928,
+   "falseZ": -100000,
+   "zUnits": 10000,
+   "falseM": -100000,
+   "mUnits": 10000
+  }
+ },
+ "datesInUnknownTimezone": false,
+ "minScale": 0,
+ "maxScale": 0,
+ "units": "esriFeet",
+ "supportedImageFormatTypes": "PNG32,PNG24,PNG,JPG,DIB,TIFF,EMF,PS,PDF,GIF,SVG,SVGZ,BMP",
+ "documentInfo": {
+  "Title": "CountyBaseMap",
+  "Author": "",
+  "Comments": "Cheyenne/Laramie County Basemap",
+  "Subject": "Cheyenne/Laramie County Basemap",
+  "Category": "",
+  "Version": "3.4.0",
+  "AntialiasingMode": "Fast",
+  "TextAntialiasingMode": "Force",
+  "Keywords": "Cheyenne,Laramie County,Wyoming,Basemap"
+ },
+ "supportsQueryDomains": true,
+ "capabilities": "Map,Query,Data",
+ "supportedQueryFormats": "JSON, geoJSON, PBF",
+ "exportTilesAllowed": false,
+ "referenceScale": 0.0,
+ "datumTransformations": [
+  {
+   "geoTransforms": [
+    {
+     "wkid": 108001,
+     "latestWkid": 1241,
+     "transformForward": true,
+     "name": "NAD_1927_To_NAD_1983_NADCON"
+    }
+   ]
+  },
+  {
+   "geoTransforms": [
+    {
+     "wkid": 108001,
+     "latestWkid": 1241,
+     "transformForward": false,
+     "name": "NAD_1927_To_NAD_1983_NADCON"
+    }
+   ]
+  }
+ ],
+ "supportsDatumTransformation": true,
+ "archivingInfo": {"supportsHistoricMoment": false},
+ "supportsClipping": true,
+ "supportsSpatialFilter": true,
+ "supportsTimeRelation": true,
+ "supportsQueryDataElements": true,
+ "mapUnits": {"uwkid": 9003},
+ "maxSelectionCount": 2000,
+ "maxRecordCount": 1000,
+ "maxImageHeight": 4096,
+ "maxImageWidth": 4096,
+ "supportedExtensions": "WMSServer",
+ "resampling": false
+}

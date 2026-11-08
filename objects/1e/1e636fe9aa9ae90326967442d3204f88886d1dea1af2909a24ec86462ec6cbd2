@@ -1,0 +1,254 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en">
+<head id="ctl00_Head1"><title>
+	Laramie County - Sign In
+</title><link href="CalendarControl.css" rel="stylesheet" type="text/css" /><link href="Skins/Tacoma/TabStrip.Tacoma.css" rel="Stylesheet" type="text/css" /><link href="Skins/Tacoma/AccessibilityCommons.css" rel="Stylesheet" type="text/css" />
+    <script type="text/JavaScript" src="AccessibilityFocusManagement.js"></script>
+
+
+    <style>
+        .skip-to-content {
+            position: absolute;
+            left: -9999px;
+            top: auto;
+            width: 1px;
+            height: 1px;
+            overflow: hidden;
+            z-index: 100;
+            color: #0443B0;
+            padding: 10px;
+            text-decoration: none;
+            font-family: "Segoe UI", Arial, Helvetica, sans-serif;
+            font-size: 14px;
+            background: #fff;
+        }
+
+        .skip-to-content:focus {
+            position: fixed;
+            left: 4px;
+            top: 4px;
+            width: auto;
+            height: auto;
+            overflow: visible;
+            outline: 2px solid #0443B0;
+        }
+    </style>
+
+    <script>
+        function focusMainContent() {
+            var mainContent = document.getElementById('mainContent');
+            if (mainContent) {
+                mainContent.setAttribute('tabindex', '-1');
+                mainContent.focus();
+            }
+        }
+    </script>
+
+    <script type="text/javascript" src="./Scripts/jquery-3.6.4.min.js"></script>
+    <script type="text/javascript" src="CalendarControl.js" language="javascript"></script>
+    <script type="text/javascript">
+        var addthis_config = {
+            ui_cobrand: "powered by Legistar",
+            ui_header_color: "#660000",
+            ui_header_background: "#f7eecd",
+            ui_508_compliant: true,
+            data_track_clickback: true
+        }
+    </script>
+    <script type="text/javascript" src="https://s7.addthis.com/js/300/addthis_widget.js#username=legistarinsite" async="async"></script>
+    <script type="text/javascript">
+        window.name = "MasterWindow";
+        var first = true;
+        var first2 = true;
+        function OpenTelerikWindow(url) {
+            var w = radopen(url, 'RadWindow1');
+            w.add_pageLoad(function () {
+                focusRadWindow(w);
+            });
+
+            if (first) {
+                //w.togglePin(); 
+                first = false;
+            }
+        }
+        function OpenTelerikWindow2(url) {
+            var w = radopen(url, 'RadWindow2')
+            if (first2) {
+                //w.togglePin(); 
+                first2 = false;
+            }
+        }
+    </script>
+    <!-- Google tag (gtag.js) -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-TTMGN2RHVZ"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag() { dataLayer.push(arguments); }
+        gtag('js', new Date());
+
+        gtag('config', 'G-TTMGN2RHVZ');
+    </script>
+    <meta name="author" content="Granicus, Inc." /><meta name="format-detection" content="telephone=no" /><link href="/WebResource.axd?d=HkmiNSkKJcp9zYO7iQ4LQenL3JpSZe2UGKB_Pk4r5YQRuZzPsLMsZzwrSvy9lruIl5GkgwLvHWu67vwJMwKSFxUTlVdL05GtcnLDPfablFs-ZjDTV4SRhTyPSYW1NSg5lG_yG93x297US-_TNEi91A2&amp;t=639277952310710753" type="text/css" rel="stylesheet" class="Telerik_stylesheet" /><link href="/WebResource.axd?d=___tm6ITKFltLAGh6pWoGLdjymZ3a0gbG9WZhyNGfv_E2PDyYGUYcyALvOcP_QVYOlAJwjEwId9T_e7_KF5AdkEDxkw162VV7cc2_p7M8FdPAigC1B4GvL7aShEsFpkG2JqwLc5icjwz2WYeBgBneJtjYRK9kMTQCY2JwRAPHgI1&amp;t=639277952313381415" type="text/css" rel="stylesheet" class="Telerik_stylesheet" /></head>
+<body id="ctl00_body1" style="margin: 0px; border: 0px;">
+    <div id="globalTooltip" class="custom-tooltip"></div>
+    <a href="#mainContent" class="skip-to-content" onclick="focusMainContent()">Skip to main content</a>
+    <form name="aspnetForm" method="post" action="./SignIn.aspx?ReturnURL=TXlBY2NvdW50LmFzcHg%3d" id="aspnetForm" style="direction:ltr;">
+<input type="hidden" name="ctl00_RadScriptManager1_TSM" id="ctl00_RadScriptManager1_TSM" value="" />
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="FJQ/b43FvijUx+GqVWY+sn1/wi9XZ7Quc+phRDJmp9hIKOCir6jVr7xa94FhW2qA/nGam7tm57NpdPB7lY8/1a7w1JTUdZuVgRfK+YNOMX41ryQ4sC5Ov4T6+gNlcDxpA1fMFs75YFjjKuAqmTlAcgjufy/5WZHrk4EruTjXcvPFwxsVlyFVGQAxJoZLp3POFVWcYXrbIfJheAyvbe23V8p3ZOyu1qqcYfCz20g5/wo6e370YJ/3F++XFedAECJTj/BTpzeYrxCdaYKhYgr2RQGPhTxH3GeFW8nBidQy4MfOignmMVGMgR1H1Rs8g8MHXeJzcFjBfdeMJWsoqR2aVtrroykJGXOSd8iGfrh96ntop44+Xl6d8WJmvs4TC46QyQVFruTGpnQq8QNEHjnb4zjJ/p64+h1W9B7jwIvSSyq98uWK4Dy9ZBkdYSuNvWngQNOn6Mua79n6M2auG+D648iw7N0r6IWsc5XOnTeZQ0U5MFYiy+9Blq3cHckXC5AkDrCzi0+sy1veEbrjqfnF0l9sXZNcRvfP7TsLc96grKuTAAzgl34zphIUfvieaymAYniXLYSzEhz0hirxsfpwOZl2EEd8BmY5oDZV0/SARZFoNrQDRJXwwglG+zw07XAFgC7fp+J5pFtlW2I4g/dvcy1b/hqhx5Y1tXGp+0h8VSW8Buy6Rs9gbM0C5iNKSNADsTw6+OyoHNBQPVH+K6oDSM77PMaD4lTK1zoVcNidZMa7/AdkSA6knluNF3MCnTX82J39kjwxEgZcudjw2qhKCuVlROLtmwLMSBrSDGoUsxwTVEl6/WzthkCfVUhBdReGqGYKxnuVd0LZNHvYI9dFzdgYjGmRa7qvvVllFqaJmRDmFi3+5s2bFNBaE8CSJnf4h/5ggESwoWXfbbwi1hBWoolTkR9NTOyEZVThO0H5qLGxQqQGnf4bD+rabkgVKAep26NiADRVe/uoIw330Rc7Fjd8FJ3aUycVQcYCYETqtPPFi6g/XlV8dynGAZRxeeTFCamFnkAUyfxseX9CvoFcMTanBNE3An9XsIUC0ozShRoeRs8pEpZkfYDmkQ4HuQfil8wTMheRJjC63552+jpx9Umsj+B1+f3Vmr1DeKaWgAOn9GEscNg7hUeApJJRHGQxm/7anLHO47TXqSri8bM7PV83DWPNdPcFDY7sy2quR0dqy18BDuXuWWoDD/2Lqs9N/NZoGnfyT/vTn5qesbGDnX/WxbNw4uhW8uA3amy66Dz9yZsYRK/artz6nlm2+6SYvWpreHOkv+JamiqFvIKWC9ia/1efYC9diewFMS/sg2Gv3uyK6n+RAzg3J+jSFdaOvYR/Y5AWGVEa85z36VXS11qNSt/lF/hoTqtlhKn4y5uGE1S/vUivp1lAfYQm9v++P2SZkjkDwjtUUDIzpKGPrdD1jL2ECi32nY2pV4Ml8OeMETQuLtcAreWtatpQdhxDBcDq0nF5GPZh/783aNojjdIwO+o674ZELiVPk2gmm//Fi6tAW9bHFvVErFJn2qUTm04H5c7XY9OYN9jxmE3cM5f+uroK2cW4vNVWi1s2NhidCeLYPnCvJBiaNeBTLeBpENgjU5JmW2Z9mYaNclxzzJszr9P5NVZIL+T7Ssidmvssws601PKUTwAFko9ayrkb+jAvVExeSnGNk/S+PH95M4p+0OIuKS+ojSVItY8JbVN4EPtLZOkrRgsBacyJeNH+TP/sBf2Hc99bMMGOe1jZoIP9HKNiiYo+HRBCwiOwlIE8aAJDi+D232974b7LVkXoQSBLYaEhsrYPosfRLOiB+PmvUkp5BYuGBflzPdYRPnQ6vgzHOsuYveih7iwJ76sgOg8YqgUOBFage5pIVD+t3RBPIbDB1wb5x5dm/MM5+haAOwxNMlBujD04YFe0cQyUfbAC972uS7/ObSVphLQmMI/5s+94ZkER2P+RleXBjY5eQJPHpYfvwKJgoMOV3WEGVSg/wZhbfG2+hKlgimi3ony2s4akL1vek+U2gLjJiEqZgOah0863FSQBoR0ZOQ+H+8ZRqgO4UCjXPkPLitDzc3r8WikGIIbC9mv+fxgjoO6ebzLLAcol737CwCBFLwW6WP7Lp2aK21DDvD++ZjzA305Fqf7tQL0OpSB/eTiHe0FPhvMKMQndR0Gn5HHbdzIdvFYLO2lPM2uB643QkDe8RG4ytncd/dnB6AWhr/n5/5dmlllkkafuKkx3iGiPVVg06cydSwqKrQGkLZcyjukWWU+dlEa1NRwTGlvru7maMGsYvUUnPCHtV+3nWB23irkJt8VkLYHLjFOwoaKI6/OSFoeEOVBLsop1Jpi6M/KD63JoXe4B9fdlrzmcDI6S+XG5HmYu6xMlbxmMobLRrXjLlkWbcgth/2RxSOCKZ8Y6IdtW0ltr+Xdc0uRcRgOwD69EIUwevFQCf5z2AcGz/mLH6+ZNmrvdJTLDS7Rj7ZQV7Dk3Zh2DNbD0Efmni6erZVZYi5yvdsn1/LIvAKyImOFSsJPnI824NDsdsJG0BJrUYiVYdozSOMpf9/kLJOL/9sm9uuwn7LbJTPLTwKoA+PaWQX/Ci7RoDFl+z+q3tHqzaX09F9B0KxcXvolpnKrwYdwsswEjsm8PSO2a7blc/TQYExf8b64t6A3Ul73CgpYLS9SRbkgFrWUSfqLVy8ySN3yirIdheEDrDOEk009i2gZmS90unUxIaD43IBcbrT7grdIpPTqLxprQnA3mC/LsB2516AFj1KWpi4fbsCTp3VKwUrO2BnntdlbmxfcIAfnqM6/hjaxqFTIFbqCYpsjGJ5MLute3lwOQ83eY52B9pV2+Rj6LDRVD6uSTewU68MIO9DF/QgcC1l93yGVrGYsoifP0HufTLDl07eOB/TY+fiqSX+9a/SeBhGfBBKPSdECwENC4hlKOjESYHgIJpcZcsJ+eKLfnjsttS+if4fyW/QV94ecD5KdJ/YyNQZEsgWWlUc+GYro0WYy6H6WsQvCEnDi7rVgka+/gZXB7HUB9GJKDwn0gF/Re9ArleG/gZ5g+hxBejr278DTgJwAXQ3A2aNeFiBJswgiXrBnz18iAa+t9S3MYJdhpdnkj8OhaNH3eORlb5bxv9S6K6o7OSSxqQ2zZTat5n+H54fjs67i0iffCAe6xK4yCLCeGdKpjdFzbpJEESXC+289n8+qU6+4zAoB6ZWDm0hW64Gycwoc7VGDVJpiP1X1UHTMeUimgRRkLMhnCri1nkLesA4PN00OVFuocfVr7XaAxSeHYyz359prhcpdAo90ltAU+p3gPVvzw8R6H1mMuzbv5WjZyvV/exRyz4w1GYJVtYwldcyb2dAMULT4cUB7h1LidEPrAJ6uwp19KbNNXC94MDK6TNMl3O27nerW4jRtZd4NTwkIwZgMloMNLpAghs8bEzoaVmItaY1ftWqMUagSld2uOKKLf4ecbeLjEbj5P9RxCcnmR8dTspBGhlFsaF8Gz/Q+iALRqTgDQAgXCRtccUbYzqnaYMBK3Mz8ssn+94sV5mF8OskJDfvFfWN/MBjRq/TCHtn9LbrTMfxXz8wpz5CoGFgIaSpAophPmwzxBDMdKNPXZPo92Gv4uZA7UWqtX9lp/w0suQ6k3Z+DoxWm8Ar2j7riMr8uKz3fZX0POC0iBywHpAe2HuQMxGozvfZtRdEmbQ1TKDBzeT0/OXQo6iqCmJBDLTD5m8SHepzavkQlfcByQGhm+vxoxW/gW7PSK4LbMCSYmh4s3spANRUAwgN0ROGvP0BAA89b4gUxREQesFuLam2Yz9RUtreqhU438hyjIwLQu8j/YDjwxDHgt1NgeawgXvwa7YP2GnDTwm6wbKFmTWbhAENteGR5Th2Ebd8evMtOBukvSWO4XTxPNb+iYfS7H5LrBvGaK85V2YUeGF0YeDLZ3x7bttKmpIrMFrjmvfDaWjKiHLTtuQb4gH0sTYfsSeCnkVa2LEXLdT+fpu8TBol+pgszuNR+Z5pdO9e01l1TidwCuKWfZ40RQqScgINroJxPjbCqkrYC2ROkSGt9LKWPY9aW/RMG+brbvx20u7swpBqTSTgwLrH9+Qdg54Q/yQe1whX5F0OZrb3Pu5MTNQc6UkaM7zm6qzmupZfOrsgy7fdzaBQSGhf0zk0OL4QhfUhWF72IxnIM2n8ulLBzorfWBfaPNqN8/KLsLG1wVqUUYzr/iP1pAXeEDbPIEa6kdy2ZorAGPn97ZYJszT0LI/VkO1C6oemTLTDWNJNrnSGJemyizbgzBL103ZIPoJpCqnRDe4gMtC3sun8mTT27GtQ+BmWx3NJeX3wQ3A81ZTkly0cgLbFyvImGRv0Plmwu2zTbqD/sDJeGtOuNFfGGnGGnZkKgSeHZyNIWRlqbbnpo+YWyhxaV15luTYzZUukzYJMfW6OdWaOnhMYNL821f0qBlhzV5APvKA4sIYIfgeDqwIe9cuwcui2mH0LEuymPs/16TcRMRjcxBvSRGfCkBvXIBRn0Y2PAR0XfWIUFlLD1AmY+DJFd08kuARVjzGk73xdzkU5geLVP12YH6L31wojBsfwD1EX4uzOw3WM/K/bK3jFCC0SG3sGa3hbImcHxoLWvajRpFf8gUeDQZMmZjO3iLiEGj17gMUFnP+IvmF3kfNGWN8K0zUq8thOlsmDktXWsZahSFDEx21TZL7jZRyVbVLxqezAscEmDKRuz6Rr2ACZF/n4FUFGEhJvwzvphtUWA9LZFlEV05e+zUY/Q8yqsJU9zCVXQHlIklugzjtS9a5sWeSl9dP9ne34+b516p+Gb6ksTJkWvdwVDHB9MGgHwoqCvXRbjTZx3cqjU14u9D0O92I090/VIYVwqlKd+zrzJ2S5TMhz00N0oPvdmpXyg20+w72un59WT5uGYw1bviMYFO705yOOMs9hzyUhBbPMctzMZfK4mRuS962nyssvYHrTpFfAOxJJXAOVQYiSuBIFdc+jSb2fbLapivFh61QI5qU+ZylunY5vjPDcUNl8N+YrSf3c4xvqfGVCFuuWUexlKMlhtETjNX9qcrST+NwZ5jkZrltcdFd2hVfQ0bCK4zMHaZY+BN/NTkvGdnEvch3dEdpC3kCj0s7RwLHirBAEg5ofVLvHRT1VFUKPAU+FkTdgBTAawDauo10iYwhv6rCWi6HUcDtB7gXKsrE67XdqW/UgPD+pvLnGPpgMl/W/Q22F66WDKlkyeQFZiag7hgevKP+5mNysnROFeT92QXS8M+mSgpAoOHIzgAGBPEhi8Ekg5SyvfWOi3an8yNGGEFvwc4AI420PvpJFoAWYcmFoMjUpJ2wlERgEjdFbMKl1xw2Kcb+gO/AAdy9smbw1dcTytsyfKrfcrOT8rNRz6iUFcEeYSgm0qsuC+Ah6mZRAW0KCYVjWCwqopkpMyMRvFM+lUIm2FH10q/EahZfIEZEmbUtVsFFwO4ZJHu9l+4H1q9dlrni+DGRdAH4bT2s5byNgqvUcKLfnhnd1BCYELq8Y2OWhzVGIBSp4OxfEUoFOUE7AA0NZumDP8rNu0X/m6mkI4Ori0g5XxPR957aAyDBumyK6j0k5I9868l7GnCSBLEB25ZiuUwyQ1eMpcoJ8nJvna53N0AU8FzKgZ21nvKzffvM+hLxVMX6DkjdKLnDtmd++S5Z+aQJHaVMfXVgS/F4opX3pUf/xxJpwj4xXaKOEscGL1jODrtEz4Pm22tjzNG+0IK6f2QrtnKr6HfJfGAibjRzTUcMn2Wi+xJ06QIrj0n0vwUFhPQwbY4Vf2NFVn39nmQy45rF9ZKP1pZRMBYGXacGfy1wwUT1qYnsF4hpkILZC0orwPOU/KQakDn+Up7mE402haSD5HafK9DWHV4EKNxu33OxPl4iBxYfAdbqL7noCMih87L9TAATmEwnJV7YunltwLgKYemTv9yZwm4p4C66LTDhGZWJsLJcBJr48Aqscspd3LetCHs8LtwwlDntqaRwE6opm1UcKGrktRhlgUHbRYACOM6Ppa8yKNbia3JLxFr/UjcUeZ6imT/k0ykw4gu1dOGhdGhYb1uRJDhUWppQL1tY9TRj3+kQ4xfufdiOPaXXCw/Xq87Nwyc+nOCZ/2WD+Fd6DioR8uehy/I35M3b0Lu/h8VmJcWMbs1jAMmwl8LYfJMe1eXOgZ48+/oe20VT89CdiGz9TBCUR8omQQn/F6lDGQWvvjngNSp9qUCkrWTmgY7hgzaKVMlp+Kj9zOkHbexHniKUo/xdwpIwIgkSwHnMHJI/mgh9Q9SIwqyJCn/ZCWwYy1zLaaypvndvCM3PJ6eRkPt1W5sMLCb+u5RIMOyeye7ALkpKrWvJsumm5jDuLcE1aUjxYjor7MRGI3iLgEaPH0Gp+VMnyLgFXOY+OmMqRtPflzV34TUj7/s2Uq70A2k7096TGFB0szyXgnkbz1FV9Ad8CWi/Ejd3FL8DN+ONR/f0emMZUyIZTfAZ7xBDSlZNkQ9wkjcP1Ehge0RBDzTA4ISq/U6M6cO+aDZAkYILADHEE+pbHeFxQBs7X1MWGGmKY/PqoCTjcBvbMx/am3hQnBQcImrGMiomL0ih1apk+MsDWIyyHJ0zAvK8QVr5BE25tfc2SlBaqitYkVRs1Xes9hq7rhNB0jnFmkJ9Ib/mIKpC7QlvS3QMo0ToIimxCMxuv+UfXS47zxSlAUza8rO6cVR1CIWdGRViUpTCT264J9vyhE8egtMJ6TbpPgrKP8/QEqZxY/a8VQd6VVtHtELPiNITChZ53FyNS0g3VpB/OXXGkqQEr5i1BOQUobSr2xC+xQsHp+GHW49c+lF1Z1wRpsKd3CulJBW8XDGfyZDCl25yxnxVSZjuRgQP9E7/pGckYT81LWFZm6/loagSJJtmRtWIT0u9XXS7XZ7Vke1dQnpVWTXzXH6fawIx4f0P7ymlZfTXmBDP7FCpUHp86fmjGSehQ7d808OeQSqahAJ2jLODMbUPZtRz0LVLRa7I8/nML3JSjxR8xFdLB6h0ujPQqO3XMcPBW8aqcWaJ4y4L8tFOtixSQjfwGpxARTnPl/f6ZNPen6Ge/tLbkOjLZOqJhVSw4q/tfXTubzbVRNxExnZkZktVKjndDMwtaJOFEssQ4z5IzSRxtgUmoWmA7mEADqog/M4XMK2xlNDjKmqpnxmkZulVr+F+8Rr5QcPcz9MpDivJowhPNByegFV/0CkCDejNUbBTQsvWrnhoStuS6NY3zoReBdRwx+0+rGUJaLHickSzt03G5q//B6TGA+PI3iU6DHR82BUtxCYxIGQ4sswZ4fPMAiNf24QsbfWTLMNA09y6SO4mSe/v3KQiqjLZ81Y0J0Ivmtfl762HaIAr+NsF0xCWYmoRcQ8VQCxzqydWn/4jjD9LjXPk8/0A1zL4azq8ryu2ccEQfLcDM7YsmcHNNUH8Ibs0FmHKU20MbYvWjwN4kp5NU3yyDFBF48UsZTIfIaPghpfTQvHc0XZq2oMgrlpGsidbSk6gOhCRVEHyWcQZFmqzavbP4MUQopCKBbMI//FcUGOsJZ9sCfJAr/KOHtJ+W9b8JJpws8dRorhHGbk0nJnhgaQJQ/qKvUXBOrqUf6yGNn9AElYo6XmNIEQd28/SoNZCT0LcbWvmXTEaSYnkdwD/VYm764udL54cjGO9/85/10kDJarGyIw1aTiGOLOJiksEygD7yKjYbBQRb1W1J0Zks9wiNqZoXkyuky+PAaPmCm3uTemA5zOFTAmme6JGjHdWhUqXdhoNP0gOR2uZ+Mt5/CmBA==" />
+
+
+<script src="/Telerik.Web.UI.WebResource.axd?_TSM_HiddenField_=ctl00_RadScriptManager1_TSM&amp;compress=1&amp;_TSM_CombinedScripts_=%3b%3bSystem.Web.Extensions%2c+Version%3d4.0.0.0%2c+Culture%3dneutral%2c+PublicKeyToken%3d31bf3856ad364e35%3aen-US%3a15e07564-f3d5-441e-a01b-5763caea6096%3aea597d4b%3bTelerik.Web.UI%2c+Version%3d2020.1.114.45%2c+Culture%3dneutral%2c+PublicKeyToken%3d121fae78165ba3d4%3aen-US%3a40a36146-6362-49db-b4b5-57ab81f34dac%3ae330518b%3a16e4e7cd%3af7645509%3a24ee1bba%3a33715776%3a88144a7a%3a1e771326%3a8e6f0d33%3a1f3a7489" type="text/javascript"></script>
+<script src="/ScriptResource.axd?d=pL5wgiwL1GpmyqMwhkDjFzT5oty_x4IWTxhL3iS3K8yvY-oBvOd5cpMjBg1PTIZVxv_eoEs8Z1ecCuJb36NvCPp32G_G3G13tKMIYZ0-vAvR8raIBtDMLuZECuT_lihjY6MIhHVC3eLh6UYfHNM3FQ2&amp;t=fffffffff49535ad" type="text/javascript"></script>
+<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="ECDA716A" />
+<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="vR9BSUmXxFegRv6edlcHfyBwq3BZK7fWes2ZkA1RaUzg2gW0ATvtN4gP634XYxSRgbheuchyv1rPdqwxKsEF/HsEJCiPCzVbXuhh4Ol0RuT9iDiGlP/GM5FKrxSlGlSGn+WVc4bL9H1K7+nA/NphZlfWkYYnP7b7gjYgtCIAISP8ohJ81jz3GK0g/CIUVqns" />
+        
+        <div id="ctl00_divBody">
+            <div id="ctl00_divMyAccountOut" style="position: absolute; right: 5px; top: 5px;">
+                <a id="ctl00_hypSignIn" href="SignIn.aspx?ReturnUrl=TXlBY2NvdW50LmFzcHg%3d"><font face="Tahoma" color="Blue" size="2">Sign In</font></a>
+            </div>
+            
+            <div id="ctl00_divTop"><div style="height: 268px; background-image: url('https://webcontent.granicusops.com/content/1peak/laramie_county/headerBkg.jpg'); background-color: #222; background-position: 50% 0px; background-repeat: no-repeat;">
+  <div style="text-align:center;">
+  <a target="_blank" href="http://www.laramiecounty.com/index.aspx">
+  <img alt="county seal" src="https://webcontent.granicusops.com/content/1peak/laramie_county/countySeal.png"></a>
+</div>
+</div></div>
+            
+            <div id="ctl00_divTabs">
+                <div id="ctl00_tabTop" class="RadTabStrip RadTabStrip_Metro RadTabStripTop_Metro RadTabStripTop"><font face="Tahoma" size="2">
+	<!-- 2020.1.114.45 --><div class="rtsLevel rtsLevel1">
+		<ul class="rtsUL"><li class="rtsLI rtsFirst"><a class="rtsLink" href="http://laramiecounty.legistar.com/"><span class="rtsOut"><span class="rtsIn"><span class="rtsTxt">Home</span></span></span></a></li><li class="rtsLI"><a class="rtsLink" href="Legislation.aspx"><span class="rtsOut"><span class="rtsIn"><span class="rtsTxt">Legislation</span></span></span></a></li><li class="rtsLI"><a class="rtsLink" href="Calendar.aspx"><span class="rtsOut"><span class="rtsIn"><span class="rtsTxt">Calendar</span></span></span></a></li><li class="rtsLI"><a class="rtsLink" href="MainBody.aspx"><span class="rtsOut"><span class="rtsIn"><span class="rtsTxt">county commissioners</span></span></span></a></li><li class="rtsLI"><a class="rtsLink" href="Departments.aspx"><span class="rtsOut"><span class="rtsIn"><span class="rtsTxt">Departments</span></span></span></a></li><li class="rtsLI rtsLast"><a class="rtsLink" href="People.aspx"><span class="rtsOut"><span class="rtsIn"><span class="rtsTxt">People</span></span></span></a></li></ul>
+	</div><input id="ctl00_tabTop_ClientState" name="ctl00_tabTop_ClientState" type="hidden" />
+</font></div>
+            </div>
+            <div id="ctl00_divLeft">
+            </div>
+            <div id="ctl00_divHeader" style="width: 100%; height: 28px">
+                <div id="divHeaderLeft">
+                    
+                </div>
+                <div id="divHeaderRight" style="float: right; height: 16px">
+                    
+                    
+                </div>
+            </div>
+            <div id="ctl00_Div1">
+                <div id="ctl00_Div2">
+                    <main id="mainContent" role="main" tabindex="-1">
+                    <div id="ctl00_divMiddle">
+                        
+    <div id="globalTooltip" class="custom-tooltip"></div>
+    
+    <h1 class="sr-only">Sign In</h1>
+    <br />
+    <table border="0" cellpadding="2" cellspacing="2" style="width: 100%">
+        <tr>
+            <td align="left" style="width: 50%" valign="top">
+                <div>
+                    <span id="ctl00_ContentPlaceHolder1_lSignIn"><font face="Verdana" color="#333399" size="4">Sign In</font></span>
+                    <br />
+                    <br />            
+                    <span id="ctl00_ContentPlaceHolder1_lPrompt"><font face="Tahoma" color="Navy" size="2">Please sign in to your existing account to take advantage of various personalization features.<br /><br />You can use either your user name or e-mail to sign in.</font></span>
+                </div>
+            </td>
+            <td style="width: 50%" valign="middle">
+                <div id="ctl00_ContentPlaceHolder1_pan1">
+	
+                    <fieldset>
+                        <legend id="ctl00_ContentPlaceHolder1_LegendExistingAccount" style="font-size: 10pt; color: navy; font-family: Tahoma">Existing Account?</legend>
+                        <table border="0" cellpadding="2" cellspacing="2" style="width: 100%">
+                            <tr>
+                                <td align="right" style="width: 150px">
+                                    <span id="ctl00_ContentPlaceHolder1_lUserName"><font face="Tahoma" color="Navy" size="2">User name or e-mail:</font></span>
+                                </td>
+                                <td>
+                                    <input name="ctl00$ContentPlaceHolder1$txtUser" type="text" maxlength="50" id="ctl00_ContentPlaceHolder1_txtUser" title="User name or e-mail Text Box" data-tooltip="User name or e-mail Text Box" alt="User name or e-mail" />
+                                    
+                                </td>
+                            </tr>
+                            <tr>
+                                <td align="right" style="width: 150px">
+                                    <span id="ctl00_ContentPlaceHolder1_lPassword"><font face="Tahoma" color="Navy" size="2">Password:</font></span>
+                                </td>
+                                <td>
+                                    <input name="ctl00$ContentPlaceHolder1$txtPassword" type="password" maxlength="50" id="ctl00_ContentPlaceHolder1_txtPassword" title="Password Text Box" autocomplete="off" data-tooltip="Password Text Box" data-tooltip-position="right" alt="Password" />
+                                    
+                                    
+                                </td>
+                            </tr>
+                            
+                            <tr id="ctl00_ContentPlaceHolder1_trRemember">
+		<td style="width: 150px;">&nbsp;
+                                </td>
+		<td>
+                                    <span><font face="Tahoma" color="Black" size="2"><input id="ctl00_ContentPlaceHolder1_chkRemember" type="checkbox" name="ctl00$ContentPlaceHolder1$chkRemember" checked="checked" /><label for="ctl00_ContentPlaceHolder1_chkRemember">Remember me on this computer</label></font></span>
+                                </td>
+	</tr>
+	
+                            <tr>
+                                <td style="width: 150px;">&nbsp;
+                                </td>
+                                <td>
+                                    <input type="submit" name="ctl00$ContentPlaceHolder1$btnSignIn" value="Sign In" onclick="javascript:WebForm_DoPostBackWithOptions(new WebForm_PostBackOptions(&quot;ctl00$ContentPlaceHolder1$btnSignIn&quot;, &quot;&quot;, true, &quot;1&quot;, &quot;&quot;, false, false))" id="ctl00_ContentPlaceHolder1_btnSignIn" />
+                                </td>
+                            </tr>
+                            <tr>
+                                <td colspan="2">&nbsp;
+                                </td>
+                            </tr>
+                            <tr>
+                                <td>&nbsp;
+                                </td>
+                                <td>
+                                    <a id="ctl00_ContentPlaceHolder1_hypReset" href="Reset.aspx?ReturnURL=TXlBY2NvdW50LmFzcHg="><font face="Tahoma" color="Blue" size="2">Reset Password</font></a>
+                                </td>
+                            </tr>
+                        </table>
+                    </fieldset>
+                
+</div>
+                <br />
+                <fieldset id="ctl00_ContentPlaceHolder1_fldSignUp">
+                    <legend id="ctl00_ContentPlaceHolder1_LegendNoAccount" style="font-size: 10pt; color: navy; font-family: Tahoma">No Account?</legend>
+                    <table border="0" cellpadding="2" cellspacing="2" style="width: 100%">
+                        <tr>
+                            <td style="width: 150px">&nbsp;
+                            </td>
+                            <td>
+                                <a id="ctl00_ContentPlaceHolder1_hypSignUp" href="SignUp.aspx?ReturnURL=TXlBY2NvdW50LmFzcHg="><font face="Tahoma" color="Blue" size="2">Sign Up</font></a>
+                            </td>
+                        </tr>
+                    </table>
+                </fieldset>
+            </td>
+        </tr>
+    </table>
+
+                        <br />
+                        <br />
+                        <br />
+                    </div>
+                    </main>
+                </div>
+            </div>
+            <div id="ctl00_divRight">
+            </div>
+            <div id="ctl00_divBottom">
+                
+            </div>
+        </div>
+        
+        
+    
+
+<script type="text/javascript">
+//<![CDATA[
+window.__TsmHiddenField = $get('ctl00_RadScriptManager1_TSM');Sys.Application.add_init(function() {
+    $create(Telerik.Web.UI.RadTabStrip, {"_selectedIndex":-1,"_skin":"Metro","causesValidation":false,"clickSelectedTab":true,"clientStateFieldID":"ctl00_tabTop_ClientState","tabData":[{"value":"Home"},{"value":"Legislation"},{"value":"Calendar"},{"value":"MainBody"},{"value":"Departments"},{"value":"People"}]}, null, null, $get("ctl00_tabTop"));
+});
+//]]>
+</script>
+</form>
+</body>
+</html>

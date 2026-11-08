@@ -1,0 +1,12 @@
+
+
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en">
+<head><link href="Skins/Tacoma/AccessibilityCommons.css" rel="Stylesheet" type="text/css" /><title>
+	Subscribe
+</title><meta name="format-detection" content="telephone=no" /></head>
+<body>
+    <div id="divgovDelivery_subscribe"><form id='GD-snippet-form' accept-charset='UTF-8' action='//public.govdelivery.com/accounts/WYLARAMIECTY/subscribers/qualify' method='post' target='blank'><div style='margin:0;padding:0;display:inline'><input name='utf8' type='hidden' value='✓'><input name='authenticity_token' type='hidden' value='68mXGnlJKSX5jLYkqWTqvEWPe9se/Yi0urumx5M/yTM='/></div><fieldset tabindex='0' role='group' aria-label='Email Updates'><legend>Email Updates</legend><div>To sign up for email updates or to access your subscriber preferences, please enter your contact information below.</div><ol class='form'><li class='email_fields' style='display: block'><label for='email'><img alt='Required' class='required' src='//public.govdelivery.com/assets/required-ef6e0abfe1c903c5ed5cba6ab7c2c38b.gif'/>Email Address</label><input class='long' id='email' name='email' type='text'/><input name='commit' type='submit' value='Submit'/></li></ol></fieldset></form></div>          
+</body>
+</html>
