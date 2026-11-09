@@ -1,8 +1,8 @@
 {
   "profile": "utility-rate-exceptions",
   "title": "Utility-rate classes and negotiated-service provisions",
-  "generated_at": "2026-11-09T06:34:39.068540+00:00",
-  "source_revision": "087cfe589af4d715ddf10849bb09c0e4d1fec216",
+  "generated_at": "2026-11-09T17:50:13.960682+00:00",
+  "source_revision": "dc7f3bf358ec93eb1476f3a5767ea6193db270f6",
   "classification": "retrieval_triage_not_investigative_findings",
   "matched_representations": 3,
   "exported_representations": 3,
@@ -19,8 +19,8 @@
       "quality_verified": false,
       "representation_path": "derived/090cfbec55548ada575053632aaa0d7b4114f023fc65c69c7c5c7ecddf13b0da/page-000019.json",
       "representation_text_sha256": "6247fdc09404fbdbfc2b9fe2c1e3f15887d8cbb0b1420d857d33fa9d5445c7fc",
-      "representation_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/087cfe589af4d715ddf10849bb09c0e4d1fec216/derived/090cfbec55548ada575053632aaa0d7b4114f023fc65c69c7c5c7ecddf13b0da/page-000019.json",
-      "original_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/087cfe589af4d715ddf10849bb09c0e4d1fec216/objects/09/090cfbec55548ada575053632aaa0d7b4114f023fc65c69c7c5c7ecddf13b0da",
+      "representation_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/dc7f3bf358ec93eb1476f3a5767ea6193db270f6/derived/090cfbec55548ada575053632aaa0d7b4114f023fc65c69c7c5c7ecddf13b0da/page-000019.json",
+      "original_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/dc7f3bf358ec93eb1476f3a5767ea6193db270f6/objects/09/090cfbec55548ada575053632aaa0d7b4114f023fc65c69c7c5c7ecddf13b0da",
       "evidence": [
         {
           "term": "recycled water",
@@ -42,8 +42,8 @@
       "quality_verified": false,
       "representation_path": "derived/090cfbec55548ada575053632aaa0d7b4114f023fc65c69c7c5c7ecddf13b0da/page-000069.json",
       "representation_text_sha256": "997e97d7cc3ad203759678fcdacba98e1c671f6a9de781a1fe15b66e30692d7e",
-      "representation_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/087cfe589af4d715ddf10849bb09c0e4d1fec216/derived/090cfbec55548ada575053632aaa0d7b4114f023fc65c69c7c5c7ecddf13b0da/page-000069.json",
-      "original_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/087cfe589af4d715ddf10849bb09c0e4d1fec216/objects/09/090cfbec55548ada575053632aaa0d7b4114f023fc65c69c7c5c7ecddf13b0da",
+      "representation_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/dc7f3bf358ec93eb1476f3a5767ea6193db270f6/derived/090cfbec55548ada575053632aaa0d7b4114f023fc65c69c7c5c7ecddf13b0da/page-000069.json",
+      "original_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/dc7f3bf358ec93eb1476f3a5767ea6193db270f6/objects/09/090cfbec55548ada575053632aaa0d7b4114f023fc65c69c7c5c7ecddf13b0da",
       "evidence": [
         {
           "term": "recycled water",
@@ -65,8 +65,8 @@
       "quality_verified": false,
       "representation_path": "derived/2f5c9ceec649c9bc584a34c7e6620d178bf418fc51c9de7d1b690c3f238e446d/page-000002.json",
       "representation_text_sha256": "4e487a9d85dd76297da29ec1b5928151d9df589af696ecf47033b608cfa32884",
-      "representation_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/087cfe589af4d715ddf10849bb09c0e4d1fec216/derived/2f5c9ceec649c9bc584a34c7e6620d178bf418fc51c9de7d1b690c3f238e446d/page-000002.json",
-      "original_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/087cfe589af4d715ddf10849bb09c0e4d1fec216/objects/2f/2f5c9ceec649c9bc584a34c7e6620d178bf418fc51c9de7d1b690c3f238e446d",
+      "representation_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/dc7f3bf358ec93eb1476f3a5767ea6193db270f6/derived/2f5c9ceec649c9bc584a34c7e6620d178bf418fc51c9de7d1b690c3f238e446d/page-000002.json",
+      "original_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/dc7f3bf358ec93eb1476f3a5767ea6193db270f6/objects/2f/2f5c9ceec649c9bc584a34c7e6620d178bf418fc51c9de7d1b690c3f238e446d",
       "evidence": [
         {
           "term": "recycled water",

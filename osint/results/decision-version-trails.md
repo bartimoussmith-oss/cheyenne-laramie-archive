@@ -8,7 +8,7 @@ Matched representations: 84; exported: 50. Deterministic file order, not importa
 
 Publisher: https://www.cheyennecity.org/Your-Government/City-Council/Minutes-and-Agendas
 
-Preserved representation: https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/087cfe589af4d715ddf10849bb09c0e4d1fec216/text/3dd70667ea5d722bea19d76073b4ffffcc05a651e4b1b3a1dd22befe7d173cfa.txt
+Preserved representation: https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/dc7f3bf358ec93eb1476f3a5767ea6193db270f6/text/3dd70667ea5d722bea19d76073b4ffffcc05a651e4b1b3a1dd22befe7d173cfa.txt
 
 > (PDF, 126KB)
 > Minutes
@@ -146,7 +146,7 @@ Preserved representation: https://github.com/bartimoussmith-oss/cheyenne-laramie
 
 Publisher: https://www.cheyennecity.org/files/sharedassets/public/v/1/your-government/city-council/fc-2023/fc-02-21-23-minutes.pdf
 
-Preserved representation: https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/087cfe589af4d715ddf10849bb09c0e4d1fec216/derived/00f462be921543c29907c0eabe9565316cb479aa2d9df8068b809446edf8c5a5/page-000004.json
+Preserved representation: https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/dc7f3bf358ec93eb1476f3a5767ea6193db270f6/derived/00f462be921543c29907c0eabe9565316cb479aa2d9df8068b809446edf8c5a5/page-000004.json
 
 >  removing “Attachment C”, the Engineering Report &amp; Proposal, seconded by Mr.
 > Roybal. Motion to amend carried by unanimous voice vote. Main motion, as amended, carried
@@ -159,7 +159,7 @@ Preserved representation: https://github.com/bartimoussmith-oss/cheyenne-laramie
 
 Publisher: https://www.cheyennecity.org/files/sharedassets/public/v/1/your-government/city-council/fc-2023/fc-12-04-23-agenda.pdf
 
-Preserved representation: https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/087cfe589af4d715ddf10849bb09c0e4d1fec216/derived/010bd83d980db77cff63d872d0af99d9ad84914af753e62bf5997fa238a50bdd/page-000001.json
+Preserved representation: https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/dc7f3bf358ec93eb1476f3a5767ea6193db270f6/derived/010bd83d980db77cff63d872d0af99d9ad84914af753e62bf5997fa238a50bdd/page-000001.json
 
 > Generally, of Title 12, Streets, Sidewalks and Public Places, of the Municipal
 >          Code of the City of Cheyenne, Wyoming and making a conforming amendment as
@@ -174,7 +174,7 @@ Preserved representation: https://github.com/bartimoussmith-oss/cheyenne-laramie
 
 Publisher: https://www.cheyennecity.org/files/sharedassets/public/v/1/your-government/city-council/psc-2024/psc-07-16-24-minutes.pdf
 
-Preserved representation: https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/087cfe589af4d715ddf10849bb09c0e4d1fec216/derived/01a150e0b3a34a66feb9c8466f7fa61ff72e481d429be3796e4d9ff86879a963/page-000001.json
+Preserved representation: https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/dc7f3bf358ec93eb1476f3a5767ea6193db270f6/derived/01a150e0b3a34a66feb9c8466f7fa61ff72e481d429be3796e4d9ff86879a963/page-000001.json
 
 >      conforming amendments as specified.
 > 
@@ -206,7 +206,7 @@ Preserved representation: https://github.com/bartimoussmith-oss/cheyenne-laramie
 
 Publisher: https://www.cheyennecity.org/files/sharedassets/public/v/1/your-government/city-council/psc-2022/psc-02-23-22-minutes.pdf
 
-Preserved representation: https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/087cfe589af4d715ddf10849bb09c0e4d1fec216/derived/01a5d77bfaeb54d0057fe869e727fc80b1d205ab95df55daa928446e5aaa97d6/page-000001.json
+Preserved representation: https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/dc7f3bf358ec93eb1476f3a5767ea6193db270f6/derived/01a5d77bfaeb54d0057fe869e727fc80b1d205ab95df55daa928446e5aaa97d6/page-000001.json
 
 > ” and Dr. Rinne voting “NO”.
 > 
@@ -234,7 +234,7 @@ Preserved representation: https://github.com/bartimoussmith-oss/cheyenne-laramie
 
 Publisher: https://www.cheyennecity.org/files/sharedassets/public/v/1/your-government/city-council/psc-2022/psc-02-23-22-minutes.pdf
 
-Preserved representation: https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/087cfe589af4d715ddf10849bb09c0e4d1fec216/derived/01a5d77bfaeb54d0057fe869e727fc80b1d205ab95df55daa928446e5aaa97d6/page-000002.json
+Preserved representation: https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/dc7f3bf358ec93eb1476f3a5767ea6193db270f6/derived/01a5d77bfaeb54d0057fe869e727fc80b1d205ab95df55daa928446e5aaa97d6/page-000002.json
 
 > ith “eighty (80) contiguous acres” in section
 > 6.3.10(€)(7), seconded by Mr. Segrave. Motion to amend carried by unanimous voice vote. Main
@@ -261,7 +261,7 @@ Preserved representation: https://github.com/bartimoussmith-oss/cheyenne-laramie
 
 Publisher: https://www.cheyennecity.org/files/sharedassets/public/v/1/your-government/city-council/fc-2022/fc-06-06-22-minutes.pdf
 
-Preserved representation: https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/087cfe589af4d715ddf10849bb09c0e4d1fec216/derived/06be3b512454c07cc8fe0d5f263dd531baff8c7d348af9c829225b61e827b3a5/page-000001.json
+Preserved representation: https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/dc7f3bf358ec93eb1476f3a5767ea6193db270f6/derived/06be3b512454c07cc8fe0d5f263dd531baff8c7d348af9c829225b61e827b3a5/page-000001.json
 
 > rman White. Darin and Misha Westby,
 > owners of Westby Edge LLC, were available for questions.
@@ -277,7 +277,7 @@ Preserved representation: https://github.com/bartimoussmith-oss/cheyenne-laramie
 
 Publisher: https://www.cheyennecity.org/files/sharedassets/public/v/1/your-government/city-council/psc-2023/sub-sweetgrass-pud-amendment.pdf
 
-Preserved representation: https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/087cfe589af4d715ddf10849bb09c0e4d1fec216/derived/090cfbec55548ada575053632aaa0d7b4114f023fc65c69c7c5c7ecddf13b0da/page-000001.json
+Preserved representation: https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/dc7f3bf358ec93eb1476f3a5767ea6193db270f6/derived/090cfbec55548ada575053632aaa0d7b4114f023fc65c69c7c5c7ecddf13b0da/page-000001.json
 
 >       Honorable Mayor Patrick Collins and Members of the City Council
 >  From:     Connor White, Planner II
@@ -308,7 +308,7 @@ Preserved representation: https://github.com/bartimoussmith-oss/cheyenne-laramie
 
 Publisher: https://www.cheyennecity.org/files/sharedassets/public/v/1/your-government/city-council/psc-2023/sub-sweetgrass-pud-amendment.pdf
 
-Preserved representation: https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/087cfe589af4d715ddf10849bb09c0e4d1fec216/derived/090cfbec55548ada575053632aaa0d7b4114f023fc65c69c7c5c7ecddf13b0da/page-000007.json
+Preserved representation: https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/dc7f3bf358ec93eb1476f3a5767ea6193db270f6/derived/090cfbec55548ada575053632aaa0d7b4114f023fc65c69c7c5c7ecddf13b0da/page-000007.json
 
 > il
 >    alignment changes, and other similar items.
@@ -322,7 +322,7 @@ Preserved representation: https://github.com/bartimoussmith-oss/cheyenne-laramie
 
 Publisher: https://www.cheyennecity.org/files/sharedassets/public/v/1/your-government/city-council/psc-2023/sub-sweetgrass-pud-amendment.pdf
 
-Preserved representation: https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/087cfe589af4d715ddf10849bb09c0e4d1fec216/derived/090cfbec55548ada575053632aaa0d7b4114f023fc65c69c7c5c7ecddf13b0da/page-000008.json
+Preserved representation: https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/dc7f3bf358ec93eb1476f3a5767ea6193db270f6/derived/090cfbec55548ada575053632aaa0d7b4114f023fc65c69c7c5c7ecddf13b0da/page-000008.json
 
 >   2. Major Amendments: In the event that the Director finds that a proposed amendment is outside of the
 >      minor adjustments described within UDC Section 2.3.4.b, the Committee is authorized to act on behalf of
@@ -352,7 +352,7 @@ Preserved representation: https://github.com/bartimoussmith-oss/cheyenne-laramie
 
 Publisher: https://www.cheyennecity.org/files/sharedassets/public/v/1/your-government/city-council/psc-2023/sub-sweetgrass-pud-amendment.pdf
 
-Preserved representation: https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/087cfe589af4d715ddf10849bb09c0e4d1fec216/derived/090cfbec55548ada575053632aaa0d7b4114f023fc65c69c7c5c7ecddf13b0da/page-000009.json
+Preserved representation: https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/dc7f3bf358ec93eb1476f3a5767ea6193db270f6/derived/090cfbec55548ada575053632aaa0d7b4114f023fc65c69c7c5c7ecddf13b0da/page-000009.json
 
 > eet while side-facing to the primary frontage.
 > 
@@ -367,7 +367,7 @@ Preserved representation: https://github.com/bartimoussmith-oss/cheyenne-laramie
 
 Publisher: https://www.cheyennecity.org/files/sharedassets/public/v/1/your-government/city-council/psc-2023/sub-sweetgrass-pud-amendment.pdf
 
-Preserved representation: https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/087cfe589af4d715ddf10849bb09c0e4d1fec216/derived/090cfbec55548ada575053632aaa0d7b4114f023fc65c69c7c5c7ecddf13b0da/page-000011.json
+Preserved representation: https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/dc7f3bf358ec93eb1476f3a5767ea6193db270f6/derived/090cfbec55548ada575053632aaa0d7b4114f023fc65c69c7c5c7ecddf13b0da/page-000011.json
 
 > ctions may be approved by the Committee on a case-by-case basis with concurrence
 >        by the City Engineer and Fire Department without requiring an amendment to this PUD.
@@ -393,7 +393,7 @@ Preserved representation: https://github.com/bartimoussmith-oss/cheyenne-laramie
 
 Publisher: https://www.cheyennecity.org/files/sharedassets/public/v/1/your-government/city-council/psc-2023/sub-sweetgrass-pud-amendment.pdf
 
-Preserved representation: https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/087cfe589af4d715ddf10849bb09c0e4d1fec216/derived/090cfbec55548ada575053632aaa0d7b4114f023fc65c69c7c5c7ecddf13b0da/page-000012.json
+Preserved representation: https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/dc7f3bf358ec93eb1476f3a5767ea6193db270f6/derived/090cfbec55548ada575053632aaa0d7b4114f023fc65c69c7c5c7ecddf13b0da/page-000012.json
 
 >     Code shall apply.
 >   2. Signage:
@@ -414,7 +414,7 @@ Preserved representation: https://github.com/bartimoussmith-oss/cheyenne-laramie
 
 Publisher: https://www.cheyennecity.org/files/sharedassets/public/v/1/your-government/city-council/psc-2023/sub-sweetgrass-pud-amendment.pdf
 
-Preserved representation: https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/087cfe589af4d715ddf10849bb09c0e4d1fec216/derived/090cfbec55548ada575053632aaa0d7b4114f023fc65c69c7c5c7ecddf13b0da/page-000014.json
+Preserved representation: https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/dc7f3bf358ec93eb1476f3a5767ea6193db270f6/derived/090cfbec55548ada575053632aaa0d7b4114f023fc65c69c7c5c7ecddf13b0da/page-000014.json
 
 > of variability between front building elevations.
 > 
@@ -426,7 +426,7 @@ Preserved representation: https://github.com/bartimoussmith-oss/cheyenne-laramie
 
 Publisher: https://www.cheyennecity.org/files/sharedassets/public/v/1/your-government/city-council/psc-2023/sub-sweetgrass-pud-amendment.pdf
 
-Preserved representation: https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/087cfe589af4d715ddf10849bb09c0e4d1fec216/derived/090cfbec55548ada575053632aaa0d7b4114f023fc65c69c7c5c7ecddf13b0da/page-000015.json
+Preserved representation: https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/dc7f3bf358ec93eb1476f3a5767ea6193db270f6/derived/090cfbec55548ada575053632aaa0d7b4114f023fc65c69c7c5c7ecddf13b0da/page-000015.json
 
 > igure 1: Parcel Layouts Adjacent to School (NTS)
 > 
@@ -438,7 +438,7 @@ Preserved representation: https://github.com/bartimoussmith-oss/cheyenne-laramie
 
 Publisher: https://www.cheyennecity.org/files/sharedassets/public/v/1/your-government/city-council/psc-2023/sub-sweetgrass-pud-amendment.pdf
 
-Preserved representation: https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/087cfe589af4d715ddf10849bb09c0e4d1fec216/derived/090cfbec55548ada575053632aaa0d7b4114f023fc65c69c7c5c7ecddf13b0da/page-000017.json
+Preserved representation: https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/dc7f3bf358ec93eb1476f3a5767ea6193db270f6/derived/090cfbec55548ada575053632aaa0d7b4114f023fc65c69c7c5c7ecddf13b0da/page-000017.json
 
 > ned
 >              on a case-by-case basis; and,
@@ -451,7 +451,7 @@ Preserved representation: https://github.com/bartimoussmith-oss/cheyenne-laramie
 
 Publisher: https://www.cheyennecity.org/files/sharedassets/public/v/1/your-government/city-council/psc-2023/sub-sweetgrass-pud-amendment.pdf
 
-Preserved representation: https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/087cfe589af4d715ddf10849bb09c0e4d1fec216/derived/090cfbec55548ada575053632aaa0d7b4114f023fc65c69c7c5c7ecddf13b0da/page-000019.json
+Preserved representation: https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/dc7f3bf358ec93eb1476f3a5767ea6193db270f6/derived/090cfbec55548ada575053632aaa0d7b4114f023fc65c69c7c5c7ecddf13b0da/page-000019.json
 
 > es for Naturalized Landscapes: See Table 2 below.
 > 
@@ -466,7 +466,7 @@ Preserved representation: https://github.com/bartimoussmith-oss/cheyenne-laramie
 
 Publisher: https://www.cheyennecity.org/files/sharedassets/public/v/1/your-government/city-council/psc-2023/sub-sweetgrass-pud-amendment.pdf
 
-Preserved representation: https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/087cfe589af4d715ddf10849bb09c0e4d1fec216/derived/090cfbec55548ada575053632aaa0d7b4114f023fc65c69c7c5c7ecddf13b0da/page-000023.json
+Preserved representation: https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/dc7f3bf358ec93eb1476f3a5767ea6193db270f6/derived/090cfbec55548ada575053632aaa0d7b4114f023fc65c69c7c5c7ecddf13b0da/page-000023.json
 
 > e within garages (applicable to SFA only).
 > 
@@ -479,7 +479,7 @@ Preserved representation: https://github.com/bartimoussmith-oss/cheyenne-laramie
 
 Publisher: https://www.cheyennecity.org/files/sharedassets/public/v/1/your-government/city-council/psc-2023/sub-sweetgrass-pud-amendment.pdf
 
-Preserved representation: https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/087cfe589af4d715ddf10849bb09c0e4d1fec216/derived/090cfbec55548ada575053632aaa0d7b4114f023fc65c69c7c5c7ecddf13b0da/page-000026.json
+Preserved representation: https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/dc7f3bf358ec93eb1476f3a5767ea6193db270f6/derived/090cfbec55548ada575053632aaa0d7b4114f023fc65c69c7c5c7ecddf13b0da/page-000026.json
 
 > ne including that standard.
 > 
@@ -491,7 +491,7 @@ Preserved representation: https://github.com/bartimoussmith-oss/cheyenne-laramie
 
 Publisher: https://www.cheyennecity.org/files/sharedassets/public/v/1/your-government/city-council/psc-2023/sub-sweetgrass-pud-amendment.pdf
 
-Preserved representation: https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/087cfe589af4d715ddf10849bb09c0e4d1fec216/derived/090cfbec55548ada575053632aaa0d7b4114f023fc65c69c7c5c7ecddf13b0da/page-000028.json
+Preserved representation: https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/dc7f3bf358ec93eb1476f3a5767ea6193db270f6/derived/090cfbec55548ada575053632aaa0d7b4114f023fc65c69c7c5c7ecddf13b0da/page-000028.json
 
 > Units are denoted in Table 10
 > 
@@ -505,7 +505,7 @@ Preserved representation: https://github.com/bartimoussmith-oss/cheyenne-laramie
 
 Publisher: https://www.cheyennecity.org/files/sharedassets/public/v/1/your-government/city-council/psc-2023/sub-sweetgrass-pud-amendment.pdf
 
-Preserved representation: https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/087cfe589af4d715ddf10849bb09c0e4d1fec216/derived/090cfbec55548ada575053632aaa0d7b4114f023fc65c69c7c5c7ecddf13b0da/page-000029.json
+Preserved representation: https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/dc7f3bf358ec93eb1476f3a5767ea6193db270f6/derived/090cfbec55548ada575053632aaa0d7b4114f023fc65c69c7c5c7ecddf13b0da/page-000029.json
 
 > justification and Committee endorsement, all required parking requirements may be
 >             reduced up to 30% by right.
@@ -524,7 +524,7 @@ Preserved representation: https://github.com/bartimoussmith-oss/cheyenne-laramie
 
 Publisher: https://www.cheyennecity.org/files/sharedassets/public/v/1/your-government/city-council/psc-2023/sub-sweetgrass-pud-amendment.pdf
 
-Preserved representation: https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/087cfe589af4d715ddf10849bb09c0e4d1fec216/derived/090cfbec55548ada575053632aaa0d7b4114f023fc65c69c7c5c7ecddf13b0da/page-000030.json
+Preserved representation: https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/dc7f3bf358ec93eb1476f3a5767ea6193db270f6/derived/090cfbec55548ada575053632aaa0d7b4114f023fc65c69c7c5c7ecddf13b0da/page-000030.json
 
 > south and east boundaries of Parcel R+R.
 > 
@@ -537,7 +537,7 @@ Preserved representation: https://github.com/bartimoussmith-oss/cheyenne-laramie
 
 Publisher: https://www.cheyennecity.org/files/sharedassets/public/v/1/your-government/city-council/psc-2023/sub-sweetgrass-pud-amendment.pdf
 
-Preserved representation: https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/087cfe589af4d715ddf10849bb09c0e4d1fec216/derived/090cfbec55548ada575053632aaa0d7b4114f023fc65c69c7c5c7ecddf13b0da/page-000031.json
+Preserved representation: https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/dc7f3bf358ec93eb1476f3a5767ea6193db270f6/derived/090cfbec55548ada575053632aaa0d7b4114f023fc65c69c7c5c7ecddf13b0da/page-000031.json
 
 >  from
 >              any platted residential lot.
@@ -551,7 +551,7 @@ Preserved representation: https://github.com/bartimoussmith-oss/cheyenne-laramie
 
 Publisher: https://www.cheyennecity.org/files/sharedassets/public/v/1/your-government/city-council/psc-2023/sub-sweetgrass-pud-amendment.pdf
 
-Preserved representation: https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/087cfe589af4d715ddf10849bb09c0e4d1fec216/derived/090cfbec55548ada575053632aaa0d7b4114f023fc65c69c7c5c7ecddf13b0da/page-000032.json
+Preserved representation: https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/dc7f3bf358ec93eb1476f3a5767ea6193db270f6/derived/090cfbec55548ada575053632aaa0d7b4114f023fc65c69c7c5c7ecddf13b0da/page-000032.json
 
 > lopment Standards and Allowed Uses by District
 > 
@@ -565,7 +565,7 @@ Preserved representation: https://github.com/bartimoussmith-oss/cheyenne-laramie
 
 Publisher: https://www.cheyennecity.org/files/sharedassets/public/v/1/your-government/city-council/psc-2023/sub-sweetgrass-pud-amendment.pdf
 
-Preserved representation: https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/087cfe589af4d715ddf10849bb09c0e4d1fec216/derived/090cfbec55548ada575053632aaa0d7b4114f023fc65c69c7c5c7ecddf13b0da/page-000034.json
+Preserved representation: https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/dc7f3bf358ec93eb1476f3a5767ea6193db270f6/derived/090cfbec55548ada575053632aaa0d7b4114f023fc65c69c7c5c7ecddf13b0da/page-000034.json
 
 > eetgrass Planned Unit Development                     Page 27                                                             Standards &amp; Guidelines (4th Amendment)
 >      Section 4 – Land Use Regulations                                                                                              Dated: 8/26/2023 RESUBMITTAL DRAFT
@@ -575,7 +575,7 @@ Preserved representation: https://github.com/bartimoussmith-oss/cheyenne-laramie
 
 Publisher: https://www.cheyennecity.org/files/sharedassets/public/v/1/your-government/city-council/psc-2023/sub-sweetgrass-pud-amendment.pdf
 
-Preserved representation: https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/087cfe589af4d715ddf10849bb09c0e4d1fec216/derived/090cfbec55548ada575053632aaa0d7b4114f023fc65c69c7c5c7ecddf13b0da/page-000035.json
+Preserved representation: https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/dc7f3bf358ec93eb1476f3a5767ea6193db270f6/derived/090cfbec55548ada575053632aaa0d7b4114f023fc65c69c7c5c7ecddf13b0da/page-000035.json
 
 > ass Planned Unit Development                           Page 28                                                            Standards &amp; Guidelines (4th Amendment)
 >       Section 4 – Land Use Regulations                                                                                                   Dated: 8/26/2023 RESUBMITTAL DRAFT
@@ -585,7 +585,7 @@ Preserved representation: https://github.com/bartimoussmith-oss/cheyenne-laramie
 
 Publisher: https://www.cheyennecity.org/files/sharedassets/public/v/1/your-government/city-council/psc-2023/sub-sweetgrass-pud-amendment.pdf
 
-Preserved representation: https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/087cfe589af4d715ddf10849bb09c0e4d1fec216/derived/090cfbec55548ada575053632aaa0d7b4114f023fc65c69c7c5c7ecddf13b0da/page-000048.json
+Preserved representation: https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/dc7f3bf358ec93eb1476f3a5767ea6193db270f6/derived/090cfbec55548ada575053632aaa0d7b4114f023fc65c69c7c5c7ecddf13b0da/page-000048.json
 
 > criteria for the Village Center Land Use District. These standards supplement the
 >    Sweetgrass Planned Unit Development Standards and Guidelines, as amended (“the PUD”).
@@ -604,7 +604,7 @@ Preserved representation: https://github.com/bartimoussmith-oss/cheyenne-laramie
 
 Publisher: https://www.cheyennecity.org/files/sharedassets/public/v/1/your-government/city-council/psc-2023/sub-sweetgrass-pud-amendment.pdf
 
-Preserved representation: https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/087cfe589af4d715ddf10849bb09c0e4d1fec216/derived/090cfbec55548ada575053632aaa0d7b4114f023fc65c69c7c5c7ecddf13b0da/page-000057.json
+Preserved representation: https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/dc7f3bf358ec93eb1476f3a5767ea6193db270f6/derived/090cfbec55548ada575053632aaa0d7b4114f023fc65c69c7c5c7ecddf13b0da/page-000057.json
 
 >    alignment changes, and other similar items.
 > 
@@ -619,7 +619,7 @@ Preserved representation: https://github.com/bartimoussmith-oss/cheyenne-laramie
 
 Publisher: https://www.cheyennecity.org/files/sharedassets/public/v/1/your-government/city-council/psc-2023/sub-sweetgrass-pud-amendment.pdf
 
-Preserved representation: https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/087cfe589af4d715ddf10849bb09c0e4d1fec216/derived/090cfbec55548ada575053632aaa0d7b4114f023fc65c69c7c5c7ecddf13b0da/page-000058.json
+Preserved representation: https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/dc7f3bf358ec93eb1476f3a5767ea6193db270f6/derived/090cfbec55548ada575053632aaa0d7b4114f023fc65c69c7c5c7ecddf13b0da/page-000058.json
 
 >   2. Major Amendments: In the event that the Director finds that a proposed amendment is outside of the minor
 >      adjustments described within UDC Section 2.3.4.b, the Committee is authorized to act on behalf of
@@ -649,7 +649,7 @@ Preserved representation: https://github.com/bartimoussmith-oss/cheyenne-laramie
 
 Publisher: https://www.cheyennecity.org/files/sharedassets/public/v/1/your-government/city-council/psc-2023/sub-sweetgrass-pud-amendment.pdf
 
-Preserved representation: https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/087cfe589af4d715ddf10849bb09c0e4d1fec216/derived/090cfbec55548ada575053632aaa0d7b4114f023fc65c69c7c5c7ecddf13b0da/page-000059.json
+Preserved representation: https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/dc7f3bf358ec93eb1476f3a5767ea6193db270f6/derived/090cfbec55548ada575053632aaa0d7b4114f023fc65c69c7c5c7ecddf13b0da/page-000059.json
 
 > eet while side-facing to the primary frontage.
 > 
@@ -664,7 +664,7 @@ Preserved representation: https://github.com/bartimoussmith-oss/cheyenne-laramie
 
 Publisher: https://www.cheyennecity.org/files/sharedassets/public/v/1/your-government/city-council/psc-2023/sub-sweetgrass-pud-amendment.pdf
 
-Preserved representation: https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/087cfe589af4d715ddf10849bb09c0e4d1fec216/derived/090cfbec55548ada575053632aaa0d7b4114f023fc65c69c7c5c7ecddf13b0da/page-000061.json
+Preserved representation: https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/dc7f3bf358ec93eb1476f3a5767ea6193db270f6/derived/090cfbec55548ada575053632aaa0d7b4114f023fc65c69c7c5c7ecddf13b0da/page-000061.json
 
 > ctions may be approved by the Committee on a case-by-case basis with concurrence
 >        by the City Engineer and Fire Department without requiring an amendment to this PUD.
@@ -690,7 +690,7 @@ Preserved representation: https://github.com/bartimoussmith-oss/cheyenne-laramie
 
 Publisher: https://www.cheyennecity.org/files/sharedassets/public/v/1/your-government/city-council/psc-2023/sub-sweetgrass-pud-amendment.pdf
 
-Preserved representation: https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/087cfe589af4d715ddf10849bb09c0e4d1fec216/derived/090cfbec55548ada575053632aaa0d7b4114f023fc65c69c7c5c7ecddf13b0da/page-000062.json
+Preserved representation: https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/dc7f3bf358ec93eb1476f3a5767ea6193db270f6/derived/090cfbec55548ada575053632aaa0d7b4114f023fc65c69c7c5c7ecddf13b0da/page-000062.json
 
 >       Code shall apply.
 >   2. Signage:
@@ -710,7 +710,7 @@ Preserved representation: https://github.com/bartimoussmith-oss/cheyenne-laramie
 
 Publisher: https://www.cheyennecity.org/files/sharedassets/public/v/1/your-government/city-council/psc-2023/sub-sweetgrass-pud-amendment.pdf
 
-Preserved representation: https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/087cfe589af4d715ddf10849bb09c0e4d1fec216/derived/090cfbec55548ada575053632aaa0d7b4114f023fc65c69c7c5c7ecddf13b0da/page-000064.json
+Preserved representation: https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/dc7f3bf358ec93eb1476f3a5767ea6193db270f6/derived/090cfbec55548ada575053632aaa0d7b4114f023fc65c69c7c5c7ecddf13b0da/page-000064.json
 
 > etter of endorsement from the Committee based on
 > 
@@ -722,7 +722,7 @@ Preserved representation: https://github.com/bartimoussmith-oss/cheyenne-laramie
 
 Publisher: https://www.cheyennecity.org/files/sharedassets/public/v/1/your-government/city-council/psc-2023/sub-sweetgrass-pud-amendment.pdf
 
-Preserved representation: https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/087cfe589af4d715ddf10849bb09c0e4d1fec216/derived/090cfbec55548ada575053632aaa0d7b4114f023fc65c69c7c5c7ecddf13b0da/page-000066.json
+Preserved representation: https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/dc7f3bf358ec93eb1476f3a5767ea6193db270f6/derived/090cfbec55548ada575053632aaa0d7b4114f023fc65c69c7c5c7ecddf13b0da/page-000066.json
 
 > cture (i.e.: Color, Material, Appearance, etc).
 >    Sweetgrass Planned Unit Development                Page 11             Standards &amp; Guidelines (4th Amendment)
@@ -733,7 +733,7 @@ Preserved representation: https://github.com/bartimoussmith-oss/cheyenne-laramie
 
 Publisher: https://www.cheyennecity.org/files/sharedassets/public/v/1/your-government/city-council/psc-2023/sub-sweetgrass-pud-amendment.pdf
 
-Preserved representation: https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/087cfe589af4d715ddf10849bb09c0e4d1fec216/derived/090cfbec55548ada575053632aaa0d7b4114f023fc65c69c7c5c7ecddf13b0da/page-000068.json
+Preserved representation: https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/dc7f3bf358ec93eb1476f3a5767ea6193db270f6/derived/090cfbec55548ada575053632aaa0d7b4114f023fc65c69c7c5c7ecddf13b0da/page-000068.json
 
 > from
 >              developed to undeveloped land.
@@ -746,7 +746,7 @@ Preserved representation: https://github.com/bartimoussmith-oss/cheyenne-laramie
 
 Publisher: https://www.cheyennecity.org/files/sharedassets/public/v/1/your-government/city-council/psc-2023/sub-sweetgrass-pud-amendment.pdf
 
-Preserved representation: https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/087cfe589af4d715ddf10849bb09c0e4d1fec216/derived/090cfbec55548ada575053632aaa0d7b4114f023fc65c69c7c5c7ecddf13b0da/page-000073.json
+Preserved representation: https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/dc7f3bf358ec93eb1476f3a5767ea6193db270f6/derived/090cfbec55548ada575053632aaa0d7b4114f023fc65c69c7c5c7ecddf13b0da/page-000073.json
 
 > e within garages (applicable to SFA only).
 > 
@@ -759,7 +759,7 @@ Preserved representation: https://github.com/bartimoussmith-oss/cheyenne-laramie
 
 Publisher: https://www.cheyennecity.org/files/sharedassets/public/v/1/your-government/city-council/psc-2023/sub-sweetgrass-pud-amendment.pdf
 
-Preserved representation: https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/087cfe589af4d715ddf10849bb09c0e4d1fec216/derived/090cfbec55548ada575053632aaa0d7b4114f023fc65c69c7c5c7ecddf13b0da/page-000076.json
+Preserved representation: https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/dc7f3bf358ec93eb1476f3a5767ea6193db270f6/derived/090cfbec55548ada575053632aaa0d7b4114f023fc65c69c7c5c7ecddf13b0da/page-000076.json
 
 > one including that standard.
 > 
@@ -771,7 +771,7 @@ Preserved representation: https://github.com/bartimoussmith-oss/cheyenne-laramie
 
 Publisher: https://www.cheyennecity.org/files/sharedassets/public/v/1/your-government/city-council/psc-2023/sub-sweetgrass-pud-amendment.pdf
 
-Preserved representation: https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/087cfe589af4d715ddf10849bb09c0e4d1fec216/derived/090cfbec55548ada575053632aaa0d7b4114f023fc65c69c7c5c7ecddf13b0da/page-000078.json
+Preserved representation: https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/dc7f3bf358ec93eb1476f3a5767ea6193db270f6/derived/090cfbec55548ada575053632aaa0d7b4114f023fc65c69c7c5c7ecddf13b0da/page-000078.json
 
 > Units are denoted in Table 10
 > 
@@ -785,7 +785,7 @@ Preserved representation: https://github.com/bartimoussmith-oss/cheyenne-laramie
 
 Publisher: https://www.cheyennecity.org/files/sharedassets/public/v/1/your-government/city-council/psc-2023/sub-sweetgrass-pud-amendment.pdf
 
-Preserved representation: https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/087cfe589af4d715ddf10849bb09c0e4d1fec216/derived/090cfbec55548ada575053632aaa0d7b4114f023fc65c69c7c5c7ecddf13b0da/page-000079.json
+Preserved representation: https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/dc7f3bf358ec93eb1476f3a5767ea6193db270f6/derived/090cfbec55548ada575053632aaa0d7b4114f023fc65c69c7c5c7ecddf13b0da/page-000079.json
 
 > justification and Committee endorsement, all required parking requirements may be
 >             reduced up to 30% by right.
@@ -804,7 +804,7 @@ Preserved representation: https://github.com/bartimoussmith-oss/cheyenne-laramie
 
 Publisher: https://www.cheyennecity.org/files/sharedassets/public/v/1/your-government/city-council/psc-2023/sub-sweetgrass-pud-amendment.pdf
 
-Preserved representation: https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/087cfe589af4d715ddf10849bb09c0e4d1fec216/derived/090cfbec55548ada575053632aaa0d7b4114f023fc65c69c7c5c7ecddf13b0da/page-000080.json
+Preserved representation: https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/dc7f3bf358ec93eb1476f3a5767ea6193db270f6/derived/090cfbec55548ada575053632aaa0d7b4114f023fc65c69c7c5c7ecddf13b0da/page-000080.json
 
 > south and east boundaries of Parcel R+R.
 > 
@@ -817,7 +817,7 @@ Preserved representation: https://github.com/bartimoussmith-oss/cheyenne-laramie
 
 Publisher: https://www.cheyennecity.org/files/sharedassets/public/v/1/your-government/city-council/psc-2023/sub-sweetgrass-pud-amendment.pdf
 
-Preserved representation: https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/087cfe589af4d715ddf10849bb09c0e4d1fec216/derived/090cfbec55548ada575053632aaa0d7b4114f023fc65c69c7c5c7ecddf13b0da/page-000081.json
+Preserved representation: https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/dc7f3bf358ec93eb1476f3a5767ea6193db270f6/derived/090cfbec55548ada575053632aaa0d7b4114f023fc65c69c7c5c7ecddf13b0da/page-000081.json
 
 >  from
 >              any platted residential lot.
@@ -831,7 +831,7 @@ Preserved representation: https://github.com/bartimoussmith-oss/cheyenne-laramie
 
 Publisher: https://www.cheyennecity.org/files/sharedassets/public/v/1/your-government/city-council/psc-2023/sub-sweetgrass-pud-amendment.pdf
 
-Preserved representation: https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/087cfe589af4d715ddf10849bb09c0e4d1fec216/derived/090cfbec55548ada575053632aaa0d7b4114f023fc65c69c7c5c7ecddf13b0da/page-000082.json
+Preserved representation: https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/dc7f3bf358ec93eb1476f3a5767ea6193db270f6/derived/090cfbec55548ada575053632aaa0d7b4114f023fc65c69c7c5c7ecddf13b0da/page-000082.json
 
 > pment Standards and Allowed Uses by District
 > 
@@ -845,7 +845,7 @@ Preserved representation: https://github.com/bartimoussmith-oss/cheyenne-laramie
 
 Publisher: https://www.cheyennecity.org/files/sharedassets/public/v/1/your-government/city-council/psc-2023/sub-sweetgrass-pud-amendment.pdf
 
-Preserved representation: https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/087cfe589af4d715ddf10849bb09c0e4d1fec216/derived/090cfbec55548ada575053632aaa0d7b4114f023fc65c69c7c5c7ecddf13b0da/page-000084.json
+Preserved representation: https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/dc7f3bf358ec93eb1476f3a5767ea6193db270f6/derived/090cfbec55548ada575053632aaa0d7b4114f023fc65c69c7c5c7ecddf13b0da/page-000084.json
 
 >     Sweetgrass Planned Unit Development                     Page 27                                                       Standards &amp; Guidelines (4th Amendment)
 >     Section 4 – Land Use Regulations                                                                                                    Dated: September 5, 2023
@@ -855,7 +855,7 @@ Preserved representation: https://github.com/bartimoussmith-oss/cheyenne-laramie
 
 Publisher: https://www.cheyennecity.org/files/sharedassets/public/v/1/your-government/city-council/psc-2023/sub-sweetgrass-pud-amendment.pdf
 
-Preserved representation: https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/087cfe589af4d715ddf10849bb09c0e4d1fec216/derived/090cfbec55548ada575053632aaa0d7b4114f023fc65c69c7c5c7ecddf13b0da/page-000085.json
+Preserved representation: https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/dc7f3bf358ec93eb1476f3a5767ea6193db270f6/derived/090cfbec55548ada575053632aaa0d7b4114f023fc65c69c7c5c7ecddf13b0da/page-000085.json
 
 > eetgrass Planned Unit Development                            Page 28                                                      Standards &amp; Guidelines (4th Amendment)
 >      Section 4 – Land Use Regulations                                                                                                          Dated: September 5, 2023
@@ -865,7 +865,7 @@ Preserved representation: https://github.com/bartimoussmith-oss/cheyenne-laramie
 
 Publisher: https://www.cheyennecity.org/files/sharedassets/public/v/1/your-government/city-council/psc-2023/sub-sweetgrass-pud-amendment.pdf
 
-Preserved representation: https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/087cfe589af4d715ddf10849bb09c0e4d1fec216/derived/090cfbec55548ada575053632aaa0d7b4114f023fc65c69c7c5c7ecddf13b0da/page-000097.json
+Preserved representation: https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/dc7f3bf358ec93eb1476f3a5767ea6193db270f6/derived/090cfbec55548ada575053632aaa0d7b4114f023fc65c69c7c5c7ecddf13b0da/page-000097.json
 
 > criteria for the Village Center Land Use District. These standards supplement the
 >    Sweetgrass Planned Unit Development Standards and Guidelines, as amended (“the PUD”).
@@ -884,7 +884,7 @@ Preserved representation: https://github.com/bartimoussmith-oss/cheyenne-laramie
 
 Publisher: https://www.cheyennecity.org/files/sharedassets/public/v/1/your-government/city-council/psc-2022/substitute-8.16.22-ord.-13.12-amendments-ca-redline.pdf
 
-Preserved representation: https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/087cfe589af4d715ddf10849bb09c0e4d1fec216/derived/10804ccc56cfd4dbf3eda3a48dd09d00c38901ed995803b3ea688cdb5d11ca9c/page-000001.json
+Preserved representation: https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/dc7f3bf358ec93eb1476f3a5767ea6193db270f6/derived/10804ccc56cfd4dbf3eda3a48dd09d00c38901ed995803b3ea688cdb5d11ca9c/page-000001.json
 
 >   Section 1. That various sections of Chapter 13, Sewer System of Title 13, Public Services,
 > of the code of the City of Cheyenne, Wyoming, are hereby amended as set out in this ordinance.
@@ -898,7 +898,7 @@ Preserved representation: https://github.com/bartimoussmith-oss/cheyenne-laramie
 
 Publisher: https://www.cheyennecity.org/files/sharedassets/public/v/1/your-government/city-council/psc-2023/sub-ord-amending-subsec-6.6.3.b.3-chosen-version.pdf
 
-Preserved representation: https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/087cfe589af4d715ddf10849bb09c0e4d1fec216/derived/10d28a36c27d7c22fa87e0d00f73974c827e7a23b94e25665007b4c25c8d354b/page-000001.json
+Preserved representation: https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/dc7f3bf358ec93eb1476f3a5767ea6193db270f6/derived/10d28a36c27d7c22fa87e0d00f73974c827e7a23b94e25665007b4c25c8d354b/page-000001.json
 
 > INED BY THE GOVERNING BODY OF THE CITY OF CHEYENNE,
 > WYOMING:
@@ -933,7 +933,7 @@ Preserved representation: https://github.com/bartimoussmith-oss/cheyenne-laramie
 
 Publisher: https://www.cheyennecity.org/files/sharedassets/public/v/1/your-government/city-council/fc-2024/fc-12-02-24-minutes.pdf
 
-Preserved representation: https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/087cfe589af4d715ddf10849bb09c0e4d1fec216/derived/132ae915bb06a6eb510b479ef9ffd4df69aef887f8ea8321b94f20bb390f9e05/page-000001.json
+Preserved representation: https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/dc7f3bf358ec93eb1476f3a5767ea6193db270f6/derived/132ae915bb06a6eb510b479ef9ffd4df69aef887f8ea8321b94f20bb390f9e05/page-000001.json
 
 > eyenne Board of Public Utilities). (SPONSOR   —
 > 
@@ -970,7 +970,7 @@ Preserved representation: https://github.com/bartimoussmith-oss/cheyenne-laramie
 
 Publisher: https://www.cheyennecity.org/files/sharedassets/public/v/1/your-government/city-council/fc-2023/fc-10-16-23-minutes.pdf
 
-Preserved representation: https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/087cfe589af4d715ddf10849bb09c0e4d1fec216/derived/14c781beeac8664941eaffb99f88add19ec0ad39228e3e1488a96946af73ab6b/page-000001.json
+Preserved representation: https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/dc7f3bf358ec93eb1476f3a5767ea6193db270f6/derived/14c781beeac8664941eaffb99f88add19ec0ad39228e3e1488a96946af73ab6b/page-000001.json
 
 > riveways Generally, of Title 12, Streets, Sidewalks and Public Places, of the Municipal
 > Code of the City of Cheyenne, Wyoming and making a conforming amendment as
@@ -984,7 +984,7 @@ Preserved representation: https://github.com/bartimoussmith-oss/cheyenne-laramie
 
 Publisher: https://www.cheyennecity.org/files/sharedassets/public/v/1/your-government/city-council/fc-2023/fc-10-16-23-minutes.pdf
 
-Preserved representation: https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/087cfe589af4d715ddf10849bb09c0e4d1fec216/derived/14c781beeac8664941eaffb99f88add19ec0ad39228e3e1488a96946af73ab6b/page-000003.json
+Preserved representation: https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/dc7f3bf358ec93eb1476f3a5767ea6193db270f6/derived/14c781beeac8664941eaffb99f88add19ec0ad39228e3e1488a96946af73ab6b/page-000003.json
 
 > R ITEMS FOR THE AGENDA:
 > 
