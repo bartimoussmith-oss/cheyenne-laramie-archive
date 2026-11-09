@@ -8,7 +8,7 @@ Matched representations: 174; exported: 50. Deterministic file order, not import
 
 Publisher: https://www.cheyennecity.org/Your-Government/Departments/City-Treasurer
 
-Preserved representation: https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/cd6602271d14e31e89539296b783829c37b5c036/text/14f12ee07d233cade834b0dd3cf0217b10b6b804cd50cad7805c170188217bb6.txt
+Preserved representation: https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/087cfe589af4d715ddf10849bb09c0e4d1fec216/text/14f12ee07d233cade834b0dd3cf0217b10b6b804cd50cad7805c170188217bb6.txt
 
 > he City&#x27;s financial position at all times.  Additional responsibilities of the City Treasurer&#x27;s Department include the oversight of the City&#x27;s annual budget, financial planning and reporting, accounting operations, payroll, and purchasing procedures.  The City Treasurer&#x27;s Department employees work closely with other City Departments and the Governing Body to ensure the expenditure of City funds are comp
 
@@ -25,7 +25,7 @@ Preserved representation: https://github.com/bartimoussmith-oss/cheyenne-laramie
 
 Publisher: https://www.cheyennecity.org/Your-Government/Departments
 
-Preserved representation: https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/cd6602271d14e31e89539296b783829c37b5c036/text/3acba0fc1d0e72a92bfd8410e0ce66716b4ac9fc5981848b580bdd151c887604.txt
+Preserved representation: https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/087cfe589af4d715ddf10849bb09c0e4d1fec216/text/3acba0fc1d0e72a92bfd8410e0ce66716b4ac9fc5981848b580bdd151c887604.txt
 
 > Public Works Department provides oversight of the Belvoir Ranch, heads the Belvoir Ranch Steering Committee, and administers the Optional One Percent Sales Tax Fund (5th Penny Tax) and the Solid Waste Fund.
 > Share
@@ -52,7 +52,7 @@ Preserved representation: https://github.com/bartimoussmith-oss/cheyenne-laramie
 
 Publisher: https://www.cheyennecity.org/Your-Government/City-Council/Minutes-and-Agendas
 
-Preserved representation: https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/cd6602271d14e31e89539296b783829c37b5c036/text/3dd70667ea5d722bea19d76073b4ffffcc05a651e4b1b3a1dd22befe7d173cfa.txt
+Preserved representation: https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/087cfe589af4d715ddf10849bb09c0e4d1fec216/text/3dd70667ea5d722bea19d76073b4ffffcc05a651e4b1b3a1dd22befe7d173cfa.txt
 
 > 
 > Video
@@ -115,7 +115,7 @@ Preserved representation: https://github.com/bartimoussmith-oss/cheyenne-laramie
 
 Publisher: https://www.cheyennecity.org/Your-Government/Departments/City-Treasurer/City-Treasurer-Resources-Documents-Forms
 
-Preserved representation: https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/cd6602271d14e31e89539296b783829c37b5c036/text/5c373ef72f5d39635a34912ae2481e359c3129fd0f27ee89624c4f50c9049e6b.txt
+Preserved representation: https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/087cfe589af4d715ddf10849bb09c0e4d1fec216/text/5c373ef72f5d39635a34912ae2481e359c3129fd0f27ee89624c4f50c9049e6b.txt
 
 > urer Resources, Documents, &amp; Forms
 > Listen
@@ -172,7 +172,7 @@ Preserved representation: https://github.com/bartimoussmith-oss/cheyenne-laramie
 
 Publisher: https://www.cheyennecity.org/Home/Tabs/Featured-Links/Coronavirus-COVID-19
 
-Preserved representation: https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/cd6602271d14e31e89539296b783829c37b5c036/text/77b33b250c26aa5b4c39100d72dc332a81fc1c0af261b50b98f49a7251582aaf.txt
+Preserved representation: https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/087cfe589af4d715ddf10849bb09c0e4d1fec216/text/77b33b250c26aa5b4c39100d72dc332a81fc1c0af261b50b98f49a7251582aaf.txt
 
 > ne 10 -
 > Indoor gathering limits increased, parades permitted under updated health orders
@@ -203,7 +203,7 @@ Preserved representation: https://github.com/bartimoussmith-oss/cheyenne-laramie
 
 Publisher: https://www.cheyennecity.org/Your-Government/Departments/City-Engineer
 
-Preserved representation: https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/cd6602271d14e31e89539296b783829c37b5c036/text/85821b0bf46b99b4216d0ca8c05fac9f147fd62070eae02d32693472cb0b6850.txt
+Preserved representation: https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/087cfe589af4d715ddf10849bb09c0e4d1fec216/text/85821b0bf46b99b4216d0ca8c05fac9f147fd62070eae02d32693472cb0b6850.txt
 
 > -25
 > (PDF, 240KB)
@@ -221,7 +221,7 @@ Preserved representation: https://github.com/bartimoussmith-oss/cheyenne-laramie
 
 Publisher: https://www.cheyennecity.org/Your-Government/Departments/City-Treasurer/City-Treasurer-Resources-Documents-Forms-Archives
 
-Preserved representation: https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/cd6602271d14e31e89539296b783829c37b5c036/text/9c73e7a20020ff1b57092cd649d179e5587f90f2fcda3238ff876d58251c1b16.txt
+Preserved representation: https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/087cfe589af4d715ddf10849bb09c0e4d1fec216/text/9c73e7a20020ff1b57092cd649d179e5587f90f2fcda3238ff876d58251c1b16.txt
 
 > rer
 > /
@@ -285,7 +285,7 @@ Preserved representation: https://github.com/bartimoussmith-oss/cheyenne-laramie
 
 Publisher: https://www.cheyennecity.org/Your-Government/Departments/Public-Works
 
-Preserved representation: https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/cd6602271d14e31e89539296b783829c37b5c036/text/9d3098d1cd836224a7a0df78cff51050bc5a99957854df4ddac5ecf188912843.txt
+Preserved representation: https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/087cfe589af4d715ddf10849bb09c0e4d1fec216/text/9d3098d1cd836224a7a0df78cff51050bc5a99957854df4ddac5ecf188912843.txt
 
 > nitation Division
 > Recycling
@@ -345,7 +345,7 @@ Preserved representation: https://github.com/bartimoussmith-oss/cheyenne-laramie
 
 Publisher: https://www.cheyennecity.org/Services
 
-Preserved representation: https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/cd6602271d14e31e89539296b783829c37b5c036/text/d00aa211b6d805660489c2cfc29d733347787d24d6cf0845790e3aabbc7f235d.txt
+Preserved representation: https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/087cfe589af4d715ddf10849bb09c0e4d1fec216/text/d00aa211b6d805660489c2cfc29d733347787d24d6cf0845790e3aabbc7f235d.txt
 
 > rvices
 > Building Safety
@@ -378,7 +378,7 @@ Preserved representation: https://github.com/bartimoussmith-oss/cheyenne-laramie
 
 Publisher: https://www.laramiecountywy.gov/County-Government/Elected-Officials/County-Clerk/Clerk-to-the-Board-of-County-Commissioners
 
-Preserved representation: https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/cd6602271d14e31e89539296b783829c37b5c036/text/d7a11bf934f9d3f289fd4af6827b18f8b266253d6bbe3aee860a10049ddc1ce0.txt
+Preserved representation: https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/087cfe589af4d715ddf10849bb09c0e4d1fec216/text/d7a11bf934f9d3f289fd4af6827b18f8b266253d6bbe3aee860a10049ddc1ce0.txt
 
 > y Department
 > Social Media
@@ -407,7 +407,7 @@ Preserved representation: https://github.com/bartimoussmith-oss/cheyenne-laramie
 
 Publisher: https://www.cheyennecity.org/Home
 
-Preserved representation: https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/cd6602271d14e31e89539296b783829c37b5c036/text/effa524b7580c3987c3c3d07349e937e86faabdd7a86eee9e810bcaa6697158a.txt
+Preserved representation: https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/087cfe589af4d715ddf10849bb09c0e4d1fec216/text/effa524b7580c3987c3c3d07349e937e86faabdd7a86eee9e810bcaa6697158a.txt
 
 > ed Links
 > Featured Links
@@ -433,7 +433,7 @@ Preserved representation: https://github.com/bartimoussmith-oss/cheyenne-laramie
 
 Publisher: https://www.laramiecountywy.gov/County-Government/Elected-Officials/County-Clerk/Finance
 
-Preserved representation: https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/cd6602271d14e31e89539296b783829c37b5c036/text/f8d5b0ec65f2535172348894c908a14c5e8d791d19b7a04cf033e1011e1d7dd9.txt
+Preserved representation: https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/087cfe589af4d715ddf10849bb09c0e4d1fec216/text/f8d5b0ec65f2535172348894c908a14c5e8d791d19b7a04cf033e1011e1d7dd9.txt
 
 > y Department
 > Social Media
@@ -489,7 +489,7 @@ Preserved representation: https://github.com/bartimoussmith-oss/cheyenne-laramie
 
 Publisher: https://www.cheyennecity.org/files/sharedassets/public/v/1/your-government/city-council/fc-2025/fc-01-22-25-agenda.pdf
 
-Preserved representation: https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/cd6602271d14e31e89539296b783829c37b5c036/derived/00148b065ddd9d6d2689eb691a7abc53cb309379f50ee6e2f52cd68f90a30448/page-000001.json
+Preserved representation: https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/087cfe589af4d715ddf10849bb09c0e4d1fec216/derived/00148b065ddd9d6d2689eb691a7abc53cb309379f50ee6e2f52cd68f90a30448/page-000001.json
 
 >  the City of Cheyenne’s web site:
 >                                      Finance Committee
@@ -519,7 +519,7 @@ Preserved representation: https://github.com/bartimoussmith-oss/cheyenne-laramie
 
 Publisher: https://www.cheyennecity.org/files/sharedassets/public/v/1/your-government/city-council/wscow-2026/city-clerk-fy27-presentation.pdf
 
-Preserved representation: https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/cd6602271d14e31e89539296b783829c37b5c036/derived/00bb64666ab3c7d9e1a67a68d37e92cf43f2cc5cd78b5e2ca7328ffe96ced49b/page-000001.json
+Preserved representation: https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/087cfe589af4d715ddf10849bb09c0e4d1fec216/derived/00bb64666ab3c7d9e1a67a68d37e92cf43f2cc5cd78b5e2ca7328ffe96ced49b/page-000001.json
 
 > CITY CLERK
 > BUDGET pod
@@ -531,7 +531,7 @@ Preserved representation: https://github.com/bartimoussmith-oss/cheyenne-laramie
 
 Publisher: https://www.cheyennecity.org/files/sharedassets/public/v/1/your-government/city-council/wscow-2026/city-clerk-fy27-presentation.pdf
 
-Preserved representation: https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/cd6602271d14e31e89539296b783829c37b5c036/derived/00bb64666ab3c7d9e1a67a68d37e92cf43f2cc5cd78b5e2ca7328ffe96ced49b/page-000005.json
+Preserved representation: https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/087cfe589af4d715ddf10849bb09c0e4d1fec216/derived/00bb64666ab3c7d9e1a67a68d37e92cf43f2cc5cd78b5e2ca7328ffe96ced49b/page-000005.json
 
 > BUDGET SUMMARY
 > 
@@ -547,7 +547,7 @@ Preserved representation: https://github.com/bartimoussmith-oss/cheyenne-laramie
 
 Publisher: https://www.cheyennecity.org/files/sharedassets/public/v/1/your-government/city-council/wscow-2026/city-clerk-fy27-presentation.pdf
 
-Preserved representation: https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/cd6602271d14e31e89539296b783829c37b5c036/derived/00bb64666ab3c7d9e1a67a68d37e92cf43f2cc5cd78b5e2ca7328ffe96ced49b/page-000006.json
+Preserved representation: https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/087cfe589af4d715ddf10849bb09c0e4d1fec216/derived/00bb64666ab3c7d9e1a67a68d37e92cf43f2cc5cd78b5e2ca7328ffe96ced49b/page-000006.json
 
 >              •   Overall budget decreased by $25,884
 > 
@@ -587,7 +587,7 @@ Preserved representation: https://github.com/bartimoussmith-oss/cheyenne-laramie
 
 Publisher: https://www.cheyennecity.org/files/sharedassets/public/v/1/your-government/city-council/wscow-2026/city-clerk-fy27-presentation.pdf
 
-Preserved representation: https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/cd6602271d14e31e89539296b783829c37b5c036/derived/00bb64666ab3c7d9e1a67a68d37e92cf43f2cc5cd78b5e2ca7328ffe96ced49b/page-000007.json
+Preserved representation: https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/087cfe589af4d715ddf10849bb09c0e4d1fec216/derived/00bb64666ab3c7d9e1a67a68d37e92cf43f2cc5cd78b5e2ca7328ffe96ced49b/page-000007.json
 
 > BUDGET       •   Temporary/Part-Time Employee line item
 >                    •   Added $25,000 to convert a contracted position to a
@@ -611,7 +611,7 @@ Preserved representation: https://github.com/bartimoussmith-oss/cheyenne-laramie
 
 Publisher: https://www.cheyennecity.org/files/sharedassets/public/v/1/your-government/city-council/wscow-2026/city-clerk-fy27-presentation.pdf
 
-Preserved representation: https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/cd6602271d14e31e89539296b783829c37b5c036/derived/00bb64666ab3c7d9e1a67a68d37e92cf43f2cc5cd78b5e2ca7328ffe96ced49b/page-000008.json
+Preserved representation: https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/087cfe589af4d715ddf10849bb09c0e4d1fec216/derived/00bb64666ab3c7d9e1a67a68d37e92cf43f2cc5cd78b5e2ca7328ffe96ced49b/page-000008.json
 
 >              • The proposed FY 2027 budget maintains
 >                essential services and operational
@@ -625,7 +625,7 @@ Preserved representation: https://github.com/bartimoussmith-oss/cheyenne-laramie
 
 Publisher: https://www.cheyennecity.org/files/sharedassets/public/v/1/your-government/city-council/fc-2023/fc-02-21-23-minutes.pdf
 
-Preserved representation: https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/cd6602271d14e31e89539296b783829c37b5c036/derived/00f462be921543c29907c0eabe9565316cb479aa2d9df8068b809446edf8c5a5/page-000001.json
+Preserved representation: https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/087cfe589af4d715ddf10849bb09c0e4d1fec216/derived/00f462be921543c29907c0eabe9565316cb479aa2d9df8068b809446edf8c5a5/page-000001.json
 
 > for questions.
 > Chairman White and committee members Roybal and Esquibel commented on the item.
@@ -641,7 +641,7 @@ Preserved representation: https://github.com/bartimoussmith-oss/cheyenne-laramie
 
 Publisher: https://www.cheyennecity.org/files/sharedassets/public/v/1/your-government/city-council/fc-2023/fc-02-21-23-minutes.pdf
 
-Preserved representation: https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/cd6602271d14e31e89539296b783829c37b5c036/derived/00f462be921543c29907c0eabe9565316cb479aa2d9df8068b809446edf8c5a5/page-000002.json
+Preserved representation: https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/087cfe589af4d715ddf10849bb09c0e4d1fec216/derived/00f462be921543c29907c0eabe9565316cb479aa2d9df8068b809446edf8c5a5/page-000002.json
 
 > ffice
 > of Homeland Security for project scoping of the Cheyenne 18!&quot; Street Storm Sewer
@@ -656,7 +656,7 @@ Preserved representation: https://github.com/bartimoussmith-oss/cheyenne-laramie
 
 Publisher: https://www.cheyennecity.org/files/sharedassets/public/v/1/your-government/city-council/fc-2023/fc-02-21-23-minutes.pdf
 
-Preserved representation: https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/cd6602271d14e31e89539296b783829c37b5c036/derived/00f462be921543c29907c0eabe9565316cb479aa2d9df8068b809446edf8c5a5/page-000004.json
+Preserved representation: https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/087cfe589af4d715ddf10849bb09c0e4d1fec216/derived/00f462be921543c29907c0eabe9565316cb479aa2d9df8068b809446edf8c5a5/page-000004.json
 
 > for an agreement between the City of Cheyenne and
 > JTL Group Inc. d/b/a Knife River for the 2023 City Overlay Part #2 project. (2019-
@@ -672,7 +672,7 @@ Preserved representation: https://github.com/bartimoussmith-oss/cheyenne-laramie
 
 Publisher: https://www.cheyennecity.org/files/sharedassets/public/v/1/your-government/city-council/fc-2023/fc-12-04-23-agenda.pdf
 
-Preserved representation: https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/cd6602271d14e31e89539296b783829c37b5c036/derived/010bd83d980db77cff63d872d0af99d9ad84914af753e62bf5997fa238a50bdd/page-000002.json
+Preserved representation: https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/087cfe589af4d715ddf10849bb09c0e4d1fec216/derived/010bd83d980db77cff63d872d0af99d9ad84914af753e62bf5997fa238a50bdd/page-000002.json
 
 > yenne and Z
 >            and Z Sealcoating, Inc. for additional material required for the 2023 Crack Seal
@@ -689,7 +689,7 @@ Preserved representation: https://github.com/bartimoussmith-oss/cheyenne-laramie
 
 Publisher: https://www.cheyennecity.org/files/sharedassets/public/v/1/your-government/city-council/fc-2022/fc-09-06-22-agenda-2.pdf
 
-Preserved representation: https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/cd6602271d14e31e89539296b783829c37b5c036/derived/02655cafa3b55f9938e5b154d1147bf1fb4e7dc9f116a0660656ff4ab5d3e0f4/page-000002.json
+Preserved representation: https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/087cfe589af4d715ddf10849bb09c0e4d1fec216/derived/02655cafa3b55f9938e5b154d1147bf1fb4e7dc9f116a0660656ff4ab5d3e0f4/page-000002.json
 
 > ams
 >            to allocate remaining portion of 10% “Excess Monies” to Human Services pursuant
@@ -702,7 +702,7 @@ Preserved representation: https://github.com/bartimoussmith-oss/cheyenne-laramie
 
 Publisher: https://www.cheyennecity.org/files/sharedassets/public/v/1/your-government/city-council/fc-2022/fc-09-06-22-agenda-2.pdf
 
-Preserved representation: https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/cd6602271d14e31e89539296b783829c37b5c036/derived/02655cafa3b55f9938e5b154d1147bf1fb4e7dc9f116a0660656ff4ab5d3e0f4/page-000003.json
+Preserved representation: https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/087cfe589af4d715ddf10849bb09c0e4d1fec216/derived/02655cafa3b55f9938e5b154d1147bf1fb4e7dc9f116a0660656ff4ab5d3e0f4/page-000003.json
 
 >  Laramie County to provide services to various community programs
 >              to allocate funds pursuant to Resolution #5933. (2019-2022 Optional 1% Sales Tax
@@ -720,7 +720,7 @@ Preserved representation: https://github.com/bartimoussmith-oss/cheyenne-laramie
 
 Publisher: https://www.cheyennecity.org/files/sharedassets/public/v/1/your-government/city-council/fc-2025/fc-06-17-25-agenda.pdf
 
-Preserved representation: https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/cd6602271d14e31e89539296b783829c37b5c036/derived/02742df3cbd1e799493dcf34548f5d2769c9d2158f5e6f11c571fe222ade003f/page-000002.json
+Preserved representation: https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/087cfe589af4d715ddf10849bb09c0e4d1fec216/derived/02742df3cbd1e799493dcf34548f5d2769c9d2158f5e6f11c571fe222ade003f/page-000002.json
 
 > ment between the City of Cheyenne and HDR
 >            Engineering, Inc., for the 18th Street Reconstruction Project. (2023-2026 Optional
@@ -760,7 +760,7 @@ Preserved representation: https://github.com/bartimoussmith-oss/cheyenne-laramie
 
 Publisher: https://www.cheyennecity.org/files/sharedassets/public/v/1/your-government/city-council/fc-2025/fc-06-17-25-agenda.pdf
 
-Preserved representation: https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/cd6602271d14e31e89539296b783829c37b5c036/derived/02742df3cbd1e799493dcf34548f5d2769c9d2158f5e6f11c571fe222ade003f/page-000003.json
+Preserved representation: https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/087cfe589af4d715ddf10849bb09c0e4d1fec216/derived/02742df3cbd1e799493dcf34548f5d2769c9d2158f5e6f11c571fe222ade003f/page-000003.json
 
 > ement between the City of Cheyenne
 >            and Climate Control LLC, for HVAC and Mechanical Systems Maintenance.
@@ -777,7 +777,7 @@ Preserved representation: https://github.com/bartimoussmith-oss/cheyenne-laramie
 
 Publisher: https://www.cheyennecity.org/files/sharedassets/public/v/1/your-government/city-council/wscow-2026/youth-alternatives-fy-2027-budget-presentation1.pdf
 
-Preserved representation: https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/cd6602271d14e31e89539296b783829c37b5c036/derived/02f6b37badfb51fa01a6646ebb0e050b3e28d45cb13f193acb1e1eaa42712793/page-000004.json
+Preserved representation: https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/087cfe589af4d715ddf10849bb09c0e4d1fec216/derived/02f6b37badfb51fa01a6646ebb0e050b3e28d45cb13f193acb1e1eaa42712793/page-000004.json
 
 > 3,440 31,380 33410 6%
 > Parts and Supplies 1,606 1211 1935 1,925 0%
@@ -806,7 +806,7 @@ Preserved representation: https://github.com/bartimoussmith-oss/cheyenne-laramie
 
 Publisher: https://www.cheyennecity.org/files/sharedassets/public/v/1/your-government/city-council/wscow-2026/youth-alternatives-fy-2027-budget-presentation1.pdf
 
-Preserved representation: https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/cd6602271d14e31e89539296b783829c37b5c036/derived/02f6b37badfb51fa01a6646ebb0e050b3e28d45cb13f193acb1e1eaa42712793/page-000005.json
+Preserved representation: https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/087cfe589af4d715ddf10849bb09c0e4d1fec216/derived/02f6b37badfb51fa01a6646ebb0e050b3e28d45cb13f193acb1e1eaa42712793/page-000005.json
 
 > &lt; $7,500)
 > Subtotal
@@ -860,7 +860,7 @@ Preserved representation: https://github.com/bartimoussmith-oss/cheyenne-laramie
 
 Publisher: https://www.cheyennecity.org/files/sharedassets/public/v/1/your-government/city-council/fc-2023/fc-06-20-23-agenda.pdf
 
-Preserved representation: https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/cd6602271d14e31e89539296b783829c37b5c036/derived/0356098f048a1b8402a8dd070eb6fc3e62b126fb5ab9b639a0b162a634bd8860/page-000002.json
+Preserved representation: https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/087cfe589af4d715ddf10849bb09c0e4d1fec216/derived/0356098f048a1b8402a8dd070eb6fc3e62b126fb5ab9b639a0b162a634bd8860/page-000002.json
 
 > ty of Cheyenne and Sunrise
 >              Engineering for the 7th Street Drainage and Access Improvements Project. (2019-
@@ -897,7 +897,7 @@ Preserved representation: https://github.com/bartimoussmith-oss/cheyenne-laramie
 
 Publisher: https://www.cheyennecity.org/files/sharedassets/public/v/1/your-government/city-council/fc-2023/fc-06-20-23-agenda.pdf
 
-Preserved representation: https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/cd6602271d14e31e89539296b783829c37b5c036/derived/0356098f048a1b8402a8dd070eb6fc3e62b126fb5ab9b639a0b162a634bd8860/page-000004.json
+Preserved representation: https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/087cfe589af4d715ddf10849bb09c0e4d1fec216/derived/0356098f048a1b8402a8dd070eb6fc3e62b126fb5ab9b639a0b162a634bd8860/page-000004.json
 
 > Curtis for the
 >            purchase of seventy-two (72) sets of bunker gear for the Cheyenne Fire Rescue
@@ -933,7 +933,7 @@ Preserved representation: https://github.com/bartimoussmith-oss/cheyenne-laramie
 
 Publisher: https://www.cheyennecity.org/files/sharedassets/public/v/1/your-government/city-council/fc-2024/fc-04-15-24-minutes.pdf
 
-Preserved representation: https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/cd6602271d14e31e89539296b783829c37b5c036/derived/046c80e9030ad730d899ab2ae68aca711197ea307ddee147750141d35f43762b/page-000001.json
+Preserved representation: https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/087cfe589af4d715ddf10849bb09c0e4d1fec216/derived/046c80e9030ad730d899ab2ae68aca711197ea307ddee147750141d35f43762b/page-000001.json
 
 >  of Cheyenne and DHM Design
 >                PC for engineering services for the 1çih Street Master Plan Project. (2019-2022
@@ -948,7 +948,7 @@ Preserved representation: https://github.com/bartimoussmith-oss/cheyenne-laramie
 
 Publisher: https://www.cheyennecity.org/files/sharedassets/public/v/1/your-government/city-council/fc-2024/fc-04-15-24-minutes.pdf
 
-Preserved representation: https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/cd6602271d14e31e89539296b783829c37b5c036/derived/046c80e9030ad730d899ab2ae68aca711197ea307ddee147750141d35f43762b/page-000002.json
+Preserved representation: https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/087cfe589af4d715ddf10849bb09c0e4d1fec216/derived/046c80e9030ad730d899ab2ae68aca711197ea307ddee147750141d35f43762b/page-000002.json
 
 >  between the City of Cheyenne and
 >               Asphalt Preservation, LLC, for the 2024 Surftce Seal Project #1. (2019-2022
@@ -972,7 +972,7 @@ Preserved representation: https://github.com/bartimoussmith-oss/cheyenne-laramie
 
 Publisher: https://www.cheyennecity.org/files/sharedassets/public/v/1/your-government/city-council/wscow-2026/city-treasurers-department-5.6.26.pdf
 
-Preserved representation: https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/cd6602271d14e31e89539296b783829c37b5c036/derived/0684c08103e4baabb8116e213520091017bac8c4e5a4a68fff4872952b883942/page-000001.json
+Preserved representation: https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/087cfe589af4d715ddf10849bb09c0e4d1fec216/derived/0684c08103e4baabb8116e213520091017bac8c4e5a4a68fff4872952b883942/page-000001.json
 
 > CITY TREASURER’S OFFICE
 > FISCAL YEAR 2027
@@ -988,7 +988,7 @@ Preserved representation: https://github.com/bartimoussmith-oss/cheyenne-laramie
 
 Publisher: https://www.cheyennecity.org/files/sharedassets/public/v/1/your-government/city-council/wscow-2026/city-treasurers-department-5.6.26.pdf
 
-Preserved representation: https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/cd6602271d14e31e89539296b783829c37b5c036/derived/0684c08103e4baabb8116e213520091017bac8c4e5a4a68fff4872952b883942/page-000004.json
+Preserved representation: https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/087cfe589af4d715ddf10849bb09c0e4d1fec216/derived/0684c08103e4baabb8116e213520091017bac8c4e5a4a68fff4872952b883942/page-000004.json
 
 > lion annually in interest revenue in FY
 >   2025
@@ -1010,7 +1010,7 @@ Preserved representation: https://github.com/bartimoussmith-oss/cheyenne-laramie
 
 Publisher: https://www.cheyennecity.org/files/sharedassets/public/v/1/your-government/city-council/wscow-2026/city-treasurers-department-5.6.26.pdf
 
-Preserved representation: https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/cd6602271d14e31e89539296b783829c37b5c036/derived/0684c08103e4baabb8116e213520091017bac8c4e5a4a68fff4872952b883942/page-000005.json
+Preserved representation: https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/087cfe589af4d715ddf10849bb09c0e4d1fec216/derived/0684c08103e4baabb8116e213520091017bac8c4e5a4a68fff4872952b883942/page-000005.json
 
 > iews all City purchases and travel reimbursement
 >   requests
@@ -1023,7 +1023,7 @@ Preserved representation: https://github.com/bartimoussmith-oss/cheyenne-laramie
 
 Publisher: https://www.cheyennecity.org/files/sharedassets/public/v/1/your-government/city-council/wscow-2026/city-treasurers-department-5.6.26.pdf
 
-Preserved representation: https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/cd6602271d14e31e89539296b783829c37b5c036/derived/0684c08103e4baabb8116e213520091017bac8c4e5a4a68fff4872952b883942/page-000006.json
+Preserved representation: https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/087cfe589af4d715ddf10849bb09c0e4d1fec216/derived/0684c08103e4baabb8116e213520091017bac8c4e5a4a68fff4872952b883942/page-000006.json
 
 > eventis                                      Moureaux                               Barttlebort
 >                                                Senior Budget/                             Deputy City
@@ -1034,7 +1034,7 @@ Preserved representation: https://github.com/bartimoussmith-oss/cheyenne-laramie
 
 Publisher: https://www.cheyennecity.org/files/sharedassets/public/v/1/your-government/city-council/wscow-2026/city-treasurers-department-5.6.26.pdf
 
-Preserved representation: https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/cd6602271d14e31e89539296b783829c37b5c036/derived/0684c08103e4baabb8116e213520091017bac8c4e5a4a68fff4872952b883942/page-000007.json
+Preserved representation: https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/087cfe589af4d715ddf10849bb09c0e4d1fec216/derived/0684c08103e4baabb8116e213520091017bac8c4e5a4a68fff4872952b883942/page-000007.json
 
 > ountant
 > 
@@ -1050,7 +1050,7 @@ Preserved representation: https://github.com/bartimoussmith-oss/cheyenne-laramie
 
 Publisher: https://www.cheyennecity.org/files/sharedassets/public/v/1/your-government/city-council/wscow-2026/city-treasurers-department-5.6.26.pdf
 
-Preserved representation: https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/cd6602271d14e31e89539296b783829c37b5c036/derived/0684c08103e4baabb8116e213520091017bac8c4e5a4a68fff4872952b883942/page-000008.json
+Preserved representation: https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/087cfe589af4d715ddf10849bb09c0e4d1fec216/derived/0684c08103e4baabb8116e213520091017bac8c4e5a4a68fff4872952b883942/page-000008.json
 
 > FISCAL YEAR 2027
 > BUDGET SUMMARY
@@ -1096,7 +1096,7 @@ Preserved representation: https://github.com/bartimoussmith-oss/cheyenne-laramie
 
 Publisher: https://www.cheyennecity.org/files/sharedassets/public/v/1/your-government/city-council/wscow-2026/city-treasurers-department-5.6.26.pdf
 
-Preserved representation: https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/cd6602271d14e31e89539296b783829c37b5c036/derived/0684c08103e4baabb8116e213520091017bac8c4e5a4a68fff4872952b883942/page-000009.json
+Preserved representation: https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/087cfe589af4d715ddf10849bb09c0e4d1fec216/derived/0684c08103e4baabb8116e213520091017bac8c4e5a4a68fff4872952b883942/page-000009.json
 
 > FISCAL YEAR 2027
 > BUDGET REQUESTS
@@ -1112,7 +1112,7 @@ Preserved representation: https://github.com/bartimoussmith-oss/cheyenne-laramie
 
 Publisher: https://www.cheyennecity.org/files/sharedassets/public/v/1/your-government/city-council/wscow-2026/city-treasurers-department-5.6.26.pdf
 
-Preserved representation: https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/cd6602271d14e31e89539296b783829c37b5c036/derived/0684c08103e4baabb8116e213520091017bac8c4e5a4a68fff4872952b883942/page-000011.json
+Preserved representation: https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/087cfe589af4d715ddf10849bb09c0e4d1fec216/derived/0684c08103e4baabb8116e213520091017bac8c4e5a4a68fff4872952b883942/page-000011.json
 
 > th easier access to real   -time
 >      financial information
@@ -1129,7 +1129,7 @@ Preserved representation: https://github.com/bartimoussmith-oss/cheyenne-laramie
 
 Publisher: https://www.cheyennecity.org/files/sharedassets/public/v/1/your-government/city-council/fc-2022/fc-06-06-22-minutes.pdf
 
-Preserved representation: https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/cd6602271d14e31e89539296b783829c37b5c036/derived/06be3b512454c07cc8fe0d5f263dd531baff8c7d348af9c829225b61e827b3a5/page-000001.json
+Preserved representation: https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/087cfe589af4d715ddf10849bb09c0e4d1fec216/derived/06be3b512454c07cc8fe0d5f263dd531baff8c7d348af9c829225b61e827b3a5/page-000001.json
 
 > n. Motion carried
 > by unanimous voice vote.
@@ -1145,7 +1145,7 @@ Preserved representation: https://github.com/bartimoussmith-oss/cheyenne-laramie
 
 Publisher: https://www.cheyennecity.org/files/sharedassets/public/v/1/your-government/city-council/fc-2022/fc-06-06-22-minutes.pdf
 
-Preserved representation: https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/cd6602271d14e31e89539296b783829c37b5c036/derived/06be3b512454c07cc8fe0d5f263dd531baff8c7d348af9c829225b61e827b3a5/page-000002.json
+Preserved representation: https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/087cfe589af4d715ddf10849bb09c0e4d1fec216/derived/06be3b512454c07cc8fe0d5f263dd531baff8c7d348af9c829225b61e827b3a5/page-000002.json
 
 > r. Aldrich and Mr. Esquibel. Public comments were made by Dominic Bravo,
 > Downtown Development Authority Acting CEO.
@@ -1161,7 +1161,7 @@ Preserved representation: https://github.com/bartimoussmith-oss/cheyenne-laramie
 
 Publisher: https://www.cheyennecity.org/files/sharedassets/public/v/1/your-government/city-council/fc-2022/fc-06-06-22-minutes.pdf
 
-Preserved representation: https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/cd6602271d14e31e89539296b783829c37b5c036/derived/06be3b512454c07cc8fe0d5f263dd531baff8c7d348af9c829225b61e827b3a5/page-000003.json
+Preserved representation: https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/087cfe589af4d715ddf10849bb09c0e4d1fec216/derived/06be3b512454c07cc8fe0d5f263dd531baff8c7d348af9c829225b61e827b3a5/page-000003.json
 
 > ssional Services Agreement between the City of Cheyenne and Steiner
 > Thuesen PLLC for the Cemetery Irrigation System Design Project. (Specific
@@ -1186,7 +1186,7 @@ Preserved representation: https://github.com/bartimoussmith-oss/cheyenne-laramie
 
 Publisher: https://www.cheyennecity.org/files/sharedassets/public/v/1/your-government/city-council/wscow-2023/cow-06-07-23-agenda.pdf
 
-Preserved representation: https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/cd6602271d14e31e89539296b783829c37b5c036/derived/08171ea34c4eefedc1f5881592f4bd80ce344b0e87a54cced86140a8092c3ee9/page-000001.json
+Preserved representation: https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/087cfe589af4d715ddf10849bb09c0e4d1fec216/derived/08171ea34c4eefedc1f5881592f4bd80ce344b0e87a54cced86140a8092c3ee9/page-000001.json
 
 > the municipal government of
 >       said City and fixing the amount of general and special taxes as part of the revenue required
@@ -1204,7 +1204,7 @@ Preserved representation: https://github.com/bartimoussmith-oss/cheyenne-laramie
 
 Publisher: https://www.cheyennecity.org/files/sharedassets/public/v/1/your-government/city-council/wscow-2025/ws-05-08-25-agenda_1.pdf
 
-Preserved representation: https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/cd6602271d14e31e89539296b783829c37b5c036/derived/08a91caa4f6f5d6e105c3c433aa68d81d2c06944b080c00ae447a34e77ec1601/page-000001.json
+Preserved representation: https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/087cfe589af4d715ddf10849bb09c0e4d1fec216/derived/08a91caa4f6f5d6e105c3c433aa68d81d2c06944b080c00ae447a34e77ec1601/page-000001.json
 
 >        City Clerk’s Office
 >                                     and
@@ -1244,7 +1244,7 @@ Preserved representation: https://github.com/bartimoussmith-oss/cheyenne-laramie
 
 Publisher: https://www.cheyennecity.org/files/sharedassets/public/v/1/your-government/city-council/fc-2023/fc-05-01-23-minutes.pdf
 
-Preserved representation: https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/cd6602271d14e31e89539296b783829c37b5c036/derived/090a8fcd47edf5a41a6a3e7cda3615b5a7edd2629b2025d1d4e2fbb2d6420a40/page-000003.json
+Preserved representation: https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/087cfe589af4d715ddf10849bb09c0e4d1fec216/derived/090a8fcd47edf5a41a6a3e7cda3615b5a7edd2629b2025d1d4e2fbb2d6420a40/page-000003.json
 
 > etween the City of Cheyenne and AVI
 > Professional Corporation for the design of the Dry Creek Dredging and
@@ -1271,7 +1271,7 @@ Preserved representation: https://github.com/bartimoussmith-oss/cheyenne-laramie
 
 Publisher: https://www.cheyennecity.org/files/sharedassets/public/v/1/your-government/city-council/fc-2023/fc-05-01-23-minutes.pdf
 
-Preserved representation: https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/cd6602271d14e31e89539296b783829c37b5c036/derived/090a8fcd47edf5a41a6a3e7cda3615b5a7edd2629b2025d1d4e2fbb2d6420a40/page-000004.json
+Preserved representation: https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/087cfe589af4d715ddf10849bb09c0e4d1fec216/derived/090a8fcd47edf5a41a6a3e7cda3615b5a7edd2629b2025d1d4e2fbb2d6420a40/page-000004.json
 
 >  between the City of Cheyenne and
 > Western EcoSystems Technology for environmental services for the Dry Creek
@@ -1285,7 +1285,7 @@ Preserved representation: https://github.com/bartimoussmith-oss/cheyenne-laramie
 
 Publisher: https://www.cheyennecity.org/files/sharedassets/public/v/1/your-government/city-council/fc-2023/fc-05-01-23-minutes.pdf
 
-Preserved representation: https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/cd6602271d14e31e89539296b783829c37b5c036/derived/090a8fcd47edf5a41a6a3e7cda3615b5a7edd2629b2025d1d4e2fbb2d6420a40/page-000005.json
+Preserved representation: https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/087cfe589af4d715ddf10849bb09c0e4d1fec216/derived/090a8fcd47edf5a41a6a3e7cda3615b5a7edd2629b2025d1d4e2fbb2d6420a40/page-000005.json
 
 > or an Agreement between the City of Cheyenne
 > and Miller &amp; Sons Construction, Inc. for the 2023 Miscellaneous Concrete Project.
@@ -1301,7 +1301,7 @@ Preserved representation: https://github.com/bartimoussmith-oss/cheyenne-laramie
 
 Publisher: https://www.cheyennecity.org/files/sharedassets/public/v/1/your-government/city-council/fc-2023/fc-01-04-23-agenda.pdf
 
-Preserved representation: https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/cd6602271d14e31e89539296b783829c37b5c036/derived/09bfca57cf4765af52220c24d9b5b59b23cf8bcbfb426c23c41165b63ac4aca9/page-000002.json
+Preserved representation: https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/087cfe589af4d715ddf10849bb09c0e4d1fec216/derived/09bfca57cf4765af52220c24d9b5b59b23cf8bcbfb426c23c41165b63ac4aca9/page-000002.json
 
 >   SUVs, and one (1) new 2023 1-ton crew cab full size pickup truck (SWAT truck)
 >            for the Cheyenne Police Department. (2019-2022 Optional 1% Sales Tax Fund)
@@ -1313,7 +1313,7 @@ Preserved representation: https://github.com/bartimoussmith-oss/cheyenne-laramie
 
 Publisher: https://www.cheyennecity.org/files/sharedassets/public/v/1/your-government/city-council/wscow-2026/city-attorney-fy27-budget-presentation.pdf
 
-Preserved representation: https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/cd6602271d14e31e89539296b783829c37b5c036/derived/0a796a9027674fbffb052c7a881e5fb4dd0f284f63789344dd319a16a15c39e9/page-000001.json
+Preserved representation: https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/087cfe589af4d715ddf10849bb09c0e4d1fec216/derived/0a796a9027674fbffb052c7a881e5fb4dd0f284f63789344dd319a16a15c39e9/page-000001.json
 
 > City Attorney’s
 > Office

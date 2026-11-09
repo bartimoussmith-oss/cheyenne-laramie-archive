@@ -1,8 +1,8 @@
 {
   "profile": "election-administration",
   "title": "Election administration and official processes",
-  "generated_at": "2026-11-08T22:08:07.698279+00:00",
-  "source_revision": "cd6602271d14e31e89539296b783829c37b5c036",
+  "generated_at": "2026-11-09T06:34:39.068540+00:00",
+  "source_revision": "087cfe589af4d715ddf10849bb09c0e4d1fec216",
   "classification": "retrieval_triage_not_investigative_findings",
   "matched_representations": 13,
   "exported_representations": 13,
@@ -19,8 +19,8 @@
       "quality_verified": false,
       "representation_path": "text/34c2c94e914d583858e803f379f87beab4375394bf97e2b05857f84e410e1400.txt",
       "representation_text_sha256": "593b04e322a8aeefb1b6462f9d9a667198e5c8192cac03d54f2129b698be3c63",
-      "representation_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/cd6602271d14e31e89539296b783829c37b5c036/text/34c2c94e914d583858e803f379f87beab4375394bf97e2b05857f84e410e1400.txt",
-      "original_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/cd6602271d14e31e89539296b783829c37b5c036/objects/34/34c2c94e914d583858e803f379f87beab4375394bf97e2b05857f84e410e1400",
+      "representation_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/087cfe589af4d715ddf10849bb09c0e4d1fec216/text/34c2c94e914d583858e803f379f87beab4375394bf97e2b05857f84e410e1400.txt",
+      "original_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/087cfe589af4d715ddf10849bb09c0e4d1fec216/objects/34/34c2c94e914d583858e803f379f87beab4375394bf97e2b05857f84e410e1400",
       "evidence": [
         {
           "term": "ballot",
@@ -50,8 +50,8 @@
       "quality_verified": false,
       "representation_path": "text/d5fd7d1575e0c08c8ed2d3d4dcfe54374e28df3213afc00b0613bf25067e3e62.txt",
       "representation_text_sha256": "5059c351f2c55db2c80003e1a9daf8447be46cc4fa6ad512c4b810ce45118719",
-      "representation_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/cd6602271d14e31e89539296b783829c37b5c036/text/d5fd7d1575e0c08c8ed2d3d4dcfe54374e28df3213afc00b0613bf25067e3e62.txt",
-      "original_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/cd6602271d14e31e89539296b783829c37b5c036/objects/d5/d5fd7d1575e0c08c8ed2d3d4dcfe54374e28df3213afc00b0613bf25067e3e62",
+      "representation_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/087cfe589af4d715ddf10849bb09c0e4d1fec216/text/d5fd7d1575e0c08c8ed2d3d4dcfe54374e28df3213afc00b0613bf25067e3e62.txt",
+      "original_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/087cfe589af4d715ddf10849bb09c0e4d1fec216/objects/d5/d5fd7d1575e0c08c8ed2d3d4dcfe54374e28df3213afc00b0613bf25067e3e62",
       "evidence": [
         {
           "term": "election",
@@ -73,8 +73,8 @@
       "quality_verified": false,
       "representation_path": "text/d7a11bf934f9d3f289fd4af6827b18f8b266253d6bbe3aee860a10049ddc1ce0.txt",
       "representation_text_sha256": "203640c81a9a0eaf846f77dadf2d079e314eaf46af731936f16546e816b349e0",
-      "representation_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/cd6602271d14e31e89539296b783829c37b5c036/text/d7a11bf934f9d3f289fd4af6827b18f8b266253d6bbe3aee860a10049ddc1ce0.txt",
-      "original_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/cd6602271d14e31e89539296b783829c37b5c036/objects/d7/d7a11bf934f9d3f289fd4af6827b18f8b266253d6bbe3aee860a10049ddc1ce0",
+      "representation_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/087cfe589af4d715ddf10849bb09c0e4d1fec216/text/d7a11bf934f9d3f289fd4af6827b18f8b266253d6bbe3aee860a10049ddc1ce0.txt",
+      "original_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/087cfe589af4d715ddf10849bb09c0e4d1fec216/objects/d7/d7a11bf934f9d3f289fd4af6827b18f8b266253d6bbe3aee860a10049ddc1ce0",
       "evidence": [
         {
           "term": "ballot",
@@ -104,8 +104,8 @@
       "quality_verified": false,
       "representation_path": "text/effa524b7580c3987c3c3d07349e937e86faabdd7a86eee9e810bcaa6697158a.txt",
       "representation_text_sha256": "b0f6332ee135bffe9bb59939ec56e92ce38d5d16c3331a111acb6e63e4f5e7f3",
-      "representation_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/cd6602271d14e31e89539296b783829c37b5c036/text/effa524b7580c3987c3c3d07349e937e86faabdd7a86eee9e810bcaa6697158a.txt",
-      "original_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/cd6602271d14e31e89539296b783829c37b5c036/objects/ef/effa524b7580c3987c3c3d07349e937e86faabdd7a86eee9e810bcaa6697158a",
+      "representation_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/087cfe589af4d715ddf10849bb09c0e4d1fec216/text/effa524b7580c3987c3c3d07349e937e86faabdd7a86eee9e810bcaa6697158a.txt",
+      "original_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/087cfe589af4d715ddf10849bb09c0e4d1fec216/objects/ef/effa524b7580c3987c3c3d07349e937e86faabdd7a86eee9e810bcaa6697158a",
       "evidence": [
         {
           "term": "election",
@@ -135,8 +135,8 @@
       "quality_verified": false,
       "representation_path": "text/f8d5b0ec65f2535172348894c908a14c5e8d791d19b7a04cf033e1011e1d7dd9.txt",
       "representation_text_sha256": "7adb382383808a33c39a755b62f050d064ddf02904fc13c48a2ebcd60f0de310",
-      "representation_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/cd6602271d14e31e89539296b783829c37b5c036/text/f8d5b0ec65f2535172348894c908a14c5e8d791d19b7a04cf033e1011e1d7dd9.txt",
-      "original_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/cd6602271d14e31e89539296b783829c37b5c036/objects/f8/f8d5b0ec65f2535172348894c908a14c5e8d791d19b7a04cf033e1011e1d7dd9",
+      "representation_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/087cfe589af4d715ddf10849bb09c0e4d1fec216/text/f8d5b0ec65f2535172348894c908a14c5e8d791d19b7a04cf033e1011e1d7dd9.txt",
+      "original_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/087cfe589af4d715ddf10849bb09c0e4d1fec216/objects/f8/f8d5b0ec65f2535172348894c908a14c5e8d791d19b7a04cf033e1011e1d7dd9",
       "evidence": [
         {
           "term": "ballot",
@@ -166,8 +166,8 @@
       "quality_verified": false,
       "representation_path": "derived/00bb64666ab3c7d9e1a67a68d37e92cf43f2cc5cd78b5e2ca7328ffe96ced49b/page-000004.json",
       "representation_text_sha256": "ca3e429c473ef1a41ae07abeda33e5d8dbb2bb71df85e1d066776c853f183164",
-      "representation_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/cd6602271d14e31e89539296b783829c37b5c036/derived/00bb64666ab3c7d9e1a67a68d37e92cf43f2cc5cd78b5e2ca7328ffe96ced49b/page-000004.json",
-      "original_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/cd6602271d14e31e89539296b783829c37b5c036/objects/00/00bb64666ab3c7d9e1a67a68d37e92cf43f2cc5cd78b5e2ca7328ffe96ced49b",
+      "representation_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/087cfe589af4d715ddf10849bb09c0e4d1fec216/derived/00bb64666ab3c7d9e1a67a68d37e92cf43f2cc5cd78b5e2ca7328ffe96ced49b/page-000004.json",
+      "original_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/087cfe589af4d715ddf10849bb09c0e4d1fec216/objects/00/00bb64666ab3c7d9e1a67a68d37e92cf43f2cc5cd78b5e2ca7328ffe96ced49b",
       "evidence": [
         {
           "term": "election",
@@ -189,8 +189,8 @@
       "quality_verified": false,
       "representation_path": "derived/035c78d18e589bd3c5d247fd92e9f23c959005947230f4a7eba88b46569a0f76/page-000002.json",
       "representation_text_sha256": "8b70fd8e4b42b88b6a8ad1015e8656666828271905c11ea439f737cae086da61",
-      "representation_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/cd6602271d14e31e89539296b783829c37b5c036/derived/035c78d18e589bd3c5d247fd92e9f23c959005947230f4a7eba88b46569a0f76/page-000002.json",
-      "original_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/cd6602271d14e31e89539296b783829c37b5c036/objects/03/035c78d18e589bd3c5d247fd92e9f23c959005947230f4a7eba88b46569a0f76",
+      "representation_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/087cfe589af4d715ddf10849bb09c0e4d1fec216/derived/035c78d18e589bd3c5d247fd92e9f23c959005947230f4a7eba88b46569a0f76/page-000002.json",
+      "original_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/087cfe589af4d715ddf10849bb09c0e4d1fec216/objects/03/035c78d18e589bd3c5d247fd92e9f23c959005947230f4a7eba88b46569a0f76",
       "evidence": [
         {
           "term": "ballot",
@@ -212,8 +212,8 @@
       "quality_verified": false,
       "representation_path": "derived/1a9943703f0b7c6c21e355902a3caa40208262f0782b10ff1267437db70586fc/page-000001.json",
       "representation_text_sha256": "1443b1e2018fbe856abc78160c3b33e2174b248a519b58a3c5a91ede1af890e3",
-      "representation_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/cd6602271d14e31e89539296b783829c37b5c036/derived/1a9943703f0b7c6c21e355902a3caa40208262f0782b10ff1267437db70586fc/page-000001.json",
-      "original_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/cd6602271d14e31e89539296b783829c37b5c036/objects/1a/1a9943703f0b7c6c21e355902a3caa40208262f0782b10ff1267437db70586fc",
+      "representation_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/087cfe589af4d715ddf10849bb09c0e4d1fec216/derived/1a9943703f0b7c6c21e355902a3caa40208262f0782b10ff1267437db70586fc/page-000001.json",
+      "original_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/087cfe589af4d715ddf10849bb09c0e4d1fec216/objects/1a/1a9943703f0b7c6c21e355902a3caa40208262f0782b10ff1267437db70586fc",
       "evidence": [
         {
           "term": "election",
@@ -235,8 +235,8 @@
       "quality_verified": false,
       "representation_path": "derived/1c56f0c35aa75b20d1d414a23b5705d2525bf9162889b086f897aa64deb6b444/page-000001.json",
       "representation_text_sha256": "a515d871797192d65bf4ee49e9be30582adb99121c1cac706d1b56f6e7df0d2a",
-      "representation_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/cd6602271d14e31e89539296b783829c37b5c036/derived/1c56f0c35aa75b20d1d414a23b5705d2525bf9162889b086f897aa64deb6b444/page-000001.json",
-      "original_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/cd6602271d14e31e89539296b783829c37b5c036/objects/1c/1c56f0c35aa75b20d1d414a23b5705d2525bf9162889b086f897aa64deb6b444",
+      "representation_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/087cfe589af4d715ddf10849bb09c0e4d1fec216/derived/1c56f0c35aa75b20d1d414a23b5705d2525bf9162889b086f897aa64deb6b444/page-000001.json",
+      "original_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/087cfe589af4d715ddf10849bb09c0e4d1fec216/objects/1c/1c56f0c35aa75b20d1d414a23b5705d2525bf9162889b086f897aa64deb6b444",
       "evidence": [
         {
           "term": "election",
@@ -258,8 +258,8 @@
       "quality_verified": false,
       "representation_path": "derived/2cb9ac5ac9945b2883a47e222e6fe4e6a52f2c09bdd0ab9a359b22faba7767c8/page-000001.json",
       "representation_text_sha256": "778119a2488cf1aaedffba1a0a4ed8a3680d8d3df553b5ec98aa74e9c4d56001",
-      "representation_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/cd6602271d14e31e89539296b783829c37b5c036/derived/2cb9ac5ac9945b2883a47e222e6fe4e6a52f2c09bdd0ab9a359b22faba7767c8/page-000001.json",
-      "original_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/cd6602271d14e31e89539296b783829c37b5c036/objects/2c/2cb9ac5ac9945b2883a47e222e6fe4e6a52f2c09bdd0ab9a359b22faba7767c8",
+      "representation_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/087cfe589af4d715ddf10849bb09c0e4d1fec216/derived/2cb9ac5ac9945b2883a47e222e6fe4e6a52f2c09bdd0ab9a359b22faba7767c8/page-000001.json",
+      "original_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/087cfe589af4d715ddf10849bb09c0e4d1fec216/objects/2c/2cb9ac5ac9945b2883a47e222e6fe4e6a52f2c09bdd0ab9a359b22faba7767c8",
       "evidence": [
         {
           "term": "election",
@@ -281,8 +281,8 @@
       "quality_verified": false,
       "representation_path": "derived/2f4963bd7945805c8abc49b463d3aa1d515515658d04e2226bbf5c0a34fc7f60/page-000020.json",
       "representation_text_sha256": "6ca70ed6f635b2b092c481a733a0a021d376baa74dca953d8a4693e3a99f4264",
-      "representation_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/cd6602271d14e31e89539296b783829c37b5c036/derived/2f4963bd7945805c8abc49b463d3aa1d515515658d04e2226bbf5c0a34fc7f60/page-000020.json",
-      "original_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/cd6602271d14e31e89539296b783829c37b5c036/objects/2f/2f4963bd7945805c8abc49b463d3aa1d515515658d04e2226bbf5c0a34fc7f60",
+      "representation_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/087cfe589af4d715ddf10849bb09c0e4d1fec216/derived/2f4963bd7945805c8abc49b463d3aa1d515515658d04e2226bbf5c0a34fc7f60/page-000020.json",
+      "original_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/087cfe589af4d715ddf10849bb09c0e4d1fec216/objects/2f/2f4963bd7945805c8abc49b463d3aa1d515515658d04e2226bbf5c0a34fc7f60",
       "evidence": [
         {
           "term": "ballot",
@@ -304,8 +304,8 @@
       "quality_verified": false,
       "representation_path": "derived/3105bb585026393ad577f774b1d0436d7b144a2834cf6de1b2ac70e02adbe242/page-000014.json",
       "representation_text_sha256": "ec0c91331f789745cf7751e45e66dc4559cb28caa96a6146acd63c421760a94c",
-      "representation_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/cd6602271d14e31e89539296b783829c37b5c036/derived/3105bb585026393ad577f774b1d0436d7b144a2834cf6de1b2ac70e02adbe242/page-000014.json",
-      "original_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/cd6602271d14e31e89539296b783829c37b5c036/objects/31/3105bb585026393ad577f774b1d0436d7b144a2834cf6de1b2ac70e02adbe242",
+      "representation_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/087cfe589af4d715ddf10849bb09c0e4d1fec216/derived/3105bb585026393ad577f774b1d0436d7b144a2834cf6de1b2ac70e02adbe242/page-000014.json",
+      "original_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/087cfe589af4d715ddf10849bb09c0e4d1fec216/objects/31/3105bb585026393ad577f774b1d0436d7b144a2834cf6de1b2ac70e02adbe242",
       "evidence": [
         {
           "term": "ballot",
@@ -327,8 +327,8 @@
       "quality_verified": false,
       "representation_path": "derived/3105bb585026393ad577f774b1d0436d7b144a2834cf6de1b2ac70e02adbe242/page-000041.json",
       "representation_text_sha256": "a21fedf1ef146151f6ae0499ce5a4113e82d96e231fbe8ff8cd22acf7e3b5ae8",
-      "representation_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/cd6602271d14e31e89539296b783829c37b5c036/derived/3105bb585026393ad577f774b1d0436d7b144a2834cf6de1b2ac70e02adbe242/page-000041.json",
-      "original_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/cd6602271d14e31e89539296b783829c37b5c036/objects/31/3105bb585026393ad577f774b1d0436d7b144a2834cf6de1b2ac70e02adbe242",
+      "representation_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/087cfe589af4d715ddf10849bb09c0e4d1fec216/derived/3105bb585026393ad577f774b1d0436d7b144a2834cf6de1b2ac70e02adbe242/page-000041.json",
+      "original_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/087cfe589af4d715ddf10849bb09c0e4d1fec216/objects/31/3105bb585026393ad577f774b1d0436d7b144a2834cf6de1b2ac70e02adbe242",
       "evidence": [
         {
           "term": "election",

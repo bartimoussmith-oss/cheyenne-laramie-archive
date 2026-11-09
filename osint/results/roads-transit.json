@@ -1,8 +1,8 @@
 {
   "profile": "roads-transit",
   "title": "Roads, transit and infrastructure",
-  "generated_at": "2026-11-08T22:08:07.698279+00:00",
-  "source_revision": "cd6602271d14e31e89539296b783829c37b5c036",
+  "generated_at": "2026-11-09T06:34:39.068540+00:00",
+  "source_revision": "087cfe589af4d715ddf10849bb09c0e4d1fec216",
   "classification": "retrieval_triage_not_investigative_findings",
   "matched_representations": 259,
   "exported_representations": 50,
@@ -19,8 +19,8 @@
       "quality_verified": false,
       "representation_path": "text/1e98c954f0ca7e1efb2ee7c8d429b1c87e0d03c54e51efe4ccb0642749df94ee.txt",
       "representation_text_sha256": "96ec9a002a5be9a14225f4027dfd253e6cc0bd2ca04c17e7ad12449c48d30226",
-      "representation_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/cd6602271d14e31e89539296b783829c37b5c036/text/1e98c954f0ca7e1efb2ee7c8d429b1c87e0d03c54e51efe4ccb0642749df94ee.txt",
-      "original_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/cd6602271d14e31e89539296b783829c37b5c036/objects/1e/1e98c954f0ca7e1efb2ee7c8d429b1c87e0d03c54e51efe4ccb0642749df94ee",
+      "representation_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/087cfe589af4d715ddf10849bb09c0e4d1fec216/text/1e98c954f0ca7e1efb2ee7c8d429b1c87e0d03c54e51efe4ccb0642749df94ee.txt",
+      "original_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/087cfe589af4d715ddf10849bb09c0e4d1fec216/objects/1e/1e98c954f0ca7e1efb2ee7c8d429b1c87e0d03c54e51efe4ccb0642749df94ee",
       "evidence": [
         {
           "term": "greenway",
@@ -42,8 +42,8 @@
       "quality_verified": false,
       "representation_path": "text/34c2c94e914d583858e803f379f87beab4375394bf97e2b05857f84e410e1400.txt",
       "representation_text_sha256": "593b04e322a8aeefb1b6462f9d9a667198e5c8192cac03d54f2129b698be3c63",
-      "representation_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/cd6602271d14e31e89539296b783829c37b5c036/text/34c2c94e914d583858e803f379f87beab4375394bf97e2b05857f84e410e1400.txt",
-      "original_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/cd6602271d14e31e89539296b783829c37b5c036/objects/34/34c2c94e914d583858e803f379f87beab4375394bf97e2b05857f84e410e1400",
+      "representation_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/087cfe589af4d715ddf10849bb09c0e4d1fec216/text/34c2c94e914d583858e803f379f87beab4375394bf97e2b05857f84e410e1400.txt",
+      "original_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/087cfe589af4d715ddf10849bb09c0e4d1fec216/objects/34/34c2c94e914d583858e803f379f87beab4375394bf97e2b05857f84e410e1400",
       "evidence": [
         {
           "term": "street",
@@ -81,8 +81,8 @@
       "quality_verified": false,
       "representation_path": "text/3acba0fc1d0e72a92bfd8410e0ce66716b4ac9fc5981848b580bdd151c887604.txt",
       "representation_text_sha256": "23296aa048c30389c8f5f9e37dbd808b2c77631869bf9f7229285a32ad460ce3",
-      "representation_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/cd6602271d14e31e89539296b783829c37b5c036/text/3acba0fc1d0e72a92bfd8410e0ce66716b4ac9fc5981848b580bdd151c887604.txt",
-      "original_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/cd6602271d14e31e89539296b783829c37b5c036/objects/3a/3acba0fc1d0e72a92bfd8410e0ce66716b4ac9fc5981848b580bdd151c887604",
+      "representation_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/087cfe589af4d715ddf10849bb09c0e4d1fec216/text/3acba0fc1d0e72a92bfd8410e0ce66716b4ac9fc5981848b580bdd151c887604.txt",
+      "original_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/087cfe589af4d715ddf10849bb09c0e4d1fec216/objects/3a/3acba0fc1d0e72a92bfd8410e0ce66716b4ac9fc5981848b580bdd151c887604",
       "evidence": [
         {
           "term": "pavement",
@@ -120,8 +120,8 @@
       "quality_verified": false,
       "representation_path": "text/3dd70667ea5d722bea19d76073b4ffffcc05a651e4b1b3a1dd22befe7d173cfa.txt",
       "representation_text_sha256": "2fed3f87d5b1cff9bd36ee7e36045d50bb8a3f93d6cd95eb2072dbc6150983b8",
-      "representation_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/cd6602271d14e31e89539296b783829c37b5c036/text/3dd70667ea5d722bea19d76073b4ffffcc05a651e4b1b3a1dd22befe7d173cfa.txt",
-      "original_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/cd6602271d14e31e89539296b783829c37b5c036/objects/3d/3dd70667ea5d722bea19d76073b4ffffcc05a651e4b1b3a1dd22befe7d173cfa",
+      "representation_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/087cfe589af4d715ddf10849bb09c0e4d1fec216/text/3dd70667ea5d722bea19d76073b4ffffcc05a651e4b1b3a1dd22befe7d173cfa.txt",
+      "original_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/087cfe589af4d715ddf10849bb09c0e4d1fec216/objects/3d/3dd70667ea5d722bea19d76073b4ffffcc05a651e4b1b3a1dd22befe7d173cfa",
       "evidence": [
         {
           "term": "road",
@@ -159,8 +159,8 @@
       "quality_verified": false,
       "representation_path": "text/6348fedf6bfbb393e135b824e53e964355719135cc6cf7a1bce5697c997cf499.txt",
       "representation_text_sha256": "e77fec0c037dd723ce32936c626be8daac6817334a69ff2292cc097fcd0c06bc",
-      "representation_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/cd6602271d14e31e89539296b783829c37b5c036/text/6348fedf6bfbb393e135b824e53e964355719135cc6cf7a1bce5697c997cf499.txt",
-      "original_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/cd6602271d14e31e89539296b783829c37b5c036/objects/63/6348fedf6bfbb393e135b824e53e964355719135cc6cf7a1bce5697c997cf499",
+      "representation_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/087cfe589af4d715ddf10849bb09c0e4d1fec216/text/6348fedf6bfbb393e135b824e53e964355719135cc6cf7a1bce5697c997cf499.txt",
+      "original_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/087cfe589af4d715ddf10849bb09c0e4d1fec216/objects/63/6348fedf6bfbb393e135b824e53e964355719135cc6cf7a1bce5697c997cf499",
       "evidence": [
         {
           "term": "street",
@@ -182,8 +182,8 @@
       "quality_verified": false,
       "representation_path": "text/77b33b250c26aa5b4c39100d72dc332a81fc1c0af261b50b98f49a7251582aaf.txt",
       "representation_text_sha256": "b6345c9a22eb8016f2ce5fa0d3c32e691ce51d00cbbfbed12eed62c42967b98b",
-      "representation_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/cd6602271d14e31e89539296b783829c37b5c036/text/77b33b250c26aa5b4c39100d72dc332a81fc1c0af261b50b98f49a7251582aaf.txt",
-      "original_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/cd6602271d14e31e89539296b783829c37b5c036/objects/77/77b33b250c26aa5b4c39100d72dc332a81fc1c0af261b50b98f49a7251582aaf",
+      "representation_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/087cfe589af4d715ddf10849bb09c0e4d1fec216/text/77b33b250c26aa5b4c39100d72dc332a81fc1c0af261b50b98f49a7251582aaf.txt",
+      "original_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/087cfe589af4d715ddf10849bb09c0e4d1fec216/objects/77/77b33b250c26aa5b4c39100d72dc332a81fc1c0af261b50b98f49a7251582aaf",
       "evidence": [
         {
           "term": "transit",
@@ -205,8 +205,8 @@
       "quality_verified": false,
       "representation_path": "text/85821b0bf46b99b4216d0ca8c05fac9f147fd62070eae02d32693472cb0b6850.txt",
       "representation_text_sha256": "1b14fe411c56ec8ab836833ed331744ecbdd359d31329a62f6cde9c6c0f9b8a3",
-      "representation_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/cd6602271d14e31e89539296b783829c37b5c036/text/85821b0bf46b99b4216d0ca8c05fac9f147fd62070eae02d32693472cb0b6850.txt",
-      "original_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/cd6602271d14e31e89539296b783829c37b5c036/objects/85/85821b0bf46b99b4216d0ca8c05fac9f147fd62070eae02d32693472cb0b6850",
+      "representation_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/087cfe589af4d715ddf10849bb09c0e4d1fec216/text/85821b0bf46b99b4216d0ca8c05fac9f147fd62070eae02d32693472cb0b6850.txt",
+      "original_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/087cfe589af4d715ddf10849bb09c0e4d1fec216/objects/85/85821b0bf46b99b4216d0ca8c05fac9f147fd62070eae02d32693472cb0b6850",
       "evidence": [
         {
           "term": "road",
@@ -244,8 +244,8 @@
       "quality_verified": false,
       "representation_path": "text/8d47a8d983ef94d3b3b44522f27edb841c5e7b8a679ac73763770b99c9349526.txt",
       "representation_text_sha256": "0879bb3be9c069bfea80b1b6751172a4c7dc42e35459cc8a99348baaf2719864",
-      "representation_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/cd6602271d14e31e89539296b783829c37b5c036/text/8d47a8d983ef94d3b3b44522f27edb841c5e7b8a679ac73763770b99c9349526.txt",
-      "original_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/cd6602271d14e31e89539296b783829c37b5c036/objects/8d/8d47a8d983ef94d3b3b44522f27edb841c5e7b8a679ac73763770b99c9349526",
+      "representation_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/087cfe589af4d715ddf10849bb09c0e4d1fec216/text/8d47a8d983ef94d3b3b44522f27edb841c5e7b8a679ac73763770b99c9349526.txt",
+      "original_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/087cfe589af4d715ddf10849bb09c0e4d1fec216/objects/8d/8d47a8d983ef94d3b3b44522f27edb841c5e7b8a679ac73763770b99c9349526",
       "evidence": [
         {
           "term": "greenway",
@@ -267,8 +267,8 @@
       "quality_verified": false,
       "representation_path": "text/9d3098d1cd836224a7a0df78cff51050bc5a99957854df4ddac5ecf188912843.txt",
       "representation_text_sha256": "b89358067e0c9efa2b8f7abb63cafdc4ba47a0c9326077b45af787df8c948523",
-      "representation_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/cd6602271d14e31e89539296b783829c37b5c036/text/9d3098d1cd836224a7a0df78cff51050bc5a99957854df4ddac5ecf188912843.txt",
-      "original_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/cd6602271d14e31e89539296b783829c37b5c036/objects/9d/9d3098d1cd836224a7a0df78cff51050bc5a99957854df4ddac5ecf188912843",
+      "representation_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/087cfe589af4d715ddf10849bb09c0e4d1fec216/text/9d3098d1cd836224a7a0df78cff51050bc5a99957854df4ddac5ecf188912843.txt",
+      "original_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/087cfe589af4d715ddf10849bb09c0e4d1fec216/objects/9d/9d3098d1cd836224a7a0df78cff51050bc5a99957854df4ddac5ecf188912843",
       "evidence": [
         {
           "term": "street",
@@ -306,8 +306,8 @@
       "quality_verified": false,
       "representation_path": "text/a1420bd40f7fea284410abf8d2922f682bab168d765d6c9269cb6df84db9f18e.txt",
       "representation_text_sha256": "0623acaa20c4d36937755b4c90403d0edd0299667657e2015cc83a97d31f2bb2",
-      "representation_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/cd6602271d14e31e89539296b783829c37b5c036/text/a1420bd40f7fea284410abf8d2922f682bab168d765d6c9269cb6df84db9f18e.txt",
-      "original_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/cd6602271d14e31e89539296b783829c37b5c036/objects/a1/a1420bd40f7fea284410abf8d2922f682bab168d765d6c9269cb6df84db9f18e",
+      "representation_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/087cfe589af4d715ddf10849bb09c0e4d1fec216/text/a1420bd40f7fea284410abf8d2922f682bab168d765d6c9269cb6df84db9f18e.txt",
+      "original_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/087cfe589af4d715ddf10849bb09c0e4d1fec216/objects/a1/a1420bd40f7fea284410abf8d2922f682bab168d765d6c9269cb6df84db9f18e",
       "evidence": [
         {
           "term": "traffic",
@@ -337,8 +337,8 @@
       "quality_verified": false,
       "representation_path": "text/ac4671737629e4f41fc282caa16e72eebb2f7fedffbae6ab959389be903d1455.txt",
       "representation_text_sha256": "bb3b0eb7d904d79a7a908a146be59cce62f6ea5375c13fccb7aa5d2d4d2649e0",
-      "representation_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/cd6602271d14e31e89539296b783829c37b5c036/text/ac4671737629e4f41fc282caa16e72eebb2f7fedffbae6ab959389be903d1455.txt",
-      "original_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/cd6602271d14e31e89539296b783829c37b5c036/objects/ac/ac4671737629e4f41fc282caa16e72eebb2f7fedffbae6ab959389be903d1455",
+      "representation_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/087cfe589af4d715ddf10849bb09c0e4d1fec216/text/ac4671737629e4f41fc282caa16e72eebb2f7fedffbae6ab959389be903d1455.txt",
+      "original_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/087cfe589af4d715ddf10849bb09c0e4d1fec216/objects/ac/ac4671737629e4f41fc282caa16e72eebb2f7fedffbae6ab959389be903d1455",
       "evidence": [
         {
           "term": "street",
@@ -368,8 +368,8 @@
       "quality_verified": false,
       "representation_path": "text/d00aa211b6d805660489c2cfc29d733347787d24d6cf0845790e3aabbc7f235d.txt",
       "representation_text_sha256": "70ec60a79881ddc46fefa4b26ba53be4e3b405dded4436a504891f17109267cb",
-      "representation_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/cd6602271d14e31e89539296b783829c37b5c036/text/d00aa211b6d805660489c2cfc29d733347787d24d6cf0845790e3aabbc7f235d.txt",
-      "original_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/cd6602271d14e31e89539296b783829c37b5c036/objects/d0/d00aa211b6d805660489c2cfc29d733347787d24d6cf0845790e3aabbc7f235d",
+      "representation_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/087cfe589af4d715ddf10849bb09c0e4d1fec216/text/d00aa211b6d805660489c2cfc29d733347787d24d6cf0845790e3aabbc7f235d.txt",
+      "original_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/087cfe589af4d715ddf10849bb09c0e4d1fec216/objects/d0/d00aa211b6d805660489c2cfc29d733347787d24d6cf0845790e3aabbc7f235d",
       "evidence": [
         {
           "term": "transit",
@@ -391,8 +391,8 @@
       "quality_verified": false,
       "representation_path": "text/d7a11bf934f9d3f289fd4af6827b18f8b266253d6bbe3aee860a10049ddc1ce0.txt",
       "representation_text_sha256": "203640c81a9a0eaf846f77dadf2d079e314eaf46af731936f16546e816b349e0",
-      "representation_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/cd6602271d14e31e89539296b783829c37b5c036/text/d7a11bf934f9d3f289fd4af6827b18f8b266253d6bbe3aee860a10049ddc1ce0.txt",
-      "original_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/cd6602271d14e31e89539296b783829c37b5c036/objects/d7/d7a11bf934f9d3f289fd4af6827b18f8b266253d6bbe3aee860a10049ddc1ce0",
+      "representation_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/087cfe589af4d715ddf10849bb09c0e4d1fec216/text/d7a11bf934f9d3f289fd4af6827b18f8b266253d6bbe3aee860a10049ddc1ce0.txt",
+      "original_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/087cfe589af4d715ddf10849bb09c0e4d1fec216/objects/d7/d7a11bf934f9d3f289fd4af6827b18f8b266253d6bbe3aee860a10049ddc1ce0",
       "evidence": [
         {
           "term": "street",
@@ -422,8 +422,8 @@
       "quality_verified": false,
       "representation_path": "text/dc304bcb9386c40219dbbb65adf6dd322030a9f0944eadafe55e4a670a971d17.txt",
       "representation_text_sha256": "7a9d2599eee9d44aa7afed26b3ba19d4e41d33b04003a69365a8c60a6093313b",
-      "representation_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/cd6602271d14e31e89539296b783829c37b5c036/text/dc304bcb9386c40219dbbb65adf6dd322030a9f0944eadafe55e4a670a971d17.txt",
-      "original_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/cd6602271d14e31e89539296b783829c37b5c036/objects/dc/dc304bcb9386c40219dbbb65adf6dd322030a9f0944eadafe55e4a670a971d17",
+      "representation_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/087cfe589af4d715ddf10849bb09c0e4d1fec216/text/dc304bcb9386c40219dbbb65adf6dd322030a9f0944eadafe55e4a670a971d17.txt",
+      "original_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/087cfe589af4d715ddf10849bb09c0e4d1fec216/objects/dc/dc304bcb9386c40219dbbb65adf6dd322030a9f0944eadafe55e4a670a971d17",
       "evidence": [
         {
           "term": "greenway",
@@ -461,8 +461,8 @@
       "quality_verified": false,
       "representation_path": "text/dd535b2d03be1e8fcae4cb39e118422b513be4616f3633a4dc01a102c41e290f.txt",
       "representation_text_sha256": "9f944ac405d5037a360554b1b88d4283bc6e5848e2354cd83a5176ef17a8c0aa",
-      "representation_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/cd6602271d14e31e89539296b783829c37b5c036/text/dd535b2d03be1e8fcae4cb39e118422b513be4616f3633a4dc01a102c41e290f.txt",
-      "original_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/cd6602271d14e31e89539296b783829c37b5c036/objects/dd/dd535b2d03be1e8fcae4cb39e118422b513be4616f3633a4dc01a102c41e290f",
+      "representation_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/087cfe589af4d715ddf10849bb09c0e4d1fec216/text/dd535b2d03be1e8fcae4cb39e118422b513be4616f3633a4dc01a102c41e290f.txt",
+      "original_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/087cfe589af4d715ddf10849bb09c0e4d1fec216/objects/dd/dd535b2d03be1e8fcae4cb39e118422b513be4616f3633a4dc01a102c41e290f",
       "evidence": [
         {
           "term": "traffic",
@@ -484,8 +484,8 @@
       "quality_verified": false,
       "representation_path": "text/e368e84058c9b0433d788f2619a54d6d13b7dad3f9bc2aa02778e1ca2be27766.txt",
       "representation_text_sha256": "d0d63a340bba9cf4348675c8138ebd26e8daa91f8b22ebdd902642973a5b30b4",
-      "representation_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/cd6602271d14e31e89539296b783829c37b5c036/text/e368e84058c9b0433d788f2619a54d6d13b7dad3f9bc2aa02778e1ca2be27766.txt",
-      "original_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/cd6602271d14e31e89539296b783829c37b5c036/objects/e3/e368e84058c9b0433d788f2619a54d6d13b7dad3f9bc2aa02778e1ca2be27766",
+      "representation_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/087cfe589af4d715ddf10849bb09c0e4d1fec216/text/e368e84058c9b0433d788f2619a54d6d13b7dad3f9bc2aa02778e1ca2be27766.txt",
+      "original_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/087cfe589af4d715ddf10849bb09c0e4d1fec216/objects/e3/e368e84058c9b0433d788f2619a54d6d13b7dad3f9bc2aa02778e1ca2be27766",
       "evidence": [
         {
           "term": "road",
@@ -507,8 +507,8 @@
       "quality_verified": false,
       "representation_path": "text/e9db115b8aaa89268e8fbc8db77dece5e61cde5a346746c280ef863e3df5dfd0.txt",
       "representation_text_sha256": "bbce566bab0b1d162b912cf3e1cc00683fabb8532ea53d2e099b11587eaa28df",
-      "representation_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/cd6602271d14e31e89539296b783829c37b5c036/text/e9db115b8aaa89268e8fbc8db77dece5e61cde5a346746c280ef863e3df5dfd0.txt",
-      "original_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/cd6602271d14e31e89539296b783829c37b5c036/objects/e9/e9db115b8aaa89268e8fbc8db77dece5e61cde5a346746c280ef863e3df5dfd0",
+      "representation_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/087cfe589af4d715ddf10849bb09c0e4d1fec216/text/e9db115b8aaa89268e8fbc8db77dece5e61cde5a346746c280ef863e3df5dfd0.txt",
+      "original_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/087cfe589af4d715ddf10849bb09c0e4d1fec216/objects/e9/e9db115b8aaa89268e8fbc8db77dece5e61cde5a346746c280ef863e3df5dfd0",
       "evidence": [
         {
           "term": "rail",
@@ -546,8 +546,8 @@
       "quality_verified": false,
       "representation_path": "text/effa524b7580c3987c3c3d07349e937e86faabdd7a86eee9e810bcaa6697158a.txt",
       "representation_text_sha256": "b0f6332ee135bffe9bb59939ec56e92ce38d5d16c3331a111acb6e63e4f5e7f3",
-      "representation_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/cd6602271d14e31e89539296b783829c37b5c036/text/effa524b7580c3987c3c3d07349e937e86faabdd7a86eee9e810bcaa6697158a.txt",
-      "original_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/cd6602271d14e31e89539296b783829c37b5c036/objects/ef/effa524b7580c3987c3c3d07349e937e86faabdd7a86eee9e810bcaa6697158a",
+      "representation_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/087cfe589af4d715ddf10849bb09c0e4d1fec216/text/effa524b7580c3987c3c3d07349e937e86faabdd7a86eee9e810bcaa6697158a.txt",
+      "original_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/087cfe589af4d715ddf10849bb09c0e4d1fec216/objects/ef/effa524b7580c3987c3c3d07349e937e86faabdd7a86eee9e810bcaa6697158a",
       "evidence": [
         {
           "term": "road",
@@ -585,8 +585,8 @@
       "quality_verified": false,
       "representation_path": "text/f8d5b0ec65f2535172348894c908a14c5e8d791d19b7a04cf033e1011e1d7dd9.txt",
       "representation_text_sha256": "7adb382383808a33c39a755b62f050d064ddf02904fc13c48a2ebcd60f0de310",
-      "representation_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/cd6602271d14e31e89539296b783829c37b5c036/text/f8d5b0ec65f2535172348894c908a14c5e8d791d19b7a04cf033e1011e1d7dd9.txt",
-      "original_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/cd6602271d14e31e89539296b783829c37b5c036/objects/f8/f8d5b0ec65f2535172348894c908a14c5e8d791d19b7a04cf033e1011e1d7dd9",
+      "representation_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/087cfe589af4d715ddf10849bb09c0e4d1fec216/text/f8d5b0ec65f2535172348894c908a14c5e8d791d19b7a04cf033e1011e1d7dd9.txt",
+      "original_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/087cfe589af4d715ddf10849bb09c0e4d1fec216/objects/f8/f8d5b0ec65f2535172348894c908a14c5e8d791d19b7a04cf033e1011e1d7dd9",
       "evidence": [
         {
           "term": "street",
@@ -608,8 +608,8 @@
       "quality_verified": false,
       "representation_path": "text/fe51cc4936134d625fdb7d689e61a6faede2f62246fae5201fb193d22aa2dc85.txt",
       "representation_text_sha256": "ffca20446cb00ee13762161e3f0906002e17dbd40680d865d0f11be522642553",
-      "representation_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/cd6602271d14e31e89539296b783829c37b5c036/text/fe51cc4936134d625fdb7d689e61a6faede2f62246fae5201fb193d22aa2dc85.txt",
-      "original_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/cd6602271d14e31e89539296b783829c37b5c036/objects/fe/fe51cc4936134d625fdb7d689e61a6faede2f62246fae5201fb193d22aa2dc85",
+      "representation_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/087cfe589af4d715ddf10849bb09c0e4d1fec216/text/fe51cc4936134d625fdb7d689e61a6faede2f62246fae5201fb193d22aa2dc85.txt",
+      "original_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/087cfe589af4d715ddf10849bb09c0e4d1fec216/objects/fe/fe51cc4936134d625fdb7d689e61a6faede2f62246fae5201fb193d22aa2dc85",
       "evidence": [
         {
           "term": "street",
@@ -631,8 +631,8 @@
       "quality_verified": false,
       "representation_path": "derived/00f462be921543c29907c0eabe9565316cb479aa2d9df8068b809446edf8c5a5/page-000001.json",
       "representation_text_sha256": "df90bc6df2ffeb0d2d5e9bae3d75fc93a5e5959d2623e8fdfa6316841472b35c",
-      "representation_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/cd6602271d14e31e89539296b783829c37b5c036/derived/00f462be921543c29907c0eabe9565316cb479aa2d9df8068b809446edf8c5a5/page-000001.json",
-      "original_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/cd6602271d14e31e89539296b783829c37b5c036/objects/00/00f462be921543c29907c0eabe9565316cb479aa2d9df8068b809446edf8c5a5",
+      "representation_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/087cfe589af4d715ddf10849bb09c0e4d1fec216/derived/00f462be921543c29907c0eabe9565316cb479aa2d9df8068b809446edf8c5a5/page-000001.json",
+      "original_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/087cfe589af4d715ddf10849bb09c0e4d1fec216/objects/00/00f462be921543c29907c0eabe9565316cb479aa2d9df8068b809446edf8c5a5",
       "evidence": [
         {
           "term": "rail",
@@ -654,8 +654,8 @@
       "quality_verified": false,
       "representation_path": "derived/00f462be921543c29907c0eabe9565316cb479aa2d9df8068b809446edf8c5a5/page-000002.json",
       "representation_text_sha256": "d4c4b93a15473e05840a77474168628ef05e847be1be24c03e68265a4b7352c8",
-      "representation_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/cd6602271d14e31e89539296b783829c37b5c036/derived/00f462be921543c29907c0eabe9565316cb479aa2d9df8068b809446edf8c5a5/page-000002.json",
-      "original_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/cd6602271d14e31e89539296b783829c37b5c036/objects/00/00f462be921543c29907c0eabe9565316cb479aa2d9df8068b809446edf8c5a5",
+      "representation_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/087cfe589af4d715ddf10849bb09c0e4d1fec216/derived/00f462be921543c29907c0eabe9565316cb479aa2d9df8068b809446edf8c5a5/page-000002.json",
+      "original_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/087cfe589af4d715ddf10849bb09c0e4d1fec216/objects/00/00f462be921543c29907c0eabe9565316cb479aa2d9df8068b809446edf8c5a5",
       "evidence": [
         {
           "term": "street",
@@ -677,8 +677,8 @@
       "quality_verified": false,
       "representation_path": "derived/00f462be921543c29907c0eabe9565316cb479aa2d9df8068b809446edf8c5a5/page-000003.json",
       "representation_text_sha256": "aade19a9a0daef12af488c939b49c1271ce078c1d7930596e5f4968bdd81d120",
-      "representation_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/cd6602271d14e31e89539296b783829c37b5c036/derived/00f462be921543c29907c0eabe9565316cb479aa2d9df8068b809446edf8c5a5/page-000003.json",
-      "original_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/cd6602271d14e31e89539296b783829c37b5c036/objects/00/00f462be921543c29907c0eabe9565316cb479aa2d9df8068b809446edf8c5a5",
+      "representation_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/087cfe589af4d715ddf10849bb09c0e4d1fec216/derived/00f462be921543c29907c0eabe9565316cb479aa2d9df8068b809446edf8c5a5/page-000003.json",
+      "original_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/087cfe589af4d715ddf10849bb09c0e4d1fec216/objects/00/00f462be921543c29907c0eabe9565316cb479aa2d9df8068b809446edf8c5a5",
       "evidence": [
         {
           "term": "transit",
@@ -716,8 +716,8 @@
       "quality_verified": false,
       "representation_path": "derived/00f462be921543c29907c0eabe9565316cb479aa2d9df8068b809446edf8c5a5/page-000004.json",
       "representation_text_sha256": "50cf413f6f7ef06b12c3f3f1b9b13fe98a18c0b2ba1b2c94b8c2aea298b2df3d",
-      "representation_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/cd6602271d14e31e89539296b783829c37b5c036/derived/00f462be921543c29907c0eabe9565316cb479aa2d9df8068b809446edf8c5a5/page-000004.json",
-      "original_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/cd6602271d14e31e89539296b783829c37b5c036/objects/00/00f462be921543c29907c0eabe9565316cb479aa2d9df8068b809446edf8c5a5",
+      "representation_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/087cfe589af4d715ddf10849bb09c0e4d1fec216/derived/00f462be921543c29907c0eabe9565316cb479aa2d9df8068b809446edf8c5a5/page-000004.json",
+      "original_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/087cfe589af4d715ddf10849bb09c0e4d1fec216/objects/00/00f462be921543c29907c0eabe9565316cb479aa2d9df8068b809446edf8c5a5",
       "evidence": [
         {
           "term": "transit",
@@ -739,8 +739,8 @@
       "quality_verified": false,
       "representation_path": "derived/00f5dceb4ed5b8c3bb7783c9f42eec1d3540fb83ce3f83dbb227d341a6b4a05a/page-000001.json",
       "representation_text_sha256": "833a3c909a67ca9ca93d64c203b00e54b2f042231f6a0ef865bb49c33310cda3",
-      "representation_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/cd6602271d14e31e89539296b783829c37b5c036/derived/00f5dceb4ed5b8c3bb7783c9f42eec1d3540fb83ce3f83dbb227d341a6b4a05a/page-000001.json",
-      "original_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/cd6602271d14e31e89539296b783829c37b5c036/objects/00/00f5dceb4ed5b8c3bb7783c9f42eec1d3540fb83ce3f83dbb227d341a6b4a05a",
+      "representation_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/087cfe589af4d715ddf10849bb09c0e4d1fec216/derived/00f5dceb4ed5b8c3bb7783c9f42eec1d3540fb83ce3f83dbb227d341a6b4a05a/page-000001.json",
+      "original_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/087cfe589af4d715ddf10849bb09c0e4d1fec216/objects/00/00f5dceb4ed5b8c3bb7783c9f42eec1d3540fb83ce3f83dbb227d341a6b4a05a",
       "evidence": [
         {
           "term": "road",
@@ -770,8 +770,8 @@
       "quality_verified": false,
       "representation_path": "derived/00f5dceb4ed5b8c3bb7783c9f42eec1d3540fb83ce3f83dbb227d341a6b4a05a/page-000002.json",
       "representation_text_sha256": "97b57ecf6b8d6ba3dd754642a83c279b40556d2d34e2689863c1273b135175e7",
-      "representation_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/cd6602271d14e31e89539296b783829c37b5c036/derived/00f5dceb4ed5b8c3bb7783c9f42eec1d3540fb83ce3f83dbb227d341a6b4a05a/page-000002.json",
-      "original_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/cd6602271d14e31e89539296b783829c37b5c036/objects/00/00f5dceb4ed5b8c3bb7783c9f42eec1d3540fb83ce3f83dbb227d341a6b4a05a",
+      "representation_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/087cfe589af4d715ddf10849bb09c0e4d1fec216/derived/00f5dceb4ed5b8c3bb7783c9f42eec1d3540fb83ce3f83dbb227d341a6b4a05a/page-000002.json",
+      "original_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/087cfe589af4d715ddf10849bb09c0e4d1fec216/objects/00/00f5dceb4ed5b8c3bb7783c9f42eec1d3540fb83ce3f83dbb227d341a6b4a05a",
       "evidence": [
         {
           "term": "road",
@@ -809,8 +809,8 @@
       "quality_verified": false,
       "representation_path": "derived/00f5dceb4ed5b8c3bb7783c9f42eec1d3540fb83ce3f83dbb227d341a6b4a05a/page-000003.json",
       "representation_text_sha256": "767ad157b9de45a2840d77a70aa46a8475060aeb1d512129ffc6c75ca16bcbe1",
-      "representation_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/cd6602271d14e31e89539296b783829c37b5c036/derived/00f5dceb4ed5b8c3bb7783c9f42eec1d3540fb83ce3f83dbb227d341a6b4a05a/page-000003.json",
-      "original_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/cd6602271d14e31e89539296b783829c37b5c036/objects/00/00f5dceb4ed5b8c3bb7783c9f42eec1d3540fb83ce3f83dbb227d341a6b4a05a",
+      "representation_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/087cfe589af4d715ddf10849bb09c0e4d1fec216/derived/00f5dceb4ed5b8c3bb7783c9f42eec1d3540fb83ce3f83dbb227d341a6b4a05a/page-000003.json",
+      "original_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/087cfe589af4d715ddf10849bb09c0e4d1fec216/objects/00/00f5dceb4ed5b8c3bb7783c9f42eec1d3540fb83ce3f83dbb227d341a6b4a05a",
       "evidence": [
         {
           "term": "road",
@@ -832,8 +832,8 @@
       "quality_verified": false,
       "representation_path": "derived/010bd83d980db77cff63d872d0af99d9ad84914af753e62bf5997fa238a50bdd/page-000002.json",
       "representation_text_sha256": "177a072fb269994a5b789c5ea8e2f66adefa1a105f2e1b80c58c45aec19a5c04",
-      "representation_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/cd6602271d14e31e89539296b783829c37b5c036/derived/010bd83d980db77cff63d872d0af99d9ad84914af753e62bf5997fa238a50bdd/page-000002.json",
-      "original_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/cd6602271d14e31e89539296b783829c37b5c036/objects/01/010bd83d980db77cff63d872d0af99d9ad84914af753e62bf5997fa238a50bdd",
+      "representation_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/087cfe589af4d715ddf10849bb09c0e4d1fec216/derived/010bd83d980db77cff63d872d0af99d9ad84914af753e62bf5997fa238a50bdd/page-000002.json",
+      "original_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/087cfe589af4d715ddf10849bb09c0e4d1fec216/objects/01/010bd83d980db77cff63d872d0af99d9ad84914af753e62bf5997fa238a50bdd",
       "evidence": [
         {
           "term": "street",
@@ -855,8 +855,8 @@
       "quality_verified": false,
       "representation_path": "derived/01a150e0b3a34a66feb9c8466f7fa61ff72e481d429be3796e4d9ff86879a963/page-000001.json",
       "representation_text_sha256": "315d42a6c50da769879ede9ab6d12dd4a55fcb1ea799e9bd982c780de6a33597",
-      "representation_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/cd6602271d14e31e89539296b783829c37b5c036/derived/01a150e0b3a34a66feb9c8466f7fa61ff72e481d429be3796e4d9ff86879a963/page-000001.json",
-      "original_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/cd6602271d14e31e89539296b783829c37b5c036/objects/01/01a150e0b3a34a66feb9c8466f7fa61ff72e481d429be3796e4d9ff86879a963",
+      "representation_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/087cfe589af4d715ddf10849bb09c0e4d1fec216/derived/01a150e0b3a34a66feb9c8466f7fa61ff72e481d429be3796e4d9ff86879a963/page-000001.json",
+      "original_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/087cfe589af4d715ddf10849bb09c0e4d1fec216/objects/01/01a150e0b3a34a66feb9c8466f7fa61ff72e481d429be3796e4d9ff86879a963",
       "evidence": [
         {
           "term": "street",
@@ -894,8 +894,8 @@
       "quality_verified": false,
       "representation_path": "derived/01a5d77bfaeb54d0057fe869e727fc80b1d205ab95df55daa928446e5aaa97d6/page-000002.json",
       "representation_text_sha256": "ea108744cf216a1f0479fc59094d35ee0e15c0e17ec219df7a88650a777c2bfe",
-      "representation_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/cd6602271d14e31e89539296b783829c37b5c036/derived/01a5d77bfaeb54d0057fe869e727fc80b1d205ab95df55daa928446e5aaa97d6/page-000002.json",
-      "original_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/cd6602271d14e31e89539296b783829c37b5c036/objects/01/01a5d77bfaeb54d0057fe869e727fc80b1d205ab95df55daa928446e5aaa97d6",
+      "representation_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/087cfe589af4d715ddf10849bb09c0e4d1fec216/derived/01a5d77bfaeb54d0057fe869e727fc80b1d205ab95df55daa928446e5aaa97d6/page-000002.json",
+      "original_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/087cfe589af4d715ddf10849bb09c0e4d1fec216/objects/01/01a5d77bfaeb54d0057fe869e727fc80b1d205ab95df55daa928446e5aaa97d6",
       "evidence": [
         {
           "term": "road",
@@ -917,8 +917,8 @@
       "quality_verified": false,
       "representation_path": "derived/02655cafa3b55f9938e5b154d1147bf1fb4e7dc9f116a0660656ff4ab5d3e0f4/page-000002.json",
       "representation_text_sha256": "e6c850a0ec848443b097321dc27f7a172020e72d6975037618cf2b412a98e3d4",
-      "representation_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/cd6602271d14e31e89539296b783829c37b5c036/derived/02655cafa3b55f9938e5b154d1147bf1fb4e7dc9f116a0660656ff4ab5d3e0f4/page-000002.json",
-      "original_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/cd6602271d14e31e89539296b783829c37b5c036/objects/02/02655cafa3b55f9938e5b154d1147bf1fb4e7dc9f116a0660656ff4ab5d3e0f4",
+      "representation_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/087cfe589af4d715ddf10849bb09c0e4d1fec216/derived/02655cafa3b55f9938e5b154d1147bf1fb4e7dc9f116a0660656ff4ab5d3e0f4/page-000002.json",
+      "original_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/087cfe589af4d715ddf10849bb09c0e4d1fec216/objects/02/02655cafa3b55f9938e5b154d1147bf1fb4e7dc9f116a0660656ff4ab5d3e0f4",
       "evidence": [
         {
           "term": "transit",
@@ -956,8 +956,8 @@
       "quality_verified": false,
       "representation_path": "derived/02742df3cbd1e799493dcf34548f5d2769c9d2158f5e6f11c571fe222ade003f/page-000002.json",
       "representation_text_sha256": "4a0c6e0e1c1fed53c0a431dafd260dedf4ba8c9a5073bffda9fc127eaccdb501",
-      "representation_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/cd6602271d14e31e89539296b783829c37b5c036/derived/02742df3cbd1e799493dcf34548f5d2769c9d2158f5e6f11c571fe222ade003f/page-000002.json",
-      "original_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/cd6602271d14e31e89539296b783829c37b5c036/objects/02/02742df3cbd1e799493dcf34548f5d2769c9d2158f5e6f11c571fe222ade003f",
+      "representation_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/087cfe589af4d715ddf10849bb09c0e4d1fec216/derived/02742df3cbd1e799493dcf34548f5d2769c9d2158f5e6f11c571fe222ade003f/page-000002.json",
+      "original_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/087cfe589af4d715ddf10849bb09c0e4d1fec216/objects/02/02742df3cbd1e799493dcf34548f5d2769c9d2158f5e6f11c571fe222ade003f",
       "evidence": [
         {
           "term": "street",
@@ -995,8 +995,8 @@
       "quality_verified": false,
       "representation_path": "derived/031f6784822968fd4dd00e67716091537789808541b9811afe84f937c9175fb2/page-000001.json",
       "representation_text_sha256": "68bd9bf6ee9baadd3bcc2fbb92884ed09b1289fcbea1764b439573d1172d0126",
-      "representation_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/cd6602271d14e31e89539296b783829c37b5c036/derived/031f6784822968fd4dd00e67716091537789808541b9811afe84f937c9175fb2/page-000001.json",
-      "original_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/cd6602271d14e31e89539296b783829c37b5c036/objects/03/031f6784822968fd4dd00e67716091537789808541b9811afe84f937c9175fb2",
+      "representation_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/087cfe589af4d715ddf10849bb09c0e4d1fec216/derived/031f6784822968fd4dd00e67716091537789808541b9811afe84f937c9175fb2/page-000001.json",
+      "original_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/087cfe589af4d715ddf10849bb09c0e4d1fec216/objects/03/031f6784822968fd4dd00e67716091537789808541b9811afe84f937c9175fb2",
       "evidence": [
         {
           "term": "transit",
@@ -1018,8 +1018,8 @@
       "quality_verified": false,
       "representation_path": "derived/0356098f048a1b8402a8dd070eb6fc3e62b126fb5ab9b639a0b162a634bd8860/page-000002.json",
       "representation_text_sha256": "e960123b204a4f8c58a0fd40a4fbcd8f550a3b233823fb76bf562495b3eff802",
-      "representation_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/cd6602271d14e31e89539296b783829c37b5c036/derived/0356098f048a1b8402a8dd070eb6fc3e62b126fb5ab9b639a0b162a634bd8860/page-000002.json",
-      "original_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/cd6602271d14e31e89539296b783829c37b5c036/objects/03/0356098f048a1b8402a8dd070eb6fc3e62b126fb5ab9b639a0b162a634bd8860",
+      "representation_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/087cfe589af4d715ddf10849bb09c0e4d1fec216/derived/0356098f048a1b8402a8dd070eb6fc3e62b126fb5ab9b639a0b162a634bd8860/page-000002.json",
+      "original_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/087cfe589af4d715ddf10849bb09c0e4d1fec216/objects/03/0356098f048a1b8402a8dd070eb6fc3e62b126fb5ab9b639a0b162a634bd8860",
       "evidence": [
         {
           "term": "street",
@@ -1049,8 +1049,8 @@
       "quality_verified": false,
       "representation_path": "derived/0356098f048a1b8402a8dd070eb6fc3e62b126fb5ab9b639a0b162a634bd8860/page-000003.json",
       "representation_text_sha256": "e16723530520869ea44ecc21cdf8f89a6c6b9590bde14b001b88a875a144c881",
-      "representation_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/cd6602271d14e31e89539296b783829c37b5c036/derived/0356098f048a1b8402a8dd070eb6fc3e62b126fb5ab9b639a0b162a634bd8860/page-000003.json",
-      "original_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/cd6602271d14e31e89539296b783829c37b5c036/objects/03/0356098f048a1b8402a8dd070eb6fc3e62b126fb5ab9b639a0b162a634bd8860",
+      "representation_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/087cfe589af4d715ddf10849bb09c0e4d1fec216/derived/0356098f048a1b8402a8dd070eb6fc3e62b126fb5ab9b639a0b162a634bd8860/page-000003.json",
+      "original_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/087cfe589af4d715ddf10849bb09c0e4d1fec216/objects/03/0356098f048a1b8402a8dd070eb6fc3e62b126fb5ab9b639a0b162a634bd8860",
       "evidence": [
         {
           "term": "rail",
@@ -1072,8 +1072,8 @@
       "quality_verified": false,
       "representation_path": "derived/035c78d18e589bd3c5d247fd92e9f23c959005947230f4a7eba88b46569a0f76/page-000001.json",
       "representation_text_sha256": "8082951a427f9062b90c8da20ff7a162904c1cc9d9ae4073997c02e9059940ae",
-      "representation_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/cd6602271d14e31e89539296b783829c37b5c036/derived/035c78d18e589bd3c5d247fd92e9f23c959005947230f4a7eba88b46569a0f76/page-000001.json",
-      "original_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/cd6602271d14e31e89539296b783829c37b5c036/objects/03/035c78d18e589bd3c5d247fd92e9f23c959005947230f4a7eba88b46569a0f76",
+      "representation_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/087cfe589af4d715ddf10849bb09c0e4d1fec216/derived/035c78d18e589bd3c5d247fd92e9f23c959005947230f4a7eba88b46569a0f76/page-000001.json",
+      "original_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/087cfe589af4d715ddf10849bb09c0e4d1fec216/objects/03/035c78d18e589bd3c5d247fd92e9f23c959005947230f4a7eba88b46569a0f76",
       "evidence": [
         {
           "term": "street",
@@ -1103,8 +1103,8 @@
       "quality_verified": false,
       "representation_path": "derived/03858dbaca270db28253d4133e9b36a7aa9d2aa841851b01a35635e5a1e05580/page-000001.json",
       "representation_text_sha256": "4607a0a3899c1fca5464a070d21973829498f01b9a3fddbf2790e4b4ca21a32d",
-      "representation_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/cd6602271d14e31e89539296b783829c37b5c036/derived/03858dbaca270db28253d4133e9b36a7aa9d2aa841851b01a35635e5a1e05580/page-000001.json",
-      "original_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/cd6602271d14e31e89539296b783829c37b5c036/objects/03/03858dbaca270db28253d4133e9b36a7aa9d2aa841851b01a35635e5a1e05580",
+      "representation_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/087cfe589af4d715ddf10849bb09c0e4d1fec216/derived/03858dbaca270db28253d4133e9b36a7aa9d2aa841851b01a35635e5a1e05580/page-000001.json",
+      "original_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/087cfe589af4d715ddf10849bb09c0e4d1fec216/objects/03/03858dbaca270db28253d4133e9b36a7aa9d2aa841851b01a35635e5a1e05580",
       "evidence": [
         {
           "term": "street",
@@ -1142,8 +1142,8 @@
       "quality_verified": false,
       "representation_path": "derived/03858dbaca270db28253d4133e9b36a7aa9d2aa841851b01a35635e5a1e05580/page-000002.json",
       "representation_text_sha256": "b97cf757e269b24f35d3d1d4617a178a839c3bbf1145f1f850ec84b549bd404f",
-      "representation_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/cd6602271d14e31e89539296b783829c37b5c036/derived/03858dbaca270db28253d4133e9b36a7aa9d2aa841851b01a35635e5a1e05580/page-000002.json",
-      "original_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/cd6602271d14e31e89539296b783829c37b5c036/objects/03/03858dbaca270db28253d4133e9b36a7aa9d2aa841851b01a35635e5a1e05580",
+      "representation_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/087cfe589af4d715ddf10849bb09c0e4d1fec216/derived/03858dbaca270db28253d4133e9b36a7aa9d2aa841851b01a35635e5a1e05580/page-000002.json",
+      "original_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/087cfe589af4d715ddf10849bb09c0e4d1fec216/objects/03/03858dbaca270db28253d4133e9b36a7aa9d2aa841851b01a35635e5a1e05580",
       "evidence": [
         {
           "term": "road",
@@ -1173,8 +1173,8 @@
       "quality_verified": false,
       "representation_path": "derived/03bf84b9bd7dc81d689b8ec05d996f50b6112caad73a1a7367837c659218caa1/page-000001.json",
       "representation_text_sha256": "119f54c5b35c5b53fd75c14f7e6711d93b48010d9c7b417103e7cdd24036e36b",
-      "representation_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/cd6602271d14e31e89539296b783829c37b5c036/derived/03bf84b9bd7dc81d689b8ec05d996f50b6112caad73a1a7367837c659218caa1/page-000001.json",
-      "original_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/cd6602271d14e31e89539296b783829c37b5c036/objects/03/03bf84b9bd7dc81d689b8ec05d996f50b6112caad73a1a7367837c659218caa1",
+      "representation_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/087cfe589af4d715ddf10849bb09c0e4d1fec216/derived/03bf84b9bd7dc81d689b8ec05d996f50b6112caad73a1a7367837c659218caa1/page-000001.json",
+      "original_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/087cfe589af4d715ddf10849bb09c0e4d1fec216/objects/03/03bf84b9bd7dc81d689b8ec05d996f50b6112caad73a1a7367837c659218caa1",
       "evidence": [
         {
           "term": "road",
@@ -1212,8 +1212,8 @@
       "quality_verified": false,
       "representation_path": "derived/03bf84b9bd7dc81d689b8ec05d996f50b6112caad73a1a7367837c659218caa1/page-000002.json",
       "representation_text_sha256": "deaa1bf6a0e9c83b66071daaee48feafad7ad150dec6a996967449df321b1f00",
-      "representation_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/cd6602271d14e31e89539296b783829c37b5c036/derived/03bf84b9bd7dc81d689b8ec05d996f50b6112caad73a1a7367837c659218caa1/page-000002.json",
-      "original_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/cd6602271d14e31e89539296b783829c37b5c036/objects/03/03bf84b9bd7dc81d689b8ec05d996f50b6112caad73a1a7367837c659218caa1",
+      "representation_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/087cfe589af4d715ddf10849bb09c0e4d1fec216/derived/03bf84b9bd7dc81d689b8ec05d996f50b6112caad73a1a7367837c659218caa1/page-000002.json",
+      "original_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/087cfe589af4d715ddf10849bb09c0e4d1fec216/objects/03/03bf84b9bd7dc81d689b8ec05d996f50b6112caad73a1a7367837c659218caa1",
       "evidence": [
         {
           "term": "road",
@@ -1251,8 +1251,8 @@
       "quality_verified": false,
       "representation_path": "derived/046c80e9030ad730d899ab2ae68aca711197ea307ddee147750141d35f43762b/page-000001.json",
       "representation_text_sha256": "4861cd0a57661778fe074a15ef70af22061bcb1c27e88d56365ed9e07563ad48",
-      "representation_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/cd6602271d14e31e89539296b783829c37b5c036/derived/046c80e9030ad730d899ab2ae68aca711197ea307ddee147750141d35f43762b/page-000001.json",
-      "original_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/cd6602271d14e31e89539296b783829c37b5c036/objects/04/046c80e9030ad730d899ab2ae68aca711197ea307ddee147750141d35f43762b",
+      "representation_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/087cfe589af4d715ddf10849bb09c0e4d1fec216/derived/046c80e9030ad730d899ab2ae68aca711197ea307ddee147750141d35f43762b/page-000001.json",
+      "original_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/087cfe589af4d715ddf10849bb09c0e4d1fec216/objects/04/046c80e9030ad730d899ab2ae68aca711197ea307ddee147750141d35f43762b",
       "evidence": [
         {
           "term": "street",
@@ -1274,8 +1274,8 @@
       "quality_verified": false,
       "representation_path": "derived/046c80e9030ad730d899ab2ae68aca711197ea307ddee147750141d35f43762b/page-000002.json",
       "representation_text_sha256": "7e961a7de09c979a609a1cd84e3e886a713c582f3f8b0a6bb2212f0c88004e2e",
-      "representation_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/cd6602271d14e31e89539296b783829c37b5c036/derived/046c80e9030ad730d899ab2ae68aca711197ea307ddee147750141d35f43762b/page-000002.json",
-      "original_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/cd6602271d14e31e89539296b783829c37b5c036/objects/04/046c80e9030ad730d899ab2ae68aca711197ea307ddee147750141d35f43762b",
+      "representation_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/087cfe589af4d715ddf10849bb09c0e4d1fec216/derived/046c80e9030ad730d899ab2ae68aca711197ea307ddee147750141d35f43762b/page-000002.json",
+      "original_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/087cfe589af4d715ddf10849bb09c0e4d1fec216/objects/04/046c80e9030ad730d899ab2ae68aca711197ea307ddee147750141d35f43762b",
       "evidence": [
         {
           "term": "street",
@@ -1297,8 +1297,8 @@
       "quality_verified": false,
       "representation_path": "derived/05a7f6238c76c5e1f30efb3e6ef179709ad77e8a7aaf4398bf4a32cd493fc4b3/page-000001.json",
       "representation_text_sha256": "0527e2f3d19bce3f3186fad517b17b28ea4e618df68ff138a3b6103a943fb50d",
-      "representation_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/cd6602271d14e31e89539296b783829c37b5c036/derived/05a7f6238c76c5e1f30efb3e6ef179709ad77e8a7aaf4398bf4a32cd493fc4b3/page-000001.json",
-      "original_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/cd6602271d14e31e89539296b783829c37b5c036/objects/05/05a7f6238c76c5e1f30efb3e6ef179709ad77e8a7aaf4398bf4a32cd493fc4b3",
+      "representation_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/087cfe589af4d715ddf10849bb09c0e4d1fec216/derived/05a7f6238c76c5e1f30efb3e6ef179709ad77e8a7aaf4398bf4a32cd493fc4b3/page-000001.json",
+      "original_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/087cfe589af4d715ddf10849bb09c0e4d1fec216/objects/05/05a7f6238c76c5e1f30efb3e6ef179709ad77e8a7aaf4398bf4a32cd493fc4b3",
       "evidence": [
         {
           "term": "road",
@@ -1336,8 +1336,8 @@
       "quality_verified": false,
       "representation_path": "derived/05a7f6238c76c5e1f30efb3e6ef179709ad77e8a7aaf4398bf4a32cd493fc4b3/page-000002.json",
       "representation_text_sha256": "86254eaf2e507dfcdd32d2256ff2a1acc2dde28a68ac1cf0a151262b305a287f",
-      "representation_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/cd6602271d14e31e89539296b783829c37b5c036/derived/05a7f6238c76c5e1f30efb3e6ef179709ad77e8a7aaf4398bf4a32cd493fc4b3/page-000002.json",
-      "original_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/cd6602271d14e31e89539296b783829c37b5c036/objects/05/05a7f6238c76c5e1f30efb3e6ef179709ad77e8a7aaf4398bf4a32cd493fc4b3",
+      "representation_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/087cfe589af4d715ddf10849bb09c0e4d1fec216/derived/05a7f6238c76c5e1f30efb3e6ef179709ad77e8a7aaf4398bf4a32cd493fc4b3/page-000002.json",
+      "original_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/087cfe589af4d715ddf10849bb09c0e4d1fec216/objects/05/05a7f6238c76c5e1f30efb3e6ef179709ad77e8a7aaf4398bf4a32cd493fc4b3",
       "evidence": [
         {
           "term": "street",
@@ -1375,8 +1375,8 @@
       "quality_verified": false,
       "representation_path": "derived/05a7f6238c76c5e1f30efb3e6ef179709ad77e8a7aaf4398bf4a32cd493fc4b3/page-000003.json",
       "representation_text_sha256": "5ce4cf37dd3236993dd29d703d4ba406cc4bf4acbc5d18430896d061c1ea6e2c",
-      "representation_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/cd6602271d14e31e89539296b783829c37b5c036/derived/05a7f6238c76c5e1f30efb3e6ef179709ad77e8a7aaf4398bf4a32cd493fc4b3/page-000003.json",
-      "original_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/cd6602271d14e31e89539296b783829c37b5c036/objects/05/05a7f6238c76c5e1f30efb3e6ef179709ad77e8a7aaf4398bf4a32cd493fc4b3",
+      "representation_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/087cfe589af4d715ddf10849bb09c0e4d1fec216/derived/05a7f6238c76c5e1f30efb3e6ef179709ad77e8a7aaf4398bf4a32cd493fc4b3/page-000003.json",
+      "original_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/087cfe589af4d715ddf10849bb09c0e4d1fec216/objects/05/05a7f6238c76c5e1f30efb3e6ef179709ad77e8a7aaf4398bf4a32cd493fc4b3",
       "evidence": [
         {
           "term": "road",
@@ -1414,8 +1414,8 @@
       "quality_verified": false,
       "representation_path": "derived/05a7f6238c76c5e1f30efb3e6ef179709ad77e8a7aaf4398bf4a32cd493fc4b3/page-000004.json",
       "representation_text_sha256": "6326ee08fedb058f17a63a0985a0957be853d8eb38766c2cb924bde118ee05c1",
-      "representation_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/cd6602271d14e31e89539296b783829c37b5c036/derived/05a7f6238c76c5e1f30efb3e6ef179709ad77e8a7aaf4398bf4a32cd493fc4b3/page-000004.json",
-      "original_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/cd6602271d14e31e89539296b783829c37b5c036/objects/05/05a7f6238c76c5e1f30efb3e6ef179709ad77e8a7aaf4398bf4a32cd493fc4b3",
+      "representation_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/087cfe589af4d715ddf10849bb09c0e4d1fec216/derived/05a7f6238c76c5e1f30efb3e6ef179709ad77e8a7aaf4398bf4a32cd493fc4b3/page-000004.json",
+      "original_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/087cfe589af4d715ddf10849bb09c0e4d1fec216/objects/05/05a7f6238c76c5e1f30efb3e6ef179709ad77e8a7aaf4398bf4a32cd493fc4b3",
       "evidence": [
         {
           "term": "road",
@@ -1437,8 +1437,8 @@
       "quality_verified": false,
       "representation_path": "derived/06be3b512454c07cc8fe0d5f263dd531baff8c7d348af9c829225b61e827b3a5/page-000002.json",
       "representation_text_sha256": "a348ca3414887aa975936878dd837296bd56f3836a3171a0463b4d609c6c3920",
-      "representation_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/cd6602271d14e31e89539296b783829c37b5c036/derived/06be3b512454c07cc8fe0d5f263dd531baff8c7d348af9c829225b61e827b3a5/page-000002.json",
-      "original_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/cd6602271d14e31e89539296b783829c37b5c036/objects/06/06be3b512454c07cc8fe0d5f263dd531baff8c7d348af9c829225b61e827b3a5",
+      "representation_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/087cfe589af4d715ddf10849bb09c0e4d1fec216/derived/06be3b512454c07cc8fe0d5f263dd531baff8c7d348af9c829225b61e827b3a5/page-000002.json",
+      "original_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/087cfe589af4d715ddf10849bb09c0e4d1fec216/objects/06/06be3b512454c07cc8fe0d5f263dd531baff8c7d348af9c829225b61e827b3a5",
       "evidence": [
         {
           "term": "street",
@@ -1468,8 +1468,8 @@
       "quality_verified": false,
       "representation_path": "derived/06be3b512454c07cc8fe0d5f263dd531baff8c7d348af9c829225b61e827b3a5/page-000004.json",
       "representation_text_sha256": "7332b9bccf70b369a7c301e92003cc8a1b18efed94ed2792594acec40ee193d7",
-      "representation_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/cd6602271d14e31e89539296b783829c37b5c036/derived/06be3b512454c07cc8fe0d5f263dd531baff8c7d348af9c829225b61e827b3a5/page-000004.json",
-      "original_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/cd6602271d14e31e89539296b783829c37b5c036/objects/06/06be3b512454c07cc8fe0d5f263dd531baff8c7d348af9c829225b61e827b3a5",
+      "representation_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/087cfe589af4d715ddf10849bb09c0e4d1fec216/derived/06be3b512454c07cc8fe0d5f263dd531baff8c7d348af9c829225b61e827b3a5/page-000004.json",
+      "original_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/087cfe589af4d715ddf10849bb09c0e4d1fec216/objects/06/06be3b512454c07cc8fe0d5f263dd531baff8c7d348af9c829225b61e827b3a5",
       "evidence": [
         {
           "term": "road",
@@ -1507,8 +1507,8 @@
       "quality_verified": false,
       "representation_path": "derived/07277df638f24aee0e5c27068eb8c33ad23fe04de5f5485f5d575d2a001c9273/page-000001.json",
       "representation_text_sha256": "9b356f6a476b94644f1a4e2a44a2d439e0098d93b0a817c3bebda64510872a8e",
-      "representation_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/cd6602271d14e31e89539296b783829c37b5c036/derived/07277df638f24aee0e5c27068eb8c33ad23fe04de5f5485f5d575d2a001c9273/page-000001.json",
-      "original_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/cd6602271d14e31e89539296b783829c37b5c036/objects/07/07277df638f24aee0e5c27068eb8c33ad23fe04de5f5485f5d575d2a001c9273",
+      "representation_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/087cfe589af4d715ddf10849bb09c0e4d1fec216/derived/07277df638f24aee0e5c27068eb8c33ad23fe04de5f5485f5d575d2a001c9273/page-000001.json",
+      "original_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/087cfe589af4d715ddf10849bb09c0e4d1fec216/objects/07/07277df638f24aee0e5c27068eb8c33ad23fe04de5f5485f5d575d2a001c9273",
       "evidence": [
         {
           "term": "street",
@@ -1546,8 +1546,8 @@
       "quality_verified": false,
       "representation_path": "derived/07277df638f24aee0e5c27068eb8c33ad23fe04de5f5485f5d575d2a001c9273/page-000002.json",
       "representation_text_sha256": "a6c483431684755ed64720ea5dbff4f272a5b63c2ccf06702086d94375b5aec8",
-      "representation_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/cd6602271d14e31e89539296b783829c37b5c036/derived/07277df638f24aee0e5c27068eb8c33ad23fe04de5f5485f5d575d2a001c9273/page-000002.json",
-      "original_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/cd6602271d14e31e89539296b783829c37b5c036/objects/07/07277df638f24aee0e5c27068eb8c33ad23fe04de5f5485f5d575d2a001c9273",
+      "representation_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/087cfe589af4d715ddf10849bb09c0e4d1fec216/derived/07277df638f24aee0e5c27068eb8c33ad23fe04de5f5485f5d575d2a001c9273/page-000002.json",
+      "original_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/087cfe589af4d715ddf10849bb09c0e4d1fec216/objects/07/07277df638f24aee0e5c27068eb8c33ad23fe04de5f5485f5d575d2a001c9273",
       "evidence": [
         {
           "term": "street",
