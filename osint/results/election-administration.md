@@ -8,7 +8,7 @@ Matched representations: 13; exported: 13. Deterministic file order, not importa
 
 Publisher: https://www.cheyennecity.org/Your-Government/City-Council
 
-Preserved representation: https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/dc7f3bf358ec93eb1476f3a5767ea6193db270f6/text/34c2c94e914d583858e803f379f87beab4375394bf97e2b05857f84e410e1400.txt
+Preserved representation: https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/57b6ada7eafbd8b3c3202ddaeb2d816102f05dfe/text/34c2c94e914d583858e803f379f87beab4375394bf97e2b05857f84e410e1400.txt
 
 >  within the next 18 months (as of February 2025). Council plans to identify a list of City projects to submit for consideration on the next 6th Penny ballot that will go to voters. This goal includes:
 > Identifying a list of projects by the end of Summer 2025, and
@@ -30,7 +30,7 @@ Preserved representation: https://github.com/bartimoussmith-oss/cheyenne-laramie
 
 Publisher: https://www.cheyennecity.org/Your-Government/Departments/City-Clerk
 
-Preserved representation: https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/dc7f3bf358ec93eb1476f3a5767ea6193db270f6/text/d5fd7d1575e0c08c8ed2d3d4dcfe54374e28df3213afc00b0613bf25067e3e62.txt
+Preserved representation: https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/57b6ada7eafbd8b3c3202ddaeb2d816102f05dfe/text/d5fd7d1575e0c08c8ed2d3d4dcfe54374e28df3213afc00b0613bf25067e3e62.txt
 
 > k license/permit types
 > What are the qualifications for individuals interested in running for the elected offices of Mayor and City Council?
@@ -63,7 +63,7 @@ Preserved representation: https://github.com/bartimoussmith-oss/cheyenne-laramie
 
 Publisher: https://www.laramiecountywy.gov/County-Government/Elected-Officials/County-Clerk/Clerk-to-the-Board-of-County-Commissioners
 
-Preserved representation: https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/dc7f3bf358ec93eb1476f3a5767ea6193db270f6/text/d7a11bf934f9d3f289fd4af6827b18f8b266253d6bbe3aee860a10049ddc1ce0.txt
+Preserved representation: https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/57b6ada7eafbd8b3c3202ddaeb2d816102f05dfe/text/d7a11bf934f9d3f289fd4af6827b18f8b266253d6bbe3aee860a10049ddc1ce0.txt
 
 > eporting
 > Property Assessment
@@ -115,7 +115,7 @@ Preserved representation: https://github.com/bartimoussmith-oss/cheyenne-laramie
 
 Publisher: https://www.cheyennecity.org/Home
 
-Preserved representation: https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/dc7f3bf358ec93eb1476f3a5767ea6193db270f6/text/effa524b7580c3987c3c3d07349e937e86faabdd7a86eee9e810bcaa6697158a.txt
+Preserved representation: https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/57b6ada7eafbd8b3c3202ddaeb2d816102f05dfe/text/effa524b7580c3987c3c3d07349e937e86faabdd7a86eee9e810bcaa6697158a.txt
 
 > Boards and Commissions
 > A list of City of Cheyenne Boards and Commissions.
@@ -143,7 +143,7 @@ Preserved representation: https://github.com/bartimoussmith-oss/cheyenne-laramie
 
 Publisher: https://www.laramiecountywy.gov/County-Government/Elected-Officials/County-Clerk/Finance
 
-Preserved representation: https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/dc7f3bf358ec93eb1476f3a5767ea6193db270f6/text/f8d5b0ec65f2535172348894c908a14c5e8d791d19b7a04cf033e1011e1d7dd9.txt
+Preserved representation: https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/57b6ada7eafbd8b3c3202ddaeb2d816102f05dfe/text/f8d5b0ec65f2535172348894c908a14c5e8d791d19b7a04cf033e1011e1d7dd9.txt
 
 > eporting
 > Property Assessment
@@ -195,7 +195,7 @@ Preserved representation: https://github.com/bartimoussmith-oss/cheyenne-laramie
 
 Publisher: https://www.cheyennecity.org/files/sharedassets/public/v/1/your-government/city-council/wscow-2026/city-clerk-fy27-presentation.pdf
 
-Preserved representation: https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/dc7f3bf358ec93eb1476f3a5767ea6193db270f6/derived/00bb64666ab3c7d9e1a67a68d37e92cf43f2cc5cd78b5e2ca7328ffe96ced49b/page-000004.json
+Preserved representation: https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/57b6ada7eafbd8b3c3202ddaeb2d816102f05dfe/derived/00bb64666ab3c7d9e1a67a68d37e92cf43f2cc5cd78b5e2ca7328ffe96ced49b/page-000004.json
 
 > program
 > 
@@ -219,7 +219,7 @@ Preserved representation: https://github.com/bartimoussmith-oss/cheyenne-laramie
 
 Publisher: https://www.cheyennecity.org/files/sharedassets/public/v/1/your-government/city-council/fc-2024/fc-11-18-24-agenda.pdf
 
-Preserved representation: https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/dc7f3bf358ec93eb1476f3a5767ea6193db270f6/derived/035c78d18e589bd3c5d247fd92e9f23c959005947230f4a7eba88b46569a0f76/page-000002.json
+Preserved representation: https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/57b6ada7eafbd8b3c3202ddaeb2d816102f05dfe/derived/035c78d18e589bd3c5d247fd92e9f23c959005947230f4a7eba88b46569a0f76/page-000002.json
 
 > POSALS:
 > 
@@ -237,7 +237,7 @@ Preserved representation: https://github.com/bartimoussmith-oss/cheyenne-laramie
 
 Publisher: https://www.cheyennecity.org/files/sharedassets/public/v/1/your-government/city-council/fc-2023/fc-08-21-23-minutes.pdf
 
-Preserved representation: https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/dc7f3bf358ec93eb1476f3a5767ea6193db270f6/derived/1a9943703f0b7c6c21e355902a3caa40208262f0782b10ff1267437db70586fc/page-000001.json
+Preserved representation: https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/57b6ada7eafbd8b3c3202ddaeb2d816102f05dfe/derived/1a9943703f0b7c6c21e355902a3caa40208262f0782b10ff1267437db70586fc/page-000001.json
 
 > heyenne Downtown Development Authority
 > District of Cheyenne, Wyoming, excluding real property used exclusively for residential
@@ -250,7 +250,7 @@ Preserved representation: https://github.com/bartimoussmith-oss/cheyenne-laramie
 
 Publisher: https://www.cheyennecity.org/files/sharedassets/public/v/1/your-government/city-council/fc-2026/fc-04-21-26-minutes.pdf
 
-Preserved representation: https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/dc7f3bf358ec93eb1476f3a5767ea6193db270f6/derived/1c56f0c35aa75b20d1d414a23b5705d2525bf9162889b086f897aa64deb6b444/page-000001.json
+Preserved representation: https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/57b6ada7eafbd8b3c3202ddaeb2d816102f05dfe/derived/1c56f0c35aa75b20d1d414a23b5705d2525bf9162889b086f897aa64deb6b444/page-000001.json
 
 >  County, State of Wyoming, for the exclusive purpose of funding
 >        specific purposes for specific amounts; the propositions to be voted on at the election to be
@@ -268,7 +268,7 @@ Preserved representation: https://github.com/bartimoussmith-oss/cheyenne-laramie
 
 Publisher: https://www.cheyennecity.org/files/sharedassets/public/v/1/your-government/city-council/fc-2022/fc-08-15-22-minutes.pdf
 
-Preserved representation: https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/dc7f3bf358ec93eb1476f3a5767ea6193db270f6/derived/2cb9ac5ac9945b2883a47e222e6fe4e6a52f2c09bdd0ab9a359b22faba7767c8/page-000001.json
+Preserved representation: https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/57b6ada7eafbd8b3c3202ddaeb2d816102f05dfe/derived/2cb9ac5ac9945b2883a47e222e6fe4e6a52f2c09bdd0ab9a359b22faba7767c8/page-000001.json
 
 > mmented on the item.
 > 
@@ -280,7 +280,7 @@ Preserved representation: https://github.com/bartimoussmith-oss/cheyenne-laramie
 
 Publisher: https://www.cheyennecity.org/files/sharedassets/public/v/1/your-government/city-council/wscow-2024/committee-of-the-whole-presentation.pdf
 
-Preserved representation: https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/dc7f3bf358ec93eb1476f3a5767ea6193db270f6/derived/2f4963bd7945805c8abc49b463d3aa1d515515658d04e2226bbf5c0a34fc7f60/page-000020.json
+Preserved representation: https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/57b6ada7eafbd8b3c3202ddaeb2d816102f05dfe/derived/2f4963bd7945805c8abc49b463d3aa1d515515658d04e2226bbf5c0a34fc7f60/page-000020.json
 
 > ce and
 > Improvement Projects
@@ -300,7 +300,7 @@ Preserved representation: https://github.com/bartimoussmith-oss/cheyenne-laramie
 
 Publisher: https://www.cheyennecity.org/files/sharedassets/public/v/1/departments/city-treasurer/adopted-budgets/fy2022-adopted-budget.pdf
 
-Preserved representation: https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/dc7f3bf358ec93eb1476f3a5767ea6193db270f6/derived/3105bb585026393ad577f774b1d0436d7b144a2834cf6de1b2ac70e02adbe242/page-000014.json
+Preserved representation: https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/57b6ada7eafbd8b3c3202ddaeb2d816102f05dfe/derived/3105bb585026393ad577f774b1d0436d7b144a2834cf6de1b2ac70e02adbe242/page-000014.json
 
 >  municipalities within the county to
 >     an analysis on the feasibility of changing the cur-               determine priorities for the 6th Penny tax ballot.
@@ -313,7 +313,7 @@ Preserved representation: https://github.com/bartimoussmith-oss/cheyenne-laramie
 
 Publisher: https://www.cheyennecity.org/files/sharedassets/public/v/1/departments/city-treasurer/adopted-budgets/fy2022-adopted-budget.pdf
 
-Preserved representation: https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/dc7f3bf358ec93eb1476f3a5767ea6193db270f6/derived/3105bb585026393ad577f774b1d0436d7b144a2834cf6de1b2ac70e02adbe242/page-000041.json
+Preserved representation: https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/57b6ada7eafbd8b3c3202ddaeb2d816102f05dfe/derived/3105bb585026393ad577f774b1d0436d7b144a2834cf6de1b2ac70e02adbe242/page-000041.json
 
 > oan is re-       will most likely be required.
 > stricted to a claim on revenues generated. Such bor-

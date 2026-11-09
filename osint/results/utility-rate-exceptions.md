@@ -8,7 +8,7 @@ Matched representations: 3; exported: 3. Deterministic file order, not importanc
 
 Publisher: https://www.cheyennecity.org/files/sharedassets/public/v/1/your-government/city-council/psc-2023/sub-sweetgrass-pud-amendment.pdf
 
-Preserved representation: https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/dc7f3bf358ec93eb1476f3a5767ea6193db270f6/derived/090cfbec55548ada575053632aaa0d7b4114f023fc65c69c7c5c7ecddf13b0da/page-000019.json
+Preserved representation: https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/57b6ada7eafbd8b3c3202ddaeb2d816102f05dfe/derived/090cfbec55548ada575053632aaa0d7b4114f023fc65c69c7c5c7ecddf13b0da/page-000019.json
 
 >  of irrigation design that recycled wastewater is, or will become,
 >          available; therefore, irrigation systems shall be designed to accommodate recycled water.
@@ -20,7 +20,7 @@ Preserved representation: https://github.com/bartimoussmith-oss/cheyenne-laramie
 
 Publisher: https://www.cheyennecity.org/files/sharedassets/public/v/1/your-government/city-council/psc-2023/sub-sweetgrass-pud-amendment.pdf
 
-Preserved representation: https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/dc7f3bf358ec93eb1476f3a5767ea6193db270f6/derived/090cfbec55548ada575053632aaa0d7b4114f023fc65c69c7c5c7ecddf13b0da/page-000069.json
+Preserved representation: https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/57b6ada7eafbd8b3c3202ddaeb2d816102f05dfe/derived/090cfbec55548ada575053632aaa0d7b4114f023fc65c69c7c5c7ecddf13b0da/page-000069.json
 
 >  of irrigation design that recycled wastewater is, or will become,
 >          available; therefore, irrigation systems shall be designed to accommodate recycled water.
@@ -32,7 +32,7 @@ Preserved representation: https://github.com/bartimoussmith-oss/cheyenne-laramie
 
 Publisher: https://www.cheyennecity.org/files/sharedassets/public/v/1/your-government/city-council/psc-2026/amendment-15-psc-11-02-03.pdf
 
-Preserved representation: https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/dc7f3bf358ec93eb1476f3a5767ea6193db270f6/derived/2f5c9ceec649c9bc584a34c7e6620d178bf418fc51c9de7d1b690c3f238e446d/page-000002.json
+Preserved representation: https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/57b6ada7eafbd8b3c3202ddaeb2d816102f05dfe/derived/2f5c9ceec649c9bc584a34c7e6620d178bf418fc51c9de7d1b690c3f238e446d/page-000002.json
 
 > provides greater
 >       overall water-use efficiency than a closed-loop system or (ii) uses an alternative
