@@ -8,7 +8,7 @@ Matched representations: 71; exported: 50. Deterministic file order, not importa
 
 Publisher: https://www.cheyennecity.org/Your-Government/City-Council/Minutes-and-Agendas
 
-Preserved representation: https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/1595f5eafc90114854568be8dd247ade575f62f4/text/3dd70667ea5d722bea19d76073b4ffffcc05a651e4b1b3a1dd22befe7d173cfa.txt
+Preserved representation: https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/0d34bc1e6c7f1f624527db3bec64ca96603aabcb/text/3dd70667ea5d722bea19d76073b4ffffcc05a651e4b1b3a1dd22befe7d173cfa.txt
 
 > 911KB)
 > 2024
@@ -53,7 +53,7 @@ Preserved representation: https://github.com/bartimoussmith-oss/cheyenne-laramie
 
 Publisher: https://www.cheyennecity.org/Home/Tabs/Featured-Links/Coronavirus-COVID-19
 
-Preserved representation: https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/1595f5eafc90114854568be8dd247ade575f62f4/text/77b33b250c26aa5b4c39100d72dc332a81fc1c0af261b50b98f49a7251582aaf.txt
+Preserved representation: https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/0d34bc1e6c7f1f624527db3bec64ca96603aabcb/text/77b33b250c26aa5b4c39100d72dc332a81fc1c0af261b50b98f49a7251582aaf.txt
 
 > ans
 > March 20 -
@@ -73,7 +73,7 @@ Preserved representation: https://github.com/bartimoussmith-oss/cheyenne-laramie
 
 Publisher: https://www.cheyennecity.org/Your-Government/Departments/City-Engineer
 
-Preserved representation: https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/1595f5eafc90114854568be8dd247ade575f62f4/text/85821b0bf46b99b4216d0ca8c05fac9f147fd62070eae02d32693472cb0b6850.txt
+Preserved representation: https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/0d34bc1e6c7f1f624527db3bec64ca96603aabcb/text/85821b0bf46b99b4216d0ca8c05fac9f147fd62070eae02d32693472cb0b6850.txt
 
 > 
 > The City Engineer acts as the City&#x27;s floodplain administrator for both City-regulated and Federal Emergency Management Agency-regulated floodplains.
@@ -119,7 +119,7 @@ Preserved representation: https://github.com/bartimoussmith-oss/cheyenne-laramie
 
 Publisher: https://www.cheyennecity.org/Your-Government/Departments/Planning-and-Development-Department
 
-Preserved representation: https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/1595f5eafc90114854568be8dd247ade575f62f4/text/dc304bcb9386c40219dbbb65adf6dd322030a9f0944eadafe55e4a670a971d17.txt
+Preserved representation: https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/0d34bc1e6c7f1f624527db3bec64ca96603aabcb/text/dc304bcb9386c40219dbbb65adf6dd322030a9f0944eadafe55e4a670a971d17.txt
 
 > an (2016)
 > (PDF, 25MB)
@@ -156,7 +156,7 @@ Preserved representation: https://github.com/bartimoussmith-oss/cheyenne-laramie
 
 Publisher: https://www.cheyennecity.org/files/sharedassets/public/v/1/your-government/city-council/psc-2023/sub-res-201-agreement.pdf
 
-Preserved representation: https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/1595f5eafc90114854568be8dd247ade575f62f4/derived/00e07ad1ecfa714027b3361a4d7ed67396507bbb3fb5a1da739e1ecc6893453c/page-000001.json
+Preserved representation: https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/0d34bc1e6c7f1f624527db3bec64ca96603aabcb/derived/00e07ad1ecfa714027b3361a4d7ed67396507bbb3fb5a1da739e1ecc6893453c/page-000001.json
 
 > ity of Cheyenne (&quot;City&quot;), the County of Laramie
 > (“County”), the City of Cheyenne Board of Public Utilities (&quot;BOPU&quot;), and the South Cheyenne
@@ -186,7 +186,7 @@ Preserved representation: https://github.com/bartimoussmith-oss/cheyenne-laramie
 
 Publisher: https://www.cheyennecity.org/files/sharedassets/public/v/1/your-government/city-council/psc-2023/sub-res-201-agreement.pdf
 
-Preserved representation: https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/1595f5eafc90114854568be8dd247ade575f62f4/derived/00e07ad1ecfa714027b3361a4d7ed67396507bbb3fb5a1da739e1ecc6893453c/page-000002.json
+Preserved representation: https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/0d34bc1e6c7f1f624527db3bec64ca96603aabcb/derived/00e07ad1ecfa714027b3361a4d7ed67396507bbb3fb5a1da739e1ecc6893453c/page-000002.json
 
 > tion 3.4.(d) of the 201 Agreement, Laramie County
 > government agreed to work with the City-County Health Unit to &quot;ensure that no new permits for
@@ -219,7 +219,7 @@ Preserved representation: https://github.com/bartimoussmith-oss/cheyenne-laramie
 
 Publisher: https://www.cheyennecity.org/files/sharedassets/public/v/1/your-government/city-council/fc-2023/fc-02-21-23-minutes.pdf
 
-Preserved representation: https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/1595f5eafc90114854568be8dd247ade575f62f4/derived/00f462be921543c29907c0eabe9565316cb479aa2d9df8068b809446edf8c5a5/page-000002.json
+Preserved representation: https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/0d34bc1e6c7f1f624527db3bec64ca96603aabcb/derived/00f462be921543c29907c0eabe9565316cb479aa2d9df8068b809446edf8c5a5/page-000002.json
 
 >  Grant Award Agreement between the City of Cheyenne and the Wyoming Office
 > of Homeland Security for project scoping of the Cheyenne 18!&quot; Street Storm Sewer
@@ -233,7 +233,7 @@ Preserved representation: https://github.com/bartimoussmith-oss/cheyenne-laramie
 
 Publisher: https://www.cheyennecity.org/files/sharedassets/public/v/1/your-government/city-council/psc-2022/psc-06-07-22-agenda.pdf
 
-Preserved representation: https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/1595f5eafc90114854568be8dd247ade575f62f4/derived/00f5dceb4ed5b8c3bb7783c9f42eec1d3540fb83ce3f83dbb227d341a6b4a05a/page-000002.json
+Preserved representation: https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/0d34bc1e6c7f1f624527db3bec64ca96603aabcb/derived/00f5dceb4ed5b8c3bb7783c9f42eec1d3540fb83ce3f83dbb227d341a6b4a05a/page-000002.json
 
 > ocated along
 >       Sweetgrass Drive, Between College Drive and Murray Road).
@@ -251,7 +251,7 @@ Preserved representation: https://github.com/bartimoussmith-oss/cheyenne-laramie
 
 Publisher: https://www.cheyennecity.org/files/sharedassets/public/v/1/your-government/city-council/fc-2025/fc-06-17-25-agenda.pdf
 
-Preserved representation: https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/1595f5eafc90114854568be8dd247ade575f62f4/derived/02742df3cbd1e799493dcf34548f5d2769c9d2158f5e6f11c571fe222ade003f/page-000002.json
+Preserved representation: https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/0d34bc1e6c7f1f624527db3bec64ca96603aabcb/derived/02742df3cbd1e799493dcf34548f5d2769c9d2158f5e6f11c571fe222ade003f/page-000002.json
 
 >      j)   Right-of-Way License Agreement between the City of Cheyenne and Volunteers
 >            of America Northern Rockies for connection of a storm sewer pipe from the
@@ -278,7 +278,7 @@ Preserved representation: https://github.com/bartimoussmith-oss/cheyenne-laramie
 
 Publisher: https://www.cheyennecity.org/files/sharedassets/public/v/1/your-government/city-council/fc-2025/fc-06-17-25-agenda.pdf
 
-Preserved representation: https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/1595f5eafc90114854568be8dd247ade575f62f4/derived/02742df3cbd1e799493dcf34548f5d2769c9d2158f5e6f11c571fe222ade003f/page-000003.json
+Preserved representation: https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/0d34bc1e6c7f1f624527db3bec64ca96603aabcb/derived/02742df3cbd1e799493dcf34548f5d2769c9d2158f5e6f11c571fe222ade003f/page-000003.json
 
 > r Garage Interior Painting Project. (2021
 >            Specific Purpose Option Tax Fund)
@@ -311,7 +311,7 @@ Preserved representation: https://github.com/bartimoussmith-oss/cheyenne-laramie
 
 Publisher: https://www.cheyennecity.org/files/sharedassets/public/v/1/your-government/city-council/fc-2023/fc-06-20-23-agenda.pdf
 
-Preserved representation: https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/1595f5eafc90114854568be8dd247ade575f62f4/derived/0356098f048a1b8402a8dd070eb6fc3e62b126fb5ab9b639a0b162a634bd8860/page-000001.json
+Preserved representation: https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/0d34bc1e6c7f1f624527db3bec64ca96603aabcb/derived/0356098f048a1b8402a8dd070eb6fc3e62b126fb5ab9b639a0b162a634bd8860/page-000001.json
 
 >     RESOLUTION – Authorizing submission of an application to the Wyoming State Loan
 >        and Investment Board to amend the amount received from the Drinking Water State
@@ -323,7 +323,7 @@ Preserved representation: https://github.com/bartimoussmith-oss/cheyenne-laramie
 
 Publisher: https://www.cheyennecity.org/files/sharedassets/public/v/1/your-government/city-council/psc-2025/psc-05-19-25-agenda-2.pdf
 
-Preserved representation: https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/1595f5eafc90114854568be8dd247ade575f62f4/derived/03bf84b9bd7dc81d689b8ec05d996f50b6112caad73a1a7367837c659218caa1/page-000002.json
+Preserved representation: https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/0d34bc1e6c7f1f624527db3bec64ca96603aabcb/derived/03bf84b9bd7dc81d689b8ec05d996f50b6112caad73a1a7367837c659218caa1/page-000002.json
 
 > 22.   RESOLUTION – Approving sanitary sewer services, by Outside User Agreement for
 >       Sutherland&#x27;s Fun Family Fitness, LLC, for land at 2611 and 2607 Whitney Road (located
@@ -352,7 +352,7 @@ Preserved representation: https://github.com/bartimoussmith-oss/cheyenne-laramie
 
 Publisher: https://www.cheyennecity.org/files/sharedassets/public/v/1/your-government/city-council/wscow-2024/cow-12-04-24-agenda.pdf
 
-Preserved representation: https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/1595f5eafc90114854568be8dd247ade575f62f4/derived/05f38df3b9020029fd1f5e4d70cd4e0e0896939bb95aba6f97f8eabd07776299/page-000001.json
+Preserved representation: https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/0d34bc1e6c7f1f624527db3bec64ca96603aabcb/derived/05f38df3b9020029fd1f5e4d70cd4e0e0896939bb95aba6f97f8eabd07776299/page-000001.json
 
 > ir regulation, clarifying provisions and making
 >          conforming amendments.
@@ -392,7 +392,7 @@ Preserved representation: https://github.com/bartimoussmith-oss/cheyenne-laramie
 
 Publisher: https://www.cheyennecity.org/files/sharedassets/public/v/1/your-government/city-council/fc-2022/fc-06-06-22-minutes.pdf
 
-Preserved representation: https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/1595f5eafc90114854568be8dd247ade575f62f4/derived/06be3b512454c07cc8fe0d5f263dd531baff8c7d348af9c829225b61e827b3a5/page-000001.json
+Preserved representation: https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/0d34bc1e6c7f1f624527db3bec64ca96603aabcb/derived/06be3b512454c07cc8fe0d5f263dd531baff8c7d348af9c829225b61e827b3a5/page-000001.json
 
 > and Misha Westby,
 > owners of Westby Edge LLC, were available for questions.
@@ -408,7 +408,7 @@ Preserved representation: https://github.com/bartimoussmith-oss/cheyenne-laramie
 
 Publisher: https://www.cheyennecity.org/files/sharedassets/public/v/1/your-government/city-council/psc-2023/sub-sweetgrass-pud-amendment.pdf
 
-Preserved representation: https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/1595f5eafc90114854568be8dd247ade575f62f4/derived/090cfbec55548ada575053632aaa0d7b4114f023fc65c69c7c5c7ecddf13b0da/page-000019.json
+Preserved representation: https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/0d34bc1e6c7f1f624527db3bec64ca96603aabcb/derived/090cfbec55548ada575053632aaa0d7b4114f023fc65c69c7c5c7ecddf13b0da/page-000019.json
 
 >  and rain detection devices with
 >          automatic shutoff switches.
@@ -421,7 +421,7 @@ Preserved representation: https://github.com/bartimoussmith-oss/cheyenne-laramie
 
 Publisher: https://www.cheyennecity.org/files/sharedassets/public/v/1/your-government/city-council/psc-2023/sub-sweetgrass-pud-amendment.pdf
 
-Preserved representation: https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/1595f5eafc90114854568be8dd247ade575f62f4/derived/090cfbec55548ada575053632aaa0d7b4114f023fc65c69c7c5c7ecddf13b0da/page-000028.json
+Preserved representation: https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/0d34bc1e6c7f1f624527db3bec64ca96603aabcb/derived/090cfbec55548ada575053632aaa0d7b4114f023fc65c69c7c5c7ecddf13b0da/page-000028.json
 
 >     A      E
 > 
@@ -434,7 +434,7 @@ Preserved representation: https://github.com/bartimoussmith-oss/cheyenne-laramie
 
 Publisher: https://www.cheyennecity.org/files/sharedassets/public/v/1/your-government/city-council/psc-2023/sub-sweetgrass-pud-amendment.pdf
 
-Preserved representation: https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/1595f5eafc90114854568be8dd247ade575f62f4/derived/090cfbec55548ada575053632aaa0d7b4114f023fc65c69c7c5c7ecddf13b0da/page-000031.json
+Preserved representation: https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/0d34bc1e6c7f1f624527db3bec64ca96603aabcb/derived/090cfbec55548ada575053632aaa0d7b4114f023fc65c69c7c5c7ecddf13b0da/page-000031.json
 
 > ly dedicated to the City of Cheyenne to be developed by the City as a public
 >      park with to serve south Cheyenne. The park should include regional stormwater detention facilities and
@@ -447,7 +447,7 @@ Preserved representation: https://github.com/bartimoussmith-oss/cheyenne-laramie
 
 Publisher: https://www.cheyennecity.org/files/sharedassets/public/v/1/your-government/city-council/psc-2023/sub-sweetgrass-pud-amendment.pdf
 
-Preserved representation: https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/1595f5eafc90114854568be8dd247ade575f62f4/derived/090cfbec55548ada575053632aaa0d7b4114f023fc65c69c7c5c7ecddf13b0da/page-000032.json
+Preserved representation: https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/0d34bc1e6c7f1f624527db3bec64ca96603aabcb/derived/090cfbec55548ada575053632aaa0d7b4114f023fc65c69c7c5c7ecddf13b0da/page-000032.json
 
 > f Open Space tracts is to provide expanses of native prairie grasses, public trails, the
 >            continuation of existing ranching operations, and stormwater conveyance and detention facilities, and
@@ -459,7 +459,7 @@ Preserved representation: https://github.com/bartimoussmith-oss/cheyenne-laramie
 
 Publisher: https://www.cheyennecity.org/files/sharedassets/public/v/1/your-government/city-council/psc-2023/sub-sweetgrass-pud-amendment.pdf
 
-Preserved representation: https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/1595f5eafc90114854568be8dd247ade575f62f4/derived/090cfbec55548ada575053632aaa0d7b4114f023fc65c69c7c5c7ecddf13b0da/page-000035.json
+Preserved representation: https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/0d34bc1e6c7f1f624527db3bec64ca96603aabcb/derived/090cfbec55548ada575053632aaa0d7b4114f023fc65c69c7c5c7ecddf13b0da/page-000035.json
 
 >         P                       P                   P                                                                   A               P          P
 >  Stormwater Detention Ponds, Including Regional Ponds                      P                    P                  P                          P                       P                   P                                                                   A      
@@ -468,7 +468,7 @@ Preserved representation: https://github.com/bartimoussmith-oss/cheyenne-laramie
 
 Publisher: https://www.cheyennecity.org/files/sharedassets/public/v/1/your-government/city-council/psc-2023/sub-sweetgrass-pud-amendment.pdf
 
-Preserved representation: https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/1595f5eafc90114854568be8dd247ade575f62f4/derived/090cfbec55548ada575053632aaa0d7b4114f023fc65c69c7c5c7ecddf13b0da/page-000048.json
+Preserved representation: https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/0d34bc1e6c7f1f624527db3bec64ca96603aabcb/derived/090cfbec55548ada575053632aaa0d7b4114f023fc65c69c7c5c7ecddf13b0da/page-000048.json
 
 > s sole discretion.
 >    3. The Green shall include a paved and ADA accessible walkway system and allows maintenance vehicular
@@ -481,7 +481,7 @@ Preserved representation: https://github.com/bartimoussmith-oss/cheyenne-laramie
 
 Publisher: https://www.cheyennecity.org/files/sharedassets/public/v/1/your-government/city-council/psc-2023/sub-sweetgrass-pud-amendment.pdf
 
-Preserved representation: https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/1595f5eafc90114854568be8dd247ade575f62f4/derived/090cfbec55548ada575053632aaa0d7b4114f023fc65c69c7c5c7ecddf13b0da/page-000069.json
+Preserved representation: https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/0d34bc1e6c7f1f624527db3bec64ca96603aabcb/derived/090cfbec55548ada575053632aaa0d7b4114f023fc65c69c7c5c7ecddf13b0da/page-000069.json
 
 >  and rain detection devices with
 >          automatic shutoff switches.
@@ -494,7 +494,7 @@ Preserved representation: https://github.com/bartimoussmith-oss/cheyenne-laramie
 
 Publisher: https://www.cheyennecity.org/files/sharedassets/public/v/1/your-government/city-council/psc-2023/sub-sweetgrass-pud-amendment.pdf
 
-Preserved representation: https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/1595f5eafc90114854568be8dd247ade575f62f4/derived/090cfbec55548ada575053632aaa0d7b4114f023fc65c69c7c5c7ecddf13b0da/page-000078.json
+Preserved representation: https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/0d34bc1e6c7f1f624527db3bec64ca96603aabcb/derived/090cfbec55548ada575053632aaa0d7b4114f023fc65c69c7c5c7ecddf13b0da/page-000078.json
 
 >        E
 > 
@@ -506,7 +506,7 @@ Preserved representation: https://github.com/bartimoussmith-oss/cheyenne-laramie
 
 Publisher: https://www.cheyennecity.org/files/sharedassets/public/v/1/your-government/city-council/psc-2023/sub-sweetgrass-pud-amendment.pdf
 
-Preserved representation: https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/1595f5eafc90114854568be8dd247ade575f62f4/derived/090cfbec55548ada575053632aaa0d7b4114f023fc65c69c7c5c7ecddf13b0da/page-000081.json
+Preserved representation: https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/0d34bc1e6c7f1f624527db3bec64ca96603aabcb/derived/090cfbec55548ada575053632aaa0d7b4114f023fc65c69c7c5c7ecddf13b0da/page-000081.json
 
 > ly dedicated to the City of Cheyenne to be developed by the City as a public
 >      park with to serve south Cheyenne. The park should include regional stormwater detention facilities and
@@ -519,7 +519,7 @@ Preserved representation: https://github.com/bartimoussmith-oss/cheyenne-laramie
 
 Publisher: https://www.cheyennecity.org/files/sharedassets/public/v/1/your-government/city-council/psc-2023/sub-sweetgrass-pud-amendment.pdf
 
-Preserved representation: https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/1595f5eafc90114854568be8dd247ade575f62f4/derived/090cfbec55548ada575053632aaa0d7b4114f023fc65c69c7c5c7ecddf13b0da/page-000082.json
+Preserved representation: https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/0d34bc1e6c7f1f624527db3bec64ca96603aabcb/derived/090cfbec55548ada575053632aaa0d7b4114f023fc65c69c7c5c7ecddf13b0da/page-000082.json
 
 > f Open Space tracts is to provide expanses of native prairie grasses, public trails, the
 >            continuation of existing ranching operations, and stormwater conveyance and detention facilities, and
@@ -531,7 +531,7 @@ Preserved representation: https://github.com/bartimoussmith-oss/cheyenne-laramie
 
 Publisher: https://www.cheyennecity.org/files/sharedassets/public/v/1/your-government/city-council/psc-2023/sub-sweetgrass-pud-amendment.pdf
 
-Preserved representation: https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/1595f5eafc90114854568be8dd247ade575f62f4/derived/090cfbec55548ada575053632aaa0d7b4114f023fc65c69c7c5c7ecddf13b0da/page-000085.json
+Preserved representation: https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/0d34bc1e6c7f1f624527db3bec64ca96603aabcb/derived/090cfbec55548ada575053632aaa0d7b4114f023fc65c69c7c5c7ecddf13b0da/page-000085.json
 
 >        P                    P                     P                                                                    A             P            P
 >   Stormwater Detention Ponds, Including Regional Ponds                          P                   P                    P                        P                    P                     P                                                                    A   
@@ -540,7 +540,7 @@ Preserved representation: https://github.com/bartimoussmith-oss/cheyenne-laramie
 
 Publisher: https://www.cheyennecity.org/files/sharedassets/public/v/1/your-government/city-council/psc-2023/sub-sweetgrass-pud-amendment.pdf
 
-Preserved representation: https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/1595f5eafc90114854568be8dd247ade575f62f4/derived/090cfbec55548ada575053632aaa0d7b4114f023fc65c69c7c5c7ecddf13b0da/page-000097.json
+Preserved representation: https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/0d34bc1e6c7f1f624527db3bec64ca96603aabcb/derived/090cfbec55548ada575053632aaa0d7b4114f023fc65c69c7c5c7ecddf13b0da/page-000097.json
 
 > s sole discretion.
 >    3. The Green shall include a paved and ADA accessible walkway system and allows maintenance vehicular
@@ -553,7 +553,7 @@ Preserved representation: https://github.com/bartimoussmith-oss/cheyenne-laramie
 
 Publisher: https://www.cheyennecity.org/files/sharedassets/public/v/1/your-government/city-council/psc-2022/psc-07-19-22-agenda.pdf
 
-Preserved representation: https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/1595f5eafc90114854568be8dd247ade575f62f4/derived/0bf31a6f962d66bd5fbd6404393373aa55db87cb9ada5d3486fdc0ef68c903f9/page-000001.json
+Preserved representation: https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/0d34bc1e6c7f1f624527db3bec64ca96603aabcb/derived/0bf31a6f962d66bd5fbd6404393373aa55db87cb9ada5d3486fdc0ef68c903f9/page-000001.json
 
 >       Personnel, of the Code of the City of Cheyenne, Wyoming.
 > 
@@ -572,7 +572,7 @@ Preserved representation: https://github.com/bartimoussmith-oss/cheyenne-laramie
 
 Publisher: https://www.cheyennecity.org/files/sharedassets/public/v/1/your-government/city-council/psc-2022/substitute-8.16.22-ord.-13.12-amendments-ca-redline.pdf
 
-Preserved representation: https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/1595f5eafc90114854568be8dd247ade575f62f4/derived/10804ccc56cfd4dbf3eda3a48dd09d00c38901ed995803b3ea688cdb5d11ca9c/page-000001.json
+Preserved representation: https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/0d34bc1e6c7f1f624527db3bec64ca96603aabcb/derived/10804ccc56cfd4dbf3eda3a48dd09d00c38901ed995803b3ea688cdb5d11ca9c/page-000001.json
 
 >  16, 2022
 > 
@@ -613,7 +613,7 @@ Preserved representation: https://github.com/bartimoussmith-oss/cheyenne-laramie
 
 Publisher: https://www.cheyennecity.org/files/sharedassets/public/v/1/your-government/city-council/fc-2025/fc-06-17-25-minutes.pdf
 
-Preserved representation: https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/1595f5eafc90114854568be8dd247ade575f62f4/derived/108f3972b4fd26886fcb4c3ee89bb61fef1e1c64a7e5d90eae2a20c665b1feb4/page-000002.json
+Preserved representation: https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/0d34bc1e6c7f1f624527db3bec64ca96603aabcb/derived/108f3972b4fd26886fcb4c3ee89bb61fef1e1c64a7e5d90eae2a20c665b1feb4/page-000002.json
 
 > )      Right-of-Way License Agreement between the City of Cheyenne and Volunteers
 >               of America Northern Rockies for connection of a storm sewer pipe from the onsite
@@ -639,7 +639,7 @@ Preserved representation: https://github.com/bartimoussmith-oss/cheyenne-laramie
 
 Publisher: https://www.cheyennecity.org/files/sharedassets/public/v/1/your-government/city-council/fc-2025/fc-06-17-25-minutes.pdf
 
-Preserved representation: https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/1595f5eafc90114854568be8dd247ade575f62f4/derived/108f3972b4fd26886fcb4c3ee89bb61fef1e1c64a7e5d90eae2a20c665b1feb4/page-000004.json
+Preserved representation: https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/0d34bc1e6c7f1f624527db3bec64ca96603aabcb/derived/108f3972b4fd26886fcb4c3ee89bb61fef1e1c64a7e5d90eae2a20c665b1feb4/page-000004.json
 
 > f report. Chairman
 > Laybourn and committee members Esquibel and Moody commented on the item.
@@ -658,7 +658,7 @@ Preserved representation: https://github.com/bartimoussmith-oss/cheyenne-laramie
 
 Publisher: https://www.cheyennecity.org/files/sharedassets/public/v/1/your-government/city-council/fc-2024/fc-07-15-24-minutes.pdf
 
-Preserved representation: https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/1595f5eafc90114854568be8dd247ade575f62f4/derived/10e647a301957538b009a471177553cb3aa82fffe2bbeb3b8cd675cc40faf2ed/page-000002.json
+Preserved representation: https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/0d34bc1e6c7f1f624527db3bec64ca96603aabcb/derived/10e647a301957538b009a471177553cb3aa82fffe2bbeb3b8cd675cc40faf2ed/page-000002.json
 
 > TRACT MODIFICATIONS:
 > 
@@ -676,7 +676,7 @@ Preserved representation: https://github.com/bartimoussmith-oss/cheyenne-laramie
 
 Publisher: https://www.cheyennecity.org/files/sharedassets/public/v/1/your-government/city-council/psc-2024/psc-05-07-24-agenda.pdf
 
-Preserved representation: https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/1595f5eafc90114854568be8dd247ade575f62f4/derived/13372b8db5b35b8cd829e97ecc04a21ca24d23e8b8f551c2dc28d2f907aa59e9/page-000003.json
+Preserved representation: https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/0d34bc1e6c7f1f624527db3bec64ca96603aabcb/derived/13372b8db5b35b8cd829e97ecc04a21ca24d23e8b8f551c2dc28d2f907aa59e9/page-000003.json
 
 > dwellings, semi-attached dwellings, and
 >       attached dwellings. (SPONSOR – MR. ROYBAL)
@@ -692,7 +692,7 @@ Preserved representation: https://github.com/bartimoussmith-oss/cheyenne-laramie
 
 Publisher: https://www.cheyennecity.org/files/sharedassets/public/v/1/your-government/city-council/fc-2026/fc-06-16-26.pdf
 
-Preserved representation: https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/1595f5eafc90114854568be8dd247ade575f62f4/derived/17830ea84cd5047dba39ebbb1127d868dc67ab7e6fb4d6fcf1b4e413756bf804/page-000001.json
+Preserved representation: https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/0d34bc1e6c7f1f624527db3bec64ca96603aabcb/derived/17830ea84cd5047dba39ebbb1127d868dc67ab7e6fb4d6fcf1b4e413756bf804/page-000001.json
 
 > horizing submission of an application to the Wyoming State Loan
 >                         —
@@ -721,7 +721,7 @@ Preserved representation: https://github.com/bartimoussmith-oss/cheyenne-laramie
 
 Publisher: https://www.cheyennecity.org/files/sharedassets/public/v/1/your-government/city-council/psc-2023/substitute-v0.2_bopu-chapter-13.20_wastewater_treatment_and_disposal-2023.10.13-ca-redline-stamped.pdf
 
-Preserved representation: https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/1595f5eafc90114854568be8dd247ade575f62f4/derived/1b8d658ddb8ed22b06c606f3cf74272844420aae49d7ffbb7f5c5b6deadc3e7a/page-000001.json
+Preserved representation: https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/0d34bc1e6c7f1f624527db3bec64ca96603aabcb/derived/1b8d658ddb8ed22b06c606f3cf74272844420aae49d7ffbb7f5c5b6deadc3e7a/page-000001.json
 
 > Oct 13, 2023
 > 
@@ -757,7 +757,7 @@ Preserved representation: https://github.com/bartimoussmith-oss/cheyenne-laramie
 
 Publisher: https://www.cheyennecity.org/files/sharedassets/public/v/1/your-government/city-council/psc-2023/substitute-v0.2_bopu-chapter-13.20_wastewater_treatment_and_disposal-2023.10.13-ca-redline-stamped.pdf
 
-Preserved representation: https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/1595f5eafc90114854568be8dd247ade575f62f4/derived/1b8d658ddb8ed22b06c606f3cf74272844420aae49d7ffbb7f5c5b6deadc3e7a/page-000002.json
+Preserved representation: https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/0d34bc1e6c7f1f624527db3bec64ca96603aabcb/derived/1b8d658ddb8ed22b06c606f3cf74272844420aae49d7ffbb7f5c5b6deadc3e7a/page-000002.json
 
 > 4. Petroleum oil, nonbiodegradable cutting oil, or products of mineral oil origin in
 >    amounts that will cause pass through or interference;
@@ -789,7 +789,7 @@ Preserved representation: https://github.com/bartimoussmith-oss/cheyenne-laramie
 
 Publisher: https://www.cheyennecity.org/files/sharedassets/public/v/1/your-government/city-council/psc-2023/substitute-v0.2_bopu-chapter-13.20_wastewater_treatment_and_disposal-2023.10.13-ca-redline-stamped.pdf
 
-Preserved representation: https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/1595f5eafc90114854568be8dd247ade575f62f4/derived/1b8d658ddb8ed22b06c606f3cf74272844420aae49d7ffbb7f5c5b6deadc3e7a/page-000003.json
+Preserved representation: https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/0d34bc1e6c7f1f624527db3bec64ca96603aabcb/derived/1b8d658ddb8ed22b06c606f3cf74272844420aae49d7ffbb7f5c5b6deadc3e7a/page-000003.json
 
 > ints, solvents, boiler or water
 >       treatment chemicals, sludges, chemicals, or wastes shall be stored in proximity to a floor
@@ -815,7 +815,7 @@ Preserved representation: https://github.com/bartimoussmith-oss/cheyenne-laramie
 
 Publisher: https://www.cheyennecity.org/files/sharedassets/public/v/1/your-government/city-council/psc-2023/substitute-v0.2_bopu-chapter-13.20_wastewater_treatment_and_disposal-2023.10.13-ca-redline-stamped.pdf
 
-Preserved representation: https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/1595f5eafc90114854568be8dd247ade575f62f4/derived/1b8d658ddb8ed22b06c606f3cf74272844420aae49d7ffbb7f5c5b6deadc3e7a/page-000005.json
+Preserved representation: https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/0d34bc1e6c7f1f624527db3bec64ca96603aabcb/derived/1b8d658ddb8ed22b06c606f3cf74272844420aae49d7ffbb7f5c5b6deadc3e7a/page-000005.json
 
 > ity grease interceptor, hydromechanical grease
 >        interceptor or other mechanism, device, or process, which attaches to, or is applied
@@ -846,7 +846,7 @@ Preserved representation: https://github.com/bartimoussmith-oss/cheyenne-laramie
 
 Publisher: https://www.cheyennecity.org/files/sharedassets/public/v/1/your-government/city-council/psc-2023/substitute-v0.2_bopu-chapter-13.20_wastewater_treatment_and_disposal-2023.10.13-ca-redline-stamped.pdf
 
-Preserved representation: https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/1595f5eafc90114854568be8dd247ade575f62f4/derived/1b8d658ddb8ed22b06c606f3cf74272844420aae49d7ffbb7f5c5b6deadc3e7a/page-000006.json
+Preserved representation: https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/0d34bc1e6c7f1f624527db3bec64ca96603aabcb/derived/1b8d658ddb8ed22b06c606f3cf74272844420aae49d7ffbb7f5c5b6deadc3e7a/page-000006.json
 
 > r as specified by the BOPU.
 > 
@@ -860,7 +860,7 @@ Preserved representation: https://github.com/bartimoussmith-oss/cheyenne-laramie
 
 Publisher: https://www.cheyennecity.org/files/sharedassets/public/v/1/your-government/city-council/psc-2023/substitute-v0.2_bopu-chapter-13.20_wastewater_treatment_and_disposal-2023.10.13-ca-redline-stamped.pdf
 
-Preserved representation: https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/1595f5eafc90114854568be8dd247ade575f62f4/derived/1b8d658ddb8ed22b06c606f3cf74272844420aae49d7ffbb7f5c5b6deadc3e7a/page-000007.json
+Preserved representation: https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/0d34bc1e6c7f1f624527db3bec64ca96603aabcb/derived/1b8d658ddb8ed22b06c606f3cf74272844420aae49d7ffbb7f5c5b6deadc3e7a/page-000007.json
 
 > ts.
 > 
@@ -889,7 +889,7 @@ Preserved representation: https://github.com/bartimoussmith-oss/cheyenne-laramie
 
 Publisher: https://www.cheyennecity.org/files/sharedassets/public/v/1/your-government/city-council/psc-2023/substitute-v0.2_bopu-chapter-13.20_wastewater_treatment_and_disposal-2023.10.13-ca-redline-stamped.pdf
 
-Preserved representation: https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/1595f5eafc90114854568be8dd247ade575f62f4/derived/1b8d658ddb8ed22b06c606f3cf74272844420aae49d7ffbb7f5c5b6deadc3e7a/page-000008.json
+Preserved representation: https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/0d34bc1e6c7f1f624527db3bec64ca96603aabcb/derived/1b8d658ddb8ed22b06c606f3cf74272844420aae49d7ffbb7f5c5b6deadc3e7a/page-000008.json
 
 > e. Upon change of ownership of any existing facility which would be required to have
 >    an interceptor under this section, the applicant for sanitary sewer service shall have
@@ -917,7 +917,7 @@ Preserved representation: https://github.com/bartimoussmith-oss/cheyenne-laramie
 
 Publisher: https://www.cheyennecity.org/files/sharedassets/public/v/1/your-government/city-council/psc-2023/substitute-v0.2_bopu-chapter-13.20_wastewater_treatment_and_disposal-2023.10.13-ca-redline-stamped.pdf
 
-Preserved representation: https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/1595f5eafc90114854568be8dd247ade575f62f4/derived/1b8d658ddb8ed22b06c606f3cf74272844420aae49d7ffbb7f5c5b6deadc3e7a/page-000009.json
+Preserved representation: https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/0d34bc1e6c7f1f624527db3bec64ca96603aabcb/derived/1b8d658ddb8ed22b06c606f3cf74272844420aae49d7ffbb7f5c5b6deadc3e7a/page-000009.json
 
 > y scheduled cleaning so that they
 >       will properly operate as intended to efficiently intercept the fats, oil and grease from
@@ -937,7 +937,7 @@ Preserved representation: https://github.com/bartimoussmith-oss/cheyenne-laramie
 
 Publisher: https://www.cheyennecity.org/files/sharedassets/public/v/1/your-government/city-council/psc-2023/substitute-v0.2_bopu-chapter-13.20_wastewater_treatment_and_disposal-2023.10.13-ca-redline-stamped.pdf
 
-Preserved representation: https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/1595f5eafc90114854568be8dd247ade575f62f4/derived/1b8d658ddb8ed22b06c606f3cf74272844420aae49d7ffbb7f5c5b6deadc3e7a/page-000011.json
+Preserved representation: https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/0d34bc1e6c7f1f624527db3bec64ca96603aabcb/derived/1b8d658ddb8ed22b06c606f3cf74272844420aae49d7ffbb7f5c5b6deadc3e7a/page-000011.json
 
 > , and sludge removed.
 > 
@@ -965,7 +965,7 @@ Preserved representation: https://github.com/bartimoussmith-oss/cheyenne-laramie
 
 Publisher: https://www.cheyennecity.org/files/sharedassets/public/v/1/your-government/city-council/psc-2023/substitute-v0.2_bopu-chapter-13.20_wastewater_treatment_and_disposal-2023.10.13-ca-redline-stamped.pdf
 
-Preserved representation: https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/1595f5eafc90114854568be8dd247ade575f62f4/derived/1b8d658ddb8ed22b06c606f3cf74272844420aae49d7ffbb7f5c5b6deadc3e7a/page-000012.json
+Preserved representation: https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/0d34bc1e6c7f1f624527db3bec64ca96603aabcb/derived/1b8d658ddb8ed22b06c606f3cf74272844420aae49d7ffbb7f5c5b6deadc3e7a/page-000012.json
 
 >  or oil water separator shall be required
 >        for the proper handling of liquid wastes which may be harmful to, or cause
@@ -979,7 +979,7 @@ Preserved representation: https://github.com/bartimoussmith-oss/cheyenne-laramie
 
 Publisher: https://www.cheyennecity.org/files/sharedassets/public/v/1/your-government/city-council/psc-2023/substitute-v0.2_bopu-chapter-13.20_wastewater_treatment_and_disposal-2023.10.13-ca-redline-stamped.pdf
 
-Preserved representation: https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/1595f5eafc90114854568be8dd247ade575f62f4/derived/1b8d658ddb8ed22b06c606f3cf74272844420aae49d7ffbb7f5c5b6deadc3e7a/page-000013.json
+Preserved representation: https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/0d34bc1e6c7f1f624527db3bec64ca96603aabcb/derived/1b8d658ddb8ed22b06c606f3cf74272844420aae49d7ffbb7f5c5b6deadc3e7a/page-000013.json
 
 > d. Upon change of ownership of any existing facility which would be required to have
 >    a separator under this chapter, the applicant for sanitary sewer service shall have
@@ -1006,7 +1006,7 @@ Preserved representation: https://github.com/bartimoussmith-oss/cheyenne-laramie
 
 Publisher: https://www.cheyennecity.org/files/sharedassets/public/v/1/your-government/city-council/psc-2023/substitute-v0.2_bopu-chapter-13.20_wastewater_treatment_and_disposal-2023.10.13-ca-redline-stamped.pdf
 
-Preserved representation: https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/1595f5eafc90114854568be8dd247ade575f62f4/derived/1b8d658ddb8ed22b06c606f3cf74272844420aae49d7ffbb7f5c5b6deadc3e7a/page-000014.json
+Preserved representation: https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/0d34bc1e6c7f1f624527db3bec64ca96603aabcb/derived/1b8d658ddb8ed22b06c606f3cf74272844420aae49d7ffbb7f5c5b6deadc3e7a/page-000014.json
 
 >              oil/water separator or sand interceptor or oil water separator shall not be
 >                   introduced back into the sanitary or storm sewer systems of the city of
@@ -1036,7 +1036,7 @@ Preserved representation: https://github.com/bartimoussmith-oss/cheyenne-laramie
 
 Publisher: https://www.cheyennecity.org/files/sharedassets/public/v/1/your-government/city-council/psc-2023/substitute-v0.2_bopu-chapter-13.20_wastewater_treatment_and_disposal-2023.10.13-ca-redline-stamped.pdf
 
-Preserved representation: https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/1595f5eafc90114854568be8dd247ade575f62f4/derived/1b8d658ddb8ed22b06c606f3cf74272844420aae49d7ffbb7f5c5b6deadc3e7a/page-000015.json
+Preserved representation: https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/0d34bc1e6c7f1f624527db3bec64ca96603aabcb/derived/1b8d658ddb8ed22b06c606f3cf74272844420aae49d7ffbb7f5c5b6deadc3e7a/page-000015.json
 
 >    A. Rate Determination.
 > 
@@ -1070,7 +1070,7 @@ Preserved representation: https://github.com/bartimoussmith-oss/cheyenne-laramie
 
 Publisher: https://www.cheyennecity.org/files/sharedassets/public/v/1/your-government/city-council/psc-2023/substitute-v0.2_bopu-chapter-13.20_wastewater_treatment_and_disposal-2023.10.13-ca-redline-stamped.pdf
 
-Preserved representation: https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/1595f5eafc90114854568be8dd247ade575f62f4/derived/1b8d658ddb8ed22b06c606f3cf74272844420aae49d7ffbb7f5c5b6deadc3e7a/page-000016.json
+Preserved representation: https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/0d34bc1e6c7f1f624527db3bec64ca96603aabcb/derived/1b8d658ddb8ed22b06c606f3cf74272844420aae49d7ffbb7f5c5b6deadc3e7a/page-000016.json
 
 >    3. Failure to report significant changes in operations or wastewater volume, constituents,
 >       and characteristics prior to discharge;
@@ -1107,7 +1107,7 @@ Preserved representation: https://github.com/bartimoussmith-oss/cheyenne-laramie
 
 Publisher: https://www.cheyennecity.org/files/sharedassets/public/v/1/your-government/city-council/psc-2023/substitute-v0.2_bopu-chapter-13.20_wastewater_treatment_and_disposal-2023.10.13-ca-redline-stamped.pdf
 
-Preserved representation: https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/1595f5eafc90114854568be8dd247ade575f62f4/derived/1b8d658ddb8ed22b06c606f3cf74272844420aae49d7ffbb7f5c5b6deadc3e7a/page-000017.json
+Preserved representation: https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/0d34bc1e6c7f1f624527db3bec64ca96603aabcb/derived/1b8d658ddb8ed22b06c606f3cf74272844420aae49d7ffbb7f5c5b6deadc3e7a/page-000017.json
 
 > tion against the industrial user.
 > 
@@ -1137,7 +1137,7 @@ Preserved representation: https://github.com/bartimoussmith-oss/cheyenne-laramie
 
 Publisher: https://www.cheyennecity.org/files/sharedassets/public/v/1/your-government/city-council/psc-2023/substitute-v0.2_bopu-chapter-13.20_wastewater_treatment_and_disposal-2023.10.13-ca-redline-stamped.pdf
 
-Preserved representation: https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/1595f5eafc90114854568be8dd247ade575f62f4/derived/1b8d658ddb8ed22b06c606f3cf74272844420aae49d7ffbb7f5c5b6deadc3e7a/page-000018.json
+Preserved representation: https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/0d34bc1e6c7f1f624527db3bec64ca96603aabcb/derived/1b8d658ddb8ed22b06c606f3cf74272844420aae49d7ffbb7f5c5b6deadc3e7a/page-000018.json
 
 > hearing shall be conducted within
 >           two (2) city business days. Emergency termination, suspension, or disconnection of
@@ -1153,7 +1153,7 @@ Preserved representation: https://github.com/bartimoussmith-oss/cheyenne-laramie
 
 Publisher: https://www.cheyennecity.org/files/sharedassets/public/v/1/your-government/city-council/fc-2026/fc-04-21-26-minutes.pdf
 
-Preserved representation: https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/1595f5eafc90114854568be8dd247ade575f62f4/derived/1c56f0c35aa75b20d1d414a23b5705d2525bf9162889b086f897aa64deb6b444/page-000002.json
+Preserved representation: https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/0d34bc1e6c7f1f624527db3bec64ca96603aabcb/derived/1c56f0c35aa75b20d1d414a23b5705d2525bf9162889b086f897aa64deb6b444/page-000002.json
 
 >  of Cheyenne and Christopher C.
 >               Post and Deborah L. Post, Trustees of the Post Revocable Trust for a recently
