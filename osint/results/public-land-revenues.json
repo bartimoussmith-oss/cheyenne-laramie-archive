@@ -1,8 +1,8 @@
 {
   "profile": "public-land-revenues",
   "title": "Public-land leases and overlapping revenue uses",
-  "generated_at": "2026-11-13T15:42:05.935074+00:00",
-  "source_revision": "079aff029a4f75f9f90a4a9b2e3b14d2655dac53",
+  "generated_at": "2026-11-13T19:44:13.127162+00:00",
+  "source_revision": "1030988851cf9de54b468c2093dd6b3cd34b5ce2",
   "classification": "retrieval_triage_not_investigative_findings",
   "matched_representations": 9,
   "exported_representations": 9,
@@ -19,8 +19,8 @@
       "quality_verified": false,
       "representation_path": "derived/031f6784822968fd4dd00e67716091537789808541b9811afe84f937c9175fb2/page-000001.json",
       "representation_text_sha256": "68bd9bf6ee9baadd3bcc2fbb92884ed09b1289fcbea1764b439573d1172d0126",
-      "representation_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/079aff029a4f75f9f90a4a9b2e3b14d2655dac53/derived/031f6784822968fd4dd00e67716091537789808541b9811afe84f937c9175fb2/page-000001.json",
-      "original_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/079aff029a4f75f9f90a4a9b2e3b14d2655dac53/objects/03/031f6784822968fd4dd00e67716091537789808541b9811afe84f937c9175fb2",
+      "representation_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/1030988851cf9de54b468c2093dd6b3cd34b5ce2/derived/031f6784822968fd4dd00e67716091537789808541b9811afe84f937c9175fb2/page-000001.json",
+      "original_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/1030988851cf9de54b468c2093dd6b3cd34b5ce2/objects/03/031f6784822968fd4dd00e67716091537789808541b9811afe84f937c9175fb2",
       "evidence": [
         {
           "term": "grazing",
@@ -50,8 +50,8 @@
       "quality_verified": false,
       "representation_path": "derived/090a8fcd47edf5a41a6a3e7cda3615b5a7edd2629b2025d1d4e2fbb2d6420a40/page-000002.json",
       "representation_text_sha256": "ac7859b5db247927a00bdcecbce953b0bfd96a3ce788d1c2b24feb654f33060e",
-      "representation_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/079aff029a4f75f9f90a4a9b2e3b14d2655dac53/derived/090a8fcd47edf5a41a6a3e7cda3615b5a7edd2629b2025d1d4e2fbb2d6420a40/page-000002.json",
-      "original_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/079aff029a4f75f9f90a4a9b2e3b14d2655dac53/objects/09/090a8fcd47edf5a41a6a3e7cda3615b5a7edd2629b2025d1d4e2fbb2d6420a40",
+      "representation_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/1030988851cf9de54b468c2093dd6b3cd34b5ce2/derived/090a8fcd47edf5a41a6a3e7cda3615b5a7edd2629b2025d1d4e2fbb2d6420a40/page-000002.json",
+      "original_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/1030988851cf9de54b468c2093dd6b3cd34b5ce2/objects/09/090a8fcd47edf5a41a6a3e7cda3615b5a7edd2629b2025d1d4e2fbb2d6420a40",
       "evidence": [
         {
           "term": "lease",
@@ -73,8 +73,8 @@
       "quality_verified": false,
       "representation_path": "derived/10e647a301957538b009a471177553cb3aa82fffe2bbeb3b8cd675cc40faf2ed/page-000002.json",
       "representation_text_sha256": "d79910161188a7240b6aa57da4419ae8ecc3cd9287cf3cca38abc208461583a2",
-      "representation_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/079aff029a4f75f9f90a4a9b2e3b14d2655dac53/derived/10e647a301957538b009a471177553cb3aa82fffe2bbeb3b8cd675cc40faf2ed/page-000002.json",
-      "original_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/079aff029a4f75f9f90a4a9b2e3b14d2655dac53/objects/10/10e647a301957538b009a471177553cb3aa82fffe2bbeb3b8cd675cc40faf2ed",
+      "representation_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/1030988851cf9de54b468c2093dd6b3cd34b5ce2/derived/10e647a301957538b009a471177553cb3aa82fffe2bbeb3b8cd675cc40faf2ed/page-000002.json",
+      "original_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/1030988851cf9de54b468c2093dd6b3cd34b5ce2/objects/10/10e647a301957538b009a471177553cb3aa82fffe2bbeb3b8cd675cc40faf2ed",
       "evidence": [
         {
           "term": "lease",
@@ -96,8 +96,8 @@
       "quality_verified": false,
       "representation_path": "derived/1c01ddf545d1e9a53c90878ee0d93b7c39fecc50c6f7309fa98deaca5e5a98af/page-000003.json",
       "representation_text_sha256": "7a173aa4c4c29c2e7fb294314558f726f977d1195991533bf631341a619c06c8",
-      "representation_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/079aff029a4f75f9f90a4a9b2e3b14d2655dac53/derived/1c01ddf545d1e9a53c90878ee0d93b7c39fecc50c6f7309fa98deaca5e5a98af/page-000003.json",
-      "original_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/079aff029a4f75f9f90a4a9b2e3b14d2655dac53/objects/1c/1c01ddf545d1e9a53c90878ee0d93b7c39fecc50c6f7309fa98deaca5e5a98af",
+      "representation_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/1030988851cf9de54b468c2093dd6b3cd34b5ce2/derived/1c01ddf545d1e9a53c90878ee0d93b7c39fecc50c6f7309fa98deaca5e5a98af/page-000003.json",
+      "original_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/1030988851cf9de54b468c2093dd6b3cd34b5ce2/objects/1c/1c01ddf545d1e9a53c90878ee0d93b7c39fecc50c6f7309fa98deaca5e5a98af",
       "evidence": [
         {
           "term": "lease",
@@ -119,8 +119,8 @@
       "quality_verified": false,
       "representation_path": "derived/1e9089807a5a8d41a2ac462e05a74631026047db61d78156bb89fde32a119754/page-000001.json",
       "representation_text_sha256": "41a969b9d68802bad311900d6a1f90f5648245a049a48d96c074e9df5bc3dc66",
-      "representation_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/079aff029a4f75f9f90a4a9b2e3b14d2655dac53/derived/1e9089807a5a8d41a2ac462e05a74631026047db61d78156bb89fde32a119754/page-000001.json",
-      "original_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/079aff029a4f75f9f90a4a9b2e3b14d2655dac53/objects/1e/1e9089807a5a8d41a2ac462e05a74631026047db61d78156bb89fde32a119754",
+      "representation_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/1030988851cf9de54b468c2093dd6b3cd34b5ce2/derived/1e9089807a5a8d41a2ac462e05a74631026047db61d78156bb89fde32a119754/page-000001.json",
+      "original_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/1030988851cf9de54b468c2093dd6b3cd34b5ce2/objects/1e/1e9089807a5a8d41a2ac462e05a74631026047db61d78156bb89fde32a119754",
       "evidence": [
         {
           "term": "lease",
@@ -142,8 +142,8 @@
       "quality_verified": false,
       "representation_path": "derived/239b0d4b1865db1f9d8962074172901d0cbe1a15ce41e8c9c32d327b94a7c57c/page-000001.json",
       "representation_text_sha256": "b0af8bf1df93862671fc49be0761514826b10b66bac3eab27abf40978012869e",
-      "representation_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/079aff029a4f75f9f90a4a9b2e3b14d2655dac53/derived/239b0d4b1865db1f9d8962074172901d0cbe1a15ce41e8c9c32d327b94a7c57c/page-000001.json",
-      "original_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/079aff029a4f75f9f90a4a9b2e3b14d2655dac53/objects/23/239b0d4b1865db1f9d8962074172901d0cbe1a15ce41e8c9c32d327b94a7c57c",
+      "representation_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/1030988851cf9de54b468c2093dd6b3cd34b5ce2/derived/239b0d4b1865db1f9d8962074172901d0cbe1a15ce41e8c9c32d327b94a7c57c/page-000001.json",
+      "original_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/1030988851cf9de54b468c2093dd6b3cd34b5ce2/objects/23/239b0d4b1865db1f9d8962074172901d0cbe1a15ce41e8c9c32d327b94a7c57c",
       "evidence": [
         {
           "term": "grazing",
@@ -173,8 +173,8 @@
       "quality_verified": false,
       "representation_path": "derived/27def84b6e425c61d2075fb7dec48b29bf67cb23f1a57ab7ccd2121cfbf558c0/page-000001.json",
       "representation_text_sha256": "2cc7646e98530b354ea5c8f77f8b9a3fb7b917de9538f9df50d0c82373791def",
-      "representation_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/079aff029a4f75f9f90a4a9b2e3b14d2655dac53/derived/27def84b6e425c61d2075fb7dec48b29bf67cb23f1a57ab7ccd2121cfbf558c0/page-000001.json",
-      "original_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/079aff029a4f75f9f90a4a9b2e3b14d2655dac53/objects/27/27def84b6e425c61d2075fb7dec48b29bf67cb23f1a57ab7ccd2121cfbf558c0",
+      "representation_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/1030988851cf9de54b468c2093dd6b3cd34b5ce2/derived/27def84b6e425c61d2075fb7dec48b29bf67cb23f1a57ab7ccd2121cfbf558c0/page-000001.json",
+      "original_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/1030988851cf9de54b468c2093dd6b3cd34b5ce2/objects/27/27def84b6e425c61d2075fb7dec48b29bf67cb23f1a57ab7ccd2121cfbf558c0",
       "evidence": [
         {
           "term": "lease",
@@ -196,8 +196,8 @@
       "quality_verified": false,
       "representation_path": "derived/2bbb5ca0af42ca1f1e4dce85db26e8563666f5d976401c7cbe68537d84af29e9/page-000003.json",
       "representation_text_sha256": "b4c9b9eb6961e38db8f3e72da6588b3a1c5fd63b10d631242b950dc29b0f0586",
-      "representation_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/079aff029a4f75f9f90a4a9b2e3b14d2655dac53/derived/2bbb5ca0af42ca1f1e4dce85db26e8563666f5d976401c7cbe68537d84af29e9/page-000003.json",
-      "original_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/079aff029a4f75f9f90a4a9b2e3b14d2655dac53/objects/2b/2bbb5ca0af42ca1f1e4dce85db26e8563666f5d976401c7cbe68537d84af29e9",
+      "representation_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/1030988851cf9de54b468c2093dd6b3cd34b5ce2/derived/2bbb5ca0af42ca1f1e4dce85db26e8563666f5d976401c7cbe68537d84af29e9/page-000003.json",
+      "original_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/1030988851cf9de54b468c2093dd6b3cd34b5ce2/objects/2b/2bbb5ca0af42ca1f1e4dce85db26e8563666f5d976401c7cbe68537d84af29e9",
       "evidence": [
         {
           "term": "easement",
@@ -219,8 +219,8 @@
       "quality_verified": false,
       "representation_path": "derived/3105bb585026393ad577f774b1d0436d7b144a2834cf6de1b2ac70e02adbe242/page-000015.json",
       "representation_text_sha256": "38f49c3d6da6441dddc82da872aa894d0a22fff3e995d3d5f759bac1ac921f6d",
-      "representation_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/079aff029a4f75f9f90a4a9b2e3b14d2655dac53/derived/3105bb585026393ad577f774b1d0436d7b144a2834cf6de1b2ac70e02adbe242/page-000015.json",
-      "original_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/079aff029a4f75f9f90a4a9b2e3b14d2655dac53/objects/31/3105bb585026393ad577f774b1d0436d7b144a2834cf6de1b2ac70e02adbe242",
+      "representation_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/1030988851cf9de54b468c2093dd6b3cd34b5ce2/derived/3105bb585026393ad577f774b1d0436d7b144a2834cf6de1b2ac70e02adbe242/page-000015.json",
+      "original_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/1030988851cf9de54b468c2093dd6b3cd34b5ce2/objects/31/3105bb585026393ad577f774b1d0436d7b144a2834cf6de1b2ac70e02adbe242",
       "evidence": [
         {
           "term": "lease",
