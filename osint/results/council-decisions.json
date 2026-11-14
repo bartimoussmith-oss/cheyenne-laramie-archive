@@ -1,8 +1,8 @@
 {
   "profile": "council-decisions",
   "title": "Council procedures and decisions",
-  "generated_at": "2026-11-14T06:26:58.630697+00:00",
-  "source_revision": "cb08db3d89b4eab924163c208bd6b54b35edb500",
+  "generated_at": "2026-11-14T14:31:30.214577+00:00",
+  "source_revision": "336c6eed2d6a12a33a0e8f471f4fbacc2582f0cc",
   "classification": "retrieval_triage_not_investigative_findings",
   "matched_representations": 371,
   "exported_representations": 50,
@@ -19,8 +19,8 @@
       "quality_verified": false,
       "representation_path": "text/014f8abfb8f3fd8ca645e5e70ad34b63ade39e523a09c955fdbf7230894fabea.txt",
       "representation_text_sha256": "ff9f2b17df4b838853501e07c374eab8bd579b679465628329820ff2b96777e3",
-      "representation_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/cb08db3d89b4eab924163c208bd6b54b35edb500/text/014f8abfb8f3fd8ca645e5e70ad34b63ade39e523a09c955fdbf7230894fabea.txt",
-      "original_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/cb08db3d89b4eab924163c208bd6b54b35edb500/objects/01/014f8abfb8f3fd8ca645e5e70ad34b63ade39e523a09c955fdbf7230894fabea",
+      "representation_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/336c6eed2d6a12a33a0e8f471f4fbacc2582f0cc/text/014f8abfb8f3fd8ca645e5e70ad34b63ade39e523a09c955fdbf7230894fabea.txt",
+      "original_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/336c6eed2d6a12a33a0e8f471f4fbacc2582f0cc/objects/01/014f8abfb8f3fd8ca645e5e70ad34b63ade39e523a09c955fdbf7230894fabea",
       "evidence": [
         {
           "term": "minutes",
@@ -42,8 +42,8 @@
       "quality_verified": false,
       "representation_path": "text/0fea81564c3f28f34dac3b5093aeb7d0fbba25aa3b8f84b3bf5d46f5e6d31957.txt",
       "representation_text_sha256": "293240a5bc327124180316bffa41e87082ebb67a5d4cdcfb91d85c449b2b6c07",
-      "representation_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/cb08db3d89b4eab924163c208bd6b54b35edb500/text/0fea81564c3f28f34dac3b5093aeb7d0fbba25aa3b8f84b3bf5d46f5e6d31957.txt",
-      "original_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/cb08db3d89b4eab924163c208bd6b54b35edb500/objects/0f/0fea81564c3f28f34dac3b5093aeb7d0fbba25aa3b8f84b3bf5d46f5e6d31957",
+      "representation_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/336c6eed2d6a12a33a0e8f471f4fbacc2582f0cc/text/0fea81564c3f28f34dac3b5093aeb7d0fbba25aa3b8f84b3bf5d46f5e6d31957.txt",
+      "original_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/336c6eed2d6a12a33a0e8f471f4fbacc2582f0cc/objects/0f/0fea81564c3f28f34dac3b5093aeb7d0fbba25aa3b8f84b3bf5d46f5e6d31957",
       "evidence": [
         {
           "term": "minutes",
@@ -65,8 +65,8 @@
       "quality_verified": false,
       "representation_path": "text/11f28772ef8e053fd44f07ca6fe6d273ee8e38947e3de4d72c85f5ce0e63976b.txt",
       "representation_text_sha256": "4f6ff43137813f392055088e6ac3886b9285de84ff2bc42117d53dc7fb4d7ac5",
-      "representation_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/cb08db3d89b4eab924163c208bd6b54b35edb500/text/11f28772ef8e053fd44f07ca6fe6d273ee8e38947e3de4d72c85f5ce0e63976b.txt",
-      "original_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/cb08db3d89b4eab924163c208bd6b54b35edb500/objects/11/11f28772ef8e053fd44f07ca6fe6d273ee8e38947e3de4d72c85f5ce0e63976b",
+      "representation_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/336c6eed2d6a12a33a0e8f471f4fbacc2582f0cc/text/11f28772ef8e053fd44f07ca6fe6d273ee8e38947e3de4d72c85f5ce0e63976b.txt",
+      "original_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/336c6eed2d6a12a33a0e8f471f4fbacc2582f0cc/objects/11/11f28772ef8e053fd44f07ca6fe6d273ee8e38947e3de4d72c85f5ce0e63976b",
       "evidence": [
         {
           "term": "minutes",
@@ -88,8 +88,8 @@
       "quality_verified": false,
       "representation_path": "text/14f12ee07d233cade834b0dd3cf0217b10b6b804cd50cad7805c170188217bb6.txt",
       "representation_text_sha256": "578bf20ac4256a648bbf831a25026d326e30ea759e1a2f4999621a4878cd4955",
-      "representation_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/cb08db3d89b4eab924163c208bd6b54b35edb500/text/14f12ee07d233cade834b0dd3cf0217b10b6b804cd50cad7805c170188217bb6.txt",
-      "original_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/cb08db3d89b4eab924163c208bd6b54b35edb500/objects/14/14f12ee07d233cade834b0dd3cf0217b10b6b804cd50cad7805c170188217bb6",
+      "representation_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/336c6eed2d6a12a33a0e8f471f4fbacc2582f0cc/text/14f12ee07d233cade834b0dd3cf0217b10b6b804cd50cad7805c170188217bb6.txt",
+      "original_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/336c6eed2d6a12a33a0e8f471f4fbacc2582f0cc/objects/14/14f12ee07d233cade834b0dd3cf0217b10b6b804cd50cad7805c170188217bb6",
       "evidence": [
         {
           "term": "minutes",
@@ -119,8 +119,8 @@
       "quality_verified": false,
       "representation_path": "text/16c83e36405a523e52eeae7cd83a7674a5bc78174fc6f4e32feff9c1e5ed0f3e.txt",
       "representation_text_sha256": "91a7e91e73a3fb7b1efd5364d80dcb3a36120339e054ede9569eaee862a32170",
-      "representation_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/cb08db3d89b4eab924163c208bd6b54b35edb500/text/16c83e36405a523e52eeae7cd83a7674a5bc78174fc6f4e32feff9c1e5ed0f3e.txt",
-      "original_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/cb08db3d89b4eab924163c208bd6b54b35edb500/objects/16/16c83e36405a523e52eeae7cd83a7674a5bc78174fc6f4e32feff9c1e5ed0f3e",
+      "representation_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/336c6eed2d6a12a33a0e8f471f4fbacc2582f0cc/text/16c83e36405a523e52eeae7cd83a7674a5bc78174fc6f4e32feff9c1e5ed0f3e.txt",
+      "original_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/336c6eed2d6a12a33a0e8f471f4fbacc2582f0cc/objects/16/16c83e36405a523e52eeae7cd83a7674a5bc78174fc6f4e32feff9c1e5ed0f3e",
       "evidence": [
         {
           "term": "minutes",
@@ -142,8 +142,8 @@
       "quality_verified": false,
       "representation_path": "text/1e98c954f0ca7e1efb2ee7c8d429b1c87e0d03c54e51efe4ccb0642749df94ee.txt",
       "representation_text_sha256": "96ec9a002a5be9a14225f4027dfd253e6cc0bd2ca04c17e7ad12449c48d30226",
-      "representation_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/cb08db3d89b4eab924163c208bd6b54b35edb500/text/1e98c954f0ca7e1efb2ee7c8d429b1c87e0d03c54e51efe4ccb0642749df94ee.txt",
-      "original_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/cb08db3d89b4eab924163c208bd6b54b35edb500/objects/1e/1e98c954f0ca7e1efb2ee7c8d429b1c87e0d03c54e51efe4ccb0642749df94ee",
+      "representation_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/336c6eed2d6a12a33a0e8f471f4fbacc2582f0cc/text/1e98c954f0ca7e1efb2ee7c8d429b1c87e0d03c54e51efe4ccb0642749df94ee.txt",
+      "original_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/336c6eed2d6a12a33a0e8f471f4fbacc2582f0cc/objects/1e/1e98c954f0ca7e1efb2ee7c8d429b1c87e0d03c54e51efe4ccb0642749df94ee",
       "evidence": [
         {
           "term": "minutes",
@@ -165,8 +165,8 @@
       "quality_verified": false,
       "representation_path": "text/34c2c94e914d583858e803f379f87beab4375394bf97e2b05857f84e410e1400.txt",
       "representation_text_sha256": "593b04e322a8aeefb1b6462f9d9a667198e5c8192cac03d54f2129b698be3c63",
-      "representation_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/cb08db3d89b4eab924163c208bd6b54b35edb500/text/34c2c94e914d583858e803f379f87beab4375394bf97e2b05857f84e410e1400.txt",
-      "original_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/cb08db3d89b4eab924163c208bd6b54b35edb500/objects/34/34c2c94e914d583858e803f379f87beab4375394bf97e2b05857f84e410e1400",
+      "representation_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/336c6eed2d6a12a33a0e8f471f4fbacc2582f0cc/text/34c2c94e914d583858e803f379f87beab4375394bf97e2b05857f84e410e1400.txt",
+      "original_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/336c6eed2d6a12a33a0e8f471f4fbacc2582f0cc/objects/34/34c2c94e914d583858e803f379f87beab4375394bf97e2b05857f84e410e1400",
       "evidence": [
         {
           "term": "minutes",
@@ -204,8 +204,8 @@
       "quality_verified": false,
       "representation_path": "text/3acba0fc1d0e72a92bfd8410e0ce66716b4ac9fc5981848b580bdd151c887604.txt",
       "representation_text_sha256": "23296aa048c30389c8f5f9e37dbd808b2c77631869bf9f7229285a32ad460ce3",
-      "representation_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/cb08db3d89b4eab924163c208bd6b54b35edb500/text/3acba0fc1d0e72a92bfd8410e0ce66716b4ac9fc5981848b580bdd151c887604.txt",
-      "original_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/cb08db3d89b4eab924163c208bd6b54b35edb500/objects/3a/3acba0fc1d0e72a92bfd8410e0ce66716b4ac9fc5981848b580bdd151c887604",
+      "representation_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/336c6eed2d6a12a33a0e8f471f4fbacc2582f0cc/text/3acba0fc1d0e72a92bfd8410e0ce66716b4ac9fc5981848b580bdd151c887604.txt",
+      "original_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/336c6eed2d6a12a33a0e8f471f4fbacc2582f0cc/objects/3a/3acba0fc1d0e72a92bfd8410e0ce66716b4ac9fc5981848b580bdd151c887604",
       "evidence": [
         {
           "term": "minutes",
@@ -227,8 +227,8 @@
       "quality_verified": false,
       "representation_path": "text/3dd70667ea5d722bea19d76073b4ffffcc05a651e4b1b3a1dd22befe7d173cfa.txt",
       "representation_text_sha256": "2fed3f87d5b1cff9bd36ee7e36045d50bb8a3f93d6cd95eb2072dbc6150983b8",
-      "representation_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/cb08db3d89b4eab924163c208bd6b54b35edb500/text/3dd70667ea5d722bea19d76073b4ffffcc05a651e4b1b3a1dd22befe7d173cfa.txt",
-      "original_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/cb08db3d89b4eab924163c208bd6b54b35edb500/objects/3d/3dd70667ea5d722bea19d76073b4ffffcc05a651e4b1b3a1dd22befe7d173cfa",
+      "representation_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/336c6eed2d6a12a33a0e8f471f4fbacc2582f0cc/text/3dd70667ea5d722bea19d76073b4ffffcc05a651e4b1b3a1dd22befe7d173cfa.txt",
+      "original_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/336c6eed2d6a12a33a0e8f471f4fbacc2582f0cc/objects/3d/3dd70667ea5d722bea19d76073b4ffffcc05a651e4b1b3a1dd22befe7d173cfa",
       "evidence": [
         {
           "term": "minutes",
@@ -266,8 +266,8 @@
       "quality_verified": false,
       "representation_path": "text/43abc7d99e187821ac8a7830038aa10d697c2b1678496cc845aa2500f7f003e6.txt",
       "representation_text_sha256": "aa7c138eba8015f74f85ecd68d806939599e07236baa8f63a3127c02462caaed",
-      "representation_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/cb08db3d89b4eab924163c208bd6b54b35edb500/text/43abc7d99e187821ac8a7830038aa10d697c2b1678496cc845aa2500f7f003e6.txt",
-      "original_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/cb08db3d89b4eab924163c208bd6b54b35edb500/objects/43/43abc7d99e187821ac8a7830038aa10d697c2b1678496cc845aa2500f7f003e6",
+      "representation_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/336c6eed2d6a12a33a0e8f471f4fbacc2582f0cc/text/43abc7d99e187821ac8a7830038aa10d697c2b1678496cc845aa2500f7f003e6.txt",
+      "original_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/336c6eed2d6a12a33a0e8f471f4fbacc2582f0cc/objects/43/43abc7d99e187821ac8a7830038aa10d697c2b1678496cc845aa2500f7f003e6",
       "evidence": [
         {
           "term": "minutes",
@@ -289,8 +289,8 @@
       "quality_verified": false,
       "representation_path": "text/4e0874d29fff6caaa473f2c479af44ab6ccdfcc989e19d7d09849ce2349f0ec6.txt",
       "representation_text_sha256": "62365ad94193c91ece479a6221ff962bbb206641523dddf5605a3ca53a6150ed",
-      "representation_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/cb08db3d89b4eab924163c208bd6b54b35edb500/text/4e0874d29fff6caaa473f2c479af44ab6ccdfcc989e19d7d09849ce2349f0ec6.txt",
-      "original_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/cb08db3d89b4eab924163c208bd6b54b35edb500/objects/4e/4e0874d29fff6caaa473f2c479af44ab6ccdfcc989e19d7d09849ce2349f0ec6",
+      "representation_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/336c6eed2d6a12a33a0e8f471f4fbacc2582f0cc/text/4e0874d29fff6caaa473f2c479af44ab6ccdfcc989e19d7d09849ce2349f0ec6.txt",
+      "original_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/336c6eed2d6a12a33a0e8f471f4fbacc2582f0cc/objects/4e/4e0874d29fff6caaa473f2c479af44ab6ccdfcc989e19d7d09849ce2349f0ec6",
       "evidence": [
         {
           "term": "minutes",
@@ -312,8 +312,8 @@
       "quality_verified": false,
       "representation_path": "text/5c373ef72f5d39635a34912ae2481e359c3129fd0f27ee89624c4f50c9049e6b.txt",
       "representation_text_sha256": "e2dfd0a14d65e5b33e6448a08791beb0025b16ee929b55d08e03e612deb114e3",
-      "representation_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/cb08db3d89b4eab924163c208bd6b54b35edb500/text/5c373ef72f5d39635a34912ae2481e359c3129fd0f27ee89624c4f50c9049e6b.txt",
-      "original_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/cb08db3d89b4eab924163c208bd6b54b35edb500/objects/5c/5c373ef72f5d39635a34912ae2481e359c3129fd0f27ee89624c4f50c9049e6b",
+      "representation_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/336c6eed2d6a12a33a0e8f471f4fbacc2582f0cc/text/5c373ef72f5d39635a34912ae2481e359c3129fd0f27ee89624c4f50c9049e6b.txt",
+      "original_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/336c6eed2d6a12a33a0e8f471f4fbacc2582f0cc/objects/5c/5c373ef72f5d39635a34912ae2481e359c3129fd0f27ee89624c4f50c9049e6b",
       "evidence": [
         {
           "term": "minutes",
@@ -351,8 +351,8 @@
       "quality_verified": false,
       "representation_path": "text/6348fedf6bfbb393e135b824e53e964355719135cc6cf7a1bce5697c997cf499.txt",
       "representation_text_sha256": "e77fec0c037dd723ce32936c626be8daac6817334a69ff2292cc097fcd0c06bc",
-      "representation_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/cb08db3d89b4eab924163c208bd6b54b35edb500/text/6348fedf6bfbb393e135b824e53e964355719135cc6cf7a1bce5697c997cf499.txt",
-      "original_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/cb08db3d89b4eab924163c208bd6b54b35edb500/objects/63/6348fedf6bfbb393e135b824e53e964355719135cc6cf7a1bce5697c997cf499",
+      "representation_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/336c6eed2d6a12a33a0e8f471f4fbacc2582f0cc/text/6348fedf6bfbb393e135b824e53e964355719135cc6cf7a1bce5697c997cf499.txt",
+      "original_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/336c6eed2d6a12a33a0e8f471f4fbacc2582f0cc/objects/63/6348fedf6bfbb393e135b824e53e964355719135cc6cf7a1bce5697c997cf499",
       "evidence": [
         {
           "term": "minutes",
@@ -374,8 +374,8 @@
       "quality_verified": false,
       "representation_path": "text/715d77ab0bc98dbf81f9aefa1c181bcc521f3780698be631b33c396dbd410c53.txt",
       "representation_text_sha256": "2ab2cd26f1a219f7c41cb15713f89065b800044b1fb6637ca97f8cc9050699a5",
-      "representation_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/cb08db3d89b4eab924163c208bd6b54b35edb500/text/715d77ab0bc98dbf81f9aefa1c181bcc521f3780698be631b33c396dbd410c53.txt",
-      "original_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/cb08db3d89b4eab924163c208bd6b54b35edb500/objects/71/715d77ab0bc98dbf81f9aefa1c181bcc521f3780698be631b33c396dbd410c53",
+      "representation_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/336c6eed2d6a12a33a0e8f471f4fbacc2582f0cc/text/715d77ab0bc98dbf81f9aefa1c181bcc521f3780698be631b33c396dbd410c53.txt",
+      "original_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/336c6eed2d6a12a33a0e8f471f4fbacc2582f0cc/objects/71/715d77ab0bc98dbf81f9aefa1c181bcc521f3780698be631b33c396dbd410c53",
       "evidence": [
         {
           "term": "minutes",
@@ -405,8 +405,8 @@
       "quality_verified": false,
       "representation_path": "text/77b33b250c26aa5b4c39100d72dc332a81fc1c0af261b50b98f49a7251582aaf.txt",
       "representation_text_sha256": "b6345c9a22eb8016f2ce5fa0d3c32e691ce51d00cbbfbed12eed62c42967b98b",
-      "representation_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/cb08db3d89b4eab924163c208bd6b54b35edb500/text/77b33b250c26aa5b4c39100d72dc332a81fc1c0af261b50b98f49a7251582aaf.txt",
-      "original_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/cb08db3d89b4eab924163c208bd6b54b35edb500/objects/77/77b33b250c26aa5b4c39100d72dc332a81fc1c0af261b50b98f49a7251582aaf",
+      "representation_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/336c6eed2d6a12a33a0e8f471f4fbacc2582f0cc/text/77b33b250c26aa5b4c39100d72dc332a81fc1c0af261b50b98f49a7251582aaf.txt",
+      "original_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/336c6eed2d6a12a33a0e8f471f4fbacc2582f0cc/objects/77/77b33b250c26aa5b4c39100d72dc332a81fc1c0af261b50b98f49a7251582aaf",
       "evidence": [
         {
           "term": "minutes",
@@ -428,8 +428,8 @@
       "quality_verified": false,
       "representation_path": "text/85821b0bf46b99b4216d0ca8c05fac9f147fd62070eae02d32693472cb0b6850.txt",
       "representation_text_sha256": "1b14fe411c56ec8ab836833ed331744ecbdd359d31329a62f6cde9c6c0f9b8a3",
-      "representation_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/cb08db3d89b4eab924163c208bd6b54b35edb500/text/85821b0bf46b99b4216d0ca8c05fac9f147fd62070eae02d32693472cb0b6850.txt",
-      "original_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/cb08db3d89b4eab924163c208bd6b54b35edb500/objects/85/85821b0bf46b99b4216d0ca8c05fac9f147fd62070eae02d32693472cb0b6850",
+      "representation_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/336c6eed2d6a12a33a0e8f471f4fbacc2582f0cc/text/85821b0bf46b99b4216d0ca8c05fac9f147fd62070eae02d32693472cb0b6850.txt",
+      "original_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/336c6eed2d6a12a33a0e8f471f4fbacc2582f0cc/objects/85/85821b0bf46b99b4216d0ca8c05fac9f147fd62070eae02d32693472cb0b6850",
       "evidence": [
         {
           "term": "minutes",
@@ -451,8 +451,8 @@
       "quality_verified": false,
       "representation_path": "text/8d47a8d983ef94d3b3b44522f27edb841c5e7b8a679ac73763770b99c9349526.txt",
       "representation_text_sha256": "0879bb3be9c069bfea80b1b6751172a4c7dc42e35459cc8a99348baaf2719864",
-      "representation_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/cb08db3d89b4eab924163c208bd6b54b35edb500/text/8d47a8d983ef94d3b3b44522f27edb841c5e7b8a679ac73763770b99c9349526.txt",
-      "original_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/cb08db3d89b4eab924163c208bd6b54b35edb500/objects/8d/8d47a8d983ef94d3b3b44522f27edb841c5e7b8a679ac73763770b99c9349526",
+      "representation_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/336c6eed2d6a12a33a0e8f471f4fbacc2582f0cc/text/8d47a8d983ef94d3b3b44522f27edb841c5e7b8a679ac73763770b99c9349526.txt",
+      "original_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/336c6eed2d6a12a33a0e8f471f4fbacc2582f0cc/objects/8d/8d47a8d983ef94d3b3b44522f27edb841c5e7b8a679ac73763770b99c9349526",
       "evidence": [
         {
           "term": "minutes",
@@ -474,8 +474,8 @@
       "quality_verified": false,
       "representation_path": "text/93fe531021c2a0d9b2fcfab4bc8b49db51a23b3f79ff63468dff8387b8601afa.txt",
       "representation_text_sha256": "ebb8d3d39dd32b567db1438b77fdc02d51f7701fa20a603f844bff158b7ace29",
-      "representation_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/cb08db3d89b4eab924163c208bd6b54b35edb500/text/93fe531021c2a0d9b2fcfab4bc8b49db51a23b3f79ff63468dff8387b8601afa.txt",
-      "original_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/cb08db3d89b4eab924163c208bd6b54b35edb500/objects/93/93fe531021c2a0d9b2fcfab4bc8b49db51a23b3f79ff63468dff8387b8601afa",
+      "representation_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/336c6eed2d6a12a33a0e8f471f4fbacc2582f0cc/text/93fe531021c2a0d9b2fcfab4bc8b49db51a23b3f79ff63468dff8387b8601afa.txt",
+      "original_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/336c6eed2d6a12a33a0e8f471f4fbacc2582f0cc/objects/93/93fe531021c2a0d9b2fcfab4bc8b49db51a23b3f79ff63468dff8387b8601afa",
       "evidence": [
         {
           "term": "minutes",
@@ -497,8 +497,8 @@
       "quality_verified": false,
       "representation_path": "text/9c73e7a20020ff1b57092cd649d179e5587f90f2fcda3238ff876d58251c1b16.txt",
       "representation_text_sha256": "003c6f0ef8e5e56d096e7ea495e4ae5413ae5ae5f8b235282dea59d5f449bea2",
-      "representation_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/cb08db3d89b4eab924163c208bd6b54b35edb500/text/9c73e7a20020ff1b57092cd649d179e5587f90f2fcda3238ff876d58251c1b16.txt",
-      "original_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/cb08db3d89b4eab924163c208bd6b54b35edb500/objects/9c/9c73e7a20020ff1b57092cd649d179e5587f90f2fcda3238ff876d58251c1b16",
+      "representation_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/336c6eed2d6a12a33a0e8f471f4fbacc2582f0cc/text/9c73e7a20020ff1b57092cd649d179e5587f90f2fcda3238ff876d58251c1b16.txt",
+      "original_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/336c6eed2d6a12a33a0e8f471f4fbacc2582f0cc/objects/9c/9c73e7a20020ff1b57092cd649d179e5587f90f2fcda3238ff876d58251c1b16",
       "evidence": [
         {
           "term": "minutes",
@@ -520,8 +520,8 @@
       "quality_verified": false,
       "representation_path": "text/9d3098d1cd836224a7a0df78cff51050bc5a99957854df4ddac5ecf188912843.txt",
       "representation_text_sha256": "b89358067e0c9efa2b8f7abb63cafdc4ba47a0c9326077b45af787df8c948523",
-      "representation_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/cb08db3d89b4eab924163c208bd6b54b35edb500/text/9d3098d1cd836224a7a0df78cff51050bc5a99957854df4ddac5ecf188912843.txt",
-      "original_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/cb08db3d89b4eab924163c208bd6b54b35edb500/objects/9d/9d3098d1cd836224a7a0df78cff51050bc5a99957854df4ddac5ecf188912843",
+      "representation_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/336c6eed2d6a12a33a0e8f471f4fbacc2582f0cc/text/9d3098d1cd836224a7a0df78cff51050bc5a99957854df4ddac5ecf188912843.txt",
+      "original_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/336c6eed2d6a12a33a0e8f471f4fbacc2582f0cc/objects/9d/9d3098d1cd836224a7a0df78cff51050bc5a99957854df4ddac5ecf188912843",
       "evidence": [
         {
           "term": "minutes",
@@ -543,8 +543,8 @@
       "quality_verified": false,
       "representation_path": "text/a052957609cbac5e739fe66801e56b1472f5d5c0de569a33a04f317257c2100e.txt",
       "representation_text_sha256": "7034bbd1b8a66fc3e0ec480fa29cdd5cdcb6c5e3d935799d16f76525a88ddc23",
-      "representation_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/cb08db3d89b4eab924163c208bd6b54b35edb500/text/a052957609cbac5e739fe66801e56b1472f5d5c0de569a33a04f317257c2100e.txt",
-      "original_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/cb08db3d89b4eab924163c208bd6b54b35edb500/objects/a0/a052957609cbac5e739fe66801e56b1472f5d5c0de569a33a04f317257c2100e",
+      "representation_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/336c6eed2d6a12a33a0e8f471f4fbacc2582f0cc/text/a052957609cbac5e739fe66801e56b1472f5d5c0de569a33a04f317257c2100e.txt",
+      "original_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/336c6eed2d6a12a33a0e8f471f4fbacc2582f0cc/objects/a0/a052957609cbac5e739fe66801e56b1472f5d5c0de569a33a04f317257c2100e",
       "evidence": [
         {
           "term": "minutes",
@@ -566,8 +566,8 @@
       "quality_verified": false,
       "representation_path": "text/a1420bd40f7fea284410abf8d2922f682bab168d765d6c9269cb6df84db9f18e.txt",
       "representation_text_sha256": "0623acaa20c4d36937755b4c90403d0edd0299667657e2015cc83a97d31f2bb2",
-      "representation_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/cb08db3d89b4eab924163c208bd6b54b35edb500/text/a1420bd40f7fea284410abf8d2922f682bab168d765d6c9269cb6df84db9f18e.txt",
-      "original_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/cb08db3d89b4eab924163c208bd6b54b35edb500/objects/a1/a1420bd40f7fea284410abf8d2922f682bab168d765d6c9269cb6df84db9f18e",
+      "representation_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/336c6eed2d6a12a33a0e8f471f4fbacc2582f0cc/text/a1420bd40f7fea284410abf8d2922f682bab168d765d6c9269cb6df84db9f18e.txt",
+      "original_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/336c6eed2d6a12a33a0e8f471f4fbacc2582f0cc/objects/a1/a1420bd40f7fea284410abf8d2922f682bab168d765d6c9269cb6df84db9f18e",
       "evidence": [
         {
           "term": "minutes",
@@ -589,8 +589,8 @@
       "quality_verified": false,
       "representation_path": "text/a1507d9fc76d989c2237e4f54facf0d5777c1eb4f5ea98686252e82ba9d8e46d.txt",
       "representation_text_sha256": "2c554f4b4d10329e074118ba11cd90a666ea49b86e89b1c8750886a9acd9e759",
-      "representation_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/cb08db3d89b4eab924163c208bd6b54b35edb500/text/a1507d9fc76d989c2237e4f54facf0d5777c1eb4f5ea98686252e82ba9d8e46d.txt",
-      "original_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/cb08db3d89b4eab924163c208bd6b54b35edb500/objects/a1/a1507d9fc76d989c2237e4f54facf0d5777c1eb4f5ea98686252e82ba9d8e46d",
+      "representation_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/336c6eed2d6a12a33a0e8f471f4fbacc2582f0cc/text/a1507d9fc76d989c2237e4f54facf0d5777c1eb4f5ea98686252e82ba9d8e46d.txt",
+      "original_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/336c6eed2d6a12a33a0e8f471f4fbacc2582f0cc/objects/a1/a1507d9fc76d989c2237e4f54facf0d5777c1eb4f5ea98686252e82ba9d8e46d",
       "evidence": [
         {
           "term": "minutes",
@@ -612,8 +612,8 @@
       "quality_verified": false,
       "representation_path": "text/a178ef488a0bcb57dc67131d48cebb62c49e9bc83c0508172586a0e7362b003d.txt",
       "representation_text_sha256": "b792688dcf3fc0d1e5a0115c516e01d6c748368301161d7cb3f034d840f3b32c",
-      "representation_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/cb08db3d89b4eab924163c208bd6b54b35edb500/text/a178ef488a0bcb57dc67131d48cebb62c49e9bc83c0508172586a0e7362b003d.txt",
-      "original_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/cb08db3d89b4eab924163c208bd6b54b35edb500/objects/a1/a178ef488a0bcb57dc67131d48cebb62c49e9bc83c0508172586a0e7362b003d",
+      "representation_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/336c6eed2d6a12a33a0e8f471f4fbacc2582f0cc/text/a178ef488a0bcb57dc67131d48cebb62c49e9bc83c0508172586a0e7362b003d.txt",
+      "original_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/336c6eed2d6a12a33a0e8f471f4fbacc2582f0cc/objects/a1/a178ef488a0bcb57dc67131d48cebb62c49e9bc83c0508172586a0e7362b003d",
       "evidence": [
         {
           "term": "minutes",
@@ -635,8 +635,8 @@
       "quality_verified": false,
       "representation_path": "text/ac4671737629e4f41fc282caa16e72eebb2f7fedffbae6ab959389be903d1455.txt",
       "representation_text_sha256": "bb3b0eb7d904d79a7a908a146be59cce62f6ea5375c13fccb7aa5d2d4d2649e0",
-      "representation_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/cb08db3d89b4eab924163c208bd6b54b35edb500/text/ac4671737629e4f41fc282caa16e72eebb2f7fedffbae6ab959389be903d1455.txt",
-      "original_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/cb08db3d89b4eab924163c208bd6b54b35edb500/objects/ac/ac4671737629e4f41fc282caa16e72eebb2f7fedffbae6ab959389be903d1455",
+      "representation_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/336c6eed2d6a12a33a0e8f471f4fbacc2582f0cc/text/ac4671737629e4f41fc282caa16e72eebb2f7fedffbae6ab959389be903d1455.txt",
+      "original_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/336c6eed2d6a12a33a0e8f471f4fbacc2582f0cc/objects/ac/ac4671737629e4f41fc282caa16e72eebb2f7fedffbae6ab959389be903d1455",
       "evidence": [
         {
           "term": "minutes",
@@ -658,8 +658,8 @@
       "quality_verified": false,
       "representation_path": "text/c63ec6ed4e930ff48364c6d6d94eb13f140511b22fad149147cbdb7f676a73f8.txt",
       "representation_text_sha256": "d40e312bc97687f9d47ba6b40135fc31a6e497471ae769ccebc9cd51b2641ef5",
-      "representation_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/cb08db3d89b4eab924163c208bd6b54b35edb500/text/c63ec6ed4e930ff48364c6d6d94eb13f140511b22fad149147cbdb7f676a73f8.txt",
-      "original_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/cb08db3d89b4eab924163c208bd6b54b35edb500/objects/c6/c63ec6ed4e930ff48364c6d6d94eb13f140511b22fad149147cbdb7f676a73f8",
+      "representation_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/336c6eed2d6a12a33a0e8f471f4fbacc2582f0cc/text/c63ec6ed4e930ff48364c6d6d94eb13f140511b22fad149147cbdb7f676a73f8.txt",
+      "original_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/336c6eed2d6a12a33a0e8f471f4fbacc2582f0cc/objects/c6/c63ec6ed4e930ff48364c6d6d94eb13f140511b22fad149147cbdb7f676a73f8",
       "evidence": [
         {
           "term": "minutes",
@@ -681,8 +681,8 @@
       "quality_verified": false,
       "representation_path": "text/d00aa211b6d805660489c2cfc29d733347787d24d6cf0845790e3aabbc7f235d.txt",
       "representation_text_sha256": "70ec60a79881ddc46fefa4b26ba53be4e3b405dded4436a504891f17109267cb",
-      "representation_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/cb08db3d89b4eab924163c208bd6b54b35edb500/text/d00aa211b6d805660489c2cfc29d733347787d24d6cf0845790e3aabbc7f235d.txt",
-      "original_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/cb08db3d89b4eab924163c208bd6b54b35edb500/objects/d0/d00aa211b6d805660489c2cfc29d733347787d24d6cf0845790e3aabbc7f235d",
+      "representation_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/336c6eed2d6a12a33a0e8f471f4fbacc2582f0cc/text/d00aa211b6d805660489c2cfc29d733347787d24d6cf0845790e3aabbc7f235d.txt",
+      "original_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/336c6eed2d6a12a33a0e8f471f4fbacc2582f0cc/objects/d0/d00aa211b6d805660489c2cfc29d733347787d24d6cf0845790e3aabbc7f235d",
       "evidence": [
         {
           "term": "minutes",
@@ -704,8 +704,8 @@
       "quality_verified": false,
       "representation_path": "text/d061ff860528d2fc773452243bcf889e5ece5523483f1f823ed3bb0359da8531.txt",
       "representation_text_sha256": "d26546614d2bef211d6078785e4192a6f1db335eaae2a92c84ae621213116cb3",
-      "representation_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/cb08db3d89b4eab924163c208bd6b54b35edb500/text/d061ff860528d2fc773452243bcf889e5ece5523483f1f823ed3bb0359da8531.txt",
-      "original_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/cb08db3d89b4eab924163c208bd6b54b35edb500/objects/d0/d061ff860528d2fc773452243bcf889e5ece5523483f1f823ed3bb0359da8531",
+      "representation_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/336c6eed2d6a12a33a0e8f471f4fbacc2582f0cc/text/d061ff860528d2fc773452243bcf889e5ece5523483f1f823ed3bb0359da8531.txt",
+      "original_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/336c6eed2d6a12a33a0e8f471f4fbacc2582f0cc/objects/d0/d061ff860528d2fc773452243bcf889e5ece5523483f1f823ed3bb0359da8531",
       "evidence": [
         {
           "term": "minutes",
@@ -743,8 +743,8 @@
       "quality_verified": false,
       "representation_path": "text/d5fd7d1575e0c08c8ed2d3d4dcfe54374e28df3213afc00b0613bf25067e3e62.txt",
       "representation_text_sha256": "5059c351f2c55db2c80003e1a9daf8447be46cc4fa6ad512c4b810ce45118719",
-      "representation_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/cb08db3d89b4eab924163c208bd6b54b35edb500/text/d5fd7d1575e0c08c8ed2d3d4dcfe54374e28df3213afc00b0613bf25067e3e62.txt",
-      "original_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/cb08db3d89b4eab924163c208bd6b54b35edb500/objects/d5/d5fd7d1575e0c08c8ed2d3d4dcfe54374e28df3213afc00b0613bf25067e3e62",
+      "representation_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/336c6eed2d6a12a33a0e8f471f4fbacc2582f0cc/text/d5fd7d1575e0c08c8ed2d3d4dcfe54374e28df3213afc00b0613bf25067e3e62.txt",
+      "original_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/336c6eed2d6a12a33a0e8f471f4fbacc2582f0cc/objects/d5/d5fd7d1575e0c08c8ed2d3d4dcfe54374e28df3213afc00b0613bf25067e3e62",
       "evidence": [
         {
           "term": "minutes",
@@ -782,8 +782,8 @@
       "quality_verified": false,
       "representation_path": "text/d7a11bf934f9d3f289fd4af6827b18f8b266253d6bbe3aee860a10049ddc1ce0.txt",
       "representation_text_sha256": "203640c81a9a0eaf846f77dadf2d079e314eaf46af731936f16546e816b349e0",
-      "representation_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/cb08db3d89b4eab924163c208bd6b54b35edb500/text/d7a11bf934f9d3f289fd4af6827b18f8b266253d6bbe3aee860a10049ddc1ce0.txt",
-      "original_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/cb08db3d89b4eab924163c208bd6b54b35edb500/objects/d7/d7a11bf934f9d3f289fd4af6827b18f8b266253d6bbe3aee860a10049ddc1ce0",
+      "representation_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/336c6eed2d6a12a33a0e8f471f4fbacc2582f0cc/text/d7a11bf934f9d3f289fd4af6827b18f8b266253d6bbe3aee860a10049ddc1ce0.txt",
+      "original_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/336c6eed2d6a12a33a0e8f471f4fbacc2582f0cc/objects/d7/d7a11bf934f9d3f289fd4af6827b18f8b266253d6bbe3aee860a10049ddc1ce0",
       "evidence": [
         {
           "term": "minutes",
@@ -821,8 +821,8 @@
       "quality_verified": false,
       "representation_path": "text/dc304bcb9386c40219dbbb65adf6dd322030a9f0944eadafe55e4a670a971d17.txt",
       "representation_text_sha256": "7a9d2599eee9d44aa7afed26b3ba19d4e41d33b04003a69365a8c60a6093313b",
-      "representation_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/cb08db3d89b4eab924163c208bd6b54b35edb500/text/dc304bcb9386c40219dbbb65adf6dd322030a9f0944eadafe55e4a670a971d17.txt",
-      "original_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/cb08db3d89b4eab924163c208bd6b54b35edb500/objects/dc/dc304bcb9386c40219dbbb65adf6dd322030a9f0944eadafe55e4a670a971d17",
+      "representation_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/336c6eed2d6a12a33a0e8f471f4fbacc2582f0cc/text/dc304bcb9386c40219dbbb65adf6dd322030a9f0944eadafe55e4a670a971d17.txt",
+      "original_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/336c6eed2d6a12a33a0e8f471f4fbacc2582f0cc/objects/dc/dc304bcb9386c40219dbbb65adf6dd322030a9f0944eadafe55e4a670a971d17",
       "evidence": [
         {
           "term": "minutes",
@@ -844,8 +844,8 @@
       "quality_verified": false,
       "representation_path": "text/dd535b2d03be1e8fcae4cb39e118422b513be4616f3633a4dc01a102c41e290f.txt",
       "representation_text_sha256": "9f944ac405d5037a360554b1b88d4283bc6e5848e2354cd83a5176ef17a8c0aa",
-      "representation_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/cb08db3d89b4eab924163c208bd6b54b35edb500/text/dd535b2d03be1e8fcae4cb39e118422b513be4616f3633a4dc01a102c41e290f.txt",
-      "original_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/cb08db3d89b4eab924163c208bd6b54b35edb500/objects/dd/dd535b2d03be1e8fcae4cb39e118422b513be4616f3633a4dc01a102c41e290f",
+      "representation_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/336c6eed2d6a12a33a0e8f471f4fbacc2582f0cc/text/dd535b2d03be1e8fcae4cb39e118422b513be4616f3633a4dc01a102c41e290f.txt",
+      "original_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/336c6eed2d6a12a33a0e8f471f4fbacc2582f0cc/objects/dd/dd535b2d03be1e8fcae4cb39e118422b513be4616f3633a4dc01a102c41e290f",
       "evidence": [
         {
           "term": "minutes",
@@ -867,8 +867,8 @@
       "quality_verified": false,
       "representation_path": "text/e368e84058c9b0433d788f2619a54d6d13b7dad3f9bc2aa02778e1ca2be27766.txt",
       "representation_text_sha256": "d0d63a340bba9cf4348675c8138ebd26e8daa91f8b22ebdd902642973a5b30b4",
-      "representation_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/cb08db3d89b4eab924163c208bd6b54b35edb500/text/e368e84058c9b0433d788f2619a54d6d13b7dad3f9bc2aa02778e1ca2be27766.txt",
-      "original_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/cb08db3d89b4eab924163c208bd6b54b35edb500/objects/e3/e368e84058c9b0433d788f2619a54d6d13b7dad3f9bc2aa02778e1ca2be27766",
+      "representation_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/336c6eed2d6a12a33a0e8f471f4fbacc2582f0cc/text/e368e84058c9b0433d788f2619a54d6d13b7dad3f9bc2aa02778e1ca2be27766.txt",
+      "original_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/336c6eed2d6a12a33a0e8f471f4fbacc2582f0cc/objects/e3/e368e84058c9b0433d788f2619a54d6d13b7dad3f9bc2aa02778e1ca2be27766",
       "evidence": [
         {
           "term": "minutes",
@@ -890,8 +890,8 @@
       "quality_verified": false,
       "representation_path": "text/e4853bc004208b21257fba957fe73b8f5f370e12d1aed87e74118985cc54eb9d.txt",
       "representation_text_sha256": "65748a6e12cb1b8fc999d9da6ad5cbf1ada22e83ba3d73a3a8cc1e0f38a9e7df",
-      "representation_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/cb08db3d89b4eab924163c208bd6b54b35edb500/text/e4853bc004208b21257fba957fe73b8f5f370e12d1aed87e74118985cc54eb9d.txt",
-      "original_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/cb08db3d89b4eab924163c208bd6b54b35edb500/objects/e4/e4853bc004208b21257fba957fe73b8f5f370e12d1aed87e74118985cc54eb9d",
+      "representation_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/336c6eed2d6a12a33a0e8f471f4fbacc2582f0cc/text/e4853bc004208b21257fba957fe73b8f5f370e12d1aed87e74118985cc54eb9d.txt",
+      "original_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/336c6eed2d6a12a33a0e8f471f4fbacc2582f0cc/objects/e4/e4853bc004208b21257fba957fe73b8f5f370e12d1aed87e74118985cc54eb9d",
       "evidence": [
         {
           "term": "minutes",
@@ -913,8 +913,8 @@
       "quality_verified": false,
       "representation_path": "text/e9db115b8aaa89268e8fbc8db77dece5e61cde5a346746c280ef863e3df5dfd0.txt",
       "representation_text_sha256": "bbce566bab0b1d162b912cf3e1cc00683fabb8532ea53d2e099b11587eaa28df",
-      "representation_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/cb08db3d89b4eab924163c208bd6b54b35edb500/text/e9db115b8aaa89268e8fbc8db77dece5e61cde5a346746c280ef863e3df5dfd0.txt",
-      "original_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/cb08db3d89b4eab924163c208bd6b54b35edb500/objects/e9/e9db115b8aaa89268e8fbc8db77dece5e61cde5a346746c280ef863e3df5dfd0",
+      "representation_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/336c6eed2d6a12a33a0e8f471f4fbacc2582f0cc/text/e9db115b8aaa89268e8fbc8db77dece5e61cde5a346746c280ef863e3df5dfd0.txt",
+      "original_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/336c6eed2d6a12a33a0e8f471f4fbacc2582f0cc/objects/e9/e9db115b8aaa89268e8fbc8db77dece5e61cde5a346746c280ef863e3df5dfd0",
       "evidence": [
         {
           "term": "minutes",
@@ -936,8 +936,8 @@
       "quality_verified": false,
       "representation_path": "text/effa524b7580c3987c3c3d07349e937e86faabdd7a86eee9e810bcaa6697158a.txt",
       "representation_text_sha256": "b0f6332ee135bffe9bb59939ec56e92ce38d5d16c3331a111acb6e63e4f5e7f3",
-      "representation_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/cb08db3d89b4eab924163c208bd6b54b35edb500/text/effa524b7580c3987c3c3d07349e937e86faabdd7a86eee9e810bcaa6697158a.txt",
-      "original_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/cb08db3d89b4eab924163c208bd6b54b35edb500/objects/ef/effa524b7580c3987c3c3d07349e937e86faabdd7a86eee9e810bcaa6697158a",
+      "representation_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/336c6eed2d6a12a33a0e8f471f4fbacc2582f0cc/text/effa524b7580c3987c3c3d07349e937e86faabdd7a86eee9e810bcaa6697158a.txt",
+      "original_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/336c6eed2d6a12a33a0e8f471f4fbacc2582f0cc/objects/ef/effa524b7580c3987c3c3d07349e937e86faabdd7a86eee9e810bcaa6697158a",
       "evidence": [
         {
           "term": "minutes",
@@ -975,8 +975,8 @@
       "quality_verified": false,
       "representation_path": "text/f404f311959389e46ea3c5c8c46d3512649645efdcf81a56cda879204d8300c5.txt",
       "representation_text_sha256": "9bf09449874b6576df8b6c5f971e7c26cb3cbcac5a422971029e0fedcb806057",
-      "representation_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/cb08db3d89b4eab924163c208bd6b54b35edb500/text/f404f311959389e46ea3c5c8c46d3512649645efdcf81a56cda879204d8300c5.txt",
-      "original_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/cb08db3d89b4eab924163c208bd6b54b35edb500/objects/f4/f404f311959389e46ea3c5c8c46d3512649645efdcf81a56cda879204d8300c5",
+      "representation_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/336c6eed2d6a12a33a0e8f471f4fbacc2582f0cc/text/f404f311959389e46ea3c5c8c46d3512649645efdcf81a56cda879204d8300c5.txt",
+      "original_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/336c6eed2d6a12a33a0e8f471f4fbacc2582f0cc/objects/f4/f404f311959389e46ea3c5c8c46d3512649645efdcf81a56cda879204d8300c5",
       "evidence": [
         {
           "term": "minutes",
@@ -998,8 +998,8 @@
       "quality_verified": false,
       "representation_path": "text/f569e9d1339270023c0bbad5efb015a1ff6589f66014b417830346567a76965f.txt",
       "representation_text_sha256": "f91b44cc55731e53d004aeea641243a7aa0dbb4e431aa727039eb446651440a7",
-      "representation_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/cb08db3d89b4eab924163c208bd6b54b35edb500/text/f569e9d1339270023c0bbad5efb015a1ff6589f66014b417830346567a76965f.txt",
-      "original_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/cb08db3d89b4eab924163c208bd6b54b35edb500/objects/f5/f569e9d1339270023c0bbad5efb015a1ff6589f66014b417830346567a76965f",
+      "representation_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/336c6eed2d6a12a33a0e8f471f4fbacc2582f0cc/text/f569e9d1339270023c0bbad5efb015a1ff6589f66014b417830346567a76965f.txt",
+      "original_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/336c6eed2d6a12a33a0e8f471f4fbacc2582f0cc/objects/f5/f569e9d1339270023c0bbad5efb015a1ff6589f66014b417830346567a76965f",
       "evidence": [
         {
           "term": "minutes",
@@ -1021,8 +1021,8 @@
       "quality_verified": false,
       "representation_path": "text/f7565a42d47ca208b4b18f6700f3fa0e77a4c4e81e02aa0db0e33a508fd255e0.txt",
       "representation_text_sha256": "1aee5563b7c30fe54ac1de9f39389847ce366af7821ab538d00f83195ac41ece",
-      "representation_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/cb08db3d89b4eab924163c208bd6b54b35edb500/text/f7565a42d47ca208b4b18f6700f3fa0e77a4c4e81e02aa0db0e33a508fd255e0.txt",
-      "original_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/cb08db3d89b4eab924163c208bd6b54b35edb500/objects/f7/f7565a42d47ca208b4b18f6700f3fa0e77a4c4e81e02aa0db0e33a508fd255e0",
+      "representation_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/336c6eed2d6a12a33a0e8f471f4fbacc2582f0cc/text/f7565a42d47ca208b4b18f6700f3fa0e77a4c4e81e02aa0db0e33a508fd255e0.txt",
+      "original_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/336c6eed2d6a12a33a0e8f471f4fbacc2582f0cc/objects/f7/f7565a42d47ca208b4b18f6700f3fa0e77a4c4e81e02aa0db0e33a508fd255e0",
       "evidence": [
         {
           "term": "minutes",
@@ -1044,8 +1044,8 @@
       "quality_verified": false,
       "representation_path": "text/fe51cc4936134d625fdb7d689e61a6faede2f62246fae5201fb193d22aa2dc85.txt",
       "representation_text_sha256": "ffca20446cb00ee13762161e3f0906002e17dbd40680d865d0f11be522642553",
-      "representation_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/cb08db3d89b4eab924163c208bd6b54b35edb500/text/fe51cc4936134d625fdb7d689e61a6faede2f62246fae5201fb193d22aa2dc85.txt",
-      "original_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/cb08db3d89b4eab924163c208bd6b54b35edb500/objects/fe/fe51cc4936134d625fdb7d689e61a6faede2f62246fae5201fb193d22aa2dc85",
+      "representation_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/336c6eed2d6a12a33a0e8f471f4fbacc2582f0cc/text/fe51cc4936134d625fdb7d689e61a6faede2f62246fae5201fb193d22aa2dc85.txt",
+      "original_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/336c6eed2d6a12a33a0e8f471f4fbacc2582f0cc/objects/fe/fe51cc4936134d625fdb7d689e61a6faede2f62246fae5201fb193d22aa2dc85",
       "evidence": [
         {
           "term": "minutes",
@@ -1067,8 +1067,8 @@
       "quality_verified": false,
       "representation_path": "derived/00148b065ddd9d6d2689eb691a7abc53cb309379f50ee6e2f52cd68f90a30448/page-000001.json",
       "representation_text_sha256": "25073957e1fbef29c6251c77fd66608d8c91bc29654d0a663258af2953177f07",
-      "representation_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/cb08db3d89b4eab924163c208bd6b54b35edb500/derived/00148b065ddd9d6d2689eb691a7abc53cb309379f50ee6e2f52cd68f90a30448/page-000001.json",
-      "original_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/cb08db3d89b4eab924163c208bd6b54b35edb500/objects/00/00148b065ddd9d6d2689eb691a7abc53cb309379f50ee6e2f52cd68f90a30448",
+      "representation_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/336c6eed2d6a12a33a0e8f471f4fbacc2582f0cc/derived/00148b065ddd9d6d2689eb691a7abc53cb309379f50ee6e2f52cd68f90a30448/page-000001.json",
+      "original_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/336c6eed2d6a12a33a0e8f471f4fbacc2582f0cc/objects/00/00148b065ddd9d6d2689eb691a7abc53cb309379f50ee6e2f52cd68f90a30448",
       "evidence": [
         {
           "term": "resolution",
@@ -1090,8 +1090,8 @@
       "quality_verified": false,
       "representation_path": "derived/00bb64666ab3c7d9e1a67a68d37e92cf43f2cc5cd78b5e2ca7328ffe96ced49b/page-000004.json",
       "representation_text_sha256": "ca3e429c473ef1a41ae07abeda33e5d8dbb2bb71df85e1d066776c853f183164",
-      "representation_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/cb08db3d89b4eab924163c208bd6b54b35edb500/derived/00bb64666ab3c7d9e1a67a68d37e92cf43f2cc5cd78b5e2ca7328ffe96ced49b/page-000004.json",
-      "original_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/cb08db3d89b4eab924163c208bd6b54b35edb500/objects/00/00bb64666ab3c7d9e1a67a68d37e92cf43f2cc5cd78b5e2ca7328ffe96ced49b",
+      "representation_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/336c6eed2d6a12a33a0e8f471f4fbacc2582f0cc/derived/00bb64666ab3c7d9e1a67a68d37e92cf43f2cc5cd78b5e2ca7328ffe96ced49b/page-000004.json",
+      "original_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/336c6eed2d6a12a33a0e8f471f4fbacc2582f0cc/objects/00/00bb64666ab3c7d9e1a67a68d37e92cf43f2cc5cd78b5e2ca7328ffe96ced49b",
       "evidence": [
         {
           "term": "minutes",
@@ -1113,8 +1113,8 @@
       "quality_verified": false,
       "representation_path": "derived/00e07ad1ecfa714027b3361a4d7ed67396507bbb3fb5a1da739e1ecc6893453c/page-000001.json",
       "representation_text_sha256": "89766321cfb876b6ddfba250e2825e86d7578670213a9e2ea6ed2782ad293cbf",
-      "representation_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/cb08db3d89b4eab924163c208bd6b54b35edb500/derived/00e07ad1ecfa714027b3361a4d7ed67396507bbb3fb5a1da739e1ecc6893453c/page-000001.json",
-      "original_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/cb08db3d89b4eab924163c208bd6b54b35edb500/objects/00/00e07ad1ecfa714027b3361a4d7ed67396507bbb3fb5a1da739e1ecc6893453c",
+      "representation_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/336c6eed2d6a12a33a0e8f471f4fbacc2582f0cc/derived/00e07ad1ecfa714027b3361a4d7ed67396507bbb3fb5a1da739e1ecc6893453c/page-000001.json",
+      "original_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/336c6eed2d6a12a33a0e8f471f4fbacc2582f0cc/objects/00/00e07ad1ecfa714027b3361a4d7ed67396507bbb3fb5a1da739e1ecc6893453c",
       "evidence": [
         {
           "term": "resolution",
@@ -1144,8 +1144,8 @@
       "quality_verified": false,
       "representation_path": "derived/00f462be921543c29907c0eabe9565316cb479aa2d9df8068b809446edf8c5a5/page-000001.json",
       "representation_text_sha256": "df90bc6df2ffeb0d2d5e9bae3d75fc93a5e5959d2623e8fdfa6316841472b35c",
-      "representation_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/cb08db3d89b4eab924163c208bd6b54b35edb500/derived/00f462be921543c29907c0eabe9565316cb479aa2d9df8068b809446edf8c5a5/page-000001.json",
-      "original_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/cb08db3d89b4eab924163c208bd6b54b35edb500/objects/00/00f462be921543c29907c0eabe9565316cb479aa2d9df8068b809446edf8c5a5",
+      "representation_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/336c6eed2d6a12a33a0e8f471f4fbacc2582f0cc/derived/00f462be921543c29907c0eabe9565316cb479aa2d9df8068b809446edf8c5a5/page-000001.json",
+      "original_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/336c6eed2d6a12a33a0e8f471f4fbacc2582f0cc/objects/00/00f462be921543c29907c0eabe9565316cb479aa2d9df8068b809446edf8c5a5",
       "evidence": [
         {
           "term": "minutes",
@@ -1183,8 +1183,8 @@
       "quality_verified": false,
       "representation_path": "derived/00f462be921543c29907c0eabe9565316cb479aa2d9df8068b809446edf8c5a5/page-000002.json",
       "representation_text_sha256": "d4c4b93a15473e05840a77474168628ef05e847be1be24c03e68265a4b7352c8",
-      "representation_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/cb08db3d89b4eab924163c208bd6b54b35edb500/derived/00f462be921543c29907c0eabe9565316cb479aa2d9df8068b809446edf8c5a5/page-000002.json",
-      "original_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/cb08db3d89b4eab924163c208bd6b54b35edb500/objects/00/00f462be921543c29907c0eabe9565316cb479aa2d9df8068b809446edf8c5a5",
+      "representation_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/336c6eed2d6a12a33a0e8f471f4fbacc2582f0cc/derived/00f462be921543c29907c0eabe9565316cb479aa2d9df8068b809446edf8c5a5/page-000002.json",
+      "original_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/336c6eed2d6a12a33a0e8f471f4fbacc2582f0cc/objects/00/00f462be921543c29907c0eabe9565316cb479aa2d9df8068b809446edf8c5a5",
       "evidence": [
         {
           "term": "resolution",
@@ -1206,8 +1206,8 @@
       "quality_verified": false,
       "representation_path": "derived/00f5dceb4ed5b8c3bb7783c9f42eec1d3540fb83ce3f83dbb227d341a6b4a05a/page-000001.json",
       "representation_text_sha256": "833a3c909a67ca9ca93d64c203b00e54b2f042231f6a0ef865bb49c33310cda3",
-      "representation_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/cb08db3d89b4eab924163c208bd6b54b35edb500/derived/00f5dceb4ed5b8c3bb7783c9f42eec1d3540fb83ce3f83dbb227d341a6b4a05a/page-000001.json",
-      "original_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/cb08db3d89b4eab924163c208bd6b54b35edb500/objects/00/00f5dceb4ed5b8c3bb7783c9f42eec1d3540fb83ce3f83dbb227d341a6b4a05a",
+      "representation_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/336c6eed2d6a12a33a0e8f471f4fbacc2582f0cc/derived/00f5dceb4ed5b8c3bb7783c9f42eec1d3540fb83ce3f83dbb227d341a6b4a05a/page-000001.json",
+      "original_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/336c6eed2d6a12a33a0e8f471f4fbacc2582f0cc/objects/00/00f5dceb4ed5b8c3bb7783c9f42eec1d3540fb83ce3f83dbb227d341a6b4a05a",
       "evidence": [
         {
           "term": "ordinance",
@@ -1245,8 +1245,8 @@
       "quality_verified": false,
       "representation_path": "derived/00f5dceb4ed5b8c3bb7783c9f42eec1d3540fb83ce3f83dbb227d341a6b4a05a/page-000002.json",
       "representation_text_sha256": "97b57ecf6b8d6ba3dd754642a83c279b40556d2d34e2689863c1273b135175e7",
-      "representation_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/cb08db3d89b4eab924163c208bd6b54b35edb500/derived/00f5dceb4ed5b8c3bb7783c9f42eec1d3540fb83ce3f83dbb227d341a6b4a05a/page-000002.json",
-      "original_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/cb08db3d89b4eab924163c208bd6b54b35edb500/objects/00/00f5dceb4ed5b8c3bb7783c9f42eec1d3540fb83ce3f83dbb227d341a6b4a05a",
+      "representation_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/336c6eed2d6a12a33a0e8f471f4fbacc2582f0cc/derived/00f5dceb4ed5b8c3bb7783c9f42eec1d3540fb83ce3f83dbb227d341a6b4a05a/page-000002.json",
+      "original_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/336c6eed2d6a12a33a0e8f471f4fbacc2582f0cc/objects/00/00f5dceb4ed5b8c3bb7783c9f42eec1d3540fb83ce3f83dbb227d341a6b4a05a",
       "evidence": [
         {
           "term": "ordinance",
@@ -1284,8 +1284,8 @@
       "quality_verified": false,
       "representation_path": "derived/00f5dceb4ed5b8c3bb7783c9f42eec1d3540fb83ce3f83dbb227d341a6b4a05a/page-000003.json",
       "representation_text_sha256": "767ad157b9de45a2840d77a70aa46a8475060aeb1d512129ffc6c75ca16bcbe1",
-      "representation_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/cb08db3d89b4eab924163c208bd6b54b35edb500/derived/00f5dceb4ed5b8c3bb7783c9f42eec1d3540fb83ce3f83dbb227d341a6b4a05a/page-000003.json",
-      "original_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/cb08db3d89b4eab924163c208bd6b54b35edb500/objects/00/00f5dceb4ed5b8c3bb7783c9f42eec1d3540fb83ce3f83dbb227d341a6b4a05a",
+      "representation_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/336c6eed2d6a12a33a0e8f471f4fbacc2582f0cc/derived/00f5dceb4ed5b8c3bb7783c9f42eec1d3540fb83ce3f83dbb227d341a6b4a05a/page-000003.json",
+      "original_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/336c6eed2d6a12a33a0e8f471f4fbacc2582f0cc/objects/00/00f5dceb4ed5b8c3bb7783c9f42eec1d3540fb83ce3f83dbb227d341a6b4a05a",
       "evidence": [
         {
           "term": "ordinance",
@@ -1323,8 +1323,8 @@
       "quality_verified": false,
       "representation_path": "derived/010bd83d980db77cff63d872d0af99d9ad84914af753e62bf5997fa238a50bdd/page-000001.json",
       "representation_text_sha256": "a7dea55c2f45cc49573b98e9016e6ed743eef506ed9c3358fb48074106fe9cc4",
-      "representation_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/cb08db3d89b4eab924163c208bd6b54b35edb500/derived/010bd83d980db77cff63d872d0af99d9ad84914af753e62bf5997fa238a50bdd/page-000001.json",
-      "original_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/cb08db3d89b4eab924163c208bd6b54b35edb500/objects/01/010bd83d980db77cff63d872d0af99d9ad84914af753e62bf5997fa238a50bdd",
+      "representation_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/336c6eed2d6a12a33a0e8f471f4fbacc2582f0cc/derived/010bd83d980db77cff63d872d0af99d9ad84914af753e62bf5997fa238a50bdd/page-000001.json",
+      "original_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/336c6eed2d6a12a33a0e8f471f4fbacc2582f0cc/objects/01/010bd83d980db77cff63d872d0af99d9ad84914af753e62bf5997fa238a50bdd",
       "evidence": [
         {
           "term": "ordinance",
@@ -1362,8 +1362,8 @@
       "quality_verified": false,
       "representation_path": "derived/01a150e0b3a34a66feb9c8466f7fa61ff72e481d429be3796e4d9ff86879a963/page-000001.json",
       "representation_text_sha256": "315d42a6c50da769879ede9ab6d12dd4a55fcb1ea799e9bd982c780de6a33597",
-      "representation_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/cb08db3d89b4eab924163c208bd6b54b35edb500/derived/01a150e0b3a34a66feb9c8466f7fa61ff72e481d429be3796e4d9ff86879a963/page-000001.json",
-      "original_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/cb08db3d89b4eab924163c208bd6b54b35edb500/objects/01/01a150e0b3a34a66feb9c8466f7fa61ff72e481d429be3796e4d9ff86879a963",
+      "representation_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/336c6eed2d6a12a33a0e8f471f4fbacc2582f0cc/derived/01a150e0b3a34a66feb9c8466f7fa61ff72e481d429be3796e4d9ff86879a963/page-000001.json",
+      "original_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/336c6eed2d6a12a33a0e8f471f4fbacc2582f0cc/objects/01/01a150e0b3a34a66feb9c8466f7fa61ff72e481d429be3796e4d9ff86879a963",
       "evidence": [
         {
           "term": "minutes",

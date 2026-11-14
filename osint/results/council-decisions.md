@@ -8,7 +8,7 @@ Matched representations: 371; exported: 50. Deterministic file order, not import
 
 Publisher: https://www.cheyennecity.org/Site-Footer/Sub-Footer-Links/Social-Media-Guidelines
 
-Preserved representation: https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/cb08db3d89b4eab924163c208bd6b54b35edb500/text/014f8abfb8f3fd8ca645e5e70ad34b63ade39e523a09c955fdbf7230894fabea.txt
+Preserved representation: https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/336c6eed2d6a12a33a0e8f471f4fbacc2582f0cc/text/014f8abfb8f3fd8ca645e5e70ad34b63ade39e523a09c955fdbf7230894fabea.txt
 
 > nish
 > Select this as your preferred language
@@ -40,7 +40,7 @@ Preserved representation: https://github.com/bartimoussmith-oss/cheyenne-laramie
 
 Publisher: https://www.cheyennecity.org/Site-Footer/Sub-Footer-Links/Translation-Disclaimer
 
-Preserved representation: https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/cb08db3d89b4eab924163c208bd6b54b35edb500/text/0fea81564c3f28f34dac3b5093aeb7d0fbba25aa3b8f84b3bf5d46f5e6d31957.txt
+Preserved representation: https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/336c6eed2d6a12a33a0e8f471f4fbacc2582f0cc/text/0fea81564c3f28f34dac3b5093aeb7d0fbba25aa3b8f84b3bf5d46f5e6d31957.txt
 
 > nish
 > Select this as your preferred language
@@ -72,7 +72,7 @@ Preserved representation: https://github.com/bartimoussmith-oss/cheyenne-laramie
 
 Publisher: https://www.cheyennecity.org/Your-Government/Departments/Human-Resources
 
-Preserved representation: https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/cb08db3d89b4eab924163c208bd6b54b35edb500/text/11f28772ef8e053fd44f07ca6fe6d273ee8e38947e3de4d72c85f5ce0e63976b.txt
+Preserved representation: https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/336c6eed2d6a12a33a0e8f471f4fbacc2582f0cc/text/11f28772ef8e053fd44f07ca6fe6d273ee8e38947e3de4d72c85f5ce0e63976b.txt
 
 > nish
 > Select this as your preferred language
@@ -104,7 +104,7 @@ Preserved representation: https://github.com/bartimoussmith-oss/cheyenne-laramie
 
 Publisher: https://www.cheyennecity.org/Your-Government/Departments/City-Treasurer
 
-Preserved representation: https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/cb08db3d89b4eab924163c208bd6b54b35edb500/text/14f12ee07d233cade834b0dd3cf0217b10b6b804cd50cad7805c170188217bb6.txt
+Preserved representation: https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/336c6eed2d6a12a33a0e8f471f4fbacc2582f0cc/text/14f12ee07d233cade834b0dd3cf0217b10b6b804cd50cad7805c170188217bb6.txt
 
 > nish
 > Select this as your preferred language
@@ -144,7 +144,7 @@ Preserved representation: https://github.com/bartimoussmith-oss/cheyenne-laramie
 
 Publisher: https://www.cheyennecity.org/Explore-Cheyenne
 
-Preserved representation: https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/cb08db3d89b4eab924163c208bd6b54b35edb500/text/16c83e36405a523e52eeae7cd83a7674a5bc78174fc6f4e32feff9c1e5ed0f3e.txt
+Preserved representation: https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/336c6eed2d6a12a33a0e8f471f4fbacc2582f0cc/text/16c83e36405a523e52eeae7cd83a7674a5bc78174fc6f4e32feff9c1e5ed0f3e.txt
 
 > nish
 > Select this as your preferred language
@@ -176,7 +176,7 @@ Preserved representation: https://github.com/bartimoussmith-oss/cheyenne-laramie
 
 Publisher: https://www.cheyennecity.org/Your-Government/Mayor
 
-Preserved representation: https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/cb08db3d89b4eab924163c208bd6b54b35edb500/text/1e98c954f0ca7e1efb2ee7c8d429b1c87e0d03c54e51efe4ccb0642749df94ee.txt
+Preserved representation: https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/336c6eed2d6a12a33a0e8f471f4fbacc2582f0cc/text/1e98c954f0ca7e1efb2ee7c8d429b1c87e0d03c54e51efe4ccb0642749df94ee.txt
 
 > nish
 > Select this as your preferred language
@@ -208,7 +208,7 @@ Preserved representation: https://github.com/bartimoussmith-oss/cheyenne-laramie
 
 Publisher: https://www.cheyennecity.org/Your-Government/City-Council
 
-Preserved representation: https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/cb08db3d89b4eab924163c208bd6b54b35edb500/text/34c2c94e914d583858e803f379f87beab4375394bf97e2b05857f84e410e1400.txt
+Preserved representation: https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/336c6eed2d6a12a33a0e8f471f4fbacc2582f0cc/text/34c2c94e914d583858e803f379f87beab4375394bf97e2b05857f84e410e1400.txt
 
 > nish
 > Select this as your preferred language
@@ -264,7 +264,7 @@ Preserved representation: https://github.com/bartimoussmith-oss/cheyenne-laramie
 
 Publisher: https://www.cheyennecity.org/Your-Government/Departments
 
-Preserved representation: https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/cb08db3d89b4eab924163c208bd6b54b35edb500/text/3acba0fc1d0e72a92bfd8410e0ce66716b4ac9fc5981848b580bdd151c887604.txt
+Preserved representation: https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/336c6eed2d6a12a33a0e8f471f4fbacc2582f0cc/text/3acba0fc1d0e72a92bfd8410e0ce66716b4ac9fc5981848b580bdd151c887604.txt
 
 > nish
 > Select this as your preferred language
@@ -296,7 +296,7 @@ Preserved representation: https://github.com/bartimoussmith-oss/cheyenne-laramie
 
 Publisher: https://www.cheyennecity.org/Your-Government/City-Council/Minutes-and-Agendas
 
-Preserved representation: https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/cb08db3d89b4eab924163c208bd6b54b35edb500/text/3dd70667ea5d722bea19d76073b4ffffcc05a651e4b1b3a1dd22befe7d173cfa.txt
+Preserved representation: https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/336c6eed2d6a12a33a0e8f471f4fbacc2582f0cc/text/3dd70667ea5d722bea19d76073b4ffffcc05a651e4b1b3a1dd22befe7d173cfa.txt
 
 > Minutes and Agendas – City of Cheyenne
 > Skip to main content
@@ -359,7 +359,7 @@ Preserved representation: https://github.com/bartimoussmith-oss/cheyenne-laramie
 
 Publisher: https://www.cheyennecity.org/Business
 
-Preserved representation: https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/cb08db3d89b4eab924163c208bd6b54b35edb500/text/43abc7d99e187821ac8a7830038aa10d697c2b1678496cc845aa2500f7f003e6.txt
+Preserved representation: https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/336c6eed2d6a12a33a0e8f471f4fbacc2582f0cc/text/43abc7d99e187821ac8a7830038aa10d697c2b1678496cc845aa2500f7f003e6.txt
 
 > nish
 > Select this as your preferred language
@@ -391,7 +391,7 @@ Preserved representation: https://github.com/bartimoussmith-oss/cheyenne-laramie
 
 Publisher: https://www.cheyennecity.org/Your-Government/City-Council/City-Council-Meeting-Videos
 
-Preserved representation: https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/cb08db3d89b4eab924163c208bd6b54b35edb500/text/4e0874d29fff6caaa473f2c479af44ab6ccdfcc989e19d7d09849ce2349f0ec6.txt
+Preserved representation: https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/336c6eed2d6a12a33a0e8f471f4fbacc2582f0cc/text/4e0874d29fff6caaa473f2c479af44ab6ccdfcc989e19d7d09849ce2349f0ec6.txt
 
 > nish
 > Select this as your preferred language
@@ -423,7 +423,7 @@ Preserved representation: https://github.com/bartimoussmith-oss/cheyenne-laramie
 
 Publisher: https://www.cheyennecity.org/Your-Government/Departments/City-Treasurer/City-Treasurer-Resources-Documents-Forms
 
-Preserved representation: https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/cb08db3d89b4eab924163c208bd6b54b35edb500/text/5c373ef72f5d39635a34912ae2481e359c3129fd0f27ee89624c4f50c9049e6b.txt
+Preserved representation: https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/336c6eed2d6a12a33a0e8f471f4fbacc2582f0cc/text/5c373ef72f5d39635a34912ae2481e359c3129fd0f27ee89624c4f50c9049e6b.txt
 
 > nish
 > Select this as your preferred language
@@ -483,7 +483,7 @@ Preserved representation: https://github.com/bartimoussmith-oss/cheyenne-laramie
 
 Publisher: https://www.cheyennecity.org/Your-Government/Departments/Cheyenne-Fire-Rescue
 
-Preserved representation: https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/cb08db3d89b4eab924163c208bd6b54b35edb500/text/6348fedf6bfbb393e135b824e53e964355719135cc6cf7a1bce5697c997cf499.txt
+Preserved representation: https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/336c6eed2d6a12a33a0e8f471f4fbacc2582f0cc/text/6348fedf6bfbb393e135b824e53e964355719135cc6cf7a1bce5697c997cf499.txt
 
 > nish
 > Select this as your preferred language
@@ -515,7 +515,7 @@ Preserved representation: https://github.com/bartimoussmith-oss/cheyenne-laramie
 
 Publisher: https://www.cheyennecity.org/I-Want-To
 
-Preserved representation: https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/cb08db3d89b4eab924163c208bd6b54b35edb500/text/715d77ab0bc98dbf81f9aefa1c181bcc521f3780698be631b33c396dbd410c53.txt
+Preserved representation: https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/336c6eed2d6a12a33a0e8f471f4fbacc2582f0cc/text/715d77ab0bc98dbf81f9aefa1c181bcc521f3780698be631b33c396dbd410c53.txt
 
 > nish
 > Select this as your preferred language
@@ -570,7 +570,7 @@ Preserved representation: https://github.com/bartimoussmith-oss/cheyenne-laramie
 
 Publisher: https://www.cheyennecity.org/Home/Tabs/Featured-Links/Coronavirus-COVID-19
 
-Preserved representation: https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/cb08db3d89b4eab924163c208bd6b54b35edb500/text/77b33b250c26aa5b4c39100d72dc332a81fc1c0af261b50b98f49a7251582aaf.txt
+Preserved representation: https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/336c6eed2d6a12a33a0e8f471f4fbacc2582f0cc/text/77b33b250c26aa5b4c39100d72dc332a81fc1c0af261b50b98f49a7251582aaf.txt
 
 > nish
 > Select this as your preferred language
@@ -602,7 +602,7 @@ Preserved representation: https://github.com/bartimoussmith-oss/cheyenne-laramie
 
 Publisher: https://www.cheyennecity.org/Your-Government/Departments/City-Engineer
 
-Preserved representation: https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/cb08db3d89b4eab924163c208bd6b54b35edb500/text/85821b0bf46b99b4216d0ca8c05fac9f147fd62070eae02d32693472cb0b6850.txt
+Preserved representation: https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/336c6eed2d6a12a33a0e8f471f4fbacc2582f0cc/text/85821b0bf46b99b4216d0ca8c05fac9f147fd62070eae02d32693472cb0b6850.txt
 
 > nish
 > Select this as your preferred language
@@ -634,7 +634,7 @@ Preserved representation: https://github.com/bartimoussmith-oss/cheyenne-laramie
 
 Publisher: https://www.cheyennecity.org/Your-Government/Departments/Community-Recreation-Events
 
-Preserved representation: https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/cb08db3d89b4eab924163c208bd6b54b35edb500/text/8d47a8d983ef94d3b3b44522f27edb841c5e7b8a679ac73763770b99c9349526.txt
+Preserved representation: https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/336c6eed2d6a12a33a0e8f471f4fbacc2582f0cc/text/8d47a8d983ef94d3b3b44522f27edb841c5e7b8a679ac73763770b99c9349526.txt
 
 > nish
 > Select this as your preferred language
@@ -666,7 +666,7 @@ Preserved representation: https://github.com/bartimoussmith-oss/cheyenne-laramie
 
 Publisher: https://www.cheyennecity.org/Your-Government/Departments/Compliance-Department
 
-Preserved representation: https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/cb08db3d89b4eab924163c208bd6b54b35edb500/text/93fe531021c2a0d9b2fcfab4bc8b49db51a23b3f79ff63468dff8387b8601afa.txt
+Preserved representation: https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/336c6eed2d6a12a33a0e8f471f4fbacc2582f0cc/text/93fe531021c2a0d9b2fcfab4bc8b49db51a23b3f79ff63468dff8387b8601afa.txt
 
 > nish
 > Select this as your preferred language
@@ -698,7 +698,7 @@ Preserved representation: https://github.com/bartimoussmith-oss/cheyenne-laramie
 
 Publisher: https://www.cheyennecity.org/Your-Government/Departments/City-Treasurer/City-Treasurer-Resources-Documents-Forms-Archives
 
-Preserved representation: https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/cb08db3d89b4eab924163c208bd6b54b35edb500/text/9c73e7a20020ff1b57092cd649d179e5587f90f2fcda3238ff876d58251c1b16.txt
+Preserved representation: https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/336c6eed2d6a12a33a0e8f471f4fbacc2582f0cc/text/9c73e7a20020ff1b57092cd649d179e5587f90f2fcda3238ff876d58251c1b16.txt
 
 > nish
 > Select this as your preferred language
@@ -730,7 +730,7 @@ Preserved representation: https://github.com/bartimoussmith-oss/cheyenne-laramie
 
 Publisher: https://www.cheyennecity.org/Your-Government/Departments/Public-Works
 
-Preserved representation: https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/cb08db3d89b4eab924163c208bd6b54b35edb500/text/9d3098d1cd836224a7a0df78cff51050bc5a99957854df4ddac5ecf188912843.txt
+Preserved representation: https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/336c6eed2d6a12a33a0e8f471f4fbacc2582f0cc/text/9d3098d1cd836224a7a0df78cff51050bc5a99957854df4ddac5ecf188912843.txt
 
 > nish
 > Select this as your preferred language
@@ -762,7 +762,7 @@ Preserved representation: https://github.com/bartimoussmith-oss/cheyenne-laramie
 
 Publisher: https://www.cheyennecity.org/Site-Footer/Sub-Footer-Links/Accessibility-Statement
 
-Preserved representation: https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/cb08db3d89b4eab924163c208bd6b54b35edb500/text/a052957609cbac5e739fe66801e56b1472f5d5c0de569a33a04f317257c2100e.txt
+Preserved representation: https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/336c6eed2d6a12a33a0e8f471f4fbacc2582f0cc/text/a052957609cbac5e739fe66801e56b1472f5d5c0de569a33a04f317257c2100e.txt
 
 > nish
 > Select this as your preferred language
@@ -794,7 +794,7 @@ Preserved representation: https://github.com/bartimoussmith-oss/cheyenne-laramie
 
 Publisher: https://www.cheyennecity.org/Your-Government/Departments/Attorney
 
-Preserved representation: https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/cb08db3d89b4eab924163c208bd6b54b35edb500/text/a1420bd40f7fea284410abf8d2922f682bab168d765d6c9269cb6df84db9f18e.txt
+Preserved representation: https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/336c6eed2d6a12a33a0e8f471f4fbacc2582f0cc/text/a1420bd40f7fea284410abf8d2922f682bab168d765d6c9269cb6df84db9f18e.txt
 
 > nish
 > Select this as your preferred language
@@ -826,7 +826,7 @@ Preserved representation: https://github.com/bartimoussmith-oss/cheyenne-laramie
 
 Publisher: https://www.cheyennecity.org/Your-Government/Departments/Mayors-Office
 
-Preserved representation: https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/cb08db3d89b4eab924163c208bd6b54b35edb500/text/a1507d9fc76d989c2237e4f54facf0d5777c1eb4f5ea98686252e82ba9d8e46d.txt
+Preserved representation: https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/336c6eed2d6a12a33a0e8f471f4fbacc2582f0cc/text/a1507d9fc76d989c2237e4f54facf0d5777c1eb4f5ea98686252e82ba9d8e46d.txt
 
 > nish
 > Select this as your preferred language
@@ -858,7 +858,7 @@ Preserved representation: https://github.com/bartimoussmith-oss/cheyenne-laramie
 
 Publisher: https://www.cheyennecity.org/Site-Footer/Sub-Footer-Links/Non-Discrimination-and-Title-VI-Program
 
-Preserved representation: https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/cb08db3d89b4eab924163c208bd6b54b35edb500/text/a178ef488a0bcb57dc67131d48cebb62c49e9bc83c0508172586a0e7362b003d.txt
+Preserved representation: https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/336c6eed2d6a12a33a0e8f471f4fbacc2582f0cc/text/a178ef488a0bcb57dc67131d48cebb62c49e9bc83c0508172586a0e7362b003d.txt
 
 > nish
 > Select this as your preferred language
@@ -890,7 +890,7 @@ Preserved representation: https://github.com/bartimoussmith-oss/cheyenne-laramie
 
 Publisher: https://www.cheyennecity.org/Your-Government/Municipal-Court
 
-Preserved representation: https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/cb08db3d89b4eab924163c208bd6b54b35edb500/text/ac4671737629e4f41fc282caa16e72eebb2f7fedffbae6ab959389be903d1455.txt
+Preserved representation: https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/336c6eed2d6a12a33a0e8f471f4fbacc2582f0cc/text/ac4671737629e4f41fc282caa16e72eebb2f7fedffbae6ab959389be903d1455.txt
 
 > nish
 > Select this as your preferred language
@@ -922,7 +922,7 @@ Preserved representation: https://github.com/bartimoussmith-oss/cheyenne-laramie
 
 Publisher: https://www.cheyennecity.org/Your-Government/Connect-Cheyenne-Engage-Explore-and-Discover
 
-Preserved representation: https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/cb08db3d89b4eab924163c208bd6b54b35edb500/text/c63ec6ed4e930ff48364c6d6d94eb13f140511b22fad149147cbdb7f676a73f8.txt
+Preserved representation: https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/336c6eed2d6a12a33a0e8f471f4fbacc2582f0cc/text/c63ec6ed4e930ff48364c6d6d94eb13f140511b22fad149147cbdb7f676a73f8.txt
 
 > nish
 > Select this as your preferred language
@@ -954,7 +954,7 @@ Preserved representation: https://github.com/bartimoussmith-oss/cheyenne-laramie
 
 Publisher: https://www.cheyennecity.org/Services
 
-Preserved representation: https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/cb08db3d89b4eab924163c208bd6b54b35edb500/text/d00aa211b6d805660489c2cfc29d733347787d24d6cf0845790e3aabbc7f235d.txt
+Preserved representation: https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/336c6eed2d6a12a33a0e8f471f4fbacc2582f0cc/text/d00aa211b6d805660489c2cfc29d733347787d24d6cf0845790e3aabbc7f235d.txt
 
 > nish
 > Select this as your preferred language
@@ -986,7 +986,7 @@ Preserved representation: https://github.com/bartimoussmith-oss/cheyenne-laramie
 
 Publisher: https://www.cheyennecity.org/Your-Government/Sister-Cities
 
-Preserved representation: https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/cb08db3d89b4eab924163c208bd6b54b35edb500/text/d061ff860528d2fc773452243bcf889e5ece5523483f1f823ed3bb0359da8531.txt
+Preserved representation: https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/336c6eed2d6a12a33a0e8f471f4fbacc2582f0cc/text/d061ff860528d2fc773452243bcf889e5ece5523483f1f823ed3bb0359da8531.txt
 
 > nish
 > Select this as your preferred language
@@ -1050,7 +1050,7 @@ Preserved representation: https://github.com/bartimoussmith-oss/cheyenne-laramie
 
 Publisher: https://www.cheyennecity.org/Your-Government/Departments/City-Clerk
 
-Preserved representation: https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/cb08db3d89b4eab924163c208bd6b54b35edb500/text/d5fd7d1575e0c08c8ed2d3d4dcfe54374e28df3213afc00b0613bf25067e3e62.txt
+Preserved representation: https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/336c6eed2d6a12a33a0e8f471f4fbacc2582f0cc/text/d5fd7d1575e0c08c8ed2d3d4dcfe54374e28df3213afc00b0613bf25067e3e62.txt
 
 > nish
 > Select this as your preferred language
@@ -1113,7 +1113,7 @@ Preserved representation: https://github.com/bartimoussmith-oss/cheyenne-laramie
 
 Publisher: https://www.laramiecountywy.gov/County-Government/Elected-Officials/County-Clerk/Clerk-to-the-Board-of-County-Commissioners
 
-Preserved representation: https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/cb08db3d89b4eab924163c208bd6b54b35edb500/text/d7a11bf934f9d3f289fd4af6827b18f8b266253d6bbe3aee860a10049ddc1ce0.txt
+Preserved representation: https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/336c6eed2d6a12a33a0e8f471f4fbacc2582f0cc/text/d7a11bf934f9d3f289fd4af6827b18f8b266253d6bbe3aee860a10049ddc1ce0.txt
 
 > thouse, 310 W. 19th Street. Meetings begin at 3:30 p.m.
 > As Clerk to the Board, our office prepares and distributes the meeting agenda and records the minutes of each meeting. The agenda is finalized by noon on the Wednesday preceding the meeting. For information on Board agendas or to request that an item be added to the agenda, please call
@@ -1140,7 +1140,7 @@ Preserved representation: https://github.com/bartimoussmith-oss/cheyenne-laramie
 
 Publisher: https://www.cheyennecity.org/Your-Government/Departments/Planning-and-Development-Department
 
-Preserved representation: https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/cb08db3d89b4eab924163c208bd6b54b35edb500/text/dc304bcb9386c40219dbbb65adf6dd322030a9f0944eadafe55e4a670a971d17.txt
+Preserved representation: https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/336c6eed2d6a12a33a0e8f471f4fbacc2582f0cc/text/dc304bcb9386c40219dbbb65adf6dd322030a9f0944eadafe55e4a670a971d17.txt
 
 > nish
 > Select this as your preferred language
@@ -1172,7 +1172,7 @@ Preserved representation: https://github.com/bartimoussmith-oss/cheyenne-laramie
 
 Publisher: https://www.cheyennecity.org/Site-Footer/Sub-Footer-Links/Privacy-Statement
 
-Preserved representation: https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/cb08db3d89b4eab924163c208bd6b54b35edb500/text/dd535b2d03be1e8fcae4cb39e118422b513be4616f3633a4dc01a102c41e290f.txt
+Preserved representation: https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/336c6eed2d6a12a33a0e8f471f4fbacc2582f0cc/text/dd535b2d03be1e8fcae4cb39e118422b513be4616f3633a4dc01a102c41e290f.txt
 
 > nish
 > Select this as your preferred language
@@ -1204,7 +1204,7 @@ Preserved representation: https://github.com/bartimoussmith-oss/cheyenne-laramie
 
 Publisher: https://www.cheyennecity.org/Your-Government/Mayor/Cheyenne-Mayors
 
-Preserved representation: https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/cb08db3d89b4eab924163c208bd6b54b35edb500/text/e368e84058c9b0433d788f2619a54d6d13b7dad3f9bc2aa02778e1ca2be27766.txt
+Preserved representation: https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/336c6eed2d6a12a33a0e8f471f4fbacc2582f0cc/text/e368e84058c9b0433d788f2619a54d6d13b7dad3f9bc2aa02778e1ca2be27766.txt
 
 > nish
 > Select this as your preferred language
@@ -1236,7 +1236,7 @@ Preserved representation: https://github.com/bartimoussmith-oss/cheyenne-laramie
 
 Publisher: https://www.cheyennecity.org/Site-Footer/Sub-Footer-Links/Terms-of-Use
 
-Preserved representation: https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/cb08db3d89b4eab924163c208bd6b54b35edb500/text/e4853bc004208b21257fba957fe73b8f5f370e12d1aed87e74118985cc54eb9d.txt
+Preserved representation: https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/336c6eed2d6a12a33a0e8f471f4fbacc2582f0cc/text/e4853bc004208b21257fba957fe73b8f5f370e12d1aed87e74118985cc54eb9d.txt
 
 > nish
 > Select this as your preferred language
@@ -1268,7 +1268,7 @@ Preserved representation: https://github.com/bartimoussmith-oss/cheyenne-laramie
 
 Publisher: https://www.cheyennecity.org/Your-Government/Boards-Commissions
 
-Preserved representation: https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/cb08db3d89b4eab924163c208bd6b54b35edb500/text/e9db115b8aaa89268e8fbc8db77dece5e61cde5a346746c280ef863e3df5dfd0.txt
+Preserved representation: https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/336c6eed2d6a12a33a0e8f471f4fbacc2582f0cc/text/e9db115b8aaa89268e8fbc8db77dece5e61cde5a346746c280ef863e3df5dfd0.txt
 
 > nish
 > Select this as your preferred language
@@ -1300,7 +1300,7 @@ Preserved representation: https://github.com/bartimoussmith-oss/cheyenne-laramie
 
 Publisher: https://www.cheyennecity.org/Home
 
-Preserved representation: https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/cb08db3d89b4eab924163c208bd6b54b35edb500/text/effa524b7580c3987c3c3d07349e937e86faabdd7a86eee9e810bcaa6697158a.txt
+Preserved representation: https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/336c6eed2d6a12a33a0e8f471f4fbacc2582f0cc/text/effa524b7580c3987c3c3d07349e937e86faabdd7a86eee9e810bcaa6697158a.txt
 
 > nish
 > Select this as your preferred language
@@ -1359,7 +1359,7 @@ Preserved representation: https://github.com/bartimoussmith-oss/cheyenne-laramie
 
 Publisher: https://www.cheyennecity.org/Your-Government
 
-Preserved representation: https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/cb08db3d89b4eab924163c208bd6b54b35edb500/text/f404f311959389e46ea3c5c8c46d3512649645efdcf81a56cda879204d8300c5.txt
+Preserved representation: https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/336c6eed2d6a12a33a0e8f471f4fbacc2582f0cc/text/f404f311959389e46ea3c5c8c46d3512649645efdcf81a56cda879204d8300c5.txt
 
 > nish
 > Select this as your preferred language
@@ -1391,7 +1391,7 @@ Preserved representation: https://github.com/bartimoussmith-oss/cheyenne-laramie
 
 Publisher: https://www.cheyennecity.org/Your-Government/City-Council/Committees
 
-Preserved representation: https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/cb08db3d89b4eab924163c208bd6b54b35edb500/text/f569e9d1339270023c0bbad5efb015a1ff6589f66014b417830346567a76965f.txt
+Preserved representation: https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/336c6eed2d6a12a33a0e8f471f4fbacc2582f0cc/text/f569e9d1339270023c0bbad5efb015a1ff6589f66014b417830346567a76965f.txt
 
 > nish
 > Select this as your preferred language
@@ -1423,7 +1423,7 @@ Preserved representation: https://github.com/bartimoussmith-oss/cheyenne-laramie
 
 Publisher: https://www.cheyennecity.org/Your-Government/Cemetery-Complex
 
-Preserved representation: https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/cb08db3d89b4eab924163c208bd6b54b35edb500/text/f7565a42d47ca208b4b18f6700f3fa0e77a4c4e81e02aa0db0e33a508fd255e0.txt
+Preserved representation: https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/336c6eed2d6a12a33a0e8f471f4fbacc2582f0cc/text/f7565a42d47ca208b4b18f6700f3fa0e77a4c4e81e02aa0db0e33a508fd255e0.txt
 
 > nish
 > Select this as your preferred language
@@ -1455,7 +1455,7 @@ Preserved representation: https://github.com/bartimoussmith-oss/cheyenne-laramie
 
 Publisher: https://www.cheyennecity.org/Your-Government/Departments/Police-Department
 
-Preserved representation: https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/cb08db3d89b4eab924163c208bd6b54b35edb500/text/fe51cc4936134d625fdb7d689e61a6faede2f62246fae5201fb193d22aa2dc85.txt
+Preserved representation: https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/336c6eed2d6a12a33a0e8f471f4fbacc2582f0cc/text/fe51cc4936134d625fdb7d689e61a6faede2f62246fae5201fb193d22aa2dc85.txt
 
 > nish
 > Select this as your preferred language
@@ -1487,7 +1487,7 @@ Preserved representation: https://github.com/bartimoussmith-oss/cheyenne-laramie
 
 Publisher: https://www.cheyennecity.org/files/sharedassets/public/v/1/your-government/city-council/fc-2025/fc-01-22-25-agenda.pdf
 
-Preserved representation: https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/cb08db3d89b4eab924163c208bd6b54b35edb500/derived/00148b065ddd9d6d2689eb691a7abc53cb309379f50ee6e2f52cd68f90a30448/page-000001.json
+Preserved representation: https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/336c6eed2d6a12a33a0e8f471f4fbacc2582f0cc/derived/00148b065ddd9d6d2689eb691a7abc53cb309379f50ee6e2f52cd68f90a30448/page-000001.json
 
 > 
 >              To view agenda backup documents visit the City of Cheyenne’s web site:
@@ -1508,7 +1508,7 @@ Preserved representation: https://github.com/bartimoussmith-oss/cheyenne-laramie
 
 Publisher: https://www.cheyennecity.org/files/sharedassets/public/v/1/your-government/city-council/wscow-2026/city-clerk-fy27-presentation.pdf
 
-Preserved representation: https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/cb08db3d89b4eab924163c208bd6b54b35edb500/derived/00bb64666ab3c7d9e1a67a68d37e92cf43f2cc5cd78b5e2ca7328ffe96ced49b/page-000004.json
+Preserved representation: https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/336c6eed2d6a12a33a0e8f471f4fbacc2582f0cc/derived/00bb64666ab3c7d9e1a67a68d37e92cf43f2cc5cd78b5e2ca7328ffe96ced49b/page-000004.json
 
 > uest data
 > 
@@ -1521,7 +1521,7 @@ Preserved representation: https://github.com/bartimoussmith-oss/cheyenne-laramie
 
 Publisher: https://www.cheyennecity.org/files/sharedassets/public/v/1/your-government/city-council/psc-2023/sub-res-201-agreement.pdf
 
-Preserved representation: https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/cb08db3d89b4eab924163c208bd6b54b35edb500/derived/00e07ad1ecfa714027b3361a4d7ed67396507bbb3fb5a1da739e1ecc6893453c/page-000001.json
+Preserved representation: https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/336c6eed2d6a12a33a0e8f471f4fbacc2582f0cc/derived/00e07ad1ecfa714027b3361a4d7ed67396507bbb3fb5a1da739e1ecc6893453c/page-000001.json
 
 >                                                                                    12:57 pm, Nov 20 2023
 > 
@@ -1552,7 +1552,7 @@ Preserved representation: https://github.com/bartimoussmith-oss/cheyenne-laramie
 
 Publisher: https://www.cheyennecity.org/files/sharedassets/public/v/1/your-government/city-council/fc-2023/fc-02-21-23-minutes.pdf
 
-Preserved representation: https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/cb08db3d89b4eab924163c208bd6b54b35edb500/derived/00f462be921543c29907c0eabe9565316cb479aa2d9df8068b809446edf8c5a5/page-000001.json
+Preserved representation: https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/336c6eed2d6a12a33a0e8f471f4fbacc2582f0cc/derived/00f462be921543c29907c0eabe9565316cb479aa2d9df8068b809446edf8c5a5/page-000001.json
 
 > FINANCE COMMITTEE
 > MINUTES
@@ -1586,7 +1586,7 @@ Preserved representation: https://github.com/bartimoussmith-oss/cheyenne-laramie
 
 Publisher: https://www.cheyennecity.org/files/sharedassets/public/v/1/your-government/city-council/fc-2023/fc-02-21-23-minutes.pdf
 
-Preserved representation: https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/cb08db3d89b4eab924163c208bd6b54b35edb500/derived/00f462be921543c29907c0eabe9565316cb479aa2d9df8068b809446edf8c5a5/page-000002.json
+Preserved representation: https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/336c6eed2d6a12a33a0e8f471f4fbacc2582f0cc/derived/00f462be921543c29907c0eabe9565316cb479aa2d9df8068b809446edf8c5a5/page-000002.json
 
 > 25. RESOLUTION — Authorizing PaydHealth, LLC, to provide advocacy and financial case
 > management services for eligible specialty prescription drugs through alternative funding
@@ -1598,7 +1598,7 @@ Preserved representation: https://github.com/bartimoussmith-oss/cheyenne-laramie
 
 Publisher: https://www.cheyennecity.org/files/sharedassets/public/v/1/your-government/city-council/psc-2022/psc-06-07-22-agenda.pdf
 
-Preserved representation: https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/cb08db3d89b4eab924163c208bd6b54b35edb500/derived/00f5dceb4ed5b8c3bb7783c9f42eec1d3540fb83ce3f83dbb227d341a6b4a05a/page-000001.json
+Preserved representation: https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/336c6eed2d6a12a33a0e8f471f4fbacc2582f0cc/derived/00f5dceb4ed5b8c3bb7783c9f42eec1d3540fb83ce3f83dbb227d341a6b4a05a/page-000001.json
 
 >  To view agenda backup documents visit the City of Cheyenne’s web site:
 >                      Public Services Committee Meeting (granicus.com)
@@ -1639,7 +1639,7 @@ Preserved representation: https://github.com/bartimoussmith-oss/cheyenne-laramie
 
 Publisher: https://www.cheyennecity.org/files/sharedassets/public/v/1/your-government/city-council/psc-2022/psc-06-07-22-agenda.pdf
 
-Preserved representation: https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/cb08db3d89b4eab924163c208bd6b54b35edb500/derived/00f5dceb4ed5b8c3bb7783c9f42eec1d3540fb83ce3f83dbb227d341a6b4a05a/page-000002.json
+Preserved representation: https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/336c6eed2d6a12a33a0e8f471f4fbacc2582f0cc/derived/00f5dceb4ed5b8c3bb7783c9f42eec1d3540fb83ce3f83dbb227d341a6b4a05a/page-000002.json
 
 > 14.   ORDINANCE – 3rd READING – Annexing to the City of Cheyenne, Wyoming, land
 >       located north of High Plains Road, west of I-25.
@@ -1673,7 +1673,7 @@ Preserved representation: https://github.com/bartimoussmith-oss/cheyenne-laramie
 
 Publisher: https://www.cheyennecity.org/files/sharedassets/public/v/1/your-government/city-council/psc-2022/psc-06-07-22-agenda.pdf
 
-Preserved representation: https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/cb08db3d89b4eab924163c208bd6b54b35edb500/derived/00f5dceb4ed5b8c3bb7783c9f42eec1d3540fb83ce3f83dbb227d341a6b4a05a/page-000003.json
+Preserved representation: https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/336c6eed2d6a12a33a0e8f471f4fbacc2582f0cc/derived/00f5dceb4ed5b8c3bb7783c9f42eec1d3540fb83ce3f83dbb227d341a6b4a05a/page-000003.json
 
 > 23.   ORDINANCE – 2nd READING – Amending the Official Zoning Map of the City of
 >       Cheyenne changing the zoning classification from MUB, MUR, LI, and CB to MUB with
@@ -1709,7 +1709,7 @@ Preserved representation: https://github.com/bartimoussmith-oss/cheyenne-laramie
 
 Publisher: https://www.cheyennecity.org/files/sharedassets/public/v/1/your-government/city-council/fc-2023/fc-12-04-23-agenda.pdf
 
-Preserved representation: https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/cb08db3d89b4eab924163c208bd6b54b35edb500/derived/010bd83d980db77cff63d872d0af99d9ad84914af753e62bf5997fa238a50bdd/page-000001.json
+Preserved representation: https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/336c6eed2d6a12a33a0e8f471f4fbacc2582f0cc/derived/010bd83d980db77cff63d872d0af99d9ad84914af753e62bf5997fa238a50bdd/page-000001.json
 
 >      To view agenda backup documents visit the City of Cheyenne’s web site:
 >                               Finance Committee (granicus.com)
@@ -1745,7 +1745,7 @@ Preserved representation: https://github.com/bartimoussmith-oss/cheyenne-laramie
 
 Publisher: https://www.cheyennecity.org/files/sharedassets/public/v/1/your-government/city-council/psc-2024/psc-07-16-24-minutes.pdf
 
-Preserved representation: https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/cb08db3d89b4eab924163c208bd6b54b35edb500/derived/01a150e0b3a34a66feb9c8466f7fa61ff72e481d429be3796e4d9ff86879a963/page-000001.json
+Preserved representation: https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/336c6eed2d6a12a33a0e8f471f4fbacc2582f0cc/derived/01a150e0b3a34a66feb9c8466f7fa61ff72e481d429be3796e4d9ff86879a963/page-000001.json
 
 >                            PUBLIC SERVICES COMMITTEE
 >                                     MINUTES
