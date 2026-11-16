@@ -1,8 +1,8 @@
 {
   "profile": "vendor-data-exit",
   "title": "Public software contracts and data-exit clauses",
-  "generated_at": "2026-11-16T17:28:14.875392+00:00",
-  "source_revision": "dd113aacf3480cc3ea39013c889b277301a25c40",
+  "generated_at": "2026-11-16T22:05:37.994234+00:00",
+  "source_revision": "319125e95f3fb7b1f0f659b45c708021b56cb115",
   "classification": "retrieval_triage_not_investigative_findings",
   "matched_representations": 1,
   "exported_representations": 1,
@@ -19,8 +19,8 @@
       "quality_verified": false,
       "representation_path": "text/dd535b2d03be1e8fcae4cb39e118422b513be4616f3633a4dc01a102c41e290f.txt",
       "representation_text_sha256": "9f944ac405d5037a360554b1b88d4283bc6e5848e2354cd83a5176ef17a8c0aa",
-      "representation_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/dd113aacf3480cc3ea39013c889b277301a25c40/text/dd535b2d03be1e8fcae4cb39e118422b513be4616f3633a4dc01a102c41e290f.txt",
-      "original_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/dd113aacf3480cc3ea39013c889b277301a25c40/objects/dd/dd535b2d03be1e8fcae4cb39e118422b513be4616f3633a4dc01a102c41e290f",
+      "representation_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/319125e95f3fb7b1f0f659b45c708021b56cb115/text/dd535b2d03be1e8fcae4cb39e118422b513be4616f3633a4dc01a102c41e290f.txt",
+      "original_permalink": "https://github.com/bartimoussmith-oss/cheyenne-laramie-archive/blob/319125e95f3fb7b1f0f659b45c708021b56cb115/objects/dd/dd535b2d03be1e8fcae4cb39e118422b513be4616f3633a4dc01a102c41e290f",
       "evidence": [
         {
           "term": "retention",
